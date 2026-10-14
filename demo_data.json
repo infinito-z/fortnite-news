@@ -1,0 +1,23 @@
+{
+  "aes": {"build": "++Fortnite+Release-99.99-CL-0000000"},
+  "news": {
+    "motds": [
+      {"id": "demo-1", "title": "Nuevo evento en vivo este sábado", "body": "Prepárate para el cierre de temporada con recompensas gratis.", "hidden": false, "image": null},
+      {"id": "demo-2", "title": "Modo Reload regresa", "body": "Vuelve el modo favorito con mapa renovado.", "hidden": false, "image": null}
+    ]
+  },
+  "cosmetics": {
+    "items": [
+      {"id": "CID_DEMO_1", "name": "Rey Demo", "rarity": {"displayValue": "Legendario"}, "type": {"displayValue": "Atuendo"}, "images": {}},
+      {"id": "Pickaxe_DEMO_2", "name": "Hacha del Meme", "rarity": {"displayValue": "Épico"}, "type": {"displayValue": "Pico"}, "images": {}}
+    ]
+  },
+  "shop": {
+    "hash": "demo-shop-1",
+    "entries": [
+      {"finalPrice": 2000, "brItems": [{"name": "Rey Demo", "images": {}}]},
+      {"finalPrice": 1500, "brItems": [{"name": "Hacha del Meme", "images": {}}]},
+      {"finalPrice": 800, "brItems": [{"name": "Gesto Bailón", "images": {}}]}
+    ]
+  }
+}

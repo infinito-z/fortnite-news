@@ -1,0 +1,38 @@
+name: Recolectar noticias de Fortnite
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # cada ~10 min (GitHub puede retrasarlo unos minutos)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Nunca dos ejecuciones a la vez: pisarían state.json y podrían publicar doble.
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ejecutar recolector
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python collector.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "fn-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json docs/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Nuevas noticias"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
