@@ -127,6 +127,16 @@ def mk(kind, uid, title, text, image=None, tag=None):
 
 
 # ------------------------------------------------------------------ detectores
+def big_image(url):
+    """Las imágenes de noticias llegan con ?width=192; se piden a 1024 para la web y Telegram."""
+    if not url or "width=" not in url:
+        return url
+    u = urllib.parse.urlsplit(url)
+    q = urllib.parse.parse_qs(u.query)
+    q["width"] = ["1024"]
+    return urllib.parse.urlunsplit(u._replace(query=urllib.parse.urlencode(q, doseq=True)))
+
+
 def detect_news(data):
     out = []
     for m in data.get("motds") or []:
@@ -138,7 +148,7 @@ def detect_news(data):
         if not title:
             continue
         text = pick(uid, T_NEWS).format(title=title, body=body).strip()
-        out.append(mk("news", uid, title, text, m.get("image") or m.get("tileImage"), "Noticia"))
+        out.append(mk("news", uid, title, text, big_image(m.get("image") or m.get("tileImage")), "Noticia"))
     return out
 
 

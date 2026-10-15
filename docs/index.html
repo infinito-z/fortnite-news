@@ -3,76 +3,233 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FN Radar</title>
+<title>FN Radar · Noticias de Fortnite al instante</title>
+<meta name="description" content="Noticias de Fortnite en español: tienda del día, cosméticos nuevos, parches y noticias del juego.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@400;500;600&family=Barlow+Semi+Condensed:wght@600;700&display=swap" rel="stylesheet">
 <style>
-  :root{--bg:#0d0b1e;--card:#171433;--line:#2b2660;--txt:#eceaff;--mut:#9a95cf;--acc:#8b5cf6;--hot:#ff4d8d}
+  :root{
+    --noche:#0e0a24;      /* fondo */
+    --tormenta:#1c1446;   /* superficies */
+    --borde:#2e2470;
+    --txt:#f4f1ff;
+    --mut:#a9a2d8;
+    /* rarezas del juego, una por tipo de noticia */
+    --noticia:#2f8cff;
+    --cosmetico:#b04cff;
+    --tienda:#ff9a2e;
+    --parche:#5fd13a;
+    --display:"Anton",Impact,"Arial Narrow Bold",sans-serif;
+    --body:"Barlow",system-ui,"Segoe UI",sans-serif;
+    --meta:"Barlow Semi Condensed","Arial Narrow",sans-serif;
+  }
   *{box-sizing:border-box}
-  body{margin:0;background:radial-gradient(1200px 600px at 50% -200px,#2a1b6b55,transparent),var(--bg);color:var(--txt);font:16px/1.45 system-ui,Segoe UI,Roboto,sans-serif}
-  header{max-width:720px;margin:0 auto;padding:28px 16px 8px}
-  h1{margin:0;font-size:28px;letter-spacing:.5px}
-  h1 span{color:var(--hot)}
-  .sub{color:var(--mut);font-size:14px;margin-top:4px}
-  .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0 0}
-  .tab{border:1px solid var(--line);background:transparent;color:var(--mut);padding:6px 12px;border-radius:999px;cursor:pointer;font-size:14px}
-  .tab.on{background:var(--acc);border-color:var(--acc);color:#fff}
-  main{max-width:720px;margin:0 auto;padding:12px 16px 60px;display:grid;gap:12px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
-  .card img{display:block;width:100%;max-height:260px;object-fit:cover;background:#0004}
-  .body{padding:14px 16px}
-  .meta{display:flex;justify-content:space-between;color:var(--mut);font-size:12px;margin-bottom:6px}
-  .tag{color:var(--hot);font-weight:700;text-transform:uppercase;letter-spacing:.6px}
-  .txt{white-space:pre-line}
-  .empty{color:var(--mut);text-align:center;padding:40px 0}
-  footer{color:var(--mut);font-size:12px;text-align:center;padding-bottom:30px}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;min-height:100vh;color:var(--txt);font:16px/1.5 var(--body);
+    background:
+      radial-gradient(900px 500px at 85% -120px,#4b2bb355,transparent 70%),
+      radial-gradient(700px 400px at -10% 10%,#1d4fd022,transparent 70%),
+      var(--noche);
+  }
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding-inline:16px}
+
+  /* ---------- cabecera */
+  header{padding:28px 0 18px}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .logo{display:flex;align-items:center;gap:12px;text-decoration:none}
+  .logo h1{
+    margin:0;font:400 clamp(34px,6vw,52px)/.9 var(--display);text-transform:uppercase;
+    letter-spacing:.5px;transform:skewX(-8deg);
+  }
+  .logo h1 span{color:var(--tienda)}
+  .radar{width:44px;height:44px;flex:none;border-radius:50%;position:relative;overflow:hidden;
+    background:radial-gradient(circle,#5fd13a22 0 30%,transparent 31%),
+               radial-gradient(circle,transparent 0 48%,#5fd13a55 49% 51%,transparent 52%),
+               radial-gradient(circle,#0b2a1a 0 70%,#061a10 71%);
+    box-shadow:0 0 0 2px #5fd13a66,0 0 18px #5fd13a33}
+  .radar::before{content:"";position:absolute;inset:0;border-radius:50%;
+    background:conic-gradient(from 0deg,#5fd13acc,transparent 70deg);animation:sweep 2.6s linear infinite}
+  .radar::after{content:"";position:absolute;width:6px;height:6px;border-radius:50%;background:#c9ff9e;
+    top:28%;left:62%;box-shadow:0 0 8px #c9ff9e;animation:blip 2.6s linear infinite}
+  @keyframes sweep{to{transform:rotate(360deg)}}
+  @keyframes blip{0%,15%{opacity:1}45%,100%{opacity:.15}}
+  .live{font:600 14px/1.2 var(--meta);color:var(--mut);letter-spacing:.3px;text-transform:uppercase}
+  .live b{color:var(--parche);font-weight:700}
+  .tag-line{margin:10px 0 0;color:var(--mut);font-size:15px}
+
+  .filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+  .filter{
+    --c:var(--txt);
+    font:700 14px/1 var(--meta);text-transform:uppercase;letter-spacing:.6px;
+    padding:10px 16px;border-radius:8px;border:2px solid var(--borde);background:var(--tormenta);
+    color:var(--mut);cursor:pointer;transform:skewX(-8deg);transition:background .15s,color .15s,border-color .15s;
+  }
+  .filter>span{display:inline-block;transform:skewX(8deg)}
+  .filter:hover{color:var(--txt);border-color:var(--c)}
+  .filter[aria-pressed="true"]{background:var(--c);border-color:var(--c);color:#0e0a24}
+  .filter:focus-visible,.card:focus-visible{outline:3px solid #fff;outline-offset:3px}
+
+  /* ---------- tarjetas (estilo casilla de tienda) */
+  main{padding:8px 0 56px}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(290px,1fr))}
+  .card{
+    --c:var(--noticia);
+    position:relative;display:flex;flex-direction:column;border-radius:14px;overflow:hidden;
+    background:var(--tormenta);border:2px solid color-mix(in srgb,var(--c) 45%,transparent);
+    cursor:pointer;transition:transform .15s,border-color .15s,box-shadow .15s;
+  }
+  .card:hover{transform:translateY(-3px);border-color:var(--c);box-shadow:0 10px 30px -10px color-mix(in srgb,var(--c) 70%,transparent)}
+  .k-Noticia{--c:var(--noticia)} .k-Cosmético{--c:var(--cosmetico)}
+  .k-Tienda{--c:var(--tienda)}   .k-Parche{--c:var(--parche)}
+
+  .art{
+    position:relative;aspect-ratio:16/9;overflow:hidden;
+    background:
+      repeating-linear-gradient(135deg,#ffffff0d 0 2px,transparent 2px 14px),
+      radial-gradient(120% 90% at 50% 100%,color-mix(in srgb,var(--c) 85%,#fff 10%),color-mix(in srgb,var(--c) 35%,#0e0a24) 70%);
+  }
+  .art img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:8px 8px 0;
+    filter:drop-shadow(0 8px 14px #0008)}
+  .art.photo img{object-fit:cover;padding:0;filter:none}
+  .art .glyph{position:absolute;inset:0;display:grid;place-items:center;
+    font:400 clamp(44px,9vw,72px)/1 var(--display);color:#ffffffe6;text-transform:uppercase;transform:skewX(-8deg);
+    text-shadow:0 4px 0 #0005;padding:0 16px;text-align:center}
+  .badge{
+    position:absolute;top:12px;left:12px;z-index:1;
+    font:700 12px/1 var(--meta);letter-spacing:.8px;text-transform:uppercase;color:#0e0a24;
+    background:var(--c);padding:6px 10px 5px;border-radius:4px;transform:skewX(-8deg);box-shadow:0 3px 0 #0006;
+  }
+  .body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+  .card h2{margin:0;font:400 23px/1.05 var(--display);text-transform:uppercase;letter-spacing:.3px}
+  .txt{margin:0;white-space:pre-line;color:#ded9ff;font-size:15px;
+    display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .card.open .txt{-webkit-line-clamp:unset;display:block}
+  .when{margin-top:auto;font:600 13px/1 var(--meta);color:var(--mut);letter-spacing:.3px}
+
+  /* la novedad más reciente ocupa más espacio */
+  @media (min-width:760px){
+    .card.hero{grid-column:1/-1;flex-direction:row;min-height:320px}
+    .card.hero .art{flex:1.35;aspect-ratio:auto}
+    .card.hero .body{flex:1;padding:28px;justify-content:center}
+    .card.hero h2{font-size:clamp(32px,3.6vw,46px)}
+    .card.hero .txt{font-size:17px;-webkit-line-clamp:8}
+  }
+
+  .empty{grid-column:1/-1;text-align:center;color:var(--mut);padding:56px 16px;border:2px dashed var(--borde);border-radius:14px}
+  footer{color:var(--mut);font-size:13px;text-align:center;padding:0 16px 32px}
+  footer a{color:var(--txt)}
+
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation:none!important;transition:none!important}
+  }
 </style>
 </head>
 <body>
-<header>
-  <h1>FN <span>Radar</span> ⚡</h1>
-  <div class="sub" id="upd">Noticias de Fortnite al instante</div>
-  <div class="tabs" id="tabs"></div>
+<header class="wrap">
+  <div class="top">
+    <a class="logo" href="./" aria-label="FN Radar, inicio">
+      <span class="radar" aria-hidden="true"></span>
+      <h1>FN <span>Radar</span></h1>
+    </a>
+    <div class="live" id="upd" aria-live="polite"><b>●</b> En vivo</div>
+  </div>
+  <p class="tag-line">Lo que pasa en Fortnite, en español y al toque. También en <a href="https://t.me/fnradar_news">Telegram</a>.</p>
+  <nav class="filters" id="filters" aria-label="Filtrar por tipo"></nav>
 </header>
-<main id="feed"></main>
+
+<main class="wrap"><div class="grid" id="feed"></div></main>
 <footer>Sitio no oficial. Fortnite es marca de Epic Games.</footer>
 
 <script src="news.js"></script>
 <script>
-const TAGS = ["Todo","Noticia","Cosmético","Tienda","Parche"];
+const FILTERS = [["Todo","--txt"],["Noticia","--noticia"],["Cosmético","--cosmetico"],["Tienda","--tienda"],["Parche","--parche"]];
+const GLYPH = {Noticia:"Noticia", Cosmético:"Nuevo", Tienda:"Tienda", Parche:"Parche"};
 let filter = "Todo";
+const opened = new Set();   // tarjetas abiertas; sobreviven al refresco de cada minuto
 const $ = s => document.querySelector(s);
 
+function esc(t){ const d = document.createElement("div"); d.textContent = t ?? ""; return d.innerHTML; }
 function ago(iso){
   const s = (Date.now() - new Date(iso)) / 1000;
   if (s < 60) return "ahora";
-  if (s < 3600) return Math.floor(s/60) + " min";
-  if (s < 86400) return Math.floor(s/3600) + " h";
-  return Math.floor(s/86400) + " d";
+  if (s < 3600) return "hace " + Math.floor(s/60) + " min";
+  if (s < 86400) return "hace " + Math.floor(s/3600) + " h";
+  const d = Math.floor(s/86400);
+  return d === 1 ? "ayer" : "hace " + d + " días";
 }
-function esc(t){ const d = document.createElement("div"); d.textContent = t ?? ""; return d.innerHTML; }
+function when(iso){
+  const f = new Date(iso).toLocaleString("es-PE",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+  return `${ago(iso)} · ${f}`;
+}
+// Las noticias del juego venían a 192 px; se piden más grandes.
+function bigImage(url){
+  try{
+    const u = new URL(url);
+    if (u.hostname.endsWith("epicgames.com") && u.searchParams.has("width")) u.searchParams.set("width","1024");
+    return u.toString();
+  }catch(e){ return url; }
+}
+// La primera línea de una noticia repite el título; en la tarjeta ya se ve como encabezado.
+function bodyText(n){
+  const lines = (n.text || "").split("\n");
+  return lines.length > 1 && n.title && lines[0].includes(n.title) ? lines.slice(1).join("\n") : n.text;
+}
+
+function card(n, hero){
+  const tag = n.tag || "Noticia";
+  const photo = n.kind === "news";
+  const art = n.image
+    ? `<img loading="${hero ? "eager" : "lazy"}" src="${esc(photo ? bigImage(n.image) : n.image)}" alt="">`
+    : `<span class="glyph" aria-hidden="true">${esc(n.kind === "build" ? (n.title || "").replace(/^Build\s*/i, "v") : GLYPH[tag] || tag)}</span>`;
+  return `
+    <article class="card k-${esc(tag)}${hero ? " hero" : ""}${opened.has(n.id) ? " open" : ""}" data-id="${esc(n.id)}" tabindex="0" aria-expanded="${opened.has(n.id)}">
+      <div class="art${photo && n.image ? " photo" : ""}"><span class="badge">${esc(tag)}</span>${art}</div>
+      <div class="body">
+        <h2>${esc(n.title || tag)}</h2>
+        <p class="txt">${esc(bodyText(n))}</p>
+        <time class="when" datetime="${esc(n.ts)}">${when(n.ts)}</time>
+      </div>
+    </article>`;
+}
 
 function render(){
-  const list = (window.NEWS || []).filter(n => filter === "Todo" || n.tag === filter);
-  $("#feed").innerHTML = list.length ? list.map(n => `
-    <article class="card">
-      ${n.image ? `<img loading="lazy" src="${esc(n.image)}" alt="">` : ""}
-      <div class="body">
-        <div class="meta"><span class="tag">${esc(n.tag)}</span><span>${ago(n.ts)}</span></div>
-        <div class="txt">${esc(n.text)}</div>
-      </div>
-    </article>`).join("") : `<div class="empty">Nada por aquí todavía 👀</div>`;
+  const all = window.NEWS || [];
+  const list = all.filter(n => filter === "Todo" || n.tag === filter);
+  $("#feed").innerHTML = list.length
+    ? list.map((n, i) => card(n, i === 0)).join("")
+    : `<div class="empty">Todavía no hay nada de este tipo. Prueba con otro filtro o vuelve en un rato.</div>`;
+  if (all.length) $("#upd").innerHTML = `<b>●</b> En vivo · última novedad ${ago(all[0].ts)}`;
 }
-function tabs(){
-  $("#tabs").innerHTML = TAGS.map(t => `<button class="tab ${t===filter?"on":""}" data-t="${t}">${t}</button>`).join("");
-  document.querySelectorAll(".tab").forEach(b => b.onclick = () => { filter = b.dataset.t; tabs(); render(); });
+function filters(){
+  $("#filters").innerHTML = FILTERS.map(([t, c]) =>
+    `<button class="filter" style="--c:var(${c})" aria-pressed="${t === filter}" data-t="${t}"><span>${t}</span></button>`).join("");
 }
+$("#filters").addEventListener("click", e => {
+  const b = e.target.closest(".filter"); if (!b) return;
+  filter = b.dataset.t; filters(); render();
+});
+function toggle(c){
+  const on = c.classList.toggle("open");
+  c.setAttribute("aria-expanded", on);
+  on ? opened.add(c.dataset.id) : opened.delete(c.dataset.id);
+}
+$("#feed").addEventListener("click", e => { const c = e.target.closest(".card"); if (c && !e.target.closest("a")) toggle(c); });
+$("#feed").addEventListener("keydown", e => {
+  const c = e.target.closest(".card");
+  if (c && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); toggle(c); }
+});
+
 async function refresh(){
   try{
     const r = await fetch("news.json?_=" + Date.now(), {cache:"no-store"});
     if (r.ok) window.NEWS = await r.json();
-  }catch(e){ /* en file:// se usa news.js */ }
+  }catch(e){ /* abierto como archivo: se usa news.js */ }
   render();
 }
-tabs(); render(); refresh(); setInterval(refresh, 60000);
+filters(); render(); refresh(); setInterval(refresh, 60000);
 </script>
 </body>
 </html>
