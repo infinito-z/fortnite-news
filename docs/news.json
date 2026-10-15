@@ -1,5 +1,23 @@
 [
  {
+  "id": "build:++Fortnite+Release-42.40-CL-59086525",
+  "kind": "build",
+  "title": "Build 42.40",
+  "text": "⚙️ Cambió el build del juego: 42.40. Algo se viene, mantente atento 👀",
+  "image": null,
+  "tag": "Parche",
+  "ts": "2026-10-15T12:39:15+00:00"
+ },
+ {
+  "id": "cosmetic-batch:ec3c429b87",
+  "kind": "cosmetic",
+  "title": "66 cosméticos nuevos",
+  "text": "👀 Se filtraron 66 cosméticos. Destacan: Ojo de Lyfestyle, Campana, Twizz, Yeat, Miasma, Monarcha. Ahorra paVos desde YA 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_radardigitgloom/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-15T12:39:15+00:00"
+ },
+ {
   "id": "shop:09c387461cb002a8",
   "kind": "shop",
   "title": "Tienda del día",
