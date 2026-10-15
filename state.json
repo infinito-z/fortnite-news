@@ -149,7 +149,9 @@
   "cosmetic:JBPID_LEUN_CityPartBundle03",
   "cosmetic:JBPID_LEUN_CityPartBundle04",
   "cosmetic:JBSID_LEAY_Vehicle_D",
-  "cosmetic-batch:7b8a40c01b"
+  "cosmetic-batch:7b8a40c01b",
+  "shop:09c387461cb002a8",
+  "shop:09c387461cb002a8"
  ],
  "first_run": false,
  "seeded": [
@@ -157,5 +159,6 @@
   "cosmetic",
   "news",
   "shop"
- ]
+ ],
+ "pending": []
 }

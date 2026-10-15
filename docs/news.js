@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:09c387461cb002a8",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA DE HOY ya está arriba: 379 ítems. Destacado: Freddy Fazbear. ¿Te alcanzan los paVos? 💀",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_guardhence/featured.png",
+  "tag": "Tienda",
+  "ts": "2026-10-15T00:15:22+00:00"
+ },
+ {
   "id": "cosmetic-batch:7b8a40c01b",
   "kind": "cosmetic",
   "title": "142 cosméticos nuevos",
@@ -72,4 +81,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-14T23:18:47+00:00";
+window.NEWS_UPDATED = "2026-10-15T00:15:22+00:00";
