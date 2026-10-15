@@ -20,9 +20,10 @@ Canales:
 - Web: `docs/index.html` (estática, lee `news.js` / `news.json`).
 - X, WhatsApp y otros: pendientes (ver sección 4).
 
-## 2. Estado actual (14-oct-2026)
+## 2. Estado actual (15-oct-2026)
 
 Carpeta del proyecto en la PC del usuario (Windows): `C:\Users\svsil\Desktop\Silvas-Indrustries\fortnite-news`
+Repo (público): https://github.com/infinito-z/fortnite-news · Web: https://infinito-z.github.io/fortnite-news/
 
 Estructura:
 ```
@@ -58,33 +59,40 @@ Probado y funcionando:
   - Sin token configurado (o con `--demo`), la cola `pending` se conserva intacta.
 - Texto de `sendMessage` recortado a 4096 caracteres; pie de foto a 1000.
 - Workflow: `concurrency` (sin ejecuciones simultáneas), `timeout-minutes: 10` y `git pull --rebase` antes del push.
+- **En producción (15-oct-2026):** el workflow corre en GitHub Actions, el bot `fn-radar-bot` hace commit de
+  `state.json` y `docs/`, Pages se reconstruye solo con esos commits, y la primera publicación automática real
+  (tienda de las 19:00 Lima, con foto vía `sendPhoto`) llegó a @fnradar_news.
+- Post de tienda (nuevo): solo lo que **entró hoy** (`inDate` = fecha de la tienda), top 6 por precio con
+  nombre y precio en paVos, sin repetir un ítem que viene en lote y suelto; la imagen es de la primera novedad
+  listada. Si no hay nada nuevo, un post corto "sin nada nuevo". Probado con la tienda real del 15-oct (55 novedades
+  de 379); aún no publicado en Telegram con este formato.
 
 **Aún no probado** (importante):
-- Primera publicación *real* automática en Telegram (con noticia nueva de verdad, y con imagen vía `sendPhoto`).
-- El workflow de GitHub Actions (no se ha subido el repo todavía).
+- Publicación automática de una **noticia** in-game, un **parche** o **cosméticos** reales (solo se ha visto la tienda).
+- El nuevo formato de tienda en Telegram (primera tienda: 16-oct 00:00 UTC = 15-oct 19:00 Lima).
+- Reintentos y respaldo sin imagen contra Telegram real (solo probados con simulación).
+- Que el cron programado dispare solo (hasta ahora solo se corrió a mano).
 - La forma exacta de la respuesta de `/v2/cosmetics/new`: el extractor `_cosmetic_items` es tolerante a varias formas y funcionó con datos reales, pero conviene validarlo cuando cambie de parche.
 
-Paso en curso: **subir el proyecto a GitHub** (repo público `fnradar`, arrastrando todo el contenido incluida la carpeta oculta `.github`).
+Paso en curso: vigilar las primeras ejecuciones automáticas del cron y el primer post de tienda con el formato nuevo.
 
 ## 3. Tareas inmediatas (en orden)
 
-0. Borrar la carpeta vacía `site/` si sigue ahí (quedó bloqueada por un proceso abierto, p. ej. `http.server`; cerrarlo y borrarla).
-1. Subir el repo a GitHub; verificar que `.github/workflows/collect.yml`, `.gitignore`, `state.json` y `docs/` estén dentro.
-2. Activar GitHub Pages: Settings → Pages → Deploy from branch → rama `main`, carpeta `/docs`.
-   Verificar que Pages se reconstruya con los commits del bot (los hace `GITHUB_TOKEN`); si no, pasar a deploy de Pages con Actions.
-3. Crear *secrets* del repo: `TELEGRAM_BOT_TOKEN` y `TELEGRAM_CHAT_ID` (= `@fnradar_news`). Nunca guardar el token en archivos.
-4. Settings → Actions → General → Workflow permissions: **Read and write** (el workflow hace commit de `state.json` y `docs/`).
-5. Ejecutar el workflow a mano (Actions → "Recolectar noticias de Fortnite" → Run workflow) y revisar los logs.
-6. ~~Añadir `concurrency` al workflow~~ ✅ hecho (más `timeout-minutes` y `pull --rebase`).
-7. Esperar la próxima novedad real (noticia, parche o tienda de las 19:00 Lima) y confirmar que llega a Telegram con buen formato.
-   Revisar en el log la línea final: "N novedades en la web, M publicadas en Telegram, P pendientes".
-8. Revisar el formato del post de tienda: hoy dice "N ítems, destacado X" y con 333 ítems es poco útil.
+Hechas (15-oct-2026): repo subido y público, Pages en `main` / `/docs`, secrets de Telegram, permisos
+Read and write, primera ejecución manual OK, `concurrency` en el workflow, primer post real en Telegram,
+y nuevo formato del post de tienda.
+
+1. Confirmar en Actions que el cron se dispara solo (ejecuciones con evento `schedule`, cada ~10 min).
+2. A las 19:00 Lima, revisar el primer post de tienda con el formato nuevo (lista, precios, imagen).
+3. Ajustar las plantillas `T_SHOP` / `T_SHOP_SAME` a tu voz si hace falta.
+4. Esperar una noticia o parche real y confirmar que llega bien a Telegram.
 
 ## 4. Tareas futuras
 
 Calidad de contenido
 - Redactar con la API de Claude en vez de plantillas (centavos por noticia), conservando las plantillas como respaldo si falla. Mantener el tono rápido/meme con ejemplos propios del usuario.
-- Tienda: publicar solo **lo nuevo respecto a ayer**, con imagen destacada y precio en paVos.
+- Tienda: marcar descuentos (`regularPrice` > `finalPrice`) y destacar atuendos sobre lotes; quizá un álbum
+  (`sendMediaGroup`) con varias imágenes.
 - Detectar cambios de mapa (`/v1/map`), playlists/modos (`/v1/playlists`) y llaves AES.
 - Detectar noticias cuyo contenido cambió aunque conserven el mismo id (hoy solo se detecta por id).
 - Mensajes largos: hoy se recorta a ciegas (4096 texto / 1000 pie de foto). Mejor: cortar en frase completa o

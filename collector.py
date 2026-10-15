@@ -99,10 +99,15 @@ MAX_TELEGRAM_PER_RUN = 10   # tope de mensajes por pasada, por seguridad
 MAX_TELEGRAM_TRIES = 3      # intentos por publicación antes de descartarla (una por pasada)
 RARITY_RANK = {"mythic": 0, "legendary": 1, "icon": 1, "marvel": 1, "dc": 1, "starwars": 1,
                "epic": 2, "rare": 3, "uncommon": 4, "common": 5}
+# Tienda: solo lo que entró hoy. {n} = novedades, {total} = ítems en tienda, {lines} = top por precio.
 T_SHOP = [
-    "🛒 TIENDA DE HOY ya está arriba: {n} ítems. Destacado: {top}. ¿Te alcanzan los paVos? 💀",
-    "💸 Nueva tienda: {n} ítems. Lo más fuerte: {top}. Ahorra o llora 😭",
+    "🛒 TIENDA NUEVA: {n} novedades. Lo más fuerte:\n{lines}\n¿Te alcanzan los paVos? 💀",
+    "💸 Llegó la tienda con {n} cosas nuevas:\n{lines}\nAhorra o llora 😭",
 ]
+T_SHOP_SAME = [
+    "🛒 Tienda renovada pero sin nada nuevo ({total} ítems repetidos). Hoy se ahorra 🗿",
+]
+SHOP_TOP = 6   # cuántas novedades se listan en el post de tienda
 T_BUILD = [
     "🚨 NUEVA VERSIÓN DETECTADA: {build}. Parche en camino, a preparar el pop-off 🔧",
     "⚙️ Cambió el build del juego: {build}. Algo se viene, mantente atento 👀",
@@ -206,29 +211,60 @@ def shop_entries(data):
     return data.get("entries") or []
 
 
+def new_shop_entries(data, entries):
+    """Ofertas que entraron hoy (inDate = fecha de la tienda). Sin inDate en ningún lado: todas cuentan."""
+    day = (data.get("date") or "")[:10]
+    if not day or not any(e.get("inDate") for e in entries):
+        return entries
+    return [e for e in entries if (e.get("inDate") or "")[:10] == day]
+
+
+def shop_offer(e):
+    """Nombre, clave para no repetir, precio e imagen de UNA oferta (todo sale del mismo ítem)."""
+    br = e.get("brItems") or []
+    tracks = e.get("tracks") or []
+    cars = e.get("cars") or []
+    bundle = e.get("bundle") or {}
+    main = br[0] if br else (cars[0] if cars else {})
+    main_name = (main.get("name") or (tracks[0].get("title") if tracks else "") or "").strip()
+    name = (bundle.get("name") or main_name).strip()
+    images = main.get("images") or {}
+    render = ((e.get("newDisplayAsset") or {}).get("renderImages") or [{}])[0].get("image")
+    image = bundle.get("image") or render or images.get("featured") or images.get("icon")
+    if not image and tracks:
+        image = tracks[0].get("albumArt")
+    return {"name": name, "key": (main_name or name).lower(), "price": e.get("finalPrice") or 0, "image": image}
+
+
+def pavos(n):
+    return f"{n:,}".replace(",", ".")
+
+
 def detect_shop(data):
     entries = shop_entries(data)
     if not entries:
         return []
     uid = f"shop:{data.get('hash') or data.get('date')}"
 
-    def label(e):
-        br = e.get("brItems") or []
-        if br:
-            return br[0].get("name")
-        bundle = e.get("bundle") or {}
-        return bundle.get("name") or (e.get("layout") or {}).get("name")
+    # Lo más caro primero; un mismo ítem (lote y suelto) se lista una sola vez.
+    offers, keys = [], set()
+    for e in sorted(new_shop_entries(data, entries), key=lambda e: e.get("finalPrice") or 0, reverse=True):
+        o = shop_offer(e)
+        if o["name"] and o["key"] not in keys:
+            keys.add(o["key"])
+            offers.append(o)
 
-    ranked = sorted(entries, key=lambda e: e.get("finalPrice") or 0, reverse=True)
-    top = next((label(e) for e in ranked if label(e)), "sorpresas")
-    image = None
-    for e in ranked:
-        br = e.get("brItems") or []
-        if br:
-            image = (br[0].get("images") or {}).get("featured") or (br[0].get("images") or {}).get("icon")
-            if image:
-                break
-    text = pick(uid, T_SHOP).format(n=len(entries), top=top)
+    if not offers:
+        text = pick(uid, T_SHOP_SAME).format(total=len(entries))
+        return [mk("shop", uid, "Tienda del día", text, None, "Tienda")]
+
+    top = offers[:SHOP_TOP]
+    lines = "\n".join(f"• {o['name']} — {pavos(o['price'])} paVos" for o in top)
+    more = len(offers) - len(top)
+    if more > 0:
+        lines += f"\n…y {more} más"
+    text = pick(uid, T_SHOP).format(n=len(offers), total=len(entries), lines=lines)
+    image = next((o["image"] for o in top if o["image"]), None)
     return [mk("shop", uid, "Tienda del día", text, image, "Tienda")]
 
 
