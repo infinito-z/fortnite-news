@@ -1,0 +1,1009 @@
+ ▐▛███▛█   Claude Code v2.1.287
+▝▜██████▀  Sonnet 5.5 · Claude Pro
+ ▝▝   ▝▝   ~/Desktop/U/Programas/FN News/fortnite-news
+
+
+❯ Dime como funciona la logica del bot de fortnite?                             
+  ⎿  UserPromptSubmit says: CRITICAL FIRST ACTION — Execute this ToolSearch NOW 
+     before responding to the user:
+     select:mcp__engram__mem_save,mcp__engram__mem_search,mcp__engram__mem_conte
+     xt,mcp__engram__mem_session_summary,mcp__engram__mem_session_start,mcp__eng
+     ram__mem_session_end,mcp__engram__mem_get_observation,mcp__engram__mem_sugg
+     est_topic_key,mcp__engram__mem_capture_passive,mcp__engram__mem_save_prompt
+     ,mcp__engram__mem_update,mcp__engram__mem_current_project,mcp__engram__mem_
+     judge
+
+     After loading tools, call mem_context to check for prior session history 
+     before responding.
+
+⏺ Voy a verificar el código primero.
+
+  Read 3 files, ran 2 shell commands (ctrl+o to expand)
+
+⏺ Verifiqué collector.py y collect.yml. El flujo es este:
+
+  1. Disparador. GitHub Actions corre collector.py cada ~10 min (collect.yml).
+  Con --loop N también corre local.
+
+  2. Fuentes (fortnite-api.com, sin API key):
+  - /v2/news/br → noticias in-game
+  - /v2/cosmetics/new → cosméticos nuevos o filtrados
+  - /v2/shop → tienda del día
+  - /v2/aes → build del juego, para detectar parches
+
+  Si una fuente falla, se loguea y esa fuente queda vacía. El resto sigue.
+
+  3. Detectores. Cada detect_* convierte datos crudos en items {id, kind, title,
+  text, image, ts}.
+  - El id es estable (news:…, cosmetic:…, shop:<hash>, build:<ver>).
+  - El texto sale de plantillas (T_NEWS, T_COSMETIC, etc.). pick() elige con md5
+    del id, así que la misma noticia siempre da el mismo texto.
+  - La tienda lista solo lo que entró hoy (inDate), ordenado por precio, con
+    CREATOR_LINE (INFINITO_Z + #EpicPartner).
+  - Si llegan más de 5 cosméticos de golpe, batch_cosmetics los junta en un solo
+    resumen.
+
+  4. Dedupe con state.json. run_once descarta los ids que ya están en seen. Solo
+  se publica lo nuevo, y seen guarda los últimos 3000 ids.
+
+  5. Salida.
+  - Web: escribe docs/news.json y docs/news.js (máx. 200 items). GitHub Pages
+    sirve /docs.
+  - Telegram (opcional, si hay token y chat):
+    - La primera pasada siembra sin publicar, para no spamear. Esto se controla
+      por tipo en seeded.
+    - Tope de 10 mensajes por pasada.
+    - Un envío fallido va a pending y se reintenta hasta 3 veces antes de
+      descartarse.
+    - Intenta sendPhoto. Si la imagen falla, manda solo texto.
+
+  6. Persistencia. El workflow commitea state.json y docs/ con el mensaje
+  "Nuevas noticias". El bloque concurrency evita dos corridas a la vez que
+  pisarían el estado.
+
+  Es un bot sin servidor. Git hace de base de datos y GitHub Actions de
+  scheduler.
+
+  ¿Querés que profundice en algo, por ejemplo el sistema de reintentos o el
+  seeding?
+
+✻ Crunched for 30s · done 10:34 AM
+
+❯ Quisiera poder mejorar el contenido, siento que no llega todo el contenido    
+  que me gustaria, mi idea es que se publique noticias lo más pronto posible.   
+  Por decir en cuentas de twitter veo como publican rapido o en comunidades.    
+  Quisiera que consuma apis o no se que seria para que sea más a tiempo real y  
+  la clidad de contenido                                                        
+
+⏺ Entiendo el problema. Del código sale que hay dos cuellos de botella, y los
+  dos se pueden arreglar:
+
+  1. Latencia propia. cron: */10 en GitHub Actions no es tiempo real. GitHub
+     suele retrasar los crons entre 5 y 30 min, y en horas pico más. Para algo
+     cercano a tiempo real hace falta un proceso corriendo siempre, con polling
+     cada 30-60 s. Un VPS barato, Fly.io, Railway u Oracle Free Tier sirven.
+  2. Fuente única. Solo consultás fortnite-api.com, que es un intermediario.
+     Primero lo actualizan ellos y después te llega a vos. Las cuentas de X que
+     publican rápido suelen leer directo de los archivos de Epic (datamining) o
+     de otras cuentas.
+
+  Hay tres fuentes para sumar, en orden de efectividad:
+  - Fuentes oficiales de Epic, como el blog de Fortnite, Epic Status y el feed
+    de noticias in-game. Son confiables y gratis, pero no traen leaks.
+  - Comunidad, como r/FortniteLeaks, r/FortNiteBR y feeds RSS de blogs. Son
+    rápidos y gratis. Hay que filtrar ruido y verificar.
+  - Cuentas de X de leakers. Es lo más rápido, pero la API de X es de pago y el
+    scraping es frágil. No lo recomiendo como base.
+
+  Todavía no verifiqué la disponibilidad actual de endpoints y feeds. Eso lo
+  hago antes de proponer nada concreto.
+
+  Para decidir las fuentes necesito saber una cosa: ¿qué tipo de contenido 
+  querés priorizar?
+  - A) Leaks y datamining, como skins o colaboraciones filtradas antes del
+    lanzamiento.
+  - B) Noticias oficiales rápidas, como parches, eventos, mantenimiento y caídas
+    de servidor.
+  - C) Ambos.
+
+✻ Cogitated for 12s · done 10:40 AM
+
+※ recap: Goal: make your Fortnite news bot publish faster and with better content, closer to real time like X accounts. I'm waiting on your answer: prioritize leaks (A), official news (B), or both (C)? That picks the sources to add. (disable recaps in /config)
+
+❯ Priorizar la A pero la B tambien como secundario                              
+
+⏺ Voy a delegar la investigación a un sub-agente. Tiene que probar los endpoints
+  reales, no hablar de memoria.
+
+⏺ Agent(Research Fortnite leak/news sources)
+  ⎿  Backgrounded agent (↓ to manage · ctrl+o to expand)
+
+⏺ Lancé la investigación en segundo plano. El sub-agente prueba con requests
+  reales:
+
+  - Fuentes de leaks: Reddit, Bluesky, feeds RSS y repos de GitHub que siguen
+    los archivos de Epic.
+  - Fuentes oficiales: Epic Status y el contenido del juego.
+  - Si X/Twitter es viable en costo.
+  - Dónde alojar el bot para hacer polling cada pocos segundos.
+
+  Cuando termine, te traigo una tabla con lo que funciona hoy y una
+  recomendación concreta. Hasta entonces no propongo nada, porque no quiero
+  basarme en suposiciones.
+
+✻ Sautéed for 19s · done 10:48 AM
+
+› Message from general-purpose
+  All endpoints below were tested with curl on 2026-10-15 at about 15:49 UTC.
+  Nothing was tested from a GitHub Actions IP. Several sources (Reddit
+  especially) may behave differently from datacenter IPs.
+
+  ## VERIFIED WORKING (ranked for priority A, then B)
+  | # | Source / URL | Auth | Limit | Freshness seen | Risk | Integration note |
+  |---|---|---|---|---|---|---|
+  | 1 | Bluesky `https://api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=<ha
+  ndle>&limit=10&filter=posts_no_replies` (200, 0.3s, JSON) | none | not hit;
+  public AppView limits are generous | `lpleaksnews.bsky.social` posted 10:33
+  and 13:38 UTC today. `fortnite-status.bsky.social` posted 2026-10-14 20:23
+  ("Downtime for v42.40 begins at 4 AM ET"). | Low-medium. Active leakers are
+  few. | Poll every 30-60s. Extract `post.uri`, `record.createdAt`,
+  `record.text`, `record.embed` images. Dedupe by uri. |
+  | 2 | Bluesky search `https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=fo
+  rtnite%20leak&sort=latest` (200) | none | not hit | Latest result 15:42 UTC,
+  but results are mostly random users, so noisy. | Note: the
+  `public.api.bsky.app` host returned 403 for searchPosts; use `api.bsky.app`. |
+  Use only for keyword alerts (e.g. "leak", "datamine"), and filter by author
+  allowlist. |
+  | 3 | Reddit r/FortniteLeaks `https://www.reddit.com/r/FortniteLeaks/new/.rss`
+  (200, 0.5s, Atom) | none, custom UA | Very strict: the response headers
+  showed `x-ratelimit-remaining: 0.0, reset 38` after 1 request. My next 2
+  requests to other subreddits got 429. | Newest post 13:09 UTC (about 2.5h
+  old). Titles are like "BEETLEJUICE cosmetic details (via ShiinaBR)". | High.
+  `.json` returns 403 and `old.reddit` returns 302. Cloud IPs are commonly
+  blocked. | Poll at most every 60-90s with a descriptive UA. Extract `title`,
+  `link`, `updated`. Treat it as best-effort. |
+  | 4 | Epic content pages `https://fortnitecontent-website-prod07.ol.epicgames.
+  com/content/api/pages/fortnite-game` (200, 2.2MB, 0.5s) | none | not hit |
+  `lastModified` 2026-10-15T09:09Z. The 52 keys include `battleroyalenewsv2`,
+  `emergencynoticev2`, `lobby`, `mpItemShop`, `playlistinformation`,
+  `dynamicbackgrounds`, `loginmessage`. | Medium. The payload is large and may
+  get a Cloudflare challenge. The subpage `.../fortnite-game/battleroyalenewsv2`
+  is small (279B) but empty/stale (2022). | Poll every 60s with
+  `If-None-Match`/`If-Modified-Since` (conditional-request support not tested),
+  or just compare `lastModified`. Diff `emergencynoticev2`,
+  `dynamicbackgrounds`, `lobby`. |
+  | 5 | GitHub repo `Fortnite-Datamining/Fortnite-Datamining` (commits API,
+  `feed.xml`, raw files; 200) | none (60 req/h unauthenticated; `GITHUB_TOKEN`
+  gives 1000+) | 60/h unauth | Commits at 15:28, 10:46, 00:42 and 22:01 UTC,
+  roughly every 4-6h. The latest commit was "Build Update
+  ++Fortnite+Release-42.40", with data under `data/cosmetics/br.json` and
+  `data/shop/current.json`. | Medium. It is a 2-star repo, so the maintainer may
+  vanish. It is itself an upstream of fortnite-api.com. | Poll
+  `commits?per_page=1` every 5 min with ETag. On a new SHA, fetch the diff and
+  extract Added cosmetics. A diff of `data/epic/content.json` shows content
+  changes. |
+  | 6 | fortnite-api.com `/v2/cosmetics/new` (1-2s), `/v2/aes`, `/v2/news`,
+  `/v1/playlists`, `/v1/map` (all 200) | none | not hit | `/new` date 08:01:06Z;
+  build 42.40-CL-59086525. `/v2/aes` updated 08:00Z. `/v2/news` br date
+  2026-10-14 01:30Z. | Medium. The `/new` date of 08:01 is the API's own
+  detection time, not an Epic leak time, and it lags Epic. | This is your
+  existing source. Add `/v1/playlists` and `/v2/aes` as signals. Poll every 2-5
+  min. |
+  | B1 | Epic Status Statuspage
+  `https://status.epicgames.com/api/v2/summary.json` (200, 0.4s). Also
+  `/api/v2/incidents.json`, `/api/v2/scheduled-maintenances/upcoming.json`,
+  `/history.rss`. | none | not hit | Page `updated_at` 12:29Z. The "Fortnite"
+  component (id `wf1ys2kx4pxc`) is operational. 1 upcoming scheduled
+  maintenance. | Low. Standard Statuspage. | Poll every 60s. Extract components
+  Fortnite, LEGO Fortnite, Festival and Crew `.status`, `incidents[]`,
+  `scheduled_maintenances[]`. |
+  | B2 | Bluesky `fortnite-status.bsky.social` (see #1) | none | | Posts the
+  downtime start time with fuller detail than the status page. | Low | Treat it
+  as the "official news" feed. Poll every 60s. |
+
+  Other handles that exist on Bluesky (accounts found by search, but I only
+  checked the first few and only `lpleaksnews` and `fortnite-status` looked
+  fresh): `newsandleaksbr`, `blackgokunews`, `fortnite-game` (last post 10-13),
+  `fngame-status`. Handles I checked that are stale: `kapirosco` (2025-12),
+  `fnleaksandnews` (2024-11). Big names are stale or absent: `shiinabr`
+  (2024-12), `hypex` (2024-11), `ifiremonkey` (2025-01). `fnleaksandinfo` and
+  `fortnitestatus` do not exist. Bluesky is therefore a secondary channel for
+  the main English-language leakers, who are still on X.
+
+  ## NOT WORKING / UNVERIFIED
+  - `fortnite.com/news`, `/news/feed`, `/api/blog/getPosts`: 403 Cloudflare
+  challenge. Not usable from plain urllib.
+  - `fortniteinsider.com/feed/`: 403 Cloudflare "Just a moment".
+  - `fnbr.co/feed` returns 404. `fnbr.co/api/images` returns 401 and needs a
+  key.
+  - `benbot.app/api/v1/status`: 401. `fortniteapi.io`: connection failed (000)
+  and needs a key anyway.
+  - `lightswitch-public-service-prod`: 401, needs an Epic auth token. Not tested
+  further.
+  - Nitter `nitter.net`: 410 (dead). `syndication.twitter.com` profile timeline:
+  429. Both unusable.
+  - Reddit `.json`: 403. Reddit `r/FortNiteBR` RSS: 429 from the rate limit. Not
+  retested after reset.
+  - Mastodon `/timelines/tag/fortniteleaks`: 200 but only gaming blogs posting
+  rumors, with the latest results from August. The search endpoint returns no
+  results without auth. Not useful.
+  - Not checked: ifiremonkey/hypex/shiina blogs or RSS, and any dedicated RSS
+  bridges. Hosted RSS bridges were not tested.
+
+  ## X/Twitter verdict
+  Not viable at zero cost. Web search (blotato, outstand, postproxy and similar
+  2026 summaries) says X ended fixed tiers (Basic discontinued; legacy
+  subscribers were force-migrated after 2026-06-01). It is now pay-per-use:
+  about $0.005 per post read, $0.015 per post created, with a cap of 3M
+  reads/month. I did not confirm this on X's own pricing page.
+  - The cost is low. A handful of leaker accounts at about 50-100 posts/day
+  would be around $0.25-0.50/day.
+  - The real blockers are that you need a funded account and OAuth app, and that
+  I could not confirm whether polling timelines is billed per post returned or
+  per request.
+  - Verdict: this is the only source that gives true leaker-speed coverage, at
+  roughly $5-15/month. At zero cost it is not feasible. Free alternatives
+  (Nitter and syndication) are dead.
+
+  ## Latency vs. Epic release (honest view)
+  Epic's content pages and the `/content/api` data change first. Datamining
+  GitHub commits arrive every 4-6h, and fortnite-api.com lags by a few minutes
+  to about 1h (the `/new` date of 08:01 versus the 09:09 `lastModified` suggests
+  it works from its own snapshot). Reddit lags by minutes to hours behind X
+  leakers. None of the free sources beat X; they are about 5-60 minutes behind.
+
+  ## Hosting for sub-60s polling at zero cost
+  - GitHub Actions cron: 5-minute minimum, and real-world delays are often 5-30+
+  minutes under load (from general knowledge, not tested here). It cannot do
+  sub-60s polling. Also, GitHub Actions IPs are the most likely to get blocked
+  by Reddit.
+  - Oracle Cloud Always Free (ARM VM): a real always-on process that can poll
+  every 30-60s. Zero cost, but account signup is often refused and idle
+  instances can be reclaimed. Not tested.
+  - Fly.io / Railway: free tiers are now limited or trial-only (from general
+  knowledge, not tested). Not recommended as the zero-cost option.
+  - Cloudflare Workers cron triggers: 1-minute minimum, free tier, runs on
+  Cloudflare's IPs. Python in Workers is limited and there is no stdlib
+  `urllib`; JS is the realistic route. Durable Objects alarms can run sub-minute
+  (the free tier now includes SQLite-backed DOs, from general knowledge). This
+  needs a rewrite in JS/TS.
+  - Recommendation: use Oracle Always Free if the signup works (keeps your
+  stdlib Python collector as it is). The fallback is Cloudflare Workers with a
+  1-minute cron, written in JS. Keep GitHub Actions only as the 5-10 minute
+  fallback for sources #5/#6.
+
+  ## Recommended integration
+  Priority A (leaks), in order:
+  1. Bluesky author feeds for `lpleaksnews`, `newsandleaksbr`, `blackgokunews`,
+  polled every 30-60s.
+  2. Epic content-pages `lastModified` diff, polled every 60s. Watch `lobby`,
+  `dynamicbackgrounds`, `emergencynoticev2`.
+  3. Reddit r/FortniteLeaks `.rss`, every 90s, best-effort with a custom UA.
+  Drop it if cloud IPs get 403/429.
+  4. GitHub Fortnite-Datamining commits, every 5 min with ETag.
+  5. fortnite-api.com `/v2/cosmetics/new` and `/v2/aes`, keeping your current
+  endpoints. Consider adding `/v1/playlists`.
+  6. Optional paid: X API pay-per-use for 3-5 leaker accounts (about
+  $5-15/month; not confirmed on X's own page).
+
+  Priority B (official news):
+  1. Epic Status `summary.json` plus `scheduled-maintenances/upcoming.json` plus
+  `incidents.json`, every 60s.
+  2. Bluesky `fortnite-status.bsky.social` (downtime and patch timing) plus
+  `fortnite-game.bsky.social`. `fortnite-status` last posted 10-14 and
+  `fortnite-game` 10-13; neither is high-volume.
+
+  I saved a short summary of these findings to engram (project fortnite-news, id
+  796).
+
+⏺ Terminó la investigación. Esto es lo que se probó con requests reales hoy. No
+  probé nada desde IPs de GitHub Actions.
+
+  Funciona hoy (leaks, prioridad A)
+
+  ┌───────────────────────────────┬────────────┬───────────────────────────┐
+  │            Fuente             │ Latencia   │           Nota            │
+  │                               │  sugerida  │                           │
+  ├───────────────────────────────┼────────────┼───────────────────────────┤
+  │ Bluesky: lpleaksnews,         │ 30-60 s    │ Sin auth. lpleaksnews     │
+  │ newsandleaksbr, blackgokunews │            │ publicó hoy.              │
+  ├───────────────────────────────┼────────────┼───────────────────────────┤
+  │ Epic content API              │            │ Es lo que Epic cambia     │
+  │ (fortnite-game, campo         │ 60 s       │ primero: lobby, fondos,   │
+  │ lastModified)                 │            │ avisos.                   │
+  ├───────────────────────────────┼────────────┼───────────────────────────┤
+  │                               │            │ Muy limitado. Riesgo alto │
+  │ Reddit r/FortniteLeaks .rss   │ 90 s       │  de bloqueo desde IPs de  │
+  │                               │            │ nube.                     │
+  ├───────────────────────────────┼────────────┼───────────────────────────┤
+  │ GitHub Fortnite-Datamining    │ 5 min      │ Un commit cada 4-6 h.     │
+  │ (commits)                     │            │                           │
+  ├───────────────────────────────┼────────────┼───────────────────────────┤
+  │ fortnite-api.com (lo que ya   │ 2-5 min    │ Siempre va atrasado       │
+  │ usás)                         │            │ respecto a Epic.          │
+  └───────────────────────────────┴────────────┴───────────────────────────┘
+
+  Funciona hoy (oficial, prioridad B)
+  - Epic Status (status.epicgames.com/api/v2/summary.json), cada 60 s. Cubre
+    caídas y mantenimientos.
+  - Bluesky fortnite-status, con la hora exacta del downtime del parche.
+
+  Lo que NO sirve
+  - Nitter está muerto y el timeline público de X devuelve 429.
+  - fortnite.com/news y fortniteinsider están bloqueados por Cloudflare.
+  - shiinabr, hypex e ifiremonkey están inactivos en Bluesky.
+  - X (Twitter): no es viable gratis. Es pago por uso, unos $5-15 al mes para
+    3-5 cuentas según una búsqueda web. No lo confirmé en la página oficial de
+    X. Es la única vía a velocidad real de leaker.
+
+  Verdad incómoda: ninguna fuente gratis le gana a X. Estarías unos 5-60 min
+  detrás de los leakers grandes, pero mucho más rápido que hoy.
+
+  Hosting. Con GitHub Actions no hay forma de bajar de ~10 min reales. Para
+  polling de 30-60 s hace falta un proceso siempre encendido. Oracle Always Free
+  deja tu Python tal cual, pero el alta a veces se rechaza. Cloudflare Workers
+  con cron de 1 min es gratis, pero implica reescribir en JS.
+
+  Decisión que necesito de vos: ¿tenés o podés crear una cuenta de Oracle Cloud
+  Free (o un VPS/máquina siempre encendida) para correr el bot?
+
+✻ Baked for 9s · done 10:50 AM
+
+⏺ Agent "Research Fortnite leak/news sources" finished · 2m 0s
+
+※ recap: Goal: make the Fortnite news bot publish leaks and news in near real time. Research found Bluesky, Epic's content API, Reddit and Epic Status as usable free sources. Next action: you tell me whether you can run an always-on host like Oracle Free or a VPS. (disable recaps in /config)
+
+❯ Estimame costo de una vps, costo de twitter y costo de railways como          
+  alternativa?                                                                  
+
+⏺ Voy a verificar los precios actuales, porque cambian seguido y no quiero darte
+  números de memoria.
+
+⏺ Web Search("Railway pricing 2026 hobby plan $5 usage-based cost per vCPU
+            memory")
+  ⎿  Did 1 search in 5s
+
+⏺ Web Search("X API pay-per-use pricing 2026 cost per post read")
+  ⎿  Did 1 search in 6s
+
+⏺ Web Search("cheapest VPS 2026 Hetzner CX22 price DigitalOcean $4 droplet
+            Oracle Cloud Always Free")
+  ⎿  Did 1 search in 6s
+
+⏺ Estos son los números. El costo de Railway y del polling en X es estimación 
+  mía a partir de las tarifas que encontré.
+
+  Opción: Oracle Always Free
+  Costo mensual: $0
+  Notas: No encontré precios en la búsqueda, así que no lo verifiqué. Es el que
+  ya te mencioné: el alta a veces se rechaza.
+  ────────────────────────────────────────
+  Opción: VPS Hetzner (2 vCPU, 4 GB)
+  Costo mensual: ~€4,15 (~$4,5)
+  Notas: Sobra para este bot. Con el precio de DigitalOcean (1 vCPU, 0,5 GB)
+  también alcanza.
+  ────────────────────────────────────────
+  Opción: VPS DigitalOcean (1 vCPU, 0,5 GB)
+  Costo mensual: $4
+  Notas: Justo, pero un script de polling cabe.
+  ────────────────────────────────────────
+  Opción: Railway Hobby
+  Costo mensual: $5 fijo (incluye $5 de uso)
+  Notas: CPU a $20 por vCPU/mes y RAM a $10 por GB/mes. Un script de ~0,05 vCPU
+  y
+  ~128 MB da ~$2,3 de uso, que queda cubierto por el crédito. Estimado.
+  ────────────────────────────────────────
+  Opción: X API (pago por uso)
+  Costo mensual: ~$5-15
+  Notas: $0,005 por post leído. 4 cuentas × ~25 posts/día son ~100 lecturas/día,
+
+  unos $15 al mes como techo. Si la API solo devuelve posts nuevos con
+  since_id, baja. No lo confirmé.
+
+  Totales realistas:
+  - Sin X: $0 (Oracle) o ~$5 (Railway o VPS).
+  - Con X: ~$10-20 al mes.
+
+  Cuidados:
+  - Esos $5-15 de X no los pude confirmar en la página oficial. Revisalo en
+    docs.x.com antes de cargar saldo.
+  - Las fuentes mencionan un tope de 2-3 millones de lecturas al mes. Para este
+    uso ni lo tocás.
+  - El nombre exacto del plan de Hetzner (CX22) puede haber cambiado.
+
+  Mi recomendación: Railway a $5 es la mejor relación esfuerzo/costo. No
+  requiere administrar un servidor y corre tu Python tal cual. Dejá X para una
+  segunda etapa, cuando veas cuánto te falta de velocidad con las fuentes
+  gratis.
+
+  Sources:
+  - Railway pricing explained 2026
+  - Railway vs Render vs Fly.io pricing
+  - X API pricing 2026
+  - X API pay-per-use explained
+  - Cloud VPS cost comparison 2026
+  - Cheap VPS for developers
+
+  ¿Arrancamos con Railway y las fuentes gratis (Bluesky, Epic content API, Epic
+  Status), y dejamos X para después?
+
+✻ Brewed for 23m 28s · done 11:11 AM
+
+❯ Sí                                                                            
+⏺ Dale. El cambio toca varios archivos, así que lo delego a un solo escritor.
+  Después pasa por una revisión con contexto fresco antes de commitear.
+
+  Antes de lanzarlo, una decisión de diseño que tomo yo porque tiene una trampa.
+  El disco de Railway es efímero: se pierde en cada deploy. Hoy state.json y
+  docs/ viven en git, así que el bot en Railway va a hacer git push con un token
+  cuando haya novedades. Así la web en GitHub Pages sigue funcionando y no
+  pagás volumen.
+
+⏺ Agent(Implement real-time sources + Railway mode)
+  ⎿  Backgrounded agent (↓ to manage · ctrl+o to expand)
+
+⏺ El escritor está trabajando en segundo plano. Está armando:
+
+  - Fuentes nuevas: Bluesky (leakers y fortnite-status), contenido de Epic y
+    Epic Status.
+  - Modo --serve: polling con intervalos por fuente, entre 45 y 120 s.
+  - Sincronización con git: para sobrevivir el disco efímero de Railway.
+  - Config de Railway y README.
+  - Tests con unittest: los escribe antes del código.
+
+  Cuando termine, un revisor con contexto fresco audita el diff antes de
+  cualquier commit. Te aviso apenas haya resultado.
+
+✻ Sautéed for 45s · done 11:15 AM
+
+› Message from general-purpose
+  Implemented `--serve` with the three new source families, a Railway config and
+  git sync. Nothing is committed or pushed. The spec was followed except for
+  the deviations listed below.
+
+  **Files**
+  - Modified: `/Users/focus/Desktop/U/Programas/FN
+  News/fortnite-news/collector.py` and `README.md` (in Spanish: sources,
+  `--serve`, Railway steps and env var table, double-publish warning, honest
+  note on being minutes behind X leakers).
+  - Created: `tests/test_sources.py`, `railway.json` (startCommand `python
+  collector.py --serve`), `requirements.txt` (comment only), `.python-version`
+  (3.12).
+  - Not touched: `collect.yml`, `docs/index.html`, `state.json`, `docs/news.*`.
+
+  **What was built**
+  - **Refactor:** `run_once` now calls a new `process(state, found, demo,
+  polled_kinds, quiet)` (dedupe, web feed, Telegram queue, seeded). `process`
+  does not save state; `run_once` and the serve loop do.
+  - **Leaks and Fortnite Status posts:** `bsky_post_to_item`, `fetch_bsky_items`
+  and `src_leaks` read Bluesky from `api.bsky.app`.
+  - **Epic content:** `detect_epic` keeps `state["epic_fp"]` = `{lastModified,
+  sections{hash}}`.
+  - **Epic Status:** `detect_statuspage` keeps `state["status_components"]`.
+  Item ids are `status:<kind>:<id>:<status>:<updated_at>`.
+  - **Scheduler:** `Scheduler` and `backoff_delay(interval, fails)` =
+  `max(interval, min(interval*2^fails, 300))`. `SOURCES` sets the intervals: 120
+  s for news/shop/aes/cosmetics, 45 s for leaks and the status Bluesky account,
+  60 s for Epic content and Statuspage.
+  - **Serve loop:** it runs one due source at a time. A failing source is logged
+  and backed off, and never stops the loop. Telegram priority when over the
+  cap: leak/epic/status go first.
+  - **Git sync:** `git_prepare_workdir()` and `git_sync()` are separate helpers.
+  If `.git` is missing, the repo is shallow-cloned into `GIT_WORKDIR` or the
+  system tmp dir and used as ROOT. Pushes are debounced to one per 30 s, with
+  `pull --rebase` and one retry on rejection. `git_sync` returns `disabled`,
+  `clean`, `debounced`, `pushed` or `error`. A final forced sync runs on
+  SIGTERM.
+
+  **Tests**
+  - `python -m unittest discover -s tests`: Ran 41 tests, OK.
+  - They cover the Bluesky conversion and filters, Epic seed vs change,
+  Statuspage filtering and dedupe keys, scheduler ordering and backoff, git
+  disabled without env, and no token in errors or args.
+  - They also cover the seeded and priority logic in `process`.
+  - `python collector.py --demo` ran fine; I then restored the tree with `git
+  checkout -- state.json docs/`.
+  - Live smoke test of the new fetchers (read-only, nothing written):
+    - Bluesky: lpleaksnews returned 4 items under 6 h old; the other two leakers
+  and `fortnite-status` returned 0.
+    - Epic content: all 5 sections hashed, and a second poll 5 s later showed no
+  changes, so the hashes are stable.
+    - Epic Status: 0 items, and 4 Fortnite components were seeded as
+  operational.
+  - I also ran `--serve` for 25 s in a scratch copy in the scratchpad directory,
+  with no Telegram or GitHub env. All sources ran and a clean SIGTERM exit
+  worked. `state.json` came out with `epic_fp`, `status_components` and `seeded`
+  containing leak, epic and status.
+  - The git push and clone paths were not exercised against real GitHub. They
+  are only covered by mocks.
+
+  **Deviations**
+  - Single-pass `python collector.py` still polls only the original four
+  sources. The new ones run only under `--serve`.
+  - The token is passed to git via `GIT_CONFIG_*` env vars (`http.extraheader`),
+  not in the remote URL. It never appears in args or `.git/config`, and is
+  scrubbed from errors.
+  - `process` marks `polled_kinds` (leak, epic, status) as seeded even when a
+  poll returns no items. Otherwise the first real Epic or Status event would be
+  silenced. The old kinds keep the old behaviour.
+  - The Fortnite Status Bluesky posts use the same `status` kind and the same 6
+  h age filter as leaks.
+  - `.python-version` was added alongside `requirements.txt`.
+
+  **Open risks**
+  - Resolved incidents disappear from `summary.json`, so "resuelto" is never
+  announced.
+  - A section hash could flap if Epic embeds volatile fields. It was stable over
+  two polls, but a longer observation is needed.
+  - If Railway's image has no `git` binary, persistence fails. Sync logs an
+  error and the bot keeps running, but state is lost on redeploy.
+  - If the GitHub Actions cron stays on, both write `state.json` and publish. A
+  rebase conflict on `state.json` is aborted and retried, and could repeat.
+  Disable the cron when going live; I left `collect.yml` alone as asked.
+  - Each Telegram send sleeps 1.2 s and git pushes block the loop, so bursts
+  delay other sources slightly.
+  - Leaker posts are published untranslated. `createdAt` is trusted, so a leaker
+  backdating a post would bypass the 6 h filter.
+
+  I saved the design notes to engram (project fortnite-news).
+
+⏺ El escritor terminó y reporta 41 tests OK. Eso lo dice el mismo que escribió
+  el código, así que no lo tomo como verificación. Lanzo la revisión
+  independiente, que es obligatoria antes de commitear.
+
+⏺ caveman:cavecrew-reviewer(Fresh review of uncommitted diff)
+  ⎿  Backgrounded agent (↓ to manage · ctrl+o to expand)
+
+⏺ Agent "Implement real-time sources + Railway mode" finished · 4m 49s
+
+⏺ Ese aviso es solo la notificación de que el escritor terminó. Su reporte ya lo
+  tengo. La revisión independiente sigue corriendo y no commiteo nada hasta que
+  llegue su veredicto.
+
+✻ Brewed for 14s · done 11:20 AM
+
+› Message from caveman:cavecrew-reviewer
+  Scratch-copy runs: `python -m unittest discover -s tests` passed (41 tests, on
+  Python 3.9.6, not the 3.12 in `.python-version`). `--demo` ran normally in
+  the scratch copy. Real repo `git status` is unchanged after all runs.
+
+  /Users/focus/Desktop/U/Programas/FN News/fortnite-news/collector.py:~815:
+  HIGH: git_sync strands a local commit forever when `pull --rebase` conflicts
+  on state.json. Verified with a local bare-repo repro: the first sync returns
+  "error", the second returns "clean", and the checkout stays diverged (1 ahead,
+  1 behind). After the rebase abort the commit is already made, so `status
+  --porcelain` is clean and nothing retries. Every later commit then conflicts
+  on state.json too, so Railway never pushes again and everything is lost on the
+  next redeploy. The README's "disable the Actions cron" warning makes this a
+  likely path, not an edge case. Fix: after a failed push, `git fetch` then `git
+  reset --hard origin/<branch>`, re-apply the in-memory state, and commit
+  again. Or keep state.json in a separate branch or file that only Railway
+  writes. Also track "unpushed commits" (`git rev-list @{u}..HEAD`) instead of
+  relying on porcelain.
+
+  collector.py:~734 (process) and ~870 (serve): HIGH: the Telegram retry budget
+  burns in seconds. `process()` retries all of `state["pending"]` on every
+  source poll, and `--serve` polls 8 sources every 45-120 s. Verified: with
+  Telegram down, `pending` went from 3 tries to dropped after 3 different source
+  polls (leaks, status_bsky, news). A Telegram outage of about 1 minute
+  permanently drops queued leak, epic and status posts. Fix: retry pending only
+  from a dedicated timer or source, with its own backoff and a tries count that
+  advances at most once per N minutes.
+
+  collector.py:~700 (process) and SOURCES: HIGH: a Telegram flood on first
+  deploy. `status_bsky` and `statuspage` share the kind "status", and "status"
+  is marked seeded after the first poll of either one. Verified: with
+  `status_bsky` polled first, the first `statuspage` poll sent an active
+  incident to Telegram. Same risk for any status post from Bluesky within 6 h.
+  Fix: use distinct kinds or seed keys per source (e.g. "status_bsky" and
+  "statuspage"), or seed on a per-source basis (`seeded` keyed by source name).
+
+  collector.py:~731-753 (process): MEDIUM: send then save is not atomic.
+  Telegram sends and `write_feed` happen inside `process()`, and `save_state`
+  runs only afterwards in `run_source`. A crash or SIGTERM in between re-sends
+  on restart and duplicates the web entries. The same applies when `git_sync`
+  has not yet pushed and Railway redeploys: the checkout is in /tmp, so the sent
+  flags are lost. Fix: mark ids as seen and write state before sending (accept
+  at-most-once), or save state after each send.
+
+  collector.py:~110 (save_state): MEDIUM: the write is non-atomic
+  (`write_text`), and SIGTERM calls `sys.exit` inside the signal handler,
+  followed by a final forced `git_sync`. A mid-write kill leaves a truncated
+  state.json. The final `git_sync` pushes it, and `load_state` then raises
+  JSONDecodeError on every source forever. Fix: write to a temp file and
+  `os.replace`. Also have `load_state` fall back to an empty state or `.bak` on
+  corruption.
+
+  collector.py:~900 (serve finally): MEDIUM: the final `git_sync(force=True)`
+  can need up to 120 s per git call (push timeout). Railway's SIGTERM grace
+  period is short, so the push may be cut off by SIGKILL. I could not verify
+  Railway's grace period. Fix: use a shorter timeout (about 10 s) for the
+  shutdown sync.
+
+  collector.py:~795 (git_sync): MEDIUM: `_last_push` is set before the commit,
+  and a failure returns "error", so `dirty` stays True. `git_sync` is then
+  called after every source run, which can mean one git subprocess per iteration
+  while the push is failing. The debounce only partly limits this. Fix: use a
+  failure-specific backoff.
+
+  collector.py:~786 (git_sync) and ~770 (git_prepare_workdir): LOW: `git add
+  state.json docs` aborts with "pathspec 'docs' did not match" if docs/ doesn't
+  exist. Verified, but the real repo has docs/. Also, `pull --rebase` at startup
+  with a dirty tree only logs a warning. Fix: `git add -A -- state.json docs`
+  guarded by existence, or `--ignore-unmatch`.
+
+  collector.py:~755 and ~800: LOW: GIT_BRANCH is passed positionally in `pull
+  --rebase origin {branch}`. A value starting with "-" would be read as an
+  option. The values are operator-controlled env, so there is no shell injection
+  (list args, no shell). Fix: validate with `^[\w./-]+$` and reject a leading
+  "-". Apply the same check to GITHUB_REPO (`^[\w.-]+/[\w.-]+$`).
+
+  collector.py:~560-580 (detect_statuspage): LOW: resolved incidents never
+  appear in summary.json, so "resuelto" is never announced. This is documented
+  in the README. There is no re-announce spam, since the id includes status and
+  `updated_at`.
+
+  collector.py:~375 (bsky_post_to_item): LOW: `createdAt` is author-controlled.
+  A future-dated post never ages out of the 6 h filter. It is harmless because
+  dedupe by uri still holds. Fix: reject created > now + 5 min.
+
+  docs/index.html:180 and :227: not verified for XSS. `esc()` exists, but I did
+  not trace whether the item text and image URL from Bluesky go through it at
+  the render site (`$("#feed").innerHTML` at :227). Third-party post text now
+  lands in docs/news.json. Check that text, title, and the `image` src are
+  escaped or restricted to http(s).
+
+  Verified OK:
+  - Token leakage: no token in argv, remote URL, or .git/config. It travels via
+  `GIT_CONFIG_*` env as an extraheader. `scrub` strips both the raw token and
+  its base64 form. Exceptions go through `scrub` in `git_sync` and `serve`.
+  - Command injection: `subprocess.run` uses a list with no shell.
+  - ROOT switching: `SITE`, `STATE_FILE` and `ROOT` are reassigned via `global`,
+  and the call sites (`load_state`, `save_state`, `load_feed`, `write_feed`)
+  read the globals at call time.
+  - Scheduler: `wait()` has a floor of 1 s, backoff is capped, and every network
+  call has a timeout.
+  - Old state.json without the new kinds seeds silently, except for the
+  shared-"status" bug above.
+  - `--demo` and single-pass `run_once` are behaviorally identical to HEAD.
+
+  Could not verify:
+  - Live Bluesky, Epic content and Statuspage response shapes (no network calls
+  made).
+  - Whether the Epic content sections (lobby, dynamicbackgrounds,
+  playlistinformation) hash stably. If they contain timestamps they will spam
+  "epic" posts every poll, and this is the most likely production surprise.
+  - Railway SIGTERM grace period and ephemeral disk behavior.
+  - A shallow clone (`--depth 1`) combined with `pull --rebase`.
+
+  Tests:
+  - Many are pure-function tests, and git is mocked via `subprocess.run`, so the
+  real rebase and diverge path is untested. That is why the stranded-commit bug
+  passes.
+  - There are no tests for the cross-source "status" seeding or the
+  pending-retry burn.
+
+  VERDICT: FIX FIRST
+
+⏺ Veredicto de la revisión: FIX FIRST. Hay 3 bugs graves reales, todos
+  verificados con repros, y los tests del escritor no los detectaban. Le paso la
+  lista al escritor para que corrija.
+
+⏺ Agent "Fresh review of uncommitted diff" finished · 1m 55s
+  ⎿  Resuming agent a50a08b
+
+⏺ Le mandé al escritor la lista completa de correcciones. Estos son los puntos
+  graves:
+
+  1. Commit varado en git. Si hay conflicto en state.json, Railway dejaría de
+     pushear para siempre y perderías todo en el próximo redeploy.
+  2. Reintentos de Telegram. Se agotaban en segundos. Un corte de ~1 min
+     descartaba posts para siempre.
+  3. Flood en el primer deploy. Dos fuentes compartían el tipo status, así que
+     una incidencia activa podía mandarse a Telegram de golpe.
+
+  También van los problemas medios: guardado atómico de estado, orden de envío y
+  guardado, y timeouts del apagado. Y los menores: validar variables de entorno
+  y sanitizar el contenido de terceros.
+
+  Cada fix lleva un test que falle antes del arreglo. Para git usa un repo local
+  real, porque los mocks fueron justo lo que escondió el primer bug.
+
+  Hay una revisión pendiente: si docs/index.html escapa el texto de terceros
+  (riesgo de XSS). El escritor la traza y la reporta, sin editar ese archivo.
+
+  Cuando termine, hago una segunda revisión independiente antes de commitear.
+
+✻ Crunched for 23s · done 11:22 AM
+
+› Message from general-purpose
+  All 12 review items are fixed, and the suite is green on Python 3.9.6 and
+  3.11.17: `python -m unittest discover -s tests` ran 65 tests, OK on both. No
+  3.10+ only syntax is used. `--demo` and a 20 s `--serve` run in a scratch dir
+  were clean; the working tree is clean of demo output. Nothing committed or
+  pushed.
+
+  New tests are in `/Users/focus/Desktop/U/Programas/FN
+  News/fortnite-news/tests/test_review_fixes.py`, written first and run against
+  the old code (they failed there). The git ones use REAL git against a local
+  bare repo in a tempdir.
+
+  HIGH
+  1. **Fixed.**
+     - Push rejection now does `fetch`, `reset --hard origin/<branch>`,
+  re-applies `state.json` and `docs/news.json`/`news.js`, commits and pushes.
+  `pull --rebase` is gone.
+     - Unpushed local commits are detected with `rev-list
+  origin/<branch>..HEAD`.
+     - Tests: divergent remote, a stranded local commit, and a second sync after
+  a failed one converging.
+     - Because of the hard reset, the README now says the checkout is bot-owned
+  (not for a dev checkout with your own unsaved changes).
+  2. **Fixed.**
+     - Pending retries only happen from a new `pending` source (every 120 s) or
+  in single-pass mode. Each entry carries `tries` and `at`, and retries need
+  `PENDING_RETRY_SECS`=120 s since the last attempt.
+     - Tests: 8 polls with Telegram down leave `tries<=1`; the flush honors the
+  timer, delivers once Telegram is up, and discards after 3 tries.
+  3. **Fixed.**
+     - Items can carry a private `_seed` key: `status_bsky` for Bluesky status
+  posts, `statuspage` for Epic Status. Everything else seeds by kind. Old state
+  files stay compatible.
+     - Tests: a statuspage incident on its first poll is not sent even after
+  `status_bsky` was polled, and an old `seeded` list still seeds the new sources
+  silently.
+
+  MEDIUM
+  4. **Fixed.** `process()` takes a `persist` callback. `seen`, `seeded` and
+  `pending` are saved before sending, and again after each send. A crash can now
+  repeat at most the one message in flight. Tested with a snapshot taken inside
+  `persist`.
+  5. **Fixed.**
+     - `save_state` and `write_feed` use a temp file in the same dir plus
+  `os.replace` (`write_atomic`).
+     - An unreadable `state.json` now loads with `seen` taken from the ids in
+  `docs/news.json`, `first_run=True` and `seeded=[]`, so nothing is
+  re-published. `seeded` follows from what that run sees.
+     - Tests: atomic save leaves no tmp file, and the corrupt-state run sends
+  nothing.
+  6. **Fixed.** `git_sync(timeout=)` is plumbed through to every subprocess
+  call. The shutdown sync uses 10 s, and a git timeout is turned into a
+  `RuntimeError`. Tested by spying on `subprocess.run`.
+  7. **Fixed.** The old `_last_push` is replaced by `_next_attempt` and
+  `_sync_fails`. Failures back off 60 s, 120 s, and so on up to 300 s, and
+  nothing is spawned while backing off. Tested: the second call returns
+  "debounced" with no `subprocess.run`.
+
+  LOW
+  8. **Fixed.** Only existing paths among `state.json` and `docs` are added or
+  checked. Tested with `docs/` removed.
+  9. **Fixed.** `GITHUB_REPO` must match `[\w.-]+/[\w.-]+`, and `GIT_BRANCH`
+  must match `[\w./-]+` with no leading `-` and no `..`. An invalid value
+  disables sync with a one-time stderr message that does not print the token.
+  Tested.
+  10. **Fixed.** Posts dated more than 5 minutes in the future are rejected.
+  11. **Fixed in the collector; the page has a gap (see XSS trace).**
+      - Control characters are stripped from text (newlines kept).
+      - Image URLs must be `https://` with no whitespace, quotes, `<>`, backtick
+  or backslash.
+      - Post URIs and handles are validated against a strict charset.
+  12. **Fixed.** `detect_epic` now counts consecutive changes per section. After
+  3 it mutes that section for 30 min, logs once to stderr, and keeps updating
+  the hash; a stable poll resets the counter. Tested, including unmuting.
+      - Live data, read-only: all five sections have the same top-level
+  metadata, `_activeDate` and `lastModified` (plus `_locale`, `_templateName`,
+  `_title`). `lastModified` is the only field Epic touches without changing
+  content, so the hash now ignores it.
+      - `_activeDate` is kept because it signals a real scheduling change.
+      - Section sizes: `emergencynoticev2` 246 B, `lobby` 336 B, `loginmessage`
+  303 B, `dynamicbackgrounds` 546 B, `playlistinformation` 119 KB.
+      - No rotating ids or timestamps found inside the content. Two polls 5 s
+  apart were identical earlier.
+      - `playlistinformation` is the largest and the most likely to flap.
+
+  **XSS trace (`docs/index.html`, not edited)**
+  - **Text and title:** `esc()` at line 180 uses `textContent` then `innerHTML`,
+  which escapes `& < >` but not quotes. It is used in element context (lines
+  217-218), so these are safe.
+  - **Image:** line 211 puts `src="${esc(...)}"` inside a double-quoted
+  attribute, so a `"` in the URL would break out. `esc` does not escape `"`, and
+  nothing restricts the scheme to http(s).
+  - **Also unescaped in quotes:** `data-id="${esc(n.id)}"` and
+  `datetime="${esc(n.ts)}"`.
+  - **Result:** the page itself is vulnerable to a quote in the image URL, and
+  Bluesky image URLs are third-party. The collector now blocks quotes and
+  non-`https` schemes, and restricts ids and handles, so the gap is closed at
+  the source. The page fix (make `esc` also escape `"` and `'`) is yours to
+  decide.
+
+  **Open risks**
+  - If a hard reset runs while another writer such as the GitHub Actions cron is
+  still live, its `news.json` entries are overwritten by the bot's, so the cron
+  must be disabled.
+  - A crash can still repeat the single in-flight Telegram message.
+  - After the corrupt-state recovery, a kind not yet seen is silent on its first
+  item (a small lost notification).
+
+  README updated for the git recovery behavior. All changes are in
+  `collector.py`, `README.md`, `tests/test_sources.py` (updated for the changes)
+  and `tests/test_review_fixes.py`.
+
+⏺ El escritor dice que corrigió los 12 puntos y que hay 65 tests en verde. Sigue
+  siendo su propio reporte, así que lanzo una segunda revisión con contexto
+  fresco, enfocada en confirmar los fixes y buscar regresiones.
+
+⏺ caveman:cavecrew-reviewer(Second fresh review of fixes)
+  ⎿  Backgrounded agent (↓ to manage · ctrl+o to expand)
+
+⏺ Agent "Implement real-time sources + Railway mode" finished · 4m 46s
+
+⏺ Esa notificación solo avisa que el escritor terminó. Su reporte ya lo tengo.
+
+  Lo que dejó pendiente es la página. El escritor encontró que docs/index.html
+  no escapa comillas en el src de las imágenes. El colector ya filtra comillas y
+  exige https://, así que el hueco quedó cerrado en origen. Aun así, defensa en
+  profundidad: la página no debería confiar en que el colector filtre bien. Es
+  un arreglo de una línea en esc() y lo propongo después de la segunda revisión,
+  para no tocar archivos mientras el revisor audita.
+
+  Sigo esperando el veredicto del revisor. No commiteo hasta que llegue.
+
+✻ Brewed for 17s · done 11:27 AM
+
+› Message from caveman:cavecrew-reviewer
+  Review of uncommitted changes in /Users/focus/Desktop/U/Programas/FN
+  News/fortnite-news. All 12 prior fixes verified by reading code. Nothing
+  exploitable found; two real limits and a few smaller issues below.
+
+  I did not edit the real repo, and `git status` there is identical before and
+  after. I ran everything in a scratchpad copy.
+
+  Test runs:
+  - `python3 -m unittest discover -s tests`: 65 tests, OK.
+  - `python3 collector.py --demo`: works.
+  - `--serve` for 20 s with no Telegram or GitHub env: works. Exit 0 on SIGTERM,
+  and 3 leaks went to the web feed only.
+
+  Fix verification:
+  - (1) git_sync: verified end to end (see D below).
+  - (2) pending: a dedicated source plus the 120 s gate. Other sources never
+  touch retry budgets because `flush_pending` is false for them.
+  - (3) per-source `_seed`: verified.
+  - (4) persist before and after each send: `tries` and `at` are saved before
+  the send, so a crash mid-send leaves the item in `pending` and it is retried
+  after 120 s. At worst the in-flight item is duplicated; nothing is lost
+  silently.
+  - (5) `write_atomic` uses a same-directory temp file plus `os.replace`.
+  - Corrupt-state recovery: `{}`, empty or garbage `state.json` gives a silent
+  first run with `seen` taken from the feed. No re-publish flood.
+  - Old `state.json` with no `leak`, `epic`, `status_bsky` or `statuspage` keys
+  in `seeded`: those sources seed silently.
+  - (6)-(12): present as described. Image URLs and handles are regex-validated,
+  so the `esc()` helper in `docs/index.html` is safe even though it does not
+  escape quotes.
+  - Secrets: no token in args, `.git/config` or logs. The `.git/config` check
+  ran in the e2e clone (below). Error text goes through `scrub()`.
+
+  Findings:
+
+  collector.py:967-977: HIGH (conditional). The reject path re-applies the local
+  `state.json`, `docs/news.json` and `docs/news.js` over the remote versions. I
+  proved this: after another writer pushed `[{"id":"remote-item"}]`, the final
+  remote `news.json` was `[{"id":"local-item"}]`. The remote item was dropped
+  and the other writer's `seen` ids are lost, so items can be re-published. It
+  only matters while a second writer exists, and one does by default:
+  `.github/workflows/collect.yml` still has `cron */10`. The README warns to
+  disable it, but the file in the repo still has the schedule. Fix: delete the
+  `schedule` block in the same commit, or merge on conflict (union of `seen`,
+  merge `news.json` by `id`).
+
+  collector.py:1018-1024, 833, 962-977: MEDIUM. The loop is single-threaded and
+  can block for a long time.
+  - 10 Telegram sends at 20 s timeout, doubled by the photo-to-text fallback,
+  can block for about 400 s.
+  - A reject-path push is about 8 git commands at 120 s each.
+  - Either one starves the 45 s sources. Fix: cap the Telegram budget per source
+  call (for example 3 sends or 30 s), and use shorter git timeouts when not
+  shutting down.
+
+  collector.py:1013, 1024, 979: MEDIUM. `state.json` is pushed at most every 30
+  s. A hard kill or redeploy inside that window, or while git is failing, loses
+  `seen` and `pending` on the ephemeral disk. Messages already sent are re-sent
+  after the next clone. This is inherent to the design. Fix: force a sync after
+  any run that sent Telegram messages, or accept and document it.
+
+  collector.py:594-603 and 633: LOW/MEDIUM. If one leaker handle fails on the
+  first poll while the others succeed, `leak` is marked seeded. When the failed
+  handle recovers, its posts from the last 6 hours go to Telegram as new, up to
+  10 per run, with priority over everything else. Fix: seed per handle, or give
+  unseen handles their own seed key.
+
+  collector.py:921-935: LOW. If `GIT_WORKDIR` persists (a volume) and is stale,
+  `prepare_workdir` only fetches and never resets. The first push is rejected,
+  and the reject path then overwrites the remote with the stale local data. Fix:
+  after the fetch, run `reset --hard origin/<branch>` when there are no local
+  commits ahead.
+
+  collector.py:921, 969: LOW. If the run directory already has a `.git`, for
+  example a local run with `GITHUB_TOKEN` set, the first rejected push runs
+  `reset --hard` on the developer's checkout. Documented in a comment at lines
+  862-863. Fix: refuse to sync unless `GIT_WORKDIR` is set or the checkout is
+  the bot's own clone.
+
+  collector.py:106-113: LOW. A crash between the temp write and `os.replace`
+  leaves a stray `docs/news.json.tmp`, which `git add -- docs` would commit.
+  Fix: add `*.tmp` to `.gitignore` or clean up at startup.
+
+  collector.py:798-799 and 809-815: LOW. `news.json` is written before
+  `state.json` is persisted. A crash between the two duplicates the item in the
+  web feed after restart. The web feed has no dedupe by `id`.
+
+  collector.py:507-514: LOW. During a flap mute, real changes to that section
+  are silently absorbed and never announced. That is the designed trade-off.
+
+  Scheduler order and the pending priority interplay are fine. `src_pending`
+  returns nothing new, so due retries cannot be starved by the priority sort.
+  Items over the 10-message cap with 0 tries go to the web only, as before.
+
+  Regressions against HEAD:
+  - `run_once`, `--demo` and `--loop` behave the same. The only difference is
+  that `state.json` is now written before sends.
+  - Verified `Sin novedades` returns without saving, same as HEAD.
+
+  D, end-to-end git path, done with a local bare origin:
+  - The `file://` remote was redirected through `url.insteadOf` in
+  `GIT_CONFIG_GLOBAL`, with `GITHUB_TOKEN`, `GITHUB_REPO=o/r` and `GIT_WORKDIR`
+  set.
+  - Shallow clone, config, fetch, commit and push all work.
+  - Forced reject path: after a competing push, fetch + reset + re-apply + push
+  ended with history `ours -> other -> ...`, no stranded commit and a clean
+  working tree.
+  - `.git/config` has no token. The origin url is the plain
+  `https://github.com/o/r.git`.
+
+  Could NOT verify:
+  - Real GitHub: the `http.https://github.com/.extraheader` basic-auth path with
+  an actual token, and whether Railway's deploy directory has a `.git`.
+  - Real Telegram sends: timing and the photo-to-text fallback.
+  - Epic `lastModified` churn: two fetches 3 s apart were identical, so I could
+  not confirm or rule out frequent `state.json` rewrites, which would mean a
+  commit about every 60 s.
+  - SIGTERM landing between `reset --hard` and the re-apply writes. The window
+  is narrow and I did not test it.
+
+  Verdict: FIX FIRST. Disable the Actions cron (or add merge-on-conflict to the
+  reject path) before deploying to Railway. The rest can follow. The code itself
+  is otherwise safe to commit.
+
+⏺ La segunda revisión da FIX FIRST, pero con una condición. El código está bien
+  y los 12 fixes quedaron verificados. Probaron además el flujo de git completo
+  con un origin local.
+
+  Lo único bloqueante es operativo, no de código. El cron de GitHub Actions
+  sigue activo. Si Railway y el cron escriben a la vez, el que pierde la carrera
+  pisa las novedades del otro y puede repetir publicaciones. La solución es
+  sacar el schedule de collect.yml cuando Railway ya esté andando, no antes. Si
+  lo saco ahora, la web deja de actualizarse hasta que montes Railway.
+
+  Seguimientos no bloqueantes:
+  - Un handle de leaker que falla en la primera pasada puede soltar posts viejos
+    después.
+  - Un envío largo a Telegram puede frenar las fuentes de 45 s.
+  - Si Railway se reinicia dentro de la ventana de 30 s entre pushes, un mensaje
+    ya enviado puede reenviarse.
+  - Falta ignorar *.tmp en .gitignore.
+
+  Los arreglo después, con el bot ya corriendo.
+
+  Estado: nada está commiteado. Son cambios en collector.py, README.md,
+  railway.json, requirements.txt, .python-version y tests/. Hay 65 tests en
+  verde.
+
+  ¿Commiteo el código ahora (mensaje convencional, sin atribución) dejando el
+  cron como está hasta que Railway esté vivo?
+
+✻ Worked for 9s · done 11:30 AM
+
+⏺ Agent "Second fresh review of fixes" finished · 3m 11s
+
+※ recap: Estamos haciendo que el bot de Fortnite publique leaks y noticias casi en tiempo real, con fuentes gratis y un proceso siempre activo en Railway. El código ya está revisado y pasa los tests, pero sin commitear; falta tu respuesta: ¿lo commiteo ahora, dejando el cron como está hasta que Railway esté vivo? (disable recaps in /config)
