@@ -108,6 +108,10 @@ T_SHOP_SAME = [
     "🛒 Tienda renovada pero sin nada nuevo ({total} ítems repetidos). Hoy se ahorra 🗿",
 ]
 SHOP_TOP = 6   # cuántas novedades se listan en el post de tienda
+# Código de creador (Support-A-Creator). Epic exige declarar la relación cada vez que se promociona
+# el código: #EpicPartner es una de las etiquetas que acepta. También está en docs/index.html.
+CREATOR_CODE = "INFINITO_Z"
+CREATOR_LINE = f"\n\n💜 Apoya al canal: usa el código {CREATOR_CODE} en la tienda. #EpicPartner"
 T_BUILD = [
     "🚨 NUEVA VERSIÓN DETECTADA: {build}. Parche en camino, a preparar el pop-off 🔧",
     "⚙️ Cambió el build del juego: {build}. Algo se viene, mantente atento 👀",
@@ -265,7 +269,7 @@ def detect_shop(data):
             offers.append(o)
 
     if not offers:
-        text = pick(uid, T_SHOP_SAME).format(total=len(entries))
+        text = pick(uid, T_SHOP_SAME).format(total=len(entries)) + CREATOR_LINE
         return [mk("shop", uid, "Tienda del día", text, None, "Tienda")]
 
     top = offers[:SHOP_TOP]
@@ -273,7 +277,7 @@ def detect_shop(data):
     more = len(offers) - len(top)
     if more > 0:
         lines += f"\n…y {more} más"
-    text = pick(uid, T_SHOP).format(n=len(offers), total=len(entries), lines=lines)
+    text = pick(uid, T_SHOP).format(n=len(offers), total=len(entries), lines=lines) + CREATOR_LINE
     image = next((o["image"] for o in top if o["image"]), None)
     return [mk("shop", uid, "Tienda del día", text, image, "Tienda")]
 

@@ -60,6 +60,23 @@
   .live b{color:var(--parche);font-weight:700}
   .tag-line{margin:10px 0 0;color:var(--mut);font-size:15px}
 
+  /* ---------- código de creador (como el recuadro "Apoyar a un creador" del juego) */
+  .sac{
+    margin-top:18px;display:flex;align-items:center;gap:14px 18px;flex-wrap:wrap;
+    padding:14px 18px;border-radius:12px;border:2px solid var(--tienda);
+    background:linear-gradient(100deg,color-mix(in srgb,var(--tienda) 22%,var(--tormenta)),var(--tormenta) 70%);
+  }
+  .sac-label{font:700 13px/1.2 var(--meta);letter-spacing:.8px;text-transform:uppercase;color:var(--tienda)}
+  .sac-code{font:400 clamp(26px,4vw,34px)/1 var(--display);letter-spacing:1px;transform:skewX(-8deg);user-select:all}
+  .copy{
+    font:700 14px/1 var(--meta);text-transform:uppercase;letter-spacing:.6px;cursor:pointer;
+    padding:10px 16px;border-radius:8px;border:0;background:var(--tienda);color:#0e0a24;transform:skewX(-8deg);
+  }
+  .copy>span{display:inline-block;transform:skewX(8deg)}
+  .copy:focus-visible{outline:3px solid #fff;outline-offset:3px}
+  .sac-note{flex-basis:100%;margin:0;font-size:13px;color:var(--mut)}
+  .sac-note b{color:var(--txt)}
+
   .filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
   .filter{
     --c:var(--txt);
@@ -137,6 +154,15 @@
     <div class="live" id="upd" aria-live="polite"><b>●</b> En vivo</div>
   </div>
   <p class="tag-line">Lo que pasa en Fortnite, en español y al toque. También en <a href="https://t.me/fnradar_news">Telegram</a>.</p>
+  <section class="sac" aria-label="Código de creador">
+    <div>
+      <div class="sac-label">Apoya a FN Radar · código de creador</div>
+      <div class="sac-code" id="code">INFINITO_Z</div>
+    </div>
+    <button class="copy" id="copy" type="button"><span>Copiar código</span></button>
+    <p class="sac-note">Escríbelo en la tienda de Fortnite, en «Apoyar a un creador». <b>#EpicPartner</b>:
+      en relación con el programa Support-A-Creator de Epic Games, puedo recibir pagos por tus compras dentro del juego.</p>
+  </section>
   <nav class="filters" id="filters" aria-label="Filtrar por tipo"></nav>
 </header>
 
@@ -220,6 +246,13 @@ $("#feed").addEventListener("click", e => { const c = e.target.closest(".card");
 $("#feed").addEventListener("keydown", e => {
   const c = e.target.closest(".card");
   if (c && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); toggle(c); }
+});
+
+$("#copy").addEventListener("click", async () => {
+  const label = $("#copy span");
+  try{ await navigator.clipboard.writeText($("#code").textContent.trim()); label.textContent = "¡Copiado!"; }
+  catch(e){ getSelection().selectAllChildren($("#code")); label.textContent = "Ctrl+C para copiar"; }
+  setTimeout(() => label.textContent = "Copiar código", 2000);
 });
 
 async function refresh(){

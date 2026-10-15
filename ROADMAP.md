@@ -126,6 +126,13 @@ Robustez y operación
 - El sitio debe llevar el aviso de "no oficial; Fortnite es marca de Epic Games" (ya está en el pie).
 - No copiar textos ni imágenes de otras cuentas; usar fuentes primarias y redacción propia.
 - La primera ejecución contra cualquier fuente nueva debe ser **silenciosa** (sembrado) para no inundar el canal.
+- Código de creador `INFINITO_Z` (Support-A-Creator): cada vez que se promociona hay que declarar la relación con
+  Epic de forma clara y visible, junto al código (no escondida en el pie). Se usa `#EpicPartner` (etiqueta aceptada
+  por Epic) y en la web además la frase larga sobre pagos. Vive en dos sitios: `CREATOR_CODE`/`CREATOR_LINE` en
+  `collector.py` (solo posts de tienda) y el bloque `.sac` de `docs/index.html`. Epic solo permite cambiar el código
+  una vez cada 12 meses.
+  No usar logos de Epic/Fortnite. Revisar las reglas cada ~3 meses (y ante cualquier correo de Epic) en
+  https://www.epicgames.com/affiliate/overview y https://legal.epicgames.com/fortnite/eula/sac (pide iniciar sesión).
 - Un id se marca como visto aunque Telegram falle (así la web no duplica); lo no enviado vive en `pending`, no en `seen`.
 - Secretos solo como variables de entorno o *secrets* de GitHub; el token que se creó en BotFather nunca va en el repo ni en el chat.
 - El usuario escribe en español (Lima, UTC-5); la tienda cambia a las 19:00 hora de Lima.
