@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:92e2fb0d5363418bbe523e6f4a73e543",
+  "kind": "news",
+  "title": "Horrores que merece la pena afrontar juntos",
+  "text": "👀 Epic acaba de soltar esto: Horrores que merece la pena afrontar juntos\n¡Los desarrolladores han demostrado su talento endiablado y han dado vida a sus propios horrores para Fortnite: Pesadillas! Explora una colección de islas de lo más escalofriantes, cada una con su propio giro inesperado. Enfréntate al miedo con tus amigos para desbloquear la misión La unión hace la fuerza.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-15T23:14:22+00:00"
+ },
+ {
   "id": "news:1f3b5a2054c5fb25d808368b72011c2a",
   "kind": "news",
   "title": "Horrores que merece la pena afrontar juntos",
@@ -108,4 +117,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-15T20:29:04+00:00";
+window.NEWS_UPDATED = "2026-10-15T23:14:22+00:00";
