@@ -104,7 +104,9 @@ class BskyTests(unittest.TestCase):
             if "blackgoku" in url:
                 raise OSError("boom")
             return {"feed": [entry("k", handle="x")]}
+        real_fetch = c.fetch_bsky_items
         with mock.patch.object(c, "http_json", side_effect=fake), \
+                mock.patch.object(c, "fetch_bsky_items", lambda h, k: real_fetch(h, k, now=NOW)), \
                 mock.patch.object(c, "LEAKER_HANDLES", ["a.bsky.social", "blackgokunews.bsky.social"]), \
                 redirect_stderr(io.StringIO()):
             items = c.src_leaks({})

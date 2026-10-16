@@ -1,8 +1,9 @@
 name: Recolectar noticias de Fortnite
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # cada ~10 min (GitHub puede retrasarlo unos minutos)
+  # Cron desactivado: Railway (--serve) es el recolector. Dos activos = doble publicación.
+  # schedule:
+  #   - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
