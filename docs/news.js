@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmqzi4jk2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 18 de outubro!\n\n· Wandinha (3x)\n· Vestiário de Horrores (9x)\n· Novidade na Área (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzmqzi4jk2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiazdqfmzrh45hsqefo3pq73toaoqhhg2hekyhek5jif5vo67vo5pi",
+  "tag": "Filtración",
+  "ts": "2026-10-16T22:28:53+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmkfx7zs2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -369,4 +378,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T22:25:18+00:00";
+window.NEWS_UPDATED = "2026-10-16T22:28:53+00:00";
