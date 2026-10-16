@@ -242,10 +242,29 @@
  "seeded": [
   "build",
   "cosmetic",
+  "epic",
   "leak",
   "news",
   "shop",
-  "status_bsky"
+  "status_bsky",
+  "statuspage"
  ],
- "pending": []
+ "pending": [],
+ "epic_fp": {
+  "lastModified": "2026-10-15T22:08:25.683Z",
+  "sections": {
+   "emergencynoticev2": "132c008ce2ffebaa386cb3eaa8577044",
+   "dynamicbackgrounds": "16c3c85cd916ee69b22d2e5aee74cb57",
+   "lobby": "1b184eafbe9f1dda4586c7e030376514",
+   "loginmessage": "bb9f7746467f425a4a3617564b13475c",
+   "playlistinformation": "4f9a658144dd899ef4a6dce36f195eb2"
+  },
+  "flaps": {}
+ },
+ "status_components": {
+  "wf1ys2kx4pxc": "operational",
+  "gc4ccpj8dz48": "operational",
+  "5qdplhgvqxfn": "operational",
+  "vyf8y8054472": "operational"
+ }
 }
