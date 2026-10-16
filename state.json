@@ -315,19 +315,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmkfx7zs2x",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 17 de outubro!\n\n· Uma Noite de Crime (3x)\n· Um Estouro [Gestos] (2x)\n· Vestiário de Horrores (9x)\n· McLaren 570s (1x)\n· Novidade na Área (2x)\n· Estilo Top (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzmkfx7zs2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibd6nhonzdudryhooneu3igmpp7pskcxjfgq6pbqlrzm4vwnjzeei",
-    "tag": "Filtración",
-    "ts": "2026-10-16T22:25:18+00:00"
-   },
-   "tries": 2,
-   "at": 1792189703.0234647
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmqzi4jk2m",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -336,8 +323,8 @@
     "tag": "Filtración",
     "ts": "2026-10-16T22:28:40+00:00"
    },
-   "tries": 1,
-   "at": 1792189720.735745
+   "tries": 2,
+   "at": 1792189892.8713493
   }
  ],
  "epic_fp": {
