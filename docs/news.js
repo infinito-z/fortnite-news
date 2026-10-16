@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Todos os cosméticos da Lady Liberty de Uma Noite de Crime (The Purge) foram descriptografados e chegam à Loja amanhã, 17 de outubro (preços desconhecidos). #Fortnite\n\n📁 Pak1025 | 37.28 MB | Traje e etc\n📁 Pak1015 | 5.63 MB | Picareta e etc\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz5wzjbfs2e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic7sqr3bvcjhs6767yl5w6c6ot37j5o6hhczddgepuqh4omxv745m",
+  "tag": "Filtración",
+  "ts": "2026-10-16T18:03:38+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_CarryMazeFlap",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Dron de la purga",
@@ -297,4 +306,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T17:54:58+00:00";
+window.NEWS_UPDATED = "2026-10-16T18:03:39+00:00";
