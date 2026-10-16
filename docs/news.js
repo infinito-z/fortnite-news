@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "shop:77bcf82c09f86f60",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 78 novedades. Lo más fuerte:\n• Lote de Yeat — 3.600 paVos\n• LOTE DE DIABÓLICO — 3.500 paVos\n• Lote de Calamar — 3.000 paVos\n• Lote de Mariano el humano — 2.200 paVos\n• Leviatán — 2.000 paVos\n• Lote de El líder — 2.000 paVos\n…y 72 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/1f7b5b74056f6534/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-16T01:29:07+00:00"
+ },
+ {
+  "id": "news:92e2fb0d5363418bbe523e6f4a73e543",
+  "kind": "news",
+  "title": "Horrores que merece la pena afrontar juntos",
+  "text": "👀 Epic acaba de soltar esto: Horrores que merece la pena afrontar juntos\n¡Los desarrolladores han demostrado su talento endiablado y han dado vida a sus propios horrores para Fortnite: Pesadillas! Explora una colección de islas de lo más escalofriantes, cada una con su propio giro inesperado. Enfréntate al miedo con tus amigos para desbloquear la misión La unión hace la fuerza.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-15T23:14:22+00:00"
+ },
+ {
+  "id": "news:1f3b5a2054c5fb25d808368b72011c2a",
+  "kind": "news",
+  "title": "Horrores que merece la pena afrontar juntos",
+  "text": "🚨 NOTICIA: Horrores que merece la pena afrontar juntos\n¡Los desarrolladores han demostrado su talento endiablado y han dado vida a sus propios horrores para Fortnite: Pesadillas! Explora una colección de islas de lo más escalofriantes, cada una con su propio giro inesperado. Enfréntate al miedo con tus amigos para desbloquear la misión La unión hace la fuerza.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-15T20:29:04+00:00"
+ },
+ {
   "id": "build:++Fortnite+Release-42.40-CL-59086525",
   "kind": "build",
   "title": "Build 42.40",
@@ -99,4 +126,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-15T12:39:15+00:00";
+window.NEWS_UPDATED = "2026-10-16T01:29:07+00:00";
