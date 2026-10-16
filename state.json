@@ -268,21 +268,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:6d0ed577ff",
-    "kind": "cosmetic",
-    "title": "18 cosméticos nuevos",
-    "text": "🔥 18 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Alastor, Princesa Charlie Morningstar, Vagatha, Radio de Alastor, Teclas de Alastor, KeeKee. Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_acidwhale/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-16T13:01:59+00:00"
-   },
-   "tries": 2,
-   "at": 1792155900.8837197
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-16T04:09:28.750Z",
   "sections": {
