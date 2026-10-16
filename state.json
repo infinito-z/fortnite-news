@@ -283,7 +283,9 @@
   "cosmetic:EID_CarryMazeFlap",
   "cosmetic:Emoticon_CarryMaze",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e"
  ],
  "first_run": false,
  "seeded": [
@@ -309,6 +311,19 @@
    },
    "tries": 1,
    "at": 1792173819.2912097
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Primeira visão dos cosméticos da Lady Liberty de Uma Noite de Crime (The Purge) no Vestiário do jogo. Na Loja amanhã, 17 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz5ye2kwk2e\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-16T18:04:18+00:00"
+   },
+   "tries": 1,
+   "at": 1792173859.2409208
   }
  ],
  "epic_fp": {
