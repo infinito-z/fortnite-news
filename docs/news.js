@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:77bcf82c09f86f60",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 78 novedades. Lo más fuerte:\n• Lote de Yeat — 3.600 paVos\n• LOTE DE DIABÓLICO — 3.500 paVos\n• Lote de Calamar — 3.000 paVos\n• Lote de Mariano el humano — 2.200 paVos\n• Leviatán — 2.000 paVos\n• Lote de El líder — 2.000 paVos\n…y 72 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/1f7b5b74056f6534/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-16T01:29:07+00:00"
+ },
+ {
   "id": "news:92e2fb0d5363418bbe523e6f4a73e543",
   "kind": "news",
   "title": "Horrores que merece la pena afrontar juntos",
@@ -117,4 +126,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-15T23:14:22+00:00";
+window.NEWS_UPDATED = "2026-10-16T01:29:07+00:00";
