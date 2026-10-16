@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Primeira visão dos cosméticos da Lady Liberty de Uma Noite de Crime (The Purge) no Vestiário do jogo. Na Loja amanhã, 17 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz5ye2kwk2e\n⚠️ No es oficial.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-10-16T18:04:18+00:00"
+  "ts": "2026-10-16T18:04:25+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
@@ -315,4 +315,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T18:04:19+00:00";
+window.NEWS_UPDATED = "2026-10-16T18:04:26+00:00";
