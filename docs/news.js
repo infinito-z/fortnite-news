@@ -1,5 +1,50 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxclsxb2s2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 19 de outubro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxclsxb2s2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigqfqgoiggar7cz4ur4ip5ikiezz43i3fnafsibsxjqobpxbiwlli",
+  "tag": "Filtración",
+  "ts": "2026-10-16T03:28:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxcljrds22b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nHora de jogar. De novo e de novo. Mostre que você já jogou todos esses jogos com Round 6 que traz desafios insanos para a Loja do Fortnite até 20 de outubro! 🔥🍟\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxcljrds22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaqbatalbu4ug3lq42rdqdc4wqd24fmaovreshpkktx7txe6fjyhm",
+  "tag": "Filtración",
+  "ts": "2026-10-16T03:28:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxckebees2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEstilo intimidador. O Chassi Dingo e seus acessórios trazem velocidade para a Loja do Fortnite por 1.500 V-Bucks até 22 de outubro! 🔥💨\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxckebees2b\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidvtdlqwgfvfhfil2fjkfczbeklvwqm3wmce2z7jpdnxl33jbsewm",
+  "tag": "Filtración",
+  "ts": "2026-10-16T03:28:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxcjrejv22b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nBrilho intenso e estilo insuperável. Yeat e seus acessórios Série Ícones mostram o poder do rap na Loja do Fortnite até 31 de outubro! 🪩🎤\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxcjrejv22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicaedbdu3pqxki2s3333z72hmysnxszvntebrmyeprafhtiqjakkq",
+  "tag": "Filtración",
+  "ts": "2026-10-16T03:28:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxx3k3nnv22e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Yeat (4x)\n· Round 6 (6x)\n· Vestiário de Horrores [Halloween] (11x)\n· Um Estouro [Gestos] (2x)\n· Dingo (2x)\n· Estilo Top (4x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxx3k3nnv22e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieetat3fc2jldfqyeqy7jbb3k73tewogfr2pofybdzvyzsmataeke",
+  "tag": "Filtración",
+  "ts": "2026-10-16T03:28:59+00:00"
+ },
+ {
   "id": "shop:77bcf82c09f86f60",
   "kind": "shop",
   "title": "Tienda del día",
@@ -126,4 +171,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T01:29:07+00:00";
+window.NEWS_UPDATED = "2026-10-16T03:28:59+00:00";
