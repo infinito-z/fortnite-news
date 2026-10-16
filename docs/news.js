@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "cosmetic:Pickaxe_CarryMazeFlap",
+  "kind": "cosmetic",
+  "title": "Pico: Antorcha de la libertad de la purga",
+  "text": "🔥 Nuevo en los archivos: Antorcha de la libertad de la purga (Raro). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_carrymazeflap/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T16:01:06+00:00"
+ },
+ {
+  "id": "cosmetic:Wrap_CarryMaze",
+  "kind": "cosmetic",
+  "title": "Envoltorio: Contador de la purga",
+  "text": "🔥 Nuevo en los archivos: Contador de la purga (Raro). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/wrap_carrymaze/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T16:01:06+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyojboysk2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -234,4 +252,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T13:27:33+00:00";
+window.NEWS_UPDATED = "2026-10-16T16:01:06+00:00";

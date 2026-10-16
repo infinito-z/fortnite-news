@@ -267,7 +267,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyojboysk2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyoiztntk2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyojboysk2d",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyoiztntk2d"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyoiztntk2d",
+  "cosmetic:Pickaxe_CarryMazeFlap",
+  "cosmetic:Wrap_CarryMaze",
+  "cosmetic:Pickaxe_CarryMazeFlap",
+  "cosmetic:Wrap_CarryMaze"
  ],
  "first_run": false,
  "seeded": [
@@ -280,7 +284,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic:Pickaxe_CarryMazeFlap",
+    "kind": "cosmetic",
+    "title": "Pico: Antorcha de la libertad de la purga",
+    "text": "🔥 Nuevo en los archivos: Antorcha de la libertad de la purga (Raro). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_carrymazeflap/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-16T16:01:06+00:00"
+   },
+   "tries": 1,
+   "at": 1792166466.565127
+  },
+  {
+   "item": {
+    "id": "cosmetic:Wrap_CarryMaze",
+    "kind": "cosmetic",
+    "title": "Envoltorio: Contador de la purga",
+    "text": "🔥 Nuevo en los archivos: Contador de la purga (Raro). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/wrap_carrymaze/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-16T16:01:06+00:00"
+   },
+   "tries": 1,
+   "at": 1792166466.565127
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-16T04:09:28.750Z",
   "sections": {
