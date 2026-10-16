@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:6d0ed577ff",
+  "kind": "cosmetic",
+  "title": "18 cosméticos nuevos",
+  "text": "🔥 18 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Alastor, Princesa Charlie Morningstar, Vagatha, Radio de Alastor, Teclas de Alastor, KeeKee. Tu billetera ya lloró 💸😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_acidwhale/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T13:01:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxclsxb2s2b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -171,4 +180,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T03:28:59+00:00";
+window.NEWS_UPDATED = "2026-10-16T13:01:59+00:00";
