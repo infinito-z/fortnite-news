@@ -284,34 +284,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic:Pickaxe_CarryMazeFlap",
-    "kind": "cosmetic",
-    "title": "Pico: Antorcha de la libertad de la purga",
-    "text": "🔥 Nuevo en los archivos: Antorcha de la libertad de la purga (Raro). Billetera, prepárate 💸",
-    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_carrymazeflap/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-16T16:01:06+00:00"
-   },
-   "tries": 2,
-   "at": 1792166666.2099855
-  },
-  {
-   "item": {
-    "id": "cosmetic:Wrap_CarryMaze",
-    "kind": "cosmetic",
-    "title": "Envoltorio: Contador de la purga",
-    "text": "🔥 Nuevo en los archivos: Contador de la purga (Raro). Billetera, prepárate 💸",
-    "image": "https://fortnite-api.com/images/cosmetics/br/wrap_carrymaze/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-16T16:01:06+00:00"
-   },
-   "tries": 2,
-   "at": 1792166666.2099855
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-16T04:09:28.750Z",
   "sections": {
