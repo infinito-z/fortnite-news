@@ -285,7 +285,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5wzjbfs2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6bjekik2p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6aybeq22p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6bjekik2p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6aybeq22p"
  ],
  "first_run": false,
  "seeded": [
@@ -324,6 +328,32 @@
    },
    "tries": 2,
    "at": 1792174018.660808
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6bjekik2p",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO LADY LIBERTY | #Fortnite\n\n🗓️ 17 de outubro\n🎮 Battle Royale e Trocação (Solo)\n🇧🇷 Top 200 no Brasil leva o Traje e Mochila da Lady Liberty\n\nA Lady Liberty e seus acessórios de Uma Noite de Crime chegam à Loja do Fortnite também em 17 de outubro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz6bjekik2p\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifr4c37y7dvjkq5o6yel6as73w3twnjvcvbclahrkacm7ajbxr2n4",
+    "tag": "Filtración",
+    "ts": "2026-10-16T18:09:07+00:00"
+   },
+   "tries": 1,
+   "at": 1792174147.8897908
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6aybeq22p",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Pacotão Uma Noite de Crime (The Purge) que chegará à Loja do Fortnite amanhã, 17 de outubro!\n\nInclui Traje, Mochila e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz6aybeq22p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidqgfk4na42ewvr2unuml5dqzqxincadipxmnyl3fg33dziodkmma",
+    "tag": "Filtración",
+    "ts": "2026-10-16T18:09:07+00:00"
+   },
+   "tries": 1,
+   "at": 1792174147.8897908
   }
  ],
  "epic_fp": {
