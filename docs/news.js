@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzfy5yr6k2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Todos os cosméticos de Obsessão previstos para chegar nos próximos dias à Loja!\n\n· Traje Nikki, Mochila, Picareta e Gesto\n· Traje com estilo ensanguentado e pose de lobby\n· Mochila reproduz um som ao eliminar\n\nInfo: x/ShiinaBR e HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzfy5yr6k2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiczlqakdij4tc3cler6lihk3ffqr2riulrm2gw3x33rbnkv2i6mpa",
+  "tag": "Filtración",
+  "ts": "2026-10-16T20:27:09+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6bjekik2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -333,4 +342,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T18:09:07+00:00";
+window.NEWS_UPDATED = "2026-10-16T20:27:10+00:00";
