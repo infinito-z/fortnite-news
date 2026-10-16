@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxynlma4u227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏨 FORTNITE x HAZBIN HOTEL — Os cosméticos de Alastor, Charlie e Vagatha de Hazbin Hotel foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1018 | 42.81 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxynlma4u227\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifq7cgikvlws6dqt4sr7zjfy5rysr2eqxf3icf374dl5wfumuecgy",
+  "tag": "Filtración",
+  "ts": "2026-10-16T13:11:15+00:00"
+ },
+ {
   "id": "cosmetic-batch:6d0ed577ff",
   "kind": "cosmetic",
   "title": "18 cosméticos nuevos",
