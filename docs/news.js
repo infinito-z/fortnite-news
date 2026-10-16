@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "cosmetic:Backpack_CarryMazeFlap",
+  "kind": "cosmetic",
+  "title": "Accesorio mochilero: Dron de la purga",
+  "text": "👀 Se filtró Dron de la purga (Raro). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_carrymazeflap/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T17:54:58+00:00"
+ },
+ {
+  "id": "cosmetic:Character_CarryMazeFlap",
+  "kind": "cosmetic",
+  "title": "Traje: Dama de la libertad",
+  "text": "👀 Se filtró Dama de la libertad (Épico). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_carrymazeflap/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T17:54:58+00:00"
+ },
+ {
+  "id": "cosmetic:EID_CarryMazeFlap",
+  "kind": "cosmetic",
+  "title": "Gesto: Pose electrizante",
+  "text": "🔥 Nuevo en los archivos: Pose electrizante (Poco común). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_carrymazeflap/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T17:54:58+00:00"
+ },
+ {
+  "id": "cosmetic:Emoticon_CarryMaze",
+  "kind": "cosmetic",
+  "title": "Emoticono: Máscara de La purga",
+  "text": "👀 Se filtró Máscara de La purga (Poco común). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/emoticon_carrymaze/smallicon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-16T17:54:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz2vomozc2w",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -261,4 +297,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T17:08:56+00:00";
+window.NEWS_UPDATED = "2026-10-16T17:54:58+00:00";
