@@ -259,7 +259,28 @@
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
    "playlistinformation": "4f9a658144dd899ef4a6dce36f195eb2"
   },
-  "flaps": {}
+  "flaps": {
+   "emergencynoticev2": {
+    "n": 0,
+    "mute_until": 0
+   },
+   "dynamicbackgrounds": {
+    "n": 0,
+    "mute_until": 0
+   },
+   "lobby": {
+    "n": 0,
+    "mute_until": 0
+   },
+   "loginmessage": {
+    "n": 0,
+    "mute_until": 0
+   },
+   "playlistinformation": {
+    "n": 0,
+    "mute_until": 0
+   }
+  }
  },
  "status_components": {
   "wf1ys2kx4pxc": "operational",
