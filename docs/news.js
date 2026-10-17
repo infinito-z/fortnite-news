@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3s66ec4c2h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Todos os cosméticos de Predador: Terras Selvagens previstos para chegar em breve à Loja!\n\n· Traje, Mochila, Picareta e Gesto\n· Traje com 3 estilos e Picareta de Espada de Plasma\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3s66ec4c2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreict7d4xoujbubztyldpopxgjlxzyfy6xmzni6v4dcuv3v5t44g3iy",
+  "tag": "Filtración",
+  "ts": "2026-10-17T19:10:30+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3ochussk2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -441,4 +450,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T18:01:29+00:00";
+window.NEWS_UPDATED = "2026-10-17T19:10:30+00:00";
