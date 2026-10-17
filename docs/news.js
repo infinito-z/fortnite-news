@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:6a6e2837e44df21a",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 53 cosas nuevas:\n• Lote Hotel Hazbin — 4.000 paVos\n• Lote de Gruñón — 2.200 paVos\n• Balenciaga para todos — 1.800 paVos\n• Caballeros de Balenciaga — 1.800 paVos\n• Vagatha — 1.500 paVos\n• Malcontento — 1.500 paVos\n…y 47 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/dbbdf4d79723e6b3/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-17T00:00:48+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmqzi4jk2m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -378,4 +387,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-16T22:28:40+00:00";
+window.NEWS_UPDATED = "2026-10-17T00:00:48+00:00";
