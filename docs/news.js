@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsgu7als2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nHora de dar uma renovada no guarda-roupa! Balenciaga retorna no estilo na Loja do Fortnite até 21 de outubro! ✨🔥\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzsgu7als2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigrs3rqieg2lliq2liubtdiz5ov7bwecou2xdodfyrnusqh3patbi",
+  "tag": "Filtración",
+  "ts": "2026-10-17T00:10:18+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsggka7s2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA amiguinha mais fofinha. A Mascote Ragdoll Elegante traz muita fofura para a Loja de Itens por 1.200 V-Bucks até 23 de outubro! 🐾🐈\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzsggka7s2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiesznzoseuvm55bdvxmnej3ei3epq4d3wwiqtno66swv426xbkp4m",
+  "tag": "Filtración",
+  "ts": "2026-10-17T00:10:18+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsg26eas2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSiga o caminho torto para a redenção. Alastor, Charlie e Vagatha de Hazbin Hotel fazem a Loja do Fortnite pegar fogo até 26 de outubro! 😈🩸🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzsg26eas2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibyxsiuqorempafrtcgjgjqoccn7hl5lq4uu6mb5ra7c5xearfsly",
+  "tag": "Filtración",
+  "ts": "2026-10-17T00:10:18+00:00"
+ },
+ {
   "id": "shop:6a6e2837e44df21a",
   "kind": "shop",
   "title": "Tienda del día",
@@ -387,4 +414,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T00:00:48+00:00";
+window.NEWS_UPDATED = "2026-10-17T00:10:19+00:00";
