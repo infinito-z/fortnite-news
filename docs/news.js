@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3wz6v2bs2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 EITA! Tim Sweeney (CEO da Epic Games) informou que uma grande reformulação chegará ao Fall Guys em breve, permitindo que novas coisas sejam possíveis.\n\nUm antigo rumor dizia que o Fall Guys seria importado para dentro do Fortnite, mas parece que os planos mudaram. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3wz6v2bs2r\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid3z4i6ywg5klevoyra5fhg24u5juyn3jpmbwcgmsmeyloodd4vxy",
+  "tag": "Filtración",
+  "ts": "2026-10-17T20:37:47+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3uxklvvk22",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -459,4 +468,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T20:00:36+00:00";
+window.NEWS_UPDATED = "2026-10-17T20:37:47+00:00";
