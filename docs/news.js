@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Uma Noite de Crime (3x)\n· Um Estouro [Gestos] (2x)\n· Vestiário de Horrores (9x)\n· McLaren 570s (1x)\n· Novidade na Área (2x)\n· Estilo Top (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my477yilos2b\n⚠️ Es una filtración, Epic no lo ha confirmado.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4gkpyimyr3wt5wubt2dlho5ku26wud6gqwfqpfqd2tiyrn7jsqu",
   "tag": "Filtración",
-  "ts": "2026-10-17T23:04:39+00:00"
+  "ts": "2026-10-17T23:04:22+00:00"
  },
  {
   "id": "news:aedd2a5604a5dc12753002ad32dbea48",
@@ -486,4 +486,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T23:04:40+00:00";
+window.NEWS_UPDATED = "2026-10-17T23:04:23+00:00";
