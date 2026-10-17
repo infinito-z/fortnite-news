@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my36xgh5y22k",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 1 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\nEle será 'carregado' ao longo dos próximos dias, até estar totalmente presente no jogo. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my36xgh5y22k\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-17T13:28:10+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsgu7als2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -414,4 +423,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T00:10:19+00:00";
+window.NEWS_UPDATED = "2026-10-17T13:28:10+00:00";
