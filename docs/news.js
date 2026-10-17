@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3uxklvvk22",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Capítulo 7: Temporada 4 | #Fortnite\n\n🔥 Progressão: 79%\n📅 Dias restantes: 14\n🔹Nível estimado: 79 (para o 100)\n🔸Nível estimado: 159 (para o 200)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3uxklvvk22\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
+  "tag": "Filtración",
+  "ts": "2026-10-17T20:00:36+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3s66ec4c2h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -450,4 +459,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T19:10:30+00:00";
+window.NEWS_UPDATED = "2026-10-17T20:00:36+00:00";
