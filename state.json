@@ -324,21 +324,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3iybifak2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Todos os cosméticos de Slender Man previstos para chegar nos próximos dias à Loja!\n\n· Traje, Mochila, Picareta e Spray\n· Traje com estilo e pose de lobby\n· Picareta com versão única ao usar com o Slender Man\n\nInfo: x/ShiinaBR e HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3iybifak2z\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiezl5leg2ktuaopy6mim36ronxhzfdu3nupxt6tkbaegkt4ovc2mi",
-    "tag": "Filtración",
-    "ts": "2026-10-17T16:26:53+00:00"
-   },
-   "tries": 2,
-   "at": 1792254573.0228026
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
