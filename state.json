@@ -319,7 +319,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3uxklvvk22",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3uxklvvk22",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3wz6v2bs2r",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3wz6v2bs2r"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3wz6v2bs2r",
+  "news:aedd2a5604a5dc12753002ad32dbea48",
+  "news:aedd2a5604a5dc12753002ad32dbea48"
  ],
  "first_run": false,
  "seeded": [
@@ -332,7 +334,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:aedd2a5604a5dc12753002ad32dbea48",
+    "kind": "news",
+    "title": "Ya disponible: Copa de Dama de la libertad",
+    "text": "🚨 NOTICIA: Ya disponible: Copa de Dama de la libertad\n¡Participa ya en la Copa de Dama de la libertad de Battle Royale o Cero construcción en solitario! Los mejores jugadores de cada región conseguirán el traje Dama de la libertad. Tienes más información en la pestaña Competir.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/3848a16633c8496d98cbbadd4ddebb79.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-10-17T23:01:34+00:00"
+   },
+   "tries": 1,
+   "at": 1792278094.6549165
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
