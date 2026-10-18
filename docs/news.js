@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:c12e7073a8a18a8c",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 24 novedades. Lo más fuerte:\n• Lote de Rompenueces — 2.800 paVos\n• Lote de La purga — 2.000 paVos\n• Cascabella — 1.500 paVos\n• Conejo asaltante — 1.500 paVos\n• Alas resplandecientes — 1.200 paVos\n• Nike Air Max Goadome \"Pink Camo\" — 1.000 paVos\n…y 18 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/ccffe7b0b91f12fa/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-18T00:00:21+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my477yilos2b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -486,4 +495,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-17T23:04:23+00:00";
+window.NEWS_UPDATED = "2026-10-18T00:00:21+00:00";
