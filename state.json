@@ -350,21 +350,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5zkq7vgk2n",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x HALLOWEEN HORROR NIGHTS — Todos os cosméticos do HamiKuma de HHN previstos para chegar à Loja em 24 de outubro!\n\n· Traje, Mochila, Picareta e Spray\n· Mochila com design de Doce\n· Picareta com versão especial ao usar com o HamiKuma\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my5zkq7vgk2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihhhgahpi7xlo4kmwja3hy2xebarsg3tmpfpw2bedfru46wqycp6y",
-    "tag": "Filtración",
-    "ts": "2026-10-18T16:28:44+00:00"
-   },
-   "tries": 2,
-   "at": 1792341084.3721008
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
