@@ -329,7 +329,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cns3xdc2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cnb3dls2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cns3xdc2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cnb3dls2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cnb3dls2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4fr5r7vc2b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4fr5r7vc2b"
  ],
  "first_run": false,
  "seeded": [
@@ -342,7 +344,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4fr5r7vc2b",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 Horas do Poder Assombradas II disponíveis no Battle Royale do C7:T4 até 0h BRT! #Fortnite\n\n· Pesadelo do Freddy para todos\n· Elementais Gostosuras ou Travessuras são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my4fr5r7vc2b\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihea32ibrmae3fbbf5pkws6ox27atcitplmwrmm6oyax32ewy7sf4",
+    "tag": "Filtración",
+    "ts": "2026-10-18T01:01:11+00:00"
+   },
+   "tries": 1,
+   "at": 1792285272.8099244
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {

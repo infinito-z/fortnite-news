@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4fr5r7vc2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 Horas do Poder Assombradas II disponíveis no Battle Royale do C7:T4 até 0h BRT! #Fortnite\n\n· Pesadelo do Freddy para todos\n· Elementais Gostosuras ou Travessuras são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my4fr5r7vc2b\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihea32ibrmae3fbbf5pkws6ox27atcitplmwrmm6oyax32ewy7sf4",
+  "tag": "Filtración",
+  "ts": "2026-10-18T01:01:11+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cns3xdc2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -513,4 +522,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-18T00:05:55+00:00";
+window.NEWS_UPDATED = "2026-10-18T01:01:12+00:00";
