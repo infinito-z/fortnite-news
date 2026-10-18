@@ -339,7 +339,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5zkq7vgk2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5zkq7vgk2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my673n5fmc25",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my673n5fmc25"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my673n5fmc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6g562mqs2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6g562mqs2o"
  ],
  "first_run": false,
  "seeded": [
@@ -352,7 +354,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6g562mqs2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOs cosméticos da Aloy de Horizon Zero Down marcam mais de 1.300 DIAS desde sua última aparição em 20 de março de 2023! 🍂 \n\nAté o momento, nada indica seu retorno, mas você está no aguardo? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my6g562mqs2o\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaivfpy5tlssjsluc7ixmhpcgqtwh3ej62qyztnpqm3mfin57jhj4",
+    "tag": "Filtración",
+    "ts": "2026-10-18T20:13:23+00:00"
+   },
+   "tries": 1,
+   "at": 1792354404.1252208
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
