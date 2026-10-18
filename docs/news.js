@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my673n5fmc25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚫 FORTNITE x CHUCKY — A colaboração com Chucky não deve chegar no Fortnite: Pesadelos 2026 como especulado anteriormente, pois não recebemos novidades na v42.40.\n\nEle poderia ter sido adiado ou descartado, o motivo é incerto. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my673n5fmc25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihe5iravi6e4d7ohnpljle3ddzaxu4luoikwjcm57y22cva7jkjfq",
+  "tag": "Filtración",
+  "ts": "2026-10-18T18:07:51+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5zkq7vgk2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -549,4 +558,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-18T16:28:45+00:00";
+window.NEWS_UPDATED = "2026-10-18T18:07:52+00:00";
