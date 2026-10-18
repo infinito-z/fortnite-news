@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6pkwgnns2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Wandinha (3x)\n· Vestiário de Horrores (9x)\n· Novidade na Área (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my6pkwgnns2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiazdqfmzrh45hsqefo3pq73toaoqhhg2hekyhek5jif5vo67vo5pi",
+  "tag": "Filtración",
+  "ts": "2026-10-18T23:02:27+00:00"
+ },
+ {
   "id": "news:ce44ba66a5a476ba2abf17d4ab0c17bc",
   "kind": "news",
   "title": "En directo: Copa de la FNCS del Caballero de Campeonato esmeralda",
@@ -576,4 +585,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-18T23:01:12+00:00";
+window.NEWS_UPDATED = "2026-10-18T23:02:28+00:00";
