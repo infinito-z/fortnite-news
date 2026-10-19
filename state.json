@@ -353,7 +353,9 @@
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3my7kpl2jvc24",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3my7kpl2jvc24",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6mkwlqc2r",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6mkwlqc2r"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6mkwlqc2r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6n5fgxk2r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6n5fgxk2r"
  ],
  "first_run": false,
  "seeded": [
@@ -379,6 +381,19 @@
    },
    "tries": 1,
    "at": 1792415048.1619294
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6n5fgxk2r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 TEASER — FORTNITE x OBSESSÃO\n \nNikki de Obsessão chega à Loja do Fortnite em 21 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mya6n5fgxk2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-19T13:04:53+00:00"
+   },
+   "tries": 1,
+   "at": 1792415094.0849175
   }
  ],
  "epic_fp": {
