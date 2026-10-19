@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3my7kpl2jvc24",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nI’m back, celebrating my second year on Bluesky! ;D\n\nDefinitely not my best year in terms of posts, but I’m still really happy and grateful that I’m still doing this for y’all.\n\nSo once again, thank you all so much for tuning in for my small reports! Means a lot!\n\nHere’s to another year coming!! 🙌\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3my7kpl2jvc24",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreih2bhp2jkd2cde7jsjuornowrgurz5b2n7hnkd5wzphvzssolpe7a",
+  "tag": "Estado",
+  "ts": "2026-10-19T07:08:00+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6sxqbrrc2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -603,4 +612,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T00:03:21+00:00";
+window.NEWS_UPDATED = "2026-10-19T07:08:00+00:00";
