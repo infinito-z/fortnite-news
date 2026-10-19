@@ -386,21 +386,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaqmjdvtc2w",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⬆️ IMPULSO DE XP — A Epic está trabalhando em uma nova funcionalidade de Impulso de XP para o Capítulo 8 do Fortnite!\n\n— COMO FUNCIONA:\n· Concede uma % de XP bônus além do XP já obtido\n· Impulsos (Boosters) podem expirar após um certo período\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myaqmjdvtc2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaspq7aclanpnxkdw3iv2ptw25qjwthberjvaea7ao5jcstz5zh7y",
-    "tag": "Filtración",
-    "ts": "2026-10-19T18:26:18+00:00"
-   },
-   "tries": 2,
-   "at": 1792434538.6781116
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
