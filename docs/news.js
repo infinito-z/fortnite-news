@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6mkwlqc2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:T4\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Códigos de Trapaça surgem com mais frequência pela Ilha\n\n⏰ Disponível até amanhã (20) às 10h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mya6mkwlqc2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihszya53bppk5d3kqpilol7b2b4nyx4eiqfegi26nz4dlzsd3e5fe",
+  "tag": "Filtración",
+  "ts": "2026-10-19T13:04:07+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3my7kpl2jvc24",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -612,4 +621,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T07:08:00+00:00";
+window.NEWS_UPDATED = "2026-10-19T13:04:08+00:00";
