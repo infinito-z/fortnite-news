@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "cosmetic:Backpack_FonduePaper",
+  "kind": "cosmetic",
+  "title": "Accesorio mochilero: Tentáculos de Slender Man",
+  "text": "🔥 Nuevo en los archivos: Tentáculos de Slender Man (Raro). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_fonduepaper/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-19T15:02:25+00:00"
+ },
+ {
+  "id": "cosmetic:Character_FonduePaper",
+  "kind": "cosmetic",
+  "title": "Traje: The Slender Man",
+  "text": "⚡ Llegó The Slender Man (Épico). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_fonduepaper/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-19T15:02:25+00:00"
+ },
+ {
+  "id": "cosmetic:Pickaxe_FonduePaper",
+  "kind": "cosmetic",
+  "title": "Pico: Garras de Slender",
+  "text": "⚡ Llegó Garras de Slender (Raro). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_fonduepaper/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-19T15:02:25+00:00"
+ },
+ {
+  "id": "cosmetic:Spray_FonduePaper",
+  "kind": "cosmetic",
+  "title": "Grafiti: The Slender Man estuvo aquí",
+  "text": "👀 Se filtró The Slender Man estuvo aquí (Poco común). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/spray_fonduepaper/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-19T15:02:25+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6z5v7o22i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -639,4 +675,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T13:11:37+00:00";
+window.NEWS_UPDATED = "2026-10-19T15:02:25+00:00";
