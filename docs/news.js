@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafpstclk22",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Primeira visão dos cosméticos de Slender Man no Vestiário do jogo. Na Loja em 22 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myafpstclk22\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-19T15:11:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafo7bdr222",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -684,4 +693,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T15:10:17+00:00";
+window.NEWS_UPDATED = "2026-10-19T15:11:05+00:00";
