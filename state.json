@@ -375,7 +375,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaqmjdvtc2w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaqmjdvtc2w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaydqecrs2d",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaydqecrs2d"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaydqecrs2d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myb7f2cryk2f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myb7f2cryk2f"
  ],
  "first_run": false,
  "seeded": [
@@ -388,7 +390,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myb7f2cryk2f",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Celebração de Hogwarts (5x)\n· Vestiário de Horrores (7x)\n· Um Estouro [Gestos] (2x)\n· Nem Suei (2x)\n· Novidade na Área (2x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myb7f2cryk2f\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidb6un7m6wfbvkh4fzgysq5owevokbgntwpychvydxikwwwk2me7a",
+    "tag": "Filtración",
+    "ts": "2026-10-19T22:50:28+00:00"
+   },
+   "tries": 1,
+   "at": 1792450229.337016
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-19T22:45:22.358Z",
   "sections": {
