@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myag6xhlac2f",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Pacotão Slender Man que chega à Loja do Fortnite em 22 de outubro (preço desconhecido).\n\nInclui o Traje com um estilo de rosto definido, Mochila e Picareta! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myag6xhlac2f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaxuanqsnnpgbectlaujwrtawjgxr5kpnlpbhmyo746i7hlkxg6vm",
+  "tag": "Filtración",
+  "ts": "2026-10-19T15:19:45+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafpstclk22",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -693,4 +702,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T15:11:05+00:00";
+window.NEWS_UPDATED = "2026-10-19T15:19:45+00:00";

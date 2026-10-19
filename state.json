@@ -369,7 +369,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafo7bdr222",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafo7bdr222",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafpstclk22",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafpstclk22"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafpstclk22",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myag6xhlac2f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myag6xhlac2f"
  ],
  "first_run": false,
  "seeded": [
@@ -382,7 +384,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myag6xhlac2f",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Pacotão Slender Man que chega à Loja do Fortnite em 22 de outubro (preço desconhecido).\n\nInclui o Traje com um estilo de rosto definido, Mochila e Picareta! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myag6xhlac2f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaxuanqsnnpgbectlaujwrtawjgxr5kpnlpbhmyo746i7hlkxg6vm",
+    "tag": "Filtración",
+    "ts": "2026-10-19T15:19:45+00:00"
+   },
+   "tries": 1,
+   "at": 1792423185.4508867
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-16T22:10:07.017Z",
   "sections": {
