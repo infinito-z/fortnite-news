@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:0fe3891b2ddc9242",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 40 cosas nuevas:\n• Lote de Miércoles — 2.500 paVos\n• Lote de Navidad de pesadilla — 2.100 paVos\n• Lote de Soldado Noel — 2.100 paVos\n• Mordiscazos — 2.000 paVos\n• Exploradora Galaxy — 2.000 paVos\n• Coche fúnebre + Miércoles — 2.000 paVos\n…y 34 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/93bd0af00493fdb3/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-19T00:02:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6pkwgnns2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -585,4 +594,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-18T23:02:28+00:00";
+window.NEWS_UPDATED = "2026-10-19T00:02:02+00:00";
