@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaydqecrs2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 TODOS os 162 Elementais do Capítulo 7: Temporada 4!\n\nE aí, você conseguiu completar a coleção, ainda tá completando ou não vai chegar nem perto? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myaydqecrs2d\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid5bwwjlfofoirhb6mwjelzbz7ogziepmfwnk5rj5yy5wtodjtfba",
+  "tag": "Filtración",
+  "ts": "2026-10-19T20:44:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaqmjdvtc2w",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -711,4 +720,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T18:26:19+00:00";
+window.NEWS_UPDATED = "2026-10-19T20:45:00+00:00";
