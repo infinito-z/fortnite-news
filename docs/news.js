@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6sxqbrrc2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla não tem medo do escuro, é o escuro que tem medo dela. A Wandinha Addams traz só desgosto na Loja do Fortnite até 22 de outubro! ☂️✋🏻\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my6sxqbrrc2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5rm2wffos3woxng52ro5lhktdkdikwzmncpogvyjbvzgexjl7ca",
+  "tag": "Filtración",
+  "ts": "2026-10-19T00:03:21+00:00"
+ },
+ {
   "id": "shop:0fe3891b2ddc9242",
   "kind": "shop",
   "title": "Tienda del día",
@@ -594,4 +603,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T00:02:02+00:00";
+window.NEWS_UPDATED = "2026-10-19T00:03:21+00:00";
