@@ -426,21 +426,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycpjqhx3c2r",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Pacotão Obsessão que chega à Loja do Fortnite amanhã, 21 de outubro (preço desconhecido).\n\nInclui o Traje Nikki, Mochila, Picareta e também um Gesto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycpjqhx3c2r\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreickpjvzdot7ysfczymw3iay7cfyokerjhxiumq6ataq655vxkkice",
-    "tag": "Filtración",
-    "ts": "2026-10-20T13:12:15+00:00"
-   },
-   "tries": 2,
-   "at": 1792502094.7403955
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-19T22:45:22.358Z",
   "sections": {
