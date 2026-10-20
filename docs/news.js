@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnykqadk2p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ Um patch de manutenção foi enviado para diversas plataformas, provavelmente para corrigir problemas gerais. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycnykqadk2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigihh44k45hdhxzwx6ndyj7mvemjahayst6kw3prnpvn3xt7z3dfq",
+  "tag": "Filtración",
+  "ts": "2026-10-20T12:44:53+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnxxbohk2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -819,4 +828,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T12:44:20+00:00";
+window.NEWS_UPDATED = "2026-10-20T12:44:53+00:00";
