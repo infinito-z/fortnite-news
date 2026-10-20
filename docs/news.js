@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myczlgquus2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 TEASER — ROCKET LEAGUE x FNAF\n\nA colaboração com Five Nights At Freddy's chegará em breve ao Rocket League, e com isso, alguns cosméticos devem ser transferidos ao Fortnite!\n\nEmbora não seja confirmado, há algumas semanas a Van do Arnold foi especulada para chegar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myczlgquus2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-20T16:11:44+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myczkt7vu22n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 TRAILER — FORTNITE x OBSESSÃO\n\nNikki e seus acessórios de Obsessão chegam à Loja em 21 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myczkt7vu22n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-20T16:11:44+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycsfq34722w",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -927,4 +945,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T14:03:58+00:00";
+window.NEWS_UPDATED = "2026-10-20T16:11:44+00:00";
