@@ -409,9 +409,7 @@
   "cosmetic:EID_CargoLying",
   "cosmetic:Pickaxe_CargoLying",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp6gwv4k2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp6gwv4k2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp7ijmps2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp7ijmps2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp6gwv4k2o"
  ],
  "first_run": false,
  "seeded": [
@@ -427,58 +425,6 @@
  "pending": [
   {
    "item": {
-    "id": "cosmetic:Backpack_CargoLying",
-    "kind": "cosmetic",
-    "title": "Accesorio mochilero: Sauce de un deseo",
-    "text": "🔥 Nuevo en los archivos: Sauce de un deseo (Raro). Billetera, prepárate 💸",
-    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cargolying/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-20T13:01:24+00:00"
-   },
-   "tries": 2,
-   "at": 1792501412.2552783
-  },
-  {
-   "item": {
-    "id": "cosmetic:Character_CargoLying",
-    "kind": "cosmetic",
-    "title": "Traje: Nikki",
-    "text": "⚡ Llegó Nikki (Épico). El que no la compre, no es gamer 🗿",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_cargolying/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-20T13:01:24+00:00"
-   },
-   "tries": 2,
-   "at": 1792501412.2552783
-  },
-  {
-   "item": {
-    "id": "cosmetic:EID_CargoLying",
-    "kind": "cosmetic",
-    "title": "Gesto: No, no, no...",
-    "text": "🔥 Nuevo en los archivos: No, no, no... (Poco común). Billetera, prepárate 💸",
-    "image": "https://fortnite-api.com/images/cosmetics/br/eid_cargolying/icon.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-20T13:01:24+00:00"
-   },
-   "tries": 2,
-   "at": 1792501412.2552783
-  },
-  {
-   "item": {
-    "id": "cosmetic:Pickaxe_CargoLying",
-    "kind": "cosmetic",
-    "title": "Pico: Botella rota de Nikki",
-    "text": "👀 Se filtró Botella rota de Nikki (Raro). Que alguien avise a mi tarjeta 😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_cargolying/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-20T13:01:24+00:00"
-   },
-   "tries": 2,
-   "at": 1792501412.2552783
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp6gwv4k2o",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -489,19 +435,6 @@
    },
    "tries": 1,
    "at": 1792501559.7792873
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp7ijmps2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Primeira visão de Nikki e seus acessórios de Obsessão no Vestiário do jogo. Na Loja amanhã, 21 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycp7ijmps2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-20T13:06:33+00:00"
-   },
-   "tries": 1,
-   "at": 1792501593.881704
   }
  ],
  "epic_fp": {
