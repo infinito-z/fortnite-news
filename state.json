@@ -442,21 +442,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydh5zcgk22d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAJES C7:TM1 — Primeira visão de 5 novos Trajes que chegarão no Capítulo 7: Temporada Mini 1 em 1° de novembro!\n\nTodos são em estilo desenhado/anime e parecem ser novas versões de Bia, Syd, Valentia, Jones e Oscar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mydh5zcgk22d\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifldlo247pwsdxrad52vp5dtm7kxoflib4nnzw7jwpf6bhfojgbma",
-    "tag": "Filtración",
-    "ts": "2026-10-20T20:15:03+00:00"
-   },
-   "tries": 2,
-   "at": 1792527496.2284408
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-19T22:45:22.358Z",
   "sections": {
