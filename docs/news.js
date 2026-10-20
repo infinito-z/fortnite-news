@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycsfq34722w",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🟦 NOVAS MÚSICAS — chegando à Loja do Fortnite nesta semana, provavelmente em 22 de outubro! #Fortnite\n\n· Short Skirt/Long Jacket — CAKE \n· Suavemente — Elvis Crespo \n· Kryptonite — Ken Carson\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycsfq34722w\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia4ynbmfczn3hrrvlyfsgl574zt6wzzvcxeiiqr2dugatss6eksj4",
+  "tag": "Filtración",
+  "ts": "2026-10-20T14:03:57+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycr7bq44s2g",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -918,4 +927,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T13:43:30+00:00";
+window.NEWS_UPDATED = "2026-10-20T14:03:58+00:00";
