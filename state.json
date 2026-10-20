@@ -404,21 +404,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mych4wu3j22r",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER 2 — CAPÍTULO 7: TEMPORADA MINI 1!\n\nA Valentia parece ganhar um novo Traje no estilo desenhado/anime para o Capítulo 7: Temporada Mini 1 que começa em 1° de novembro!\n\n“Tudo em suas mãos!” “A caça ao tesouro começou”\n\n📸: x/hamustream | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mych4wu3j22r\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid54ntbejckygnics3n6h47dcuyt2tamglmjhin4fbg227o3gjcim",
-    "tag": "Filtración",
-    "ts": "2026-10-20T10:41:57+00:00"
-   },
-   "tries": 2,
-   "at": 1792493117.075797
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-19T22:45:22.358Z",
   "sections": {
