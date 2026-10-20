@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:eac3cc04bc6838da8779af31d5f3d08d",
+  "kind": "news",
+  "title": "En directo: Copa Slender Man",
+  "text": "⚡ Ojo, ojo: En directo: Copa Slender Man\n¡Compite ya en la Copa de Slender Man de dúos de Recarga o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de The Slender Man. Tienes más información en la pestaña Competir.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a570b790560f4f5697caab5f0f4f28cd.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-20T23:01:26+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydmmyaxnc2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -972,4 +981,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T21:52:46+00:00";
+window.NEWS_UPDATED = "2026-10-20T23:01:26+00:00";
