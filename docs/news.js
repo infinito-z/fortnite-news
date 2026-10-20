@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp6gwv4k2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Nikki e seus acessórios de Obsessão foram descriptografados e chegam à Loja amanhã, 21 de outubro (preços desconhecidos).\n\n📁 Pak1009 | 104.42 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycp6gwv4k2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiam2ncydkdfsmgxla4nqyh67hd5z5si5vuexqbzetojr3nfp3zzpm",
+  "tag": "Filtración",
+  "ts": "2026-10-20T13:05:59+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_CargoLying",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Sauce de un deseo",
@@ -864,4 +873,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T13:01:24+00:00";
+window.NEWS_UPDATED = "2026-10-20T13:05:59+00:00";
