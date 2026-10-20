@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "cosmetic:Backpack_CargoLying",
+  "kind": "cosmetic",
+  "title": "Accesorio mochilero: Sauce de un deseo",
+  "text": "🔥 Nuevo en los archivos: Sauce de un deseo (Raro). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cargolying/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-20T13:01:24+00:00"
+ },
+ {
+  "id": "cosmetic:Character_CargoLying",
+  "kind": "cosmetic",
+  "title": "Traje: Nikki",
+  "text": "⚡ Llegó Nikki (Épico). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_cargolying/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-20T13:01:24+00:00"
+ },
+ {
+  "id": "cosmetic:EID_CargoLying",
+  "kind": "cosmetic",
+  "title": "Gesto: No, no, no...",
+  "text": "🔥 Nuevo en los archivos: No, no, no... (Poco común). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_cargolying/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-20T13:01:24+00:00"
+ },
+ {
+  "id": "cosmetic:Pickaxe_CargoLying",
+  "kind": "cosmetic",
+  "title": "Pico: Botella rota de Nikki",
+  "text": "👀 Se filtró Botella rota de Nikki (Raro). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_cargolying/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-20T13:01:24+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnykqadk2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -828,4 +864,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T12:44:53+00:00";
+window.NEWS_UPDATED = "2026-10-20T13:01:24+00:00";
