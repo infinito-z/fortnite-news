@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycr7bq44s2g",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 BAÚ DO TESOURO — Agora, o Baú do Tesouro na Ilha do C7:T4 causa erros/glitches na sua Barra de Vida e Escudo, e também nas informações do minimapa ao se aproximar!\n\nVale lembrar que assim que ele for completamente carregado, algumas músicas serão tocadas nele! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycr7bq44s2g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-20T13:43:30+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycqzsavm22g",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -909,4 +918,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T13:40:54+00:00";
+window.NEWS_UPDATED = "2026-10-20T13:43:30+00:00";
