@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycpjqhx3c2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Pacotão Obsessão que chega à Loja do Fortnite amanhã, 21 de outubro (preço desconhecido).\n\nInclui o Traje Nikki, Mochila, Picareta e também um Gesto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycpjqhx3c2r\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreickpjvzdot7ysfczymw3iay7cfyokerjhxiumq6ataq655vxkkice",
+  "tag": "Filtración",
+  "ts": "2026-10-20T13:12:15+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp7ijmps2o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -882,4 +891,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-20T13:06:33+00:00";
+window.NEWS_UPDATED = "2026-10-20T13:12:16+00:00";
