@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:7358e91afdd08fb2",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 59 novedades. Lo más fuerte:\n• Lote de Celebración de Hogwarts — 3.200 paVos\n• Aston Martin Valhalla y Mundo Mágico — 2.800 paVos\n• Lote de Máscara de metal — 2.400 paVos\n• Lote de El hombre polilla — 1.600 paVos\n• Dientef — 1.500 paVos\n• Banano pelado — 1.500 paVos\n…y 53 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/4a96249217b26c44/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-20T00:00:33+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myb7f2cryk2f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -729,4 +738,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-19T22:50:29+00:00";
+window.NEWS_UPDATED = "2026-10-20T00:00:33+00:00";
