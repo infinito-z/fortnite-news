@@ -482,21 +482,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 Os cosméticos do Passe de Batalha do Capítulo 7: Temporada 4 — Assuma o Controle poderão começar a retornar à Loja de Itens a partir de maio de 2028! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfzcgz5cs2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih24yxwwf35scpirem4mbchjr4uzv4ka5rn6pmqzezr7ejb3o3kxu",
-    "tag": "Filtración",
-    "ts": "2026-10-21T20:44:43+00:00"
-   },
-   "tries": 2,
-   "at": 1792615687.416031
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-20T21:33:30.172Z",
   "sections": {
