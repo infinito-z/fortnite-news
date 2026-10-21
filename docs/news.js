@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myduax4n522o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla não é uma gatinha assustada, mas tem uma amiga miau-ravilhosa! A Morangata e a Mascote Abóbora Felina fazem um show de doces na Loja de Itens até 27 de outubro! 🎃🐈\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myduax4n522o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibpbd33x6az42vlw7muc2n3abz63ntatl6olnzllu73ojexjavss4",
+  "tag": "Filtración",
+  "ts": "2026-10-21T00:09:28+00:00"
+ },
+ {
   "id": "shop:cf87965e5e877bec",
   "kind": "shop",
   "title": "Tienda del día",
@@ -990,4 +999,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T00:01:17+00:00";
+window.NEWS_UPDATED = "2026-10-21T00:09:29+00:00";
