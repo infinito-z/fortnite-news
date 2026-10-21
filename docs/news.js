@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfh64e2t22j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆓 DROPS — Assista às transmissões do Campeonato Mobile de Fortnite na Twitch neste final de semana para receber recompensas grátis! #Fortnite\n\n· 24/10 — Mochila Aboborito Meia-noite\n· 25/10 — Picareta Asas de Morcego da Meia-noite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfh64e2t22j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiccuuzpv75p2w5ofmaky6emko3n5o4kkr75exlpt327l4f6igwxoa",
+  "tag": "Filtración",
+  "ts": "2026-10-21T15:20:14+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfgobh5ic22",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1098,4 +1107,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T15:11:48+00:00";
+window.NEWS_UPDATED = "2026-10-21T15:20:15+00:00";
