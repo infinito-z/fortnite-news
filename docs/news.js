@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myg33fh35c2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite: Pesadelos 2020 — Vingança do Midas, ocorreu 6 ANOS atrás! 😈\n\nA vingança é um prato folheado a ouro. Ao ser eliminado durante o evento, você retornava ao jogo como uma Sombra, para se aliar ao Midas das Sombras e assombrar seus oponentes. Participaram? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myg33fh35c2j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-21T21:16:46+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1143,4 +1152,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T20:44:43+00:00";
+window.NEWS_UPDATED = "2026-10-21T21:16:47+00:00";

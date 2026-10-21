@@ -469,7 +469,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfkfcpd7s2r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfker3ags2r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myg33fh35c2j",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myg33fh35c2j"
  ],
  "first_run": false,
  "seeded": [
@@ -482,7 +484,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myg33fh35c2j",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite: Pesadelos 2020 — Vingança do Midas, ocorreu 6 ANOS atrás! 😈\n\nA vingança é um prato folheado a ouro. Ao ser eliminado durante o evento, você retornava ao jogo como uma Sombra, para se aliar ao Midas das Sombras e assombrar seus oponentes. Participaram? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myg33fh35c2j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-21T21:16:46+00:00"
+   },
+   "tries": 1,
+   "at": 1792617407.1415634
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-20T21:33:30.172Z",
   "sections": {
