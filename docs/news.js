@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myduc7o2pk2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nVamonos, lacaio! Sirva hospitalidade de primeira ou cause muito caos com o Bandido Psicopata, Mad Moxxi e Lilith de Borderlands na Loja do Fortnite até 25 de outubro! 💥💕\n\n🧡 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myduc7o2pk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihwir5l2qocflkqfb6rizcvmzoxzump4ckgrj65vqm7bzzk7an2i4",
+  "tag": "Filtración",
+  "ts": "2026-10-21T00:10:05+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydubputps2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nUma amiga docinha e miau-ravilhosa! A Mascote Abóbora Felina avança na Loja de Itens por 1.200 V-Bucks até 27 de outubro! 🎃🐈\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mydubputps2o\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaqjxpc7j75ioyfk56uf2pydl37dkomrkot4voxpartxxfe7n4zia",
+  "tag": "Filtración",
+  "ts": "2026-10-21T00:10:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myduax4n522o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -999,4 +1017,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T00:09:29+00:00";
+window.NEWS_UPDATED = "2026-10-21T00:10:05+00:00";
