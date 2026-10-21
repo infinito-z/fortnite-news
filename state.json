@@ -433,7 +433,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydmmyaxnc2k",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydmmyaxnc2k",
   "news:eac3cc04bc6838da8779af31d5f3d08d",
-  "news:eac3cc04bc6838da8779af31d5f3d08d"
+  "news:eac3cc04bc6838da8779af31d5f3d08d",
+  "shop:cf87965e5e877bec",
+  "shop:cf87965e5e877bec"
  ],
  "first_run": false,
  "seeded": [
@@ -446,7 +448,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:cf87965e5e877bec",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 50 novedades. Lo más fuerte:\n• Máquina del tiempo de Regreso al futuro — 2.500 paVos\n• Bandido psicópata — 2.000 paVos\n• Lote de Mad Moxxi — 2.000 paVos\n• Lote de Doc Brown — 2.000 paVos\n• Lote Azucarado — 1.600 paVos\n• Asesina aeróbica — 1.500 paVos\n…y 44 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/c8195eccbb087785/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-21T00:01:17+00:00"
+   },
+   "tries": 1,
+   "at": 1792540877.7900083
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-20T21:33:30.172Z",
   "sections": {
