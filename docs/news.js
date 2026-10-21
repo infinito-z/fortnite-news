@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfjrsgu5k2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ EM BREVE NA LOJA | #Fortnite\n\n· 21/10 — Nikki (Obsessão)\n· 22/10 — Slender Man\n· 23/10 — Beetlejuice\n· 23/10 — Cavaleira Turquesa do FNCS\n· 24/10 — Hamikuma (HHN)\n· 24/10 — Shadow e Knuckles (Sonic)\n· 27/10 — Enfermeira Lenore\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfjrsgu5k2t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-21T16:07:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfh64e2t22j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1107,4 +1116,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T15:20:15+00:00";
+window.NEWS_UPDATED = "2026-10-21T16:07:28+00:00";
