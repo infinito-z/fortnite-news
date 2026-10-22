@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhylp6yg226",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Jogabilidade rápida dos cosméticos de Slender Man para o Fortnite! Na Loja nesta noite (preços desconhecidos).\n\n🎥: x/Guille_GAG | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhylp6yg226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T15:37:51+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhux7rijs2s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1260,4 +1269,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T14:34:27+00:00";
+window.NEWS_UPDATED = "2026-10-22T15:37:51+00:00";
