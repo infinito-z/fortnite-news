@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiack36jc2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER — CAPÍTULO 7: TEMPORADA MINI 1\n\nA caçada pelo tesouro começa a partir de 1° de novembro!\n\n🎥: x/FireMonkey | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiack36jc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T17:55:21+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myi2ggvxhs24",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1287,4 +1296,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T16:10:43+00:00";
+window.NEWS_UPDATED = "2026-10-22T17:55:22+00:00";
