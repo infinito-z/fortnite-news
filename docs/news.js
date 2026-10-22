@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myidb5a65226",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER — História do Capítulo 7: Temporada Mini 1 \n\nO personagem misterioso é o detentor do Baú do Tesouro, e ele tem o que a gente procura. Outros também virão atrás dele, então será a maior caça ao tesouro da realidade! #Fortnite\n\nObrigado @laylathefox.bsky.social pelo vídeo dublado!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myidb5a65226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T18:48:29+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myib6by2gk27",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1314,4 +1323,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T18:11:12+00:00";
+window.NEWS_UPDATED = "2026-10-22T18:48:29+00:00";
