@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:95b3f0b42a63abf1",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 26 novedades. Lo más fuerte:\n• Lote Obsession — 2.000 paVos\n• Lote de taquilla de BanderitaX — 2.000 paVos\n• Lote de Amenaza calabaza — 1.500 paVos\n• Lote de Brigada de muñecos de prueba — 1.500 paVos\n• Tigre de batalla — 1.200 paVos\n• Slone innovadora — 1.200 paVos\n…y 20 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/a4cad4e5595428f4/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-22T00:00:17+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygapduytk25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1161,4 +1170,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-21T22:57:22+00:00";
+window.NEWS_UPDATED = "2026-10-22T00:00:17+00:00";
