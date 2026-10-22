@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu5h3i2s2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗡️ NOVO TRAJE — Primeira melhor visão de um novo Traje desenhado/anime da Syd para o Capítulo 7: Temporada Mini 1 que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhu5h3i2s2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiergmeidlo464licaygxonwefpd3qmfi24ef4jjnpre4kle7veu3a",
+  "tag": "Filtración",
+  "ts": "2026-10-22T14:18:18+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu56jods2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 TEASER — FORTNITE x LIL UZI VERT\n\nO rapper Lil Uzi Vert chegará ao Fortnite no Capítulo 7: Temporada Mini 1 que começa em 1° de novembro! Sua música já está sendo tocada no Baú do Tesouro na Ilha do Battle Royale como um teaser! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhu56jods2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T14:18:18+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhtyirdu22m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1215,4 +1233,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T14:15:10+00:00";
+window.NEWS_UPDATED = "2026-10-22T14:18:19+00:00";
