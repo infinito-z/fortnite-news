@@ -489,7 +489,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu5h3i2s2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu56jods2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu5h3i2s2m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu56jods2m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu56jods2m",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhupeucws2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhup2agxk2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhupeucws2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhup2agxk2n"
  ],
  "first_run": false,
  "seeded": [
@@ -502,7 +506,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhupeucws2n",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏠 A PRAÇA DA BIGORNA RETORNARÁ EM BREVE!\n\nA Praça da Bigorna do C4:T1 deve retornar no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! Uma nova versão dela parece ter sido exibida no teaser de Lil Uzi Vert! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhupeucws2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidt7edd76xi3upukewkjofjurbl44d7ypjlw3p2bdvvtd4mj4ubta",
+    "tag": "Filtración",
+    "ts": "2026-10-22T14:28:18+00:00"
+   },
+   "tries": 1,
+   "at": 1792679298.716642
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhup2agxk2n",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 FORTNITE x LIL UZI VERT — Primeira visão do Traje Série Ícones de Lil Uzi Vert que chegará ao Fortnite no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhup2agxk2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiddmb3hkg2w2eow55ljj2qhmhyo52zau436rrtwt4f5jlvuxwgxle",
+    "tag": "Filtración",
+    "ts": "2026-10-22T14:28:18+00:00"
+   },
+   "tries": 1,
+   "at": 1792679298.716642
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-21T22:35:40.458Z",
   "sections": {
