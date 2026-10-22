@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiiv45c5s2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 HORAS DA COMUNIDADE NESTE SÁBADO | #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade (e variantes) são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n⏰ Sábado (24), às 15h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiiv45c5s2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
+  "tag": "Filtración",
+  "ts": "2026-10-22T20:29:29+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1332,4 +1341,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T19:32:52+00:00";
+window.NEWS_UPDATED = "2026-10-22T20:29:29+00:00";
