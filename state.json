@@ -509,7 +509,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myib6by2gk27",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myib6by2gk27",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myidb5a65226",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myidb5a65226"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myidb5a65226",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y"
  ],
  "first_run": false,
  "seeded": [
@@ -522,7 +524,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎬 TRAILER — FORTNITE x SLENDER MAN\n\nSlender Man e seus acessórios sombrios chegam à Loja nesta noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myifq3hhkk2y\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-22T19:32:51+00:00"
+   },
+   "tries": 1,
+   "at": 1792697572.331357
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-22T19:16:15.391Z",
   "sections": {

@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎬 TRAILER — FORTNITE x SLENDER MAN\n\nSlender Man e seus acessórios sombrios chegam à Loja nesta noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myifq3hhkk2y\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T19:32:51+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myidb5a65226",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1323,4 +1332,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T18:48:29+00:00";
+window.NEWS_UPDATED = "2026-10-22T19:32:52+00:00";
