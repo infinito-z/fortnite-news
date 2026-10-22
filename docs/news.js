@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygemgemos2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nCuidado com o que você deseja, vai que se torna realidade. A Nikki e seus acessórios de Obsessão fazem de tudo para estar com você na Loja do Fortnite até 31 de outubro! 🩸🥂\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygemgemos2l\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif7kylbm4hlp3oao3xcecwnv2qtjfadovg3zyolgzsc324letdemy",
+  "tag": "Filtración",
+  "ts": "2026-10-22T00:07:29+00:00"
+ },
+ {
   "id": "shop:95b3f0b42a63abf1",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1170,4 +1179,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T00:00:17+00:00";
+window.NEWS_UPDATED = "2026-10-22T00:07:30+00:00";
