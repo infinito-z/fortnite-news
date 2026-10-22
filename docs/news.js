@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiqkdvvfc2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Slender Man (2x)\n· Batman [Batman Que Ri] [2x)\n· Vestiário de Horrores (4x)\n· Novidade na Área (2x)\n· Estilo Top (7x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiqkdvvfc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidk4w73kdlmovbinqbsd4pbue3ziwkxeibovvbsqttxsatwu5xura",
+  "tag": "Filtración",
+  "ts": "2026-10-22T22:46:18+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myip3okh5k2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1350,4 +1359,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T22:20:28+00:00";
+window.NEWS_UPDATED = "2026-10-22T22:46:18+00:00";
