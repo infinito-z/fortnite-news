@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygeoymfic2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 25 de outubro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygeoymfic2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiffekq7lb3c2hae2vlagec4fi7ecs4aruje5oc3akp2zpkkui2hgy",
+  "tag": "Filtración",
+  "ts": "2026-10-22T00:09:02+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygen3hggs2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacotão Vestiário do BanderitaX está de volta à Loja de Itens por 2.000 V-Bucks até 24 de outubro! 🍕\n\n· Traje Pijama Pepperoni\n· Asa-delta Sabor Voador\n· Picareta Espatuleta\n· Gesto Voumimbora\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygen3hggs2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicau5zhvl3qaxwsi4dnrukgzxi6pgahkb7bnpduqgjfivl56yhm4a",
+  "tag": "Filtración",
+  "ts": "2026-10-22T00:09:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygemgemos2l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1179,4 +1197,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T00:07:30+00:00";
+window.NEWS_UPDATED = "2026-10-22T00:09:03+00:00";
