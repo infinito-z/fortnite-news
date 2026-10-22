@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myi2ggvxhs24",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 TRAILER — ROCKET LEAGUE x FNAF\n\nFive Nights At Freddy's chegou ao Rocket League com Tarefas, recompensas grátis e cosméticos na Loja já disponíveis para compra!\n\n🤎 Use meu código \"LPFNBR\" para me apoiar na compra deles! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myi2ggvxhs24\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-22T16:10:42+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhymyqr5k26",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1278,4 +1287,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-22T15:38:38+00:00";
+window.NEWS_UPDATED = "2026-10-22T16:10:43+00:00";
