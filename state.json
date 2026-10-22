@@ -503,7 +503,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myi2ggvxhs24",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myi2ggvxhs24",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiack36jc2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiack36jc2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiack36jc2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myialvn5ik2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myialvn5ik2o"
  ],
  "first_run": false,
  "seeded": [
@@ -529,6 +531,19 @@
    },
    "tries": 2,
    "at": 1792691921.5088181
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myialvn5ik2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 ALERTA DE LORE! Novo personagem da história do Fortnite revelado em um teaser do Capítulo 7: Temporada Mini 1!\n\nAo que parece, ele também terá falas no Baú do Tesouro na Ilha do Battle Royale. A caça ao tesouro começa a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myialvn5ik2o\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidzp2yivkf5inxqm6daythvi4cyvchmvyhmaohe7lwujao22jndji",
+    "tag": "Filtración",
+    "ts": "2026-10-22T18:01:08+00:00"
+   },
+   "tries": 1,
+   "at": 1792692069.3444247
   }
  ],
  "epic_fp": {
