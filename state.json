@@ -512,34 +512,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhylp6yg226",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Jogabilidade rápida dos cosméticos de Slender Man para o Fortnite! Na Loja nesta noite (preços desconhecidos).\n\n🎥: x/Guille_GAG | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhylp6yg226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-22T15:37:51+00:00"
-   },
-   "tries": 2,
-   "at": 1792683641.952327
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhymyqr5k26",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚙 FORTNITE x JEEP — O Jeep Wrangler de Jurassic Park do Rocket League deve chegar em breve como um Chassi ao Fortnite!\n\nInfo: x/SamLeakss | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhymyqr5k26\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsno327xjed4cbuqnhv4rgbg54l7nkuidjk55va2acwbbzt57xsu",
-    "tag": "Filtración",
-    "ts": "2026-10-22T15:38:38+00:00"
-   },
-   "tries": 2,
-   "at": 1792683641.952327
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-21T22:35:40.458Z",
   "sections": {
