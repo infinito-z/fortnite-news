@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl74kwtlk2z",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Primeira visão do Traje Série Ícones de Kasane Teto que chegará no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! \n\nTeto e Miku serão parte da mesma equipe na caça ao tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myl74kwtlk2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3ruo3xb5k3dxzyccn3h2n6d3rntv6urksxqtoft6rlelprd5xqe",
+  "tag": "Filtración",
+  "ts": "2026-10-23T22:12:29+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6xlygws2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1584,4 +1593,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T22:09:40+00:00";
+window.NEWS_UPDATED = "2026-10-23T22:12:30+00:00";
