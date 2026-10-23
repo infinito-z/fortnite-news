@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykskuzu6c23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER C7:TM1 — As Horas do Poder da Comunidade começarão amanhã (24) às 15h BRT, logo após o anúncio do Fortnite sobre o Capítulo 7: Temporada Mini 1, e o seguinte texto será exibido como destaque:\n\n“O show tem que continuar. Mesmo durante as Horas do Poder...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykskuzu6c23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidtj66faslns53pe46iazk4vjdu6z3jjcozs6jp23hxqrixffmtaa",
+  "tag": "Filtración",
+  "ts": "2026-10-23T18:27:40+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykhljofwk2i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1485,4 +1494,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T15:10:58+00:00";
+window.NEWS_UPDATED = "2026-10-23T18:27:40+00:00";
