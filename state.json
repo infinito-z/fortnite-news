@@ -541,7 +541,9 @@
   "cosmetic:Sparks_AsideDepot_Guitar",
   "cosmetic-batch:80b6f7b3f4",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykarrcsg22k",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykarrcsg22k"
  ],
  "first_run": false,
  "seeded": [
@@ -567,6 +569,19 @@
    },
    "tries": 2,
    "at": 1792760961.0686917
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykarrcsg22k",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Primeira visão dos cosméticos do Beetlejuice no Vestiário! Na Loja nesta noite!\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykarrcsg22k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-23T13:09:59+00:00"
+   },
+   "tries": 1,
+   "at": 1792760999.495965
   }
  ],
  "epic_fp": {
