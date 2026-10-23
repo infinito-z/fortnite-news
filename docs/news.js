@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykvowlzh22f",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💀 NOVO EVENTO — Día de los Muertos chega ao Fortnite! #Fortnite\n\n· 24/10 até 01/11 — Admin Abuse no Steal The Brainrot e GoUp for Brainrots\n· 27/10 até 04/11 — Traje Salvador disponível na Loja\n· 30/11 — Faça login e receba 2 Sprays e um Emoticon\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykvowlzh22f\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidwabggldmphdr2olhzisq3vfitgasmamz2zqixbs3ps7s6ghlsvu",
+  "tag": "Filtración",
+  "ts": "2026-10-23T19:24:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykusjoeac2s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1503,4 +1512,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T19:09:34+00:00";
+window.NEWS_UPDATED = "2026-10-23T19:24:04+00:00";
