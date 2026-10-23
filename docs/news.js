@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Primeira visão dos cosméticos do Beetlejuice no Vestiário! Na Loja nesta noite!\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykarrcsg22k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-10-23T13:09:59+00:00"
+  "ts": "2026-10-23T13:09:36+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
@@ -1440,4 +1440,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T13:09:59+00:00";
+window.NEWS_UPDATED = "2026-10-23T13:09:37+00:00";
