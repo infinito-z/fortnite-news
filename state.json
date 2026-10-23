@@ -600,21 +600,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Os Fantasmas Se Divertem (4x)\n· FNCS [Cavaleira Turquesa] (2x)\n· Vestiário de Horrores [Músicas] (8x)\n· Nada de Relaxar [Gestos] (2x)\n· Estilo Top (8x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylbvh6bq22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig775lmz7mmk3kni4nkt4tg3hgj63loajr6acpmwrjilxlw2h4fm4",
-    "tag": "Filtración",
-    "ts": "2026-10-23T23:01:51+00:00"
-   },
-   "tries": 2,
-   "at": 1792796702.3643453
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
