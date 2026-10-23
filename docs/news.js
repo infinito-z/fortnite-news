@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEu quero ver risada, HAHAHA. Batman que Ri e seus acessórios vivem rindo na Loja do Fortnite até 26 de outubro! 🤣\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiv462gcc2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiffc6py2q5b4pzjnfi36j6t2qhz3ldbjmkkxpeixpofmpiirkg7ve",
   "tag": "Filtración",
-  "ts": "2026-10-23T00:07:51+00:00"
+  "ts": "2026-10-23T00:07:58+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv3lzoak2w",
@@ -15,7 +15,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA alternância perfeita entre estilo e discreto. Os Calçados MSCHF Big Red Boot 'Black' estão de volta à Loja do Fortnite por 1.200 V-Bucks até 25 de outubro! ⬛\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiv3lzoak2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihebolu6rimptnznrpmluzenbigmbyigr75tfthysjxosbkhakcpi",
   "tag": "Filtración",
-  "ts": "2026-10-23T00:07:51+00:00"
+  "ts": "2026-10-23T00:07:58+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv2zeqok2w",
@@ -1413,4 +1413,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T00:07:52+00:00";
+window.NEWS_UPDATED = "2026-10-23T00:07:59+00:00";
