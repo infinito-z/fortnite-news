@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykbfj5u6k2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Pacotão Beetlejuice que chega à Loja nesta noite!\n\nInclui Traje, Mochila, Picareta, Gesto, Envelopamento e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykbfj5u6k2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiannmokxzu6vi3ma74pab4zcag7smiyyxxjclol4kztgoprfzfuie",
+  "tag": "Filtración",
+  "ts": "2026-10-23T13:20:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykarrcsg22k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1440,4 +1449,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T13:09:37+00:00";
+window.NEWS_UPDATED = "2026-10-23T13:20:28+00:00";
