@@ -598,47 +598,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb2oyytk2m",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 26 de outubro!\n\n· NASCAR Ford Mustang (1x)\n· Vestiário de Horrores (8x)\n· Nem Suei (2x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb2oyytk2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifrcopxkkl5afi4aydmlt7v3q7fwgkoza2pfqa7emgoytita4eosu",
-    "tag": "Filtración",
-    "ts": "2026-10-23T22:46:53+00:00"
-   },
-   "tries": 2,
-   "at": 1792795800.596556
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb2f6yyc2m",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 25 de outubro!\n\n· Doja Cat (5x)\n· O Telefone Preto 2 (2x)\n· Assuma o Controle (7x)\n· Embalo de Festa [Gestos] (2x)\n· Vestiário de Horrores (8x)\n· Ilimitado [Heróis Personalizáveis] (3x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb2f6yyc2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmrzxlbms5qqgmwusrhrte6zbkzijrpniy4nhn26jfkcswxr5iei",
-    "tag": "Filtración",
-    "ts": "2026-10-23T22:46:53+00:00"
-   },
-   "tries": 2,
-   "at": 1792795800.596556
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb237aks2m",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 24 de outubro!\n\n· Halloween Horror Nights [HamiKuma] (3x)\n· Sonic The Hedgehog (6x)\n· Vestiário de Horrores (8x)\n· Vestiário do Rejekun (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb237aks2m\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieqlu5wacsrs7ewe725ojiia6bsdf2iyynob4cz27s7uuu6tadqka",
-    "tag": "Filtración",
-    "ts": "2026-10-23T22:46:53+00:00"
-   },
-   "tries": 2,
-   "at": 1792795800.596556
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
