@@ -523,7 +523,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiql55m322o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiqkseyq22o",
   "shop:0b6a33b1fab9538e",
-  "shop:0b6a33b1fab9538e"
+  "shop:0b6a33b1fab9538e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv2zeqok2w",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv2zeqok2w"
  ],
  "first_run": false,
  "seeded": [
@@ -536,7 +538,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv2zeqok2w",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSua presença é suficiente para passar a mensagem. O Slender Man e seus acessórios espreitam os inimigos na Loja do Fortnite até 1° de novembro! 🕴️🌫️\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiv2zeqok2w\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihwjk5njd6xmagpjqizk6eqdr4unkzedo254hdleo2qsxgo4vprba",
+    "tag": "Filtración",
+    "ts": "2026-10-23T00:07:11+00:00"
+   },
+   "tries": 1,
+   "at": 1792714031.6180737
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-22T22:30:00.406Z",
   "sections": {
