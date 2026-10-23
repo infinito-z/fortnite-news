@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl7rhwgkk2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐥 MAPA C7:TM1 — O barco do Patuno retornará no Capítulo 7: Temporada Mini 1 do Fortnite a partir de 1° de novembro!\n\nHatsune Miku e Kasane Teto atualizaram o icônico pato com um visual pirata para a temporada! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myl7rhwgkk2a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlvimcgn2alehomwzhocntpqsndtqqppzjxe53hnh5gwn4qwho5q",
+  "tag": "Filtración",
+  "ts": "2026-10-23T22:24:18+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl74kwtlk2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1593,4 +1602,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T22:12:30+00:00";
+window.NEWS_UPDATED = "2026-10-23T22:24:18+00:00";
