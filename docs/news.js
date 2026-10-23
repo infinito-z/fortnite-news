@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykusjoeac2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 7 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale!\n\n🎶 BIRDBRAIN — Jamie Paige, OK Glass e Kasane Teto\n\nO Baú segue sendo carregado e uma nova música está sendo tocada! Restam 9 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykusjoeac2s\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-23T19:09:34+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykskuzu6c23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1494,4 +1503,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T18:27:40+00:00";
+window.NEWS_UPDATED = "2026-10-23T19:09:34+00:00";
