@@ -559,7 +559,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykusjoeac2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykusjoeac2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykvowlzh22f",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykvowlzh22f"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykvowlzh22f",
+  "cosmetic:CarSkin_OctaneSunsetEffigy01",
+  "cosmetic:Wheel_SunsetEffigyLTE01",
+  "cosmetic:CarSkin_OctaneSunsetEffigy01",
+  "cosmetic:Wheel_SunsetEffigyLTE01"
  ],
  "first_run": false,
  "seeded": [
@@ -572,7 +576,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic:CarSkin_OctaneSunsetEffigy01",
+    "kind": "cosmetic",
+    "title": "Piel: Freddy Fazbear",
+    "text": "🔥 Nuevo en los archivos: Freddy Fazbear (Poco común). Billetera, prepárate 💸",
+    "image": null,
+    "tag": "Cosmético",
+    "ts": "2026-10-23T20:29:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792787398.9272478
+  },
+  {
+   "item": {
+    "id": "cosmetic:Wheel_SunsetEffigyLTE01",
+    "kind": "cosmetic",
+    "title": "Rueda: Faz-fichas",
+    "text": "🔥 Nuevo en los archivos: Faz-fichas (Poco común). Billetera, prepárate 💸",
+    "image": null,
+    "tag": "Cosmético",
+    "ts": "2026-10-23T20:29:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792787398.9272478
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-22T22:30:00.406Z",
   "sections": {

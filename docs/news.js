@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "cosmetic:CarSkin_OctaneSunsetEffigy01",
+  "kind": "cosmetic",
+  "title": "Piel: Freddy Fazbear",
+  "text": "🔥 Nuevo en los archivos: Freddy Fazbear (Poco común). Billetera, prepárate 💸",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-10-23T20:29:58+00:00"
+ },
+ {
+  "id": "cosmetic:Wheel_SunsetEffigyLTE01",
+  "kind": "cosmetic",
+  "title": "Rueda: Faz-fichas",
+  "text": "🔥 Nuevo en los archivos: Faz-fichas (Poco común). Billetera, prepárate 💸",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-10-23T20:29:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykvowlzh22f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1512,4 +1530,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T19:24:04+00:00";
+window.NEWS_UPDATED = "2026-10-23T20:29:58+00:00";
