@@ -573,8 +573,8 @@
     "tag": "Filtración",
     "ts": "2026-10-23T13:21:08+00:00"
    },
-   "tries": 1,
-   "at": 1792761669.152292
+   "tries": 2,
+   "at": 1792761904.7138803
   },
   {
    "item": {
@@ -586,21 +586,8 @@
     "tag": "Filtración",
     "ts": "2026-10-23T13:21:08+00:00"
    },
-   "tries": 1,
-   "at": 1792761669.152292
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykbfj5u6k2y",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Pacotão Beetlejuice que chega à Loja nesta noite!\n\nInclui Traje, Mochila, Picareta, Gesto, Envelopamento e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykbfj5u6k2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiannmokxzu6vi3ma74pab4zcag7smiyyxxjclol4kztgoprfzfuie",
-    "tag": "Filtración",
-    "ts": "2026-10-23T13:20:27+00:00"
-   },
    "tries": 2,
-   "at": 1792761752.5758398
+   "at": 1792761904.7138803
   }
  ],
  "epic_fp": {
