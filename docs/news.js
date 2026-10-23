@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzv5qtt225",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x FNAF — Primeira visão rápida do Adesivo para o Octane e das Rodas de Five Nights At Freddy's no Vestiário do Fortnite!\n\n· Adesivo — Loja do Rocket League\n· Rodas — Tarefas no Rocket League\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykzv5qtt225\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-23T20:38:36+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzuelt3c25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x FNAF — O Adesivo do Octane e as Rodas de Five Nights At Freddy's foram descriptografadas e estão disponíveis para resgate!\n\n· Adesivo — Loja do Rocket League\n· Rodas — Tarefas no Rocket League\n\n📁 Pak1038 | 7.98 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykzuelt3c25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigh2vgpwts2gxfryjfkhmu5drkcyas32etnudu5f42cgtlavchx7y",
+  "tag": "Filtración",
+  "ts": "2026-10-23T20:38:36+00:00"
+ },
+ {
   "id": "cosmetic:CarSkin_OctaneSunsetEffigy01",
   "kind": "cosmetic",
   "title": "Piel: Freddy Fazbear",
@@ -1530,4 +1548,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-23T20:29:58+00:00";
+window.NEWS_UPDATED = "2026-10-23T20:38:37+00:00";

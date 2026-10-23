@@ -563,7 +563,11 @@
   "cosmetic:CarSkin_OctaneSunsetEffigy01",
   "cosmetic:Wheel_SunsetEffigyLTE01",
   "cosmetic:CarSkin_OctaneSunsetEffigy01",
-  "cosmetic:Wheel_SunsetEffigyLTE01"
+  "cosmetic:Wheel_SunsetEffigyLTE01",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzv5qtt225",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzuelt3c25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzv5qtt225",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzuelt3c25"
  ],
  "first_run": false,
  "seeded": [
@@ -576,7 +580,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzv5qtt225",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x FNAF — Primeira visão rápida do Adesivo para o Octane e das Rodas de Five Nights At Freddy's no Vestiário do Fortnite!\n\n· Adesivo — Loja do Rocket League\n· Rodas — Tarefas no Rocket League\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykzv5qtt225\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-23T20:38:36+00:00"
+   },
+   "tries": 1,
+   "at": 1792787917.358492
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykzuelt3c25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x FNAF — O Adesivo do Octane e as Rodas de Five Nights At Freddy's foram descriptografadas e estão disponíveis para resgate!\n\n· Adesivo — Loja do Rocket League\n· Rodas — Tarefas no Rocket League\n\n📁 Pak1038 | 7.98 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykzuelt3c25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigh2vgpwts2gxfryjfkhmu5drkcyas32etnudu5f42cgtlavchx7y",
+    "tag": "Filtración",
+    "ts": "2026-10-23T20:38:36+00:00"
+   },
+   "tries": 1,
+   "at": 1792787917.358492
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-22T22:30:00.406Z",
   "sections": {
