@@ -557,19 +557,6 @@
  "pending": [
   {
    "item": {
-    "id": "cosmetic-batch:80b6f7b3f4",
-    "kind": "cosmetic",
-    "title": "9 cosméticos nuevos",
-    "text": "🔥 9 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Bitelchús, Letrero de Bitelchús, Gusano de arena de seis cuerdas, Letrero lacerante, Gusano de arena de seis cuerdas, Espirales de Bitelchús. Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_asidedepot/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-23T13:03:12+00:00"
-   },
-   "tries": 2,
-   "at": 1792760755.660436
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -578,8 +565,8 @@
     "tag": "Filtración",
     "ts": "2026-10-23T13:06:11+00:00"
    },
-   "tries": 1,
-   "at": 1792760771.7886496
+   "tries": 2,
+   "at": 1792760961.0686917
   }
  ],
  "epic_fp": {
