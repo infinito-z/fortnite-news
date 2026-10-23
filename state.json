@@ -539,7 +539,9 @@
   "cosmetic:Pickaxe_AsideDepot_Guitar",
   "cosmetic:Wrap_AsideDepot",
   "cosmetic:Sparks_AsideDepot_Guitar",
-  "cosmetic-batch:80b6f7b3f4"
+  "cosmetic-batch:80b6f7b3f4",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u"
  ],
  "first_run": false,
  "seeded": [
@@ -565,6 +567,19 @@
    },
    "tries": 2,
    "at": 1792760755.660436
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykalmnqic2u",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Todos os cosméticos do Beetlejuice foram descriptografados e chegam à Loja nesta noite!\n\n📁 Pak1026 | 48.62 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykalmnqic2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaur3wrctshi6yqhtvqmz2nora5a5ltnoy2dcwn5nii2eriqnyvoy",
+    "tag": "Filtración",
+    "ts": "2026-10-23T13:06:39+00:00"
+   },
+   "tries": 1,
+   "at": 1792760799.5238686
   }
  ],
  "epic_fp": {
