@@ -571,7 +571,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl5cgj2js2b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl5cgj2js2b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6nh343s2v",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6nh343s2v"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6nh343s2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6xlygws2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6ww5lns2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6xlygws2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6ww5lns2z"
  ],
  "first_run": false,
  "seeded": [
@@ -597,6 +601,32 @@
    },
    "tries": 2,
    "at": 1792793175.3371766
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6xlygws2z",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎀 TEASER — FORTNITE x KASANE TETO\n\nKasane Teto finalmente chegará à Série Ícones do Fortnite no Capítulo 7: Temporada Mini 1 que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myl6xlygws2z\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-23T22:09:40+00:00"
+   },
+   "tries": 1,
+   "at": 1792793380.9775462
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl6ww5lns2z",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Primeira visão do novo Traje Série Ícones de Pirata da Hatsune Miku que chegará no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myl6ww5lns2z\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiemargabi2heewhh5p7jolxvdudhmi5rlu2yip5pqnlmwobvgcf5u",
+    "tag": "Filtración",
+    "ts": "2026-10-23T22:09:40+00:00"
+   },
+   "tries": 1,
+   "at": 1792793380.9775462
   }
  ],
  "epic_fp": {
