@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbk5zvcc2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 Horas da Comunidade I disponíveis no Battle Royale do C7:T4 até 17h BRT! #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynbk5zvcc2y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
+  "tag": "Filtración",
+  "ts": "2026-10-24T18:01:07+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynabz7yrc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Parche",
   "ts": "2026-10-15T12:39:15+00:00"
- },
- {
-  "id": "cosmetic-batch:ec3c429b87",
-  "kind": "cosmetic",
-  "title": "66 cosméticos nuevos",
-  "text": "👀 Se filtraron 66 cosméticos. Destacan: Ojo de Lyfestyle, Campana, Twizz, Yeat, Miasma, Monarcha. Ahorra paVos desde YA 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_radardigitgloom/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-15T12:39:15+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T17:39:02+00:00";
+window.NEWS_UPDATED = "2026-10-24T18:01:07+00:00";
