@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:521f2d317fae5396439168b39c994a1a",
+  "kind": "news",
+  "title": "En directo - Copa de HamiKuma",
+  "text": "⚡ Ojo, ojo: En directo - Copa de HamiKuma\n¡Compite ya en la copa HamiKuma de tríos de Battle Royale o de tríos de Cero construcción! Los mejores jugadores de cada región recibirán el traje de HamiKuma. Tienes más información en la pestaña Competir.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/9ab184cf2b214d0a9fa0d4243655d431.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-24T23:01:46+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidpohjpdgj2sdjjmujipsgmtu3s4f77elm6bmumjban7qb7b7c5qe",
   "tag": "Filtración",
   "ts": "2026-10-16T13:24:05+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyno7yzw227",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏨 FORTNITE x HAZBIN HOTEL — Primeira visão dos cosméticos de Alastor, Charlie e Vagatha de Hazbin Hotel no Vestiário do jogo. Na Loja nesta noite (preço desconhecido).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxyno7yzw227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-16T13:11:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T23:01:11+00:00";
+window.NEWS_UPDATED = "2026-10-24T23:01:46+00:00";

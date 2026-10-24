@@ -671,7 +671,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynlnf6rxs2a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynlnf6rxs2a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k",
+  "news:521f2d317fae5396439168b39c994a1a",
+  "news:521f2d317fae5396439168b39c994a1a"
  ],
  "first_run": false,
  "seeded": [
@@ -697,6 +699,19 @@
    },
    "tries": 1,
    "at": 1792882871.4572716
+  },
+  {
+   "item": {
+    "id": "news:521f2d317fae5396439168b39c994a1a",
+    "kind": "news",
+    "title": "En directo - Copa de HamiKuma",
+    "text": "⚡ Ojo, ojo: En directo - Copa de HamiKuma\n¡Compite ya en la copa HamiKuma de tríos de Battle Royale o de tríos de Cero construcción! Los mejores jugadores de cada región recibirán el traje de HamiKuma. Tienes más información en la pestaña Competir.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/9ab184cf2b214d0a9fa0d4243655d431.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-10-24T23:01:46+00:00"
+   },
+   "tries": 1,
+   "at": 1792882906.7516892
   }
  ],
  "epic_fp": {
