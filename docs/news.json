@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymt4aahok27",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ MINIMAPA — Fortnite: Caçadores de Tesouro\n\nPrimeira visão do minimapa do Fortnite: Caçadores de Tesouro que começa em 1° de novembro! Diversos locais antigos como o Iate, Praça da Bigorna, Barco do Patuno e outros parecem estar disponíveis!\n\n📸: x/FN_Assist | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymt4aahok27\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiayve4gqh6q32amdofv2b5bcnz3dwsbzoo7xdqdg2aicfx6qjlmgq",
+  "tag": "Filtración",
+  "ts": "2026-10-24T13:42:46+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsppufe22h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1787,15 +1796,6 @@
   "title": "Sigue coleccionando y dominando",
   "text": "🚨 NOTICIA: Sigue coleccionando y dominando\n¡Hay nuevos espíritus para descubrir y coleccionar! Extráelos y equípatelos para conseguir poderes de espíritus que cambiarán la partida, súbelos de nivel y sigue ampliando la colección en Anulación. Los espíritus también aparecerán en el modo Clasificatoria, pero con las habilidades desactivadas para mantener una competición justa.",
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/b4813f9743f1429c96ca12a5c7d5ca51.jpeg?width=1920&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "news:48c61eaddc0e2c5970d17a86ab03f5e8",
-  "kind": "news",
-  "title": "Consigue el estilo Malí peligrosa",
-  "text": "🚨 NOTICIA: Consigue el estilo Malí peligrosa\n¡Regalar el pase de batalla de Glitch desbloquea el estilo Malí peligrosa y accesorios a juego tanto para quien lo regala como para quien lo recibe!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/e1ac92314fd7416687e7991dfd8d3e0d.jpeg?width=1920&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-14T23:12:14+00:00"
  }

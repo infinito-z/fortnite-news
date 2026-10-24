@@ -625,7 +625,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsili2622h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsili2622h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsppufe22h",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsppufe22h"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsppufe22h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymt4aahok27",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymt4aahok27"
  ],
  "first_run": false,
  "seeded": [
@@ -638,7 +640,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymt4aahok27",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ MINIMAPA — Fortnite: Caçadores de Tesouro\n\nPrimeira visão do minimapa do Fortnite: Caçadores de Tesouro que começa em 1° de novembro! Diversos locais antigos como o Iate, Praça da Bigorna, Barco do Patuno e outros parecem estar disponíveis!\n\n📸: x/FN_Assist | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymt4aahok27\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiayve4gqh6q32amdofv2b5bcnz3dwsbzoo7xdqdg2aicfx6qjlmgq",
+    "tag": "Filtración",
+    "ts": "2026-10-24T13:42:46+00:00"
+   },
+   "tries": 1,
+   "at": 1792849367.3860936
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
