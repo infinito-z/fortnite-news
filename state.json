@@ -660,21 +660,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mync7xvims2d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER LORE — Fortnite: Caçadores de Tesouro\n\nAgora é possível interagir com o Baú do Tesouro na Ilha do C7:T4, onde o novo personagem misterioso reproduz algumas frases! #Fortnite\n\n· Tá tentando roubar de mim? Gosto do seu estilo\n· Paciência, caça-tesouro\n· Tentador, não é?\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mync7xvims2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-24T18:15:01+00:00"
-   },
-   "tries": 2,
-   "at": 1792865924.5019536
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
