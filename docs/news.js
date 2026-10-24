@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsppufe22h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ LOGO OFICIAL — Fortnite: Caçadores de Tesouro\n\nO Capítulo 7: Temporada Mini 1 do Fortnite se chamará oficialmente “Caçadores de Tesouro” em português e começa em 1° de novembro! #Fortnite\n\n“A maior aventura de todos os tempos”\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymsppufe22h\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifq333gs5aycasgikxuermf6geeuclqbyhimxbxl6d252snib756e",
+  "tag": "Filtración",
+  "ts": "2026-10-24T13:35:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsili2622h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/e1ac92314fd7416687e7991dfd8d3e0d.jpeg?width=1920&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "shop:3c3c492bec99e36f",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Nueva tienda: 333 ítems. Lo más fuerte: Freddy Fazbear. Ahorra o llora 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_guardhence/featured.png",
-  "tag": "Tienda",
-  "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T13:31:28+00:00";
+window.NEWS_UPDATED = "2026-10-24T13:35:58+00:00";
