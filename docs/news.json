@@ -1,5 +1,14 @@
 [
  {
+  "id": "cosmetic:EID_LoneStar",
+  "kind": "cosmetic",
+  "title": "Gesto: Texas Primadonna",
+  "text": "🔥 Nuevo en los archivos: Texas Primadonna (Serie de ídolos). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_lonestar/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-24T00:01:14+00:00"
+ },
+ {
   "id": "shop:08ebd0e6d8acd403",
   "kind": "shop",
   "title": "Tienda del día",

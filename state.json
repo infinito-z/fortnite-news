@@ -589,7 +589,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
   "shop:08ebd0e6d8acd403",
-  "shop:08ebd0e6d8acd403"
+  "shop:08ebd0e6d8acd403",
+  "cosmetic:EID_LoneStar",
+  "cosmetic:EID_LoneStar"
  ],
  "first_run": false,
  "seeded": [
@@ -615,6 +617,19 @@
    },
    "tries": 1,
    "at": 1792800072.079597
+  },
+  {
+   "item": {
+    "id": "cosmetic:EID_LoneStar",
+    "kind": "cosmetic",
+    "title": "Gesto: Texas Primadonna",
+    "text": "🔥 Nuevo en los archivos: Texas Primadonna (Serie de ídolos). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/eid_lonestar/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T00:01:14+00:00"
+   },
+   "tries": 1,
+   "at": 1792800074.8984454
   }
  ],
  "epic_fp": {
