@@ -651,7 +651,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myncz75gp227",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myncz75gp227",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
+  "cosmetic:LoadingScreen_IvoryDwell",
+  "cosmetic:LoadingScreen_IvoryDwell"
  ],
  "first_run": false,
  "seeded": [
@@ -664,7 +666,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic:LoadingScreen_IvoryDwell",
+    "kind": "cosmetic",
+    "title": "Pantalla de carga: Paisaje de Inoxtag",
+    "text": "🔥 Nuevo en los archivos: Paisaje de Inoxtag (Poco común). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_ivorydwell/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T20:02:06+00:00"
+   },
+   "tries": 1,
+   "at": 1792872126.0282362
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {

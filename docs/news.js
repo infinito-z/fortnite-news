@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic:LoadingScreen_IvoryDwell",
+  "kind": "cosmetic",
+  "title": "Pantalla de carga: Paisaje de Inoxtag",
+  "text": "🔥 Nuevo en los archivos: Paisaje de Inoxtag (Poco común). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_ivorydwell/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-24T20:02:06+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicaedbdu3pqxki2s3333z72hmysnxszvntebrmyeprafhtiqjakkq",
   "tag": "Filtración",
   "ts": "2026-10-16T03:28:59+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxx3k3nnv22e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Yeat (4x)\n· Round 6 (6x)\n· Vestiário de Horrores [Halloween] (11x)\n· Um Estouro [Gestos] (2x)\n· Dingo (2x)\n· Estilo Top (4x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxx3k3nnv22e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieetat3fc2jldfqyeqy7jbb3k73tewogfr2pofybdzvyzsmataeke",
-  "tag": "Filtración",
-  "ts": "2026-10-16T03:28:59+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T19:43:57+00:00";
+window.NEWS_UPDATED = "2026-10-24T20:02:06+00:00";
