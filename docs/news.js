@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymrnhqqhc2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x HALLOWEEN HORROR NIGHTS — Todos os cosméticos do HamiKuma de Halloween Horror Nights foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1039 | 36.02 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymrnhqqhc2v\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihwkb3v5aaeom2gtl3o5tjiy7fkitqu7yowojj47sg6qykoyv6vs4",
+  "tag": "Filtración",
+  "ts": "2026-10-24T13:16:37+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_ZenithPair",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Calabaza de dulces de HamiKuma",
@@ -1737,4 +1746,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T13:00:58+00:00";
+window.NEWS_UPDATED = "2026-10-24T13:16:38+00:00";
