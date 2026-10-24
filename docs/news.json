@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myncz75gp227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⛵ FORTNITE x ONE PIECE — NOVO ÔNIBUS\n\nO navio Going Merry de One Piece parece ser o Ônibus de Batalha do Fortnite: Caçadores de Tesouro! No teaser da colaboração ele é exibido com um balão no topo, indicando sua chegada à Ilha! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myncz75gp227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibvixc664rmwsbfivjmzm632voc33x4ye3ckkbjfif7hkefvjo7je",
+  "tag": "Filtración",
+  "ts": "2026-10-24T18:27:45+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mync7xvims2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/1f7b5b74056f6534/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-16T01:29:07+00:00"
- },
- {
-  "id": "news:92e2fb0d5363418bbe523e6f4a73e543",
-  "kind": "news",
-  "title": "Horrores que merece la pena afrontar juntos",
-  "text": "👀 Epic acaba de soltar esto: Horrores que merece la pena afrontar juntos\n¡Los desarrolladores han demostrado su talento endiablado y han dado vida a sus propios horrores para Fortnite: Pesadillas! Explora una colección de islas de lo más escalofriantes, cada una con su propio giro inesperado. Enfréntate al miedo con tus amigos para desbloquear la misión La unión hace la fuerza.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-15T23:14:22+00:00"
  }
 ]
