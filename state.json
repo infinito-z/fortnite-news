@@ -676,21 +676,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:b37a0d41fc",
-    "kind": "cosmetic",
-    "title": "7 cosméticos nuevos",
-    "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Inoxtag, Nidito de Ace, Piolets alpinistas de Kaizen, Insignia de Inoxtag, Minitodoterreno 4x4, Equipo Croutons. Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_ivorydwell/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-10-24T20:14:03+00:00"
-   },
-   "tries": 2,
-   "at": 1792873039.385477
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
