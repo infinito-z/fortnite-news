@@ -655,7 +655,15 @@
   "cosmetic:LoadingScreen_IvoryDwell",
   "cosmetic:LoadingScreen_IvoryDwell",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
+  "cosmetic:Backpack_IvoryDwell",
+  "cosmetic:Character_IvoryDwell",
+  "cosmetic:EID_IvoryDwell",
+  "cosmetic:Pickaxe_IvoryDwell",
+  "cosmetic:Spray_IvoryDwell",
+  "cosmetic:Spray_IvoryDwell2",
+  "cosmetic:Wrap_IvoryDwell",
+  "cosmetic-batch:b37a0d41fc"
  ],
  "first_run": false,
  "seeded": [
@@ -668,7 +676,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic-batch:b37a0d41fc",
+    "kind": "cosmetic",
+    "title": "7 cosméticos nuevos",
+    "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Inoxtag, Nidito de Ace, Piolets alpinistas de Kaizen, Insignia de Inoxtag, Minitodoterreno 4x4, Equipo Croutons. Tu billetera ya lloró 💸😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/character_ivorydwell/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T20:14:03+00:00"
+   },
+   "tries": 1,
+   "at": 1792872843.3501806
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {

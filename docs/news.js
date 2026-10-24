@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:b37a0d41fc",
+  "kind": "cosmetic",
+  "title": "7 cosméticos nuevos",
+  "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Inoxtag, Nidito de Ace, Piolets alpinistas de Kaizen, Insignia de Inoxtag, Minitodoterreno 4x4, Equipo Croutons. Tu billetera ya lloró 💸😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_ivorydwell/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-24T20:14:03+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaqbatalbu4ug3lq42rdqdc4wqd24fmaovreshpkktx7txe6fjyhm",
   "tag": "Filtración",
   "ts": "2026-10-16T03:28:59+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxckebees2b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEstilo intimidador. O Chassi Dingo e seus acessórios trazem velocidade para a Loja do Fortnite por 1.500 V-Bucks até 22 de outubro! 🔥💨\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxckebees2b\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidvtdlqwgfvfhfil2fjkfczbeklvwqm3wmce2z7jpdnxl33jbsewm",
-  "tag": "Filtración",
-  "ts": "2026-10-16T03:28:59+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T20:02:14+00:00";
+window.NEWS_UPDATED = "2026-10-24T20:14:03+00:00";
