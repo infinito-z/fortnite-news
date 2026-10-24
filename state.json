@@ -646,21 +646,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:3bc782d50697fe3cca9de2e3da357f5d",
-    "kind": "news",
-    "title": "Ya disponible: campeonato del Torneo para Móviles",
-    "text": "🚨 NOTICIA: Ya disponible: campeonato del Torneo para Móviles\nDa el salto ya a Aterrizaje de leyendas y mira cómo los mejores jugadores en solitario de Recarga para móviles compiten por la oportunidad de coronarse campeones del campeonato del Torneo para Móviles en Copenhague, Dinamarca.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/baa4e771befa482393862b9f5c34e024.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-24T15:01:22+00:00"
-   },
-   "tries": 2,
-   "at": 1792854249.572528
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
