@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🌟 FORTNITE x INOXTAG — EM BREVE!\n\nInoxtag (Youtuber e streamer francês) chegará à Série Ícones do Fortnite em 26 de outubro! \n\n🏆 Além disso, participe do Campeonato Inoxtag em 25 de outubro para ter a chance de receber seu conjunto antes da hora! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynhcibo3c2j\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-24T19:43:56+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myncz75gp227",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieetat3fc2jldfqyeqy7jbb3k73tewogfr2pofybdzvyzsmataeke",
   "tag": "Filtración",
   "ts": "2026-10-16T03:28:59+00:00"
- },
- {
-  "id": "shop:77bcf82c09f86f60",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 78 novedades. Lo más fuerte:\n• Lote de Yeat — 3.600 paVos\n• LOTE DE DIABÓLICO — 3.500 paVos\n• Lote de Calamar — 3.000 paVos\n• Lote de Mariano el humano — 2.200 paVos\n• Leviatán — 2.000 paVos\n• Lote de El líder — 2.000 paVos\n…y 72 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/1f7b5b74056f6534/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-16T01:29:07+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T18:27:45+00:00";
+window.NEWS_UPDATED = "2026-10-24T19:43:57+00:00";
