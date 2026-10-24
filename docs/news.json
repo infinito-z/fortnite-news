@@ -1,5 +1,14 @@
 [
  {
+  "id": "news:3bc782d50697fe3cca9de2e3da357f5d",
+  "kind": "news",
+  "title": "Ya disponible: campeonato del Torneo para Móviles",
+  "text": "🚨 NOTICIA: Ya disponible: campeonato del Torneo para Móviles\nDa el salto ya a Aterrizaje de leyendas y mira cómo los mejores jugadores en solitario de Recarga para móviles compiten por la oportunidad de coronarse campeones del campeonato del Torneo para Móviles en Copenhague, Dinamarca.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/baa4e771befa482393862b9f5c34e024.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-24T15:01:22+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymurqlrus2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1787,15 +1796,6 @@
   "title": "¡Fortnite: Glitch ya está aquí!",
   "text": "🚨 NOTICIA: ¡Fortnite: Glitch ya está aquí!\nRompe las reglas. ¡Cambia la partida! Activa las anulaciones para darle un giro a la partida y explorar zonas inspiradas en leyendas del gaming como Sonic, Tetris y Pac-Man a medida que se desvela el futuro de la isla.",
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/c9d5be52e48745d9b71b43693015543b.jpeg?width=1920&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "news:b649c196578772d6006ecedd715ec72a",
-  "kind": "news",
-  "title": "El terror ya está aquí",
-  "text": "⚡ Ojo, ojo: El terror ya está aquí\nUn cartucho maldito se extiende por la isla y corrompe todo lo que toca. ¡Lánzate a Battle Royale para ver qué horrores espeluznantes te esperan, como nuevas armas poderosas, mecánicas terroríficas, jefes espantosos y mucho más!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/71f69967b38e4a4dbd3c5d6c7004dbea.jpeg?width=1920&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-14T23:12:14+00:00"
  }
