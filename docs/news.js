@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn7ucam622d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Ao que parece, a colaboração com One Piece será anunciada pelo Fortnite ainda HOJE, talvez sendo o anúncio das 15h BRT!\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myn7ucam622d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihfl7tw2khwwhwil3zivcx3thfvxg7kuubwefclselmlmfpiqe64e",
+  "tag": "Filtración",
+  "ts": "2026-10-24T17:30:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn744emvk2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/character_guardhence/featured.png",
   "tag": "Tienda",
   "ts": "2026-10-15T00:15:22+00:00"
- },
- {
-  "id": "cosmetic-batch:7b8a40c01b",
-  "kind": "cosmetic",
-  "title": "142 cosméticos nuevos",
-  "text": "👀 Se filtraron 142 cosméticos. Destacan: Escudo de la FNCS, Dracula, BIG FEELING, Freddy Krueger, Punk dorado, Mono maldito. Ahorra paVos desde YA 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_rubywardenfncsshield/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-14T23:18:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T17:17:19+00:00";
+window.NEWS_UPDATED = "2026-10-24T17:30:50+00:00";
