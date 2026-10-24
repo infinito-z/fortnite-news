@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymtictet227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚪ FORTNITE x MIKU x TETO — Primeira visão de um Elemental temático de Hatsune Miku e Kasane Teto que deve chegar no Fortnite: Caçadores de Tesouro!\n\nA maior aventura de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymtictet227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigvl7jpwxovfgonw4westr4l4ohsej6oaec5p4olxris25mupx3qy",
+  "tag": "Filtración",
+  "ts": "2026-10-24T13:49:16+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymt4aahok27",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/0565ca828ab54582a03c892eece95a12.jpeg?width=1920&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "news:6e04ce0ffbe3b152fe6bcfea0c0c3888",
-  "kind": "news",
-  "title": "Sigue coleccionando y dominando",
-  "text": "🚨 NOTICIA: Sigue coleccionando y dominando\n¡Hay nuevos espíritus para descubrir y coleccionar! Extráelos y equípatelos para conseguir poderes de espíritus que cambiarán la partida, súbelos de nivel y sigue ampliando la colección en Anulación. Los espíritus también aparecerán en el modo Clasificatoria, pero con las habilidades desactivadas para mantener una competición justa.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/b4813f9743f1429c96ca12a5c7d5ca51.jpeg?width=1920&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T13:42:47+00:00";
+window.NEWS_UPDATED = "2026-10-24T13:49:17+00:00";
