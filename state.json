@@ -587,7 +587,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb2f6yyc2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb237aks2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
+  "shop:08ebd0e6d8acd403",
+  "shop:08ebd0e6d8acd403"
  ],
  "first_run": false,
  "seeded": [
@@ -600,7 +602,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:08ebd0e6d8acd403",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 41 cosas nuevas:\n• Lote de Equipo escultor — 2.600 paVos\n• Lote de Beetlejuice — 2.400 paVos\n• Lote del Caballero esmeralda de la FNCS — 1.500 paVos\n• Ave solar — 1.200 paVos\n• Parche — 1.200 paVos\n• Rey cangrejo — 1.200 paVos\n…y 35 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/266a23764d411c65/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-24T00:01:12+00:00"
+   },
+   "tries": 1,
+   "at": 1792800072.079597
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
