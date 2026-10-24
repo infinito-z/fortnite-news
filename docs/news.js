@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylfx2srd22j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA vitória está mais próxima do que nunca! Torne-se a ameaça do FNCS com a Cavaleira Turquesa e seus acessórios do FNCS C7:T4 na Loja do Fortnite até 30 de outubro! 🏆🍀\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylfx2srd22j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiatbwo24hg7aul6kwc5t7norznlxtdbgid7leiqvxe7bii7faetxu",
+  "tag": "Filtración",
+  "ts": "2026-10-24T00:14:28+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylfwb5ly22j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nDiga o nome dele três vezes e você verá o que acontece! Beetlejuice e seus acessórios de Os Fantasmas Se Divertem fazem a festa na Loja do Fortnite até 02 de novembro! 🪲🗣️\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylfwb5ly22j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih46vnvzld3rswho3sn2famae4eszind3tl52xirq4ccfhfuho3du",
+  "tag": "Filtración",
+  "ts": "2026-10-24T00:14:28+00:00"
+ },
+ {
   "id": "cosmetic:EID_LoneStar",
   "kind": "cosmetic",
   "title": "Gesto: Texas Primadonna",
@@ -1656,4 +1674,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T00:01:14+00:00";
+window.NEWS_UPDATED = "2026-10-24T00:14:29+00:00";
