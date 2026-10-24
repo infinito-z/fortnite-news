@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymrrrkjqc2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO HAMIKUMA | #Fortnite\n\n🗓️ 24 de outubro\n🎮 BR (Trios/Geral) e Reload (Solo/Mobile)\n🇧🇷 Top 60 no BR e Top 30 no Reload levam o conjunto completo\n\nHamiKuma e seus acessórios de Halloween Horror Nights chegam à Loja no mesmo dia, às 21h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymrrrkjqc2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibbvtdyjtl3erehttrmussrsks4wcwyuce4xysgg2ndmiglhoyora",
+  "tag": "Filtración",
+  "ts": "2026-10-24T13:19:33+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymrpphj322v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1773,4 +1782,4 @@ window.NEWS = [
   "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T13:18:13+00:00";
+window.NEWS_UPDATED = "2026-10-24T13:19:33+00:00";
