@@ -661,19 +661,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbk5zvcc2y",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 Horas da Comunidade I disponíveis no Battle Royale do C7:T4 até 17h BRT! #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynbk5zvcc2y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
-    "tag": "Filtración",
-    "ts": "2026-10-24T18:01:07+00:00"
-   },
-   "tries": 2,
-   "at": 1792865095.669697
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbs3apdk2y",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -682,8 +669,8 @@
     "tag": "Filtración",
     "ts": "2026-10-24T18:05:39+00:00"
    },
-   "tries": 1,
-   "at": 1792865140.3190188
+   "tries": 2,
+   "at": 1792865297.6591578
   }
  ],
  "epic_fp": {
