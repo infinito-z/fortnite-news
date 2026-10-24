@@ -635,7 +635,9 @@
   "news:3bc782d50697fe3cca9de2e3da357f5d",
   "news:3bc782d50697fe3cca9de2e3da357f5d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn744emvk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn744emvk2c"
  ],
  "first_run": false,
  "seeded": [
@@ -648,7 +650,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn744emvk2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nO Fortnite: Pesadelos do C1:T6 completa 8 ANOS! 🟪👻\n\nO 1° evento de halloween do Fortnite ocorreu durante o Capítulo 1: Temporada 6, trazendo os Monstros do Cubo ao Battle Royale, o Revólver de Seis Tiros, a Besta de Caçador de Demônios, e o Traje Fogo Frio! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myn744emvk2c\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-24T17:17:19+00:00"
+   },
+   "tries": 1,
+   "at": 1792862239.3726017
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
