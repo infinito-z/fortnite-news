@@ -601,7 +601,15 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylfyhzm5k2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylfyhzm5k2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylg4gf4q226",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylg4gf4q226"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylg4gf4q226",
+  "cosmetic:Backpack_ZenithPair",
+  "cosmetic:Character_ZenithPair",
+  "cosmetic:Pickaxe_ZenithPair",
+  "cosmetic:Spray_ZenithPair",
+  "cosmetic:Backpack_ZenithPair",
+  "cosmetic:Character_ZenithPair",
+  "cosmetic:Pickaxe_ZenithPair",
+  "cosmetic:Spray_ZenithPair"
  ],
  "first_run": false,
  "seeded": [
@@ -614,7 +622,60 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic:Backpack_ZenithPair",
+    "kind": "cosmetic",
+    "title": "Accesorio mochilero: Calabaza de dulces de HamiKuma",
+    "text": "⚡ Llegó Calabaza de dulces de HamiKuma (Raro). El que no la compre, no es gamer 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_zenithpair/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T13:00:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792846858.181989
+  },
+  {
+   "item": {
+    "id": "cosmetic:Character_ZenithPair",
+    "kind": "cosmetic",
+    "title": "Traje: HamiKuma",
+    "text": "👀 Se filtró HamiKuma (Épico). Que alguien avise a mi tarjeta 😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/character_zenithpair/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T13:00:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792846858.181989
+  },
+  {
+   "item": {
+    "id": "cosmetic:Pickaxe_ZenithPair",
+    "kind": "cosmetic",
+    "title": "Pico: Garras de HamiKuma",
+    "text": "⚡ Llegó Garras de HamiKuma (Raro). El que no la compre, no es gamer 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_zenithpair/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T13:00:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792846858.181989
+  },
+  {
+   "item": {
+    "id": "cosmetic:Spray_ZenithPair",
+    "kind": "cosmetic",
+    "title": "Grafiti: HamiKuma estuvo aquí",
+    "text": "🔥 Nuevo en los archivos: HamiKuma estuvo aquí (Poco común). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/spray_zenithpair/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-24T13:00:58+00:00"
+   },
+   "tries": 1,
+   "at": 1792846858.181989
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
