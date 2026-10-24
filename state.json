@@ -633,7 +633,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymurqlrus2r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymurqlrus2r",
   "news:3bc782d50697fe3cca9de2e3da357f5d",
-  "news:3bc782d50697fe3cca9de2e3da357f5d"
+  "news:3bc782d50697fe3cca9de2e3da357f5d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c"
  ],
  "first_run": false,
  "seeded": [
@@ -646,7 +648,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 FORTNITE x TWITCH — Drop do Fortnite Mobile Series! #Fortnite\n\nAssista à transmissão do Fortnite Mobile Series na Twitch por 30 minutos e receba a Mochila Aboborito Meia-noite no jogo! Disponível somente até às 20h59 BRT para resgate!\n\nLive: twitch.tv/fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymzlmqizk2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiapunbu2fgajfcphskfzio75cbflvd2d3iijk4xj3gyov7lugpd3i",
+    "tag": "Filtración",
+    "ts": "2026-10-24T15:38:50+00:00"
+   },
+   "tries": 1,
+   "at": 1792856330.9964151
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {

@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 FORTNITE x TWITCH — Drop do Fortnite Mobile Series! #Fortnite\n\nAssista à transmissão do Fortnite Mobile Series na Twitch por 30 minutos e receba a Mochila Aboborito Meia-noite no jogo! Disponível somente até às 20h59 BRT para resgate!\n\nLive: twitch.tv/fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymzlmqizk2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiapunbu2fgajfcphskfzio75cbflvd2d3iijk4xj3gyov7lugpd3i",
+  "tag": "Filtración",
+  "ts": "2026-10-24T15:38:50+00:00"
+ },
+ {
   "id": "news:3bc782d50697fe3cca9de2e3da357f5d",
   "kind": "news",
   "title": "Ya disponible: campeonato del Torneo para Móviles",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Parche",
   "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "news:e44ebb736d7a29735637dafdc0623c4b",
-  "kind": "news",
-  "title": "¡Fortnite: Glitch ya está aquí!",
-  "text": "🚨 NOTICIA: ¡Fortnite: Glitch ya está aquí!\nRompe las reglas. ¡Cambia la partida! Activa las anulaciones para darle un giro a la partida y explorar zonas inspiradas en leyendas del gaming como Sonic, Tetris y Pac-Man a medida que se desvela el futuro de la isla.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/c9d5be52e48745d9b71b43693015543b.jpeg?width=1920&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-14T23:12:14+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T15:01:22+00:00";
+window.NEWS_UPDATED = "2026-10-24T15:38:51+00:00";
