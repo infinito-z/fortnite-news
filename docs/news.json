@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymurqlrus2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRIPULAÇÕES — Fortnite: Caçadores de Tesouro\n\n· Jones e Valentia (Originais)\n· A$AP Rocky\n· ???\n· Hatsune Miku e Kasane Teto\n· Lil Uzi Vert\n· ???\n\nEssas serão as Tripulações de Piratas do Fortnite: Caçadores de Tesouro. Palpites dos desconhecidos? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymurqlrus2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib7ggpudo54t3d2uwfbdiasho7z32tptlffefipsjjm4owdc7nwci",
+  "tag": "Filtración",
+  "ts": "2026-10-24T14:13:03+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymtictet227",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1787,15 +1796,6 @@
   "title": "El terror ya está aquí",
   "text": "⚡ Ojo, ojo: El terror ya está aquí\nUn cartucho maldito se extiende por la isla y corrompe todo lo que toca. ¡Lánzate a Battle Royale para ver qué horrores espeluznantes te esperan, como nuevas armas poderosas, mecánicas terroríficas, jefes espantosos y mucho más!",
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/71f69967b38e4a4dbd3c5d6c7004dbea.jpeg?width=1920&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-14T23:12:14+00:00"
- },
- {
-  "id": "news:e8bae4efc191e2d2b12c0d98445c1f11",
-  "kind": "news",
-  "title": "Jugabilidad de Five Nights at Freddy's",
-  "text": "👀 Epic acaba de soltar esto: Jugabilidad de Five Nights at Freddy's\n¡Que empiece el espectáculo! Enfréntate a los animatrónicos en Battle Royale; siempre habrá uno acechando en la pizzería de Freddy Fazbear. Derrota a cualquier robot que encuentres para poseer el traje y terminar la lucha al estilo Fazbear.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/0565ca828ab54582a03c892eece95a12.jpeg?width=1920&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-14T23:12:14+00:00"
  }
