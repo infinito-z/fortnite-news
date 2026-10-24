@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbs3apdk2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER OFICIAL — FORTNITE x ONE PIECE\n\nOne Piece chegará no Fortnite: Caçadores de Tesouro que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynbs3apdk2y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-24T18:05:39+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbk5zvcc2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-15T20:29:04+00:00"
- },
- {
-  "id": "build:++Fortnite+Release-42.40-CL-59086525",
-  "kind": "build",
-  "title": "Build 42.40",
-  "text": "⚙️ Cambió el build del juego: 42.40. Algo se viene, mantente atento 👀",
-  "image": null,
-  "tag": "Parche",
-  "ts": "2026-10-15T12:39:15+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T18:01:07+00:00";
+window.NEWS_UPDATED = "2026-10-24T18:05:40+00:00";
