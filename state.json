@@ -653,7 +653,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynhcibo3c2j",
   "cosmetic:LoadingScreen_IvoryDwell",
-  "cosmetic:LoadingScreen_IvoryDwell"
+  "cosmetic:LoadingScreen_IvoryDwell",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j"
  ],
  "first_run": false,
  "seeded": [
@@ -679,6 +681,19 @@
    },
    "tries": 1,
    "at": 1792872126.0282362
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Capítulo 7: Temporada 4 | #Fortnite\n\n🔥 Progressão: 89%\n📅 Dias restantes: 7\n🔹Nível estimado: 89 (para o 100)\n🔸Nível estimado: 178 (para o 200)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynicm3lmk2j\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
+    "tag": "Filtración",
+    "ts": "2026-10-24T20:02:13+00:00"
+   },
+   "tries": 1,
+   "at": 1792872134.361033
   }
  ],
  "epic_fp": {

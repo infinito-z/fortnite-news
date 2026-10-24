@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynicm3lmk2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Capítulo 7: Temporada 4 | #Fortnite\n\n🔥 Progressão: 89%\n📅 Dias restantes: 7\n🔹Nível estimado: 89 (para o 100)\n🔸Nível estimado: 178 (para o 200)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynicm3lmk2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
+  "tag": "Filtración",
+  "ts": "2026-10-24T20:02:13+00:00"
+ },
+ {
   "id": "cosmetic:LoadingScreen_IvoryDwell",
   "kind": "cosmetic",
   "title": "Pantalla de carga: Paisaje de Inoxtag",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidvtdlqwgfvfhfil2fjkfczbeklvwqm3wmce2z7jpdnxl33jbsewm",
   "tag": "Filtración",
   "ts": "2026-10-16T03:28:59+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxxcjrejv22b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nBrilho intenso e estilo insuperável. Yeat e seus acessórios Série Ícones mostram o poder do rap na Loja do Fortnite até 31 de outubro! 🪩🎤\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxxcjrejv22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicaedbdu3pqxki2s3333z72hmysnxszvntebrmyeprafhtiqjakkq",
-  "tag": "Filtración",
-  "ts": "2026-10-16T03:28:59+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T20:02:06+00:00";
+window.NEWS_UPDATED = "2026-10-24T20:02:14+00:00";
