@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mync7xvims2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER LORE — Fortnite: Caçadores de Tesouro\n\nAgora é possível interagir com o Baú do Tesouro na Ilha do C7:T4, onde o novo personagem misterioso reproduz algumas frases! #Fortnite\n\n· Tá tentando roubar de mim? Gosto do seu estilo\n· Paciência, caça-tesouro\n· Tentador, não é?\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mync7xvims2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-24T18:15:01+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynbs3apdk2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-15T23:14:22+00:00"
- },
- {
-  "id": "news:1f3b5a2054c5fb25d808368b72011c2a",
-  "kind": "news",
-  "title": "Horrores que merece la pena afrontar juntos",
-  "text": "🚨 NOTICIA: Horrores que merece la pena afrontar juntos\n¡Los desarrolladores han demostrado su talento endiablado y han dado vida a sus propios horrores para Fortnite: Pesadillas! Explora una colección de islas de lo más escalofriantes, cada una con su propio giro inesperado. Enfréntate al miedo con tus amigos para desbloquear la misión La unión hace la fuerza.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/ba991655f15b4563ab42b025cd51d670.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-15T20:29:04+00:00"
  }
 ]
