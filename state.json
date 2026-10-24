@@ -652,21 +652,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myn7ucam622d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Ao que parece, a colaboração com One Piece será anunciada pelo Fortnite ainda HOJE, talvez sendo o anúncio das 15h BRT!\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myn7ucam622d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihfl7tw2khwwhwil3zivcx3thfvxg7kuubwefclselmlmfpiqe64e",
-    "tag": "Filtración",
-    "ts": "2026-10-24T17:30:49+00:00"
-   },
-   "tries": 2,
-   "at": 1792863206.213756
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:30:00.731Z",
   "sections": {
