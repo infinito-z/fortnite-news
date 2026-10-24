@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynlnf6rxs2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO ÍCONE INOXTAG\n\n🗓️ 25 de outubro\n📲 BR/TR (Duplas) e Reload Mobile (Solo)\n🇧🇷 Top 120 no Battle Royale e Top 36 no Reload levam o Traje Inoxtag\n\nO fenômeno Inoxtag chega à Loja do Fortnite em 26 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynlnf6rxs2a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihlskhig74l37w2c3o6iqvaqx2abf3rbcvzbdhnbq4nxbx3jlplia",
+  "tag": "Filtración",
+  "ts": "2026-10-24T21:01:50+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynky556us2v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifq7cgikvlws6dqt4sr7zjfy5rysr2eqxf3icf374dl5wfumuecgy",
   "tag": "Filtración",
   "ts": "2026-10-16T13:11:15+00:00"
- },
- {
-  "id": "cosmetic-batch:6d0ed577ff",
-  "kind": "cosmetic",
-  "title": "18 cosméticos nuevos",
-  "text": "🔥 18 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Alastor, Princesa Charlie Morningstar, Vagatha, Radio de Alastor, Teclas de Alastor, KeeKee. Tu billetera ya lloró 💸😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_acidwhale/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-16T13:01:59+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T20:49:46+00:00";
+window.NEWS_UPDATED = "2026-10-24T21:01:51+00:00";
