@@ -683,7 +683,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtvpp4c2g",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtvpp4c2g",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynz5zosjk2f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynz5zosjk2f"
  ],
  "first_run": false,
  "seeded": [
@@ -696,7 +698,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynz5zosjk2f",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 Horas da Comunidade II disponíveis no Battle Royale do C7:T4 até 0h BRT! #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynz5zosjk2f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
+    "tag": "Filtración",
+    "ts": "2026-10-25T01:04:05+00:00"
+   },
+   "tries": 1,
+   "at": 1792890245.6092331
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
