@@ -700,21 +700,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3myoe5hyifc2m",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nQueueing for the OCE Arena Reload Cup is fixed and competitors can ready up again. To account for this delayed start time, Fortnite has extended the tournament event window an extra hour.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3myoe5hyifc2m",
-    "image": null,
-    "tag": "Estado",
-    "ts": "2026-10-25T04:20:08+00:00"
-   },
-   "tries": 2,
-   "at": 1792902163.7038639
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
