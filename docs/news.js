@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOs cosméticos de Cobra Kai marcam mais de 1.500 DIAS desde sua última aparição na Loja em 10 de setembro de 2022! 🥋\n\nAté o momento não há previsão para retorno, mas você está na espera? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqa3bsgw22l\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdyc4yulffpwobcffpibbqob6s5y2aricenrlzuvtargbrhckp4u",
+  "tag": "Filtración",
+  "ts": "2026-10-25T22:13:15+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic7sqr3bvcjhs6767yl5w6c6ot37j5o6hhczddgepuqh4omxv745m",
   "tag": "Filtración",
   "ts": "2026-10-16T18:03:38+00:00"
- },
- {
-  "id": "cosmetic:Backpack_CarryMazeFlap",
-  "kind": "cosmetic",
-  "title": "Accesorio mochilero: Dron de la purga",
-  "text": "👀 Se filtró Dron de la purga (Raro). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_carrymazeflap/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-16T17:54:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T18:29:06+00:00";
+window.NEWS_UPDATED = "2026-10-25T22:13:15+00:00";

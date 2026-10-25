@@ -693,7 +693,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l"
  ],
  "first_run": false,
  "seeded": [
@@ -706,7 +708,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOs cosméticos de Cobra Kai marcam mais de 1.500 DIAS desde sua última aparição na Loja em 10 de setembro de 2022! 🥋\n\nAté o momento não há previsão para retorno, mas você está na espera? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqa3bsgw22l\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdyc4yulffpwobcffpibbqob6s5y2aricenrlzuvtargbrhckp4u",
+    "tag": "Filtración",
+    "ts": "2026-10-25T22:13:15+00:00"
+   },
+   "tries": 1,
+   "at": 1792966395.4240386
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
