@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypbkpjxgk2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 2 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n· Todo tesouro precisa de quem o cace\n· Aqui tem mais do que um tesouro\n· Por que comprar, quando pode saquear?\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mypbkpjxgk2l\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-25T13:08:16+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3myoe5hyifc2m",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_carrymazeflap/icon.png",
   "tag": "Cosmético",
   "ts": "2026-10-16T17:54:58+00:00"
- },
- {
-  "id": "cosmetic:Emoticon_CarryMaze",
-  "kind": "cosmetic",
-  "title": "Emoticono: Máscara de La purga",
-  "text": "👀 Se filtró Máscara de La purga (Poco común). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/emoticon_carrymaze/smallicon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-16T17:54:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T04:20:08+00:00";
+window.NEWS_UPDATED = "2026-10-25T13:08:17+00:00";
