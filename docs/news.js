@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:37394714f3432074",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 39 novedades. Lo más fuerte:\n• Lote de Shadow the Hedgehog y Knuckles the Echidna — 3.600 paVos\n• Porsche 918 Spyder — 2.800 paVos\n• Lote de taquilla de Rejekun — 2.800 paVos\n• Lote de Dr. Eggman — 2.000 paVos\n• ala delta de dragón royale — 2.000 paVos\n• Lote de Jack el Payaso — 2.000 paVos\n…y 33 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/5df0427845e2f3f2/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-25T00:01:44+00:00"
+ },
+ {
   "id": "news:521f2d317fae5396439168b39c994a1a",
   "kind": "news",
   "title": "En directo - Copa de HamiKuma",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjaimukqplkfrkynpxnxbhemvlmi65uh6er6g4eertywidhrukuu",
   "tag": "Filtración",
   "ts": "2026-10-16T13:24:05+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxyocqvi7k27",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏨 FORTNITE x HAZBIN HOTEL — Pacotão Hazbin Hotel com Alastor, Charlie e Vagatha que chega à Loja do Fortnite nesta noite (preço desconhecido).\n\nInclui Trajes, Mochilas, Picaretas, Gestos e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxyocqvi7k27\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidpohjpdgj2sdjjmujipsgmtu3s4f77elm6bmumjban7qb7b7c5qe",
-  "tag": "Filtración",
-  "ts": "2026-10-16T13:24:05+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-24T23:01:46+00:00";
+window.NEWS_UPDATED = "2026-10-25T00:01:44+00:00";

@@ -673,7 +673,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynsc6jhrs2k",
   "news:521f2d317fae5396439168b39c994a1a",
-  "news:521f2d317fae5396439168b39c994a1a"
+  "news:521f2d317fae5396439168b39c994a1a",
+  "shop:37394714f3432074",
+  "shop:37394714f3432074"
  ],
  "first_run": false,
  "seeded": [
@@ -686,7 +688,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:37394714f3432074",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 39 novedades. Lo más fuerte:\n• Lote de Shadow the Hedgehog y Knuckles the Echidna — 3.600 paVos\n• Porsche 918 Spyder — 2.800 paVos\n• Lote de taquilla de Rejekun — 2.800 paVos\n• Lote de Dr. Eggman — 2.000 paVos\n• ala delta de dragón royale — 2.000 paVos\n• Lote de Jack el Payaso — 2.000 paVos\n…y 33 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/5df0427845e2f3f2/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-25T00:01:44+00:00"
+   },
+   "tries": 1,
+   "at": 1792886504.3086724
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
