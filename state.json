@@ -702,21 +702,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypbkpjxgk2l",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 2 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n· Todo tesouro precisa de quem o cace\n· Aqui tem mais do que um tesouro\n· Por que comprar, quando pode saquear?\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mypbkpjxgk2l\n⚠️ No es oficial.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-25T13:08:16+00:00"
-   },
-   "tries": 2,
-   "at": 1792933853.8712053
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
