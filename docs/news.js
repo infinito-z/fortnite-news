@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏞️ FORTNITE x INOXTAG — Drops da Twitch disponíveis! #Fortnite\n\nResgate o Spray “Equipe Croutons” (30m) e a Tela “Vista do Inoxtag” no Fortnite ao assistir às transmissões dele na Twitch! Disponíveis até 28 de outubro às 0h59 BRT!\n\nLive: twitch.tv/inoxtag\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myptklc2xk2c\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicou4kh6tlhihslak665wo574ekujlureri64vw5g66b7vxwtt5dm",
+  "tag": "Filtración",
+  "ts": "2026-10-25T18:29:06+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/backpack_carrymazeflap/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-16T17:54:58+00:00"
- },
- {
-  "id": "cosmetic:Character_CarryMazeFlap",
-  "kind": "cosmetic",
-  "title": "Traje: Dama de la libertad",
-  "text": "👀 Se filtró Dama de la libertad (Épico). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_carrymazeflap/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-16T17:54:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T16:36:27+00:00";
+window.NEWS_UPDATED = "2026-10-25T18:29:06+00:00";

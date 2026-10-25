@@ -691,7 +691,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypbkpjxgk2l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypbkpjxgk2l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c"
  ],
  "first_run": false,
  "seeded": [
@@ -704,7 +706,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏞️ FORTNITE x INOXTAG — Drops da Twitch disponíveis! #Fortnite\n\nResgate o Spray “Equipe Croutons” (30m) e a Tela “Vista do Inoxtag” no Fortnite ao assistir às transmissões dele na Twitch! Disponíveis até 28 de outubro às 0h59 BRT!\n\nLive: twitch.tv/inoxtag\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myptklc2xk2c\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicou4kh6tlhihslak665wo574ekujlureri64vw5g66b7vxwtt5dm",
+    "tag": "Filtración",
+    "ts": "2026-10-25T18:29:06+00:00"
+   },
+   "tries": 1,
+   "at": 1792952946.9030533
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
