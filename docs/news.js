@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypnbqpep225",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 FORTNITE x TWITCH — Drop do Fortnite Mobile Series! #Fortnite\n\nAssista à transmissão do Fortnite Mobile Series na Twitch por 30 min e receba a Picareta Asas de Morcego da Meia-noite! Só até às 20h59 BRT, mas provavelmente a live terminará antes.\n\nLive: twitch.tv/fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mypnbqpep225\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiglsajvp72ctfbpl2g3e5k76e2k7iotx76gu45xkvzkng3nmkmxyu",
+  "tag": "Filtración",
+  "ts": "2026-10-25T16:36:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mypbkpjxgk2l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/character_carrymazeflap/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-16T17:54:58+00:00"
- },
- {
-  "id": "cosmetic:EID_CarryMazeFlap",
-  "kind": "cosmetic",
-  "title": "Gesto: Pose electrizante",
-  "text": "🔥 Nuevo en los archivos: Pose electrizante (Poco común). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/eid_carrymazeflap/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-16T17:54:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T13:08:17+00:00";
+window.NEWS_UPDATED = "2026-10-25T16:36:27+00:00";
