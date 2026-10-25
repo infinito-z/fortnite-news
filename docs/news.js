@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:2f1524ccf702c2339f07b70dd48f3e1e",
+  "kind": "news",
+  "title": "En directo: Copa de ídolos de Inoxtag",
+  "text": "⚡ Ojo, ojo: En directo: Copa de ídolos de Inoxtag\n¡Participa ya en la Copa de ídolos de Inoxtag de dúos de Battle Royale o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de Inoxtag. Tienes más información en la pestaña Competir.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/8f6ca6fc16d344abb22b678b4093fd2d.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-25T23:01:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidqgfk4na42ewvr2unuml5dqzqxincadipxmnyl3fg33dziodkmma",
   "tag": "Filtración",
   "ts": "2026-10-16T18:09:07+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz5ye2kwk2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Primeira visão dos cosméticos da Lady Liberty de Uma Noite de Crime (The Purge) no Vestiário do jogo. Na Loja amanhã, 17 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz5ye2kwk2e\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-16T18:04:25+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T23:00:34+00:00";
+window.NEWS_UPDATED = "2026-10-25T23:01:27+00:00";

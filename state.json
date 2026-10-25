@@ -697,7 +697,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqa3bsgw22l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
+  "news:2f1524ccf702c2339f07b70dd48f3e1e",
+  "news:2f1524ccf702c2339f07b70dd48f3e1e"
  ],
  "first_run": false,
  "seeded": [
@@ -723,6 +725,19 @@
    },
    "tries": 1,
    "at": 1792969234.051898
+  },
+  {
+   "item": {
+    "id": "news:2f1524ccf702c2339f07b70dd48f3e1e",
+    "kind": "news",
+    "title": "En directo: Copa de ídolos de Inoxtag",
+    "text": "⚡ Ojo, ojo: En directo: Copa de ídolos de Inoxtag\n¡Participa ya en la Copa de ídolos de Inoxtag de dúos de Battle Royale o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de Inoxtag. Tienes más información en la pestaña Competir.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/8f6ca6fc16d344abb22b678b4093fd2d.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-10-25T23:01:27+00:00"
+   },
+   "tries": 1,
+   "at": 1792969287.9477875
   }
  ],
  "epic_fp": {
