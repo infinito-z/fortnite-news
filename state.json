@@ -675,7 +675,11 @@
   "news:521f2d317fae5396439168b39c994a1a",
   "news:521f2d317fae5396439168b39c994a1a",
   "shop:37394714f3432074",
-  "shop:37394714f3432074"
+  "shop:37394714f3432074",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsxm36c2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsxm36c2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g"
  ],
  "first_run": false,
  "seeded": [
@@ -688,7 +692,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsxm36c2g",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUma combinação inimaginável de sustos e fofura. Leve o medo para um novo nível com Jack, o Palhaço e HamiKuma de Halloween Horror Nights na Loja do Fortnite até 31 de outubro! 🤡🪚\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynwsxm36c2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigoeyqrkcj7idddtn6ds52ihhkxa5kqfowj4xduy4wpeso5pstobq",
+    "tag": "Filtración",
+    "ts": "2026-10-25T00:21:48+00:00"
+   },
+   "tries": 1,
+   "at": 1792887709.3214648
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nTão fofo que até assusta. O HamiKuma de Halloween Horror Nights causa o terror na Loja do Fortnite até 31 de outubro! 🧸😈\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynwsfxftk2g\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih6btiqrs5z2jl4apq45vb3z6xxcudk6sj2aiw6knuic2p7g2icdu",
+    "tag": "Filtración",
+    "ts": "2026-10-25T00:21:48+00:00"
+   },
+   "tries": 1,
+   "at": 1792887709.3214648
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
