@@ -679,7 +679,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsxm36c2g",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsxm36c2g",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwsfxftk2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtvpp4c2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtvpp4c2g",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g"
  ],
  "first_run": false,
  "seeded": [
@@ -718,6 +722,32 @@
    },
    "tries": 1,
    "at": 1792887709.3214648
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtvpp4c2g",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacote Vestiário de Rejekun retornou por 2.800 V-Bucks até 27 de outubro! 🔥\n\n· Traje Renegada Flamejante\n· Gesto Ausente\n· Asa-delta Dragão Royale\n· Picareta Golpe Arco-íris\n· Envelopamento Bolhas Gosmentas\n\n🤎 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynwtvpp4c2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigifcl56xzcskh2zustgjbgwpezixqkmahptwictbjjodne6dcxgy",
+    "tag": "Filtración",
+    "ts": "2026-10-25T00:22:26+00:00"
+   },
+   "tries": 1,
+   "at": 1792887746.463411
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynwtj5qsk2g",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSupremacia, caos, e muita maldade. Shadow, Knuckles e Dr. Eggman de Sonic causam destruição e uma loucura sem fim na Loja do Fortnite até 31 de outubro! 🌀🥚💥\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynwtj5qsk2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifhuhmupdvi3c7efcylntlemn6f7jfzvkhzd35vsbzc5nei7eikty",
+    "tag": "Filtración",
+    "ts": "2026-10-25T00:22:26+00:00"
+   },
+   "tries": 1,
+   "at": 1792887746.463411
   }
  ],
  "epic_fp": {
