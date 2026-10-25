@@ -712,34 +712,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Doja Cat (5x)\n· O Telefone Preto 2 (2x)\n· Assuma o Controle (7x)\n· Embalo de Festa [Gestos] (2x)\n· Vestiário de Horrores (8x)\n· Ilimitado [Heróis Personalizáveis] (3x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqcqoyj2c2z\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicxxj2bzg6445bt2vd56xwy5fh5ovo32w253qfhhz5a3pkgbjntea",
-    "tag": "Filtración",
-    "ts": "2026-10-25T23:00:33+00:00"
-   },
-   "tries": 2,
-   "at": 1792969442.9585278
-  },
-  {
-   "item": {
-    "id": "news:2f1524ccf702c2339f07b70dd48f3e1e",
-    "kind": "news",
-    "title": "En directo: Copa de ídolos de Inoxtag",
-    "text": "⚡ Ojo, ojo: En directo: Copa de ídolos de Inoxtag\n¡Participa ya en la Copa de ídolos de Inoxtag de dúos de Battle Royale o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de Inoxtag. Tienes más información en la pestaña Competir.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/8f6ca6fc16d344abb22b678b4093fd2d.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-25T23:01:27+00:00"
-   },
-   "tries": 2,
-   "at": 1792969442.9585278
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
