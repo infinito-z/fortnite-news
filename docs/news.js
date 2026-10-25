@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3myoe5hyifc2m",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nQueueing for the OCE Arena Reload Cup is fixed and competitors can ready up again. To account for this delayed start time, Fortnite has extended the tournament event window an extra hour.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3myoe5hyifc2m",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-10-25T04:20:08+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynz5zosjk2f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/emoticon_carrymaze/smallicon.png",
   "tag": "Cosmético",
   "ts": "2026-10-16T17:54:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz2vomozc2w",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 HORAS DO PODER ASSOMBRADAS NESTE SÁBADO | #Fortnite\n\n· Pesadelo do Freddy para todos\n· Elementais Gostosuras ou Travessuras são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n⏰ Sábado (17), às 15h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz2vomozc2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdfexe3mf4f6tmdra7css7u4shpjd34fxpbhykm7jgpidxbbgvla",
-  "tag": "Filtración",
-  "ts": "2026-10-16T17:08:56+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T01:04:05+00:00";
+window.NEWS_UPDATED = "2026-10-25T04:20:08+00:00";
