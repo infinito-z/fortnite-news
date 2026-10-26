@@ -719,7 +719,15 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e",
+  "cosmetic:CarBody_ScarA",
+  "cosmetic:CarSkin_ScarA05",
+  "cosmetic:CarSkin_ScarAdefault",
+  "cosmetic:CarSkin_ScarARamuh01",
+  "cosmetic:CarSkin_ScarARamuh02",
+  "cosmetic:CarSkin_ScarARamuh03",
+  "cosmetic:CarSkin_ScarARamuh04",
+  "cosmetic-batch:7f57dd05ce"
  ],
  "first_run": false,
  "seeded": [
@@ -732,7 +740,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic-batch:7f57dd05ce",
+    "kind": "cosmetic",
+    "title": "7 cosméticos nuevos",
+    "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: En blanco, En blanco, En blanco, En blanco, En blanco, En blanco. Tu billetera ya lloró 💸😭",
+    "image": null,
+    "tag": "Cosmético",
+    "ts": "2026-10-26T15:00:43+00:00"
+   },
+   "tries": 1,
+   "at": 1793026843.0806472
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {

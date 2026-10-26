@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:7f57dd05ce",
+  "kind": "cosmetic",
+  "title": "7 cosméticos nuevos",
+  "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: En blanco, En blanco, En blanco, En blanco, En blanco, En blanco. Tu billetera ya lloró 💸😭",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-10-26T15:00:43+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-17T13:28:10+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsgu7als2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nHora de dar uma renovada no guarda-roupa! Balenciaga retorna no estilo na Loja do Fortnite até 21 de outubro! ✨🔥\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzsgu7als2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigrs3rqieg2lliq2liubtdiz5ov7bwecou2xdodfyrnusqh3patbi",
-  "tag": "Filtración",
-  "ts": "2026-10-17T00:10:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T14:26:47+00:00";
+window.NEWS_UPDATED = "2026-10-26T15:00:43+00:00";
