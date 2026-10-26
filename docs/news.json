@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysgppwejc2f",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Primeira visão geral dos novos Trajes de One Piece e Originais chegando no Fortnite: Caçadores de Tesouro!\n\n· Monkey D. Luffy\n· Portgas D. Ace \n· Buggy\n· Líder da Equipe de Abraços\n· Charlotte\n· Oscar\n· Valentia\n· Jones\n\n🍃 Restam 6 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysgppwejc2f\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidblfldjxlajcqtlsxuylxy5xuzieot33bltp6z3imhooqjwd6sim",
+  "tag": "Filtración",
+  "ts": "2026-10-26T19:17:16+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysfruv3lc23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaudj3f6rzqcdmm3ivcwvt5xww5ari3flyhmsm57k2a6dcvxdp7bu",
   "tag": "Filtración",
   "ts": "2026-10-18T00:05:55+00:00"
- },
- {
-  "id": "shop:c12e7073a8a18a8c",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 24 novedades. Lo más fuerte:\n• Lote de Rompenueces — 2.800 paVos\n• Lote de La purga — 2.000 paVos\n• Cascabella — 1.500 paVos\n• Conejo asaltante — 1.500 paVos\n• Alas resplandecientes — 1.200 paVos\n• Nike Air Max Goadome \"Pink Camo\" — 1.000 paVos\n…y 18 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/ccffe7b0b91f12fa/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-18T00:00:21+00:00"
  }
 ]
