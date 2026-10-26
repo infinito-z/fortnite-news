@@ -723,19 +723,6 @@
  "pending": [
   {
    "item": {
-    "id": "shop:82977d7b6ba817b6",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "🛒 TIENDA NUEVA: 76 novedades. Lo más fuerte:\n• Lamborghini Huracán STO — 3.500 paVos\n• Lote de Doja Cat — 3.200 paVos\n• Lote de El Captor — 2.500 paVos\n• Lote de Bombardera brillante fractal — 2.000 paVos\n• Lote de Midas fractal — 2.000 paVos\n• Instigadora — 1.800 paVos\n…y 70 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/825793390a211675/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-10-26T00:01:50+00:00"
-   },
-   "tries": 2,
-   "at": 1792973068.579257
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -744,8 +731,8 @@
     "tag": "Filtración",
     "ts": "2026-10-26T00:05:09+00:00"
    },
-   "tries": 1,
-   "at": 1792973109.6332166
+   "tries": 2,
+   "at": 1792973284.8519194
   },
   {
    "item": {
@@ -757,8 +744,8 @@
     "tag": "Filtración",
     "ts": "2026-10-26T00:05:09+00:00"
    },
-   "tries": 1,
-   "at": 1792973109.6332166
+   "tries": 2,
+   "at": 1792973284.8519194
   },
   {
    "item": {
@@ -770,8 +757,8 @@
     "tag": "Filtración",
     "ts": "2026-10-26T00:05:09+00:00"
    },
-   "tries": 1,
-   "at": 1792973109.6332166
+   "tries": 2,
+   "at": 1792973284.8519194
   }
  ],
  "epic_fp": {
