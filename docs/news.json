@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🔥 VEIO AÍ! As estatísticas dos jogadores do Capítulo 7: Temporada 4 já estão disponíveis, como foram as suas? #Fortnite\n\nConfira em: fortnite.com/recap\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mys5vyduek2v\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibh2qmmjdh3zfdgw3x5ihfnvi2j4sjwyuxq4vt4sa2kqfsqpvfhvq",
+  "tag": "Filtración",
+  "ts": "2026-10-26T16:39:46+00:00"
+ },
+ {
   "id": "news:df3b2a8124ba417ce0ee5f0ec9b7b4b9",
   "kind": "news",
   "title": "Final en solitario de la FNCS ya disponible en Europa",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid3z4i6ywg5klevoyra5fhg24u5juyn3jpmbwcgmsmeyloodd4vxy",
   "tag": "Filtración",
   "ts": "2026-10-17T20:37:47+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3uxklvvk22",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Capítulo 7: Temporada 4 | #Fortnite\n\n🔥 Progressão: 79%\n📅 Dias restantes: 14\n🔹Nível estimado: 79 (para o 100)\n🔸Nível estimado: 159 (para o 200)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3uxklvvk22\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
-  "tag": "Filtración",
-  "ts": "2026-10-17T20:00:36+00:00"
  }
 ]
