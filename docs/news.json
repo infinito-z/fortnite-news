@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA noite de lua cheia te espera. Espreite nas sombras com o Mascote Uivo Sombrio que chegou à Loja de Itens por 1.200 V-Bucks até 1° de novembro! 🐺🌒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdim6cc2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibnxvifeyvf7xlt2yhp34exaydwpfpbp4es2faq2hjfkdjwvctatq",
+  "tag": "Filtración",
+  "ts": "2026-10-26T00:04:44+00:00"
+ },
+ {
   "id": "shop:82977d7b6ba817b6",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiczlqakdij4tc3cler6lihk3ffqr2riulrm2gw3x33rbnkv2i6mpa",
   "tag": "Filtración",
   "ts": "2026-10-16T20:27:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6bjekik2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO LADY LIBERTY | #Fortnite\n\n🗓️ 17 de outubro\n🎮 Battle Royale e Trocação (Solo)\n🇧🇷 Top 200 no Brasil leva o Traje e Mochila da Lady Liberty\n\nA Lady Liberty e seus acessórios de Uma Noite de Crime chegam à Loja do Fortnite também em 17 de outubro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz6bjekik2p\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifr4c37y7dvjkq5o6yel6as73w3twnjvcvbclahrkacm7ajbxr2n4",
-  "tag": "Filtración",
-  "ts": "2026-10-16T18:09:07+00:00"
  }
 ]

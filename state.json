@@ -701,7 +701,9 @@
   "news:2f1524ccf702c2339f07b70dd48f3e1e",
   "news:2f1524ccf702c2339f07b70dd48f3e1e",
   "shop:82977d7b6ba817b6",
-  "shop:82977d7b6ba817b6"
+  "shop:82977d7b6ba817b6",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s"
  ],
  "first_run": false,
  "seeded": [
@@ -727,6 +729,19 @@
    },
    "tries": 2,
    "at": 1792973068.579257
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA noite de lua cheia te espera. Espreite nas sombras com o Mascote Uivo Sombrio que chegou à Loja de Itens por 1.200 V-Bucks até 1° de novembro! 🐺🌒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdim6cc2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibnxvifeyvf7xlt2yhp34exaydwpfpbp4es2faq2hjfkdjwvctatq",
+    "tag": "Filtración",
+    "ts": "2026-10-26T00:04:44+00:00"
+   },
+   "tries": 1,
+   "at": 1792973085.3347833
   }
  ],
  "epic_fp": {
