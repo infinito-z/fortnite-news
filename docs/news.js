@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FENÔMENO! A Green Hill Zone de Sonic na Ilha do Capítulo 7: Temporada 4 foi o local MAIS POPULAR da temporada!\n\nCerca de 14% de todos os pousos em pontos denominados foram lá! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mys6juvu7k2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig7hnqkun435dg4dojqpjfvrjsidlobsxh4yfcfatcrdwjadehn6m",
   "tag": "Filtración",
-  "ts": "2026-10-26T16:50:49+00:00"
+  "ts": "2026-10-26T16:50:50+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-17T23:01:34+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T16:50:50+00:00";
+window.NEWS_UPDATED = "2026-10-26T16:50:51+00:00";
