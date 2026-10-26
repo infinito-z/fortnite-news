@@ -702,7 +702,11 @@
   "news:2f1524ccf702c2339f07b70dd48f3e1e",
   "shop:82977d7b6ba817b6",
   "shop:82977d7b6ba817b6",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdu6tms2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdu6tms2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s"
  ],
  "first_run": false,
@@ -732,16 +736,42 @@
   },
   {
    "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA vingança nunca morre. O Sequestrador de O Telefone Preto assombra eternamente a Loja do Fortnite até 29 de outubro! 📞\n\n💜  Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqge4pk6s2s\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigtacdtaru6ukalrks7u36ejt7vaa6z5gct7dqg7vgtwc5es6mfxi",
+    "tag": "Filtración",
+    "ts": "2026-10-26T00:05:09+00:00"
+   },
+   "tries": 1,
+   "at": 1792973109.6332166
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdu6tms2s",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nRapper, artista e rainha. A Doja Cat surge pra mandar a melodia com estilo e de um jeitinho assombrado na Loja do Fortnite até 30 de outubro! 🌹🎶\n\n🩷 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdu6tms2s\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreies7yyl6h7vp6iij3xvtgladqiptgsos5kyxxy5z45f2vkq7akcpm",
+    "tag": "Filtración",
+    "ts": "2026-10-26T00:05:09+00:00"
+   },
+   "tries": 1,
+   "at": 1792973109.6332166
+  },
+  {
+   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
     "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA noite de lua cheia te espera. Espreite nas sombras com o Mascote Uivo Sombrio que chegou à Loja de Itens por 1.200 V-Bucks até 1° de novembro! 🐺🌒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdim6cc2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
     "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibnxvifeyvf7xlt2yhp34exaydwpfpbp4es2faq2hjfkdjwvctatq",
     "tag": "Filtración",
-    "ts": "2026-10-26T00:04:44+00:00"
+    "ts": "2026-10-26T00:05:09+00:00"
    },
    "tries": 1,
-   "at": 1792973085.3347833
+   "at": 1792973109.6332166
   }
  ],
  "epic_fp": {

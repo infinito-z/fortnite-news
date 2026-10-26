@@ -1,12 +1,30 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA vingança nunca morre. O Sequestrador de O Telefone Preto assombra eternamente a Loja do Fortnite até 29 de outubro! 📞\n\n💜  Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqge4pk6s2s\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigtacdtaru6ukalrks7u36ejt7vaa6z5gct7dqg7vgtwc5es6mfxi",
+  "tag": "Filtración",
+  "ts": "2026-10-26T00:05:09+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdu6tms2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nRapper, artista e rainha. A Doja Cat surge pra mandar a melodia com estilo e de um jeitinho assombrado na Loja do Fortnite até 30 de outubro! 🌹🎶\n\n🩷 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdu6tms2s\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreies7yyl6h7vp6iij3xvtgladqiptgsos5kyxxy5z45f2vkq7akcpm",
+  "tag": "Filtración",
+  "ts": "2026-10-26T00:05:09+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdim6cc2s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA noite de lua cheia te espera. Espreite nas sombras com o Mascote Uivo Sombrio que chegou à Loja de Itens por 1.200 V-Bucks até 1° de novembro! 🐺🌒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdim6cc2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibnxvifeyvf7xlt2yhp34exaydwpfpbp4es2faq2hjfkdjwvctatq",
   "tag": "Filtración",
-  "ts": "2026-10-26T00:04:44+00:00"
+  "ts": "2026-10-26T00:05:09+00:00"
  },
  {
   "id": "shop:82977d7b6ba817b6",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiexr7b5h5emv5bqj3h36yggvhweqenjdvkaixj5c7hdjayzgwte4u",
   "tag": "Filtración",
   "ts": "2026-10-16T22:20:37+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxziaty2ws2i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚰️ FORTNITE x BEETLEJUICE — Todos os cosméticos de Beetlejuice previstos para chegar nos próximos dias à Loja!\n\n· Traje, Mochila, Picareta e Gesto\n· Envelopamento, Guitarra e Calçados\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxziaty2ws2i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid52i2e22gbnpw6pm3ylnrfczxhzyzuzhyaw4xrwd7k3fxv7sknyq",
-  "tag": "Filtración",
-  "ts": "2026-10-16T21:08:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzfy5yr6k2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Todos os cosméticos de Obsessão previstos para chegar nos próximos dias à Loja!\n\n· Traje Nikki, Mochila, Picareta e Gesto\n· Traje com estilo ensanguentado e pose de lobby\n· Mochila reproduz um som ao eliminar\n\nInfo: x/ShiinaBR e HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzfy5yr6k2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiczlqakdij4tc3cler6lihk3ffqr2riulrm2gw3x33rbnkv2i6mpa",
-  "tag": "Filtración",
-  "ts": "2026-10-16T20:27:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T00:04:45+00:00";
+window.NEWS_UPDATED = "2026-10-26T00:05:09+00:00";
