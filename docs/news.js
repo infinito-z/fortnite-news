@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgk66lhs2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 29 de outubro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgk66lhs2s\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidxjrraytita4t74ofiftzjglxfftwptvc7lamt6fpsmvftvwqtdy",
+  "tag": "Filtración",
+  "ts": "2026-10-26T00:08:20+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgjsw7ak2s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nÉ DO BRASIL! O Gesto Série Ícones \"Passinho do Jamal\" com a música \"TAKA LA DENTRO\" de SEKIMANE, Shonci e MC GW retornou à Loja do Fortnite até 29 de outubro! 🇧🇷🔥\n\n💜 Use meu código \"LPFNBR\" para me apoiar! #ad\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgjsw7ak2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-26T00:08:20+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiazdqfmzrh45hsqefo3pq73toaoqhhg2hekyhek5jif5vo67vo5pi",
   "tag": "Filtración",
   "ts": "2026-10-16T22:28:40+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmkfx7zs2x",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 17 de outubro!\n\n· Uma Noite de Crime (3x)\n· Um Estouro [Gestos] (2x)\n· Vestiário de Horrores (9x)\n· McLaren 570s (1x)\n· Novidade na Área (2x)\n· Estilo Top (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzmkfx7zs2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibd6nhonzdudryhooneu3igmpp7pskcxjfgq6pbqlrzm4vwnjzeei",
-  "tag": "Filtración",
-  "ts": "2026-10-16T22:25:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzmdb5sus2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Hazbin Hotel (6x)\n· Balenciaga (3x)\n· Vestiário de Horrores (10x)\n· Novidade na Área (2x)\n· Estilo Top (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzmdb5sus2y\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiexr7b5h5emv5bqj3h36yggvhweqenjdvkaixj5c7hdjayzgwte4u",
-  "tag": "Filtración",
-  "ts": "2026-10-16T22:20:37+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T00:05:09+00:00";
+window.NEWS_UPDATED = "2026-10-26T00:08:21+00:00";
