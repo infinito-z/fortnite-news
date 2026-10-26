@@ -747,7 +747,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysgppwejc2f",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysgppwejc2f",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
+  "news:f649966b6626590d94000759875f93d3",
+  "news:f649966b6626590d94000759875f93d3"
  ],
  "first_run": false,
  "seeded": [
@@ -760,7 +762,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:f649966b6626590d94000759875f93d3",
+    "kind": "news",
+    "title": "Final en solitario de la FNCS ya disponible en EE. UU. central",
+    "text": "🚨 NOTICIA: Final en solitario de la FNCS ya disponible en EE. UU. central\nPásate ya por Aterrizaje de leyendas y sé testigo de la competición entre los mejores jugadores de Battle Royale en solitario por el título de As de la FNCS en FNCS en solitario.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/0cf9a58cfb6f4cc5b80de7911a4643da.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-10-26T22:31:22+00:00"
+   },
+   "tries": 1,
+   "at": 1793053882.9900734
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-26T22:30:00.433Z",
   "sections": {

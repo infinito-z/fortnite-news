@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:f649966b6626590d94000759875f93d3",
+  "kind": "news",
+  "title": "Final en solitario de la FNCS ya disponible en EE. UU. central",
+  "text": "🚨 NOTICIA: Final en solitario de la FNCS ya disponible en EE. UU. central\nPásate ya por Aterrizaje de leyendas y sé testigo de la competición entre los mejores jugadores de Battle Royale en solitario por el título de As de la FNCS en FNCS en solitario.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/0cf9a58cfb6f4cc5b80de7911a4643da.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-26T22:31:22+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihea32ibrmae3fbbf5pkws6ox27atcitplmwrmm6oyax32ewy7sf4",
   "tag": "Filtración",
   "ts": "2026-10-18T01:01:11+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cns3xdc2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 21 de outubro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my4cns3xdc2c\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie5iz6gie2uoitn7nyjnv6gzvuu6rrwzprmnxyf5hifdo7s2ubjki",
-  "tag": "Filtración",
-  "ts": "2026-10-18T00:05:55+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T20:45:20+00:00";
+window.NEWS_UPDATED = "2026-10-26T22:31:22+00:00";
