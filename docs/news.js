@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:df3b2a8124ba417ce0ee5f0ec9b7b4b9",
+  "kind": "news",
+  "title": "Final en solitario de la FNCS ya disponible en Europa",
+  "text": "🚨 NOTICIA: Final en solitario de la FNCS ya disponible en Europa\nPásate ya por Aterrizaje de leyendas y sé testigo de la competición entre los mejores jugadores de Battle Royale en solitario por el título de campeón de la FNCS en la FNCS en solitario.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/11d6802f58ff4c1f95e4fd39c1ab2b06.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-26T16:32:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys3aahl2s2g",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
   "tag": "Filtración",
   "ts": "2026-10-17T20:00:36+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3s66ec4c2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Todos os cosméticos de Predador: Terras Selvagens previstos para chegar em breve à Loja!\n\n· Traje, Mochila, Picareta e Gesto\n· Traje com 3 estilos e Picareta de Espada de Plasma\n\nInfo: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3s66ec4c2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreict7d4xoujbubztyldpopxgjlxzyfy6xmzni6v4dcuv3v5t44g3iy",
-  "tag": "Filtración",
-  "ts": "2026-10-17T19:10:30+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T15:51:38+00:00";
+window.NEWS_UPDATED = "2026-10-26T16:32:27+00:00";
