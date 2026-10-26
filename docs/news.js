@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:82977d7b6ba817b6",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 76 novedades. Lo más fuerte:\n• Lamborghini Huracán STO — 3.500 paVos\n• Lote de Doja Cat — 3.200 paVos\n• Lote de El Captor — 2.500 paVos\n• Lote de Bombardera brillante fractal — 2.000 paVos\n• Lote de Midas fractal — 2.000 paVos\n• Instigadora — 1.800 paVos\n…y 70 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/825793390a211675/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-26T00:01:50+00:00"
+ },
+ {
   "id": "news:2f1524ccf702c2339f07b70dd48f3e1e",
   "kind": "news",
   "title": "En directo: Copa de ídolos de Inoxtag",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifr4c37y7dvjkq5o6yel6as73w3twnjvcvbclahrkacm7ajbxr2n4",
   "tag": "Filtración",
   "ts": "2026-10-16T18:09:07+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxz6aybeq22p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗽 FORTNITE x THE PURGE — Pacotão Uma Noite de Crime (The Purge) que chegará à Loja do Fortnite amanhã, 17 de outubro!\n\nInclui Traje, Mochila e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxz6aybeq22p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidqgfk4na42ewvr2unuml5dqzqxincadipxmnyl3fg33dziodkmma",
-  "tag": "Filtración",
-  "ts": "2026-10-16T18:09:07+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-25T23:01:27+00:00";
+window.NEWS_UPDATED = "2026-10-26T00:01:50+00:00";

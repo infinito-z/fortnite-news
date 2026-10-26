@@ -699,7 +699,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
   "news:2f1524ccf702c2339f07b70dd48f3e1e",
-  "news:2f1524ccf702c2339f07b70dd48f3e1e"
+  "news:2f1524ccf702c2339f07b70dd48f3e1e",
+  "shop:82977d7b6ba817b6",
+  "shop:82977d7b6ba817b6"
  ],
  "first_run": false,
  "seeded": [
@@ -712,7 +714,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:82977d7b6ba817b6",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 76 novedades. Lo más fuerte:\n• Lamborghini Huracán STO — 3.500 paVos\n• Lote de Doja Cat — 3.200 paVos\n• Lote de El Captor — 2.500 paVos\n• Lote de Bombardera brillante fractal — 2.000 paVos\n• Lote de Midas fractal — 2.000 paVos\n• Instigadora — 1.800 paVos\n…y 70 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/825793390a211675/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-26T00:01:50+00:00"
+   },
+   "tries": 1,
+   "at": 1792972910.6697404
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
