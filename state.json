@@ -713,7 +713,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgk66lhs2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgjsw7ak2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrryfrx3k2q",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrryfrx3k2q"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrryfrx3k2q",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e"
  ],
  "first_run": false,
  "seeded": [
@@ -739,6 +741,19 @@
    },
    "tries": 1,
    "at": 1793020053.6974964
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:T4\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Códigos de Trapaça surgem com mais frequência pela Ilha\n\n⏰ Disponível até amanhã (27) às 10h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrs6mkdcs2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7m5r7wl24di7bdqavthoazeed3done3unakkw4swelrf5jn5uwe",
+    "tag": "Filtración",
+    "ts": "2026-10-26T13:09:51+00:00"
+   },
+   "tries": 1,
+   "at": 1793020191.7006645
   }
  ],
  "epic_fp": {
