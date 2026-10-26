@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrymtxvuc26",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚘 FORTNITE x NASCAR — O Nascar Next Gen Ford Mustang foi descriptografado e chega à Loja nesta noite (preço desconhecido).\n\n📁 Pak1017 | 16.78 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrymtxvuc26\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidho5dsb72czgekqo45g4ny3ky7xnzl6hpe57isynqzmambt3p4fi",
+  "tag": "Filtración",
+  "ts": "2026-10-26T15:05:04+00:00"
+ },
+ {
   "id": "cosmetic-batch:7f57dd05ce",
   "kind": "cosmetic",
   "title": "7 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiezl5leg2ktuaopy6mim36ronxhzfdu3nupxt6tkbaegkt4ovc2mi",
   "tag": "Filtración",
   "ts": "2026-10-17T16:26:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my36xgh5y22k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 1 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\nEle será 'carregado' ao longo dos próximos dias, até estar totalmente presente no jogo. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my36xgh5y22k\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-17T13:28:10+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T15:00:43+00:00";
+window.NEWS_UPDATED = "2026-10-26T15:05:05+00:00";
