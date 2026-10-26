@@ -717,7 +717,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e"
  ],
  "first_run": false,
  "seeded": [
@@ -730,7 +732,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrwhynxgk2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER — FORTNITE x ONE PIECE \n\nMonkey D. Luffy e Portgas D. Ace devem chegar como Trajes na colaboração com One Piece no Fortnite: Caçadores de Tesouro!\n\nAlém disso, Jonesy e Valentia estão confirmados para ganhar novas versões em breve!\n\n📸: u/NeutroGD | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrwhynxgk2e\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib6crwz6eod4epezfpdao3cibdkarxos5ubro45ei3vmsrrrx6u2i",
+    "tag": "Filtración",
+    "ts": "2026-10-26T14:26:47+00:00"
+   },
+   "tries": 1,
+   "at": 1793024807.4809158
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
