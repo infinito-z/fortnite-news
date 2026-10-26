@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysrznkckc25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 27 de outubro!\n\n· A Hora do Pesadelo (3x)\n· Vestiário de Horrores [Lenore] (11x)\n· Embalo de Festa [Gestos] (2x)\n· Insidio [Chassi] (1x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysrznkckc25\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgzery6kdrjkhvo7z4nvjjfc7n5te7toughzx2q5ygogniik6jqi",
+  "tag": "Filtración",
+  "ts": "2026-10-26T22:39:26+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysryz7r6225",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Inoxtag (2x)\n· NASCAR Ford Mustang (1x)\n· Vestiário de Horrores (8x)\n· Nem Suei (2x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysryz7r6225\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigicxsngqoip7a75jnlyhx6gvtdmtvu6e7vo2u3y4ldi3upjvb2qm",
+  "tag": "Filtración",
+  "ts": "2026-10-26T22:39:26+00:00"
+ },
+ {
   "id": "news:f649966b6626590d94000759875f93d3",
   "kind": "news",
   "title": "Final en solitario de la FNCS ya disponible en EE. UU. central",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtu4dhvt4gq2w4luka73ef6qzmfzdrjwea3ipnzej4nfkqiai2di",
   "tag": "Filtración",
   "ts": "2026-10-18T14:38:38+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5osph6z22d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 2 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\nO Baú começou a ser lentamente carregado em preparação para a próxima temporada que chega em menos de 14 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my5osph6z22d\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-18T13:17:17+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4fr5r7vc2b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 Horas do Poder Assombradas II disponíveis no Battle Royale do C7:T4 até 0h BRT! #Fortnite\n\n· Pesadelo do Freddy para todos\n· Elementais Gostosuras ou Travessuras são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my4fr5r7vc2b\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihea32ibrmae3fbbf5pkws6ox27atcitplmwrmm6oyax32ewy7sf4",
-  "tag": "Filtración",
-  "ts": "2026-10-18T01:01:11+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T22:31:30+00:00";
+window.NEWS_UPDATED = "2026-10-26T22:39:27+00:00";

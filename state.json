@@ -749,7 +749,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
   "news:f649966b6626590d94000759875f93d3",
-  "news:f649966b6626590d94000759875f93d3"
+  "news:f649966b6626590d94000759875f93d3",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysrznkckc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysryz7r6225",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysrznkckc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysryz7r6225"
  ],
  "first_run": false,
  "seeded": [
@@ -762,7 +766,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysrznkckc25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 27 de outubro!\n\n· A Hora do Pesadelo (3x)\n· Vestiário de Horrores [Lenore] (11x)\n· Embalo de Festa [Gestos] (2x)\n· Insidio [Chassi] (1x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysrznkckc25\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgzery6kdrjkhvo7z4nvjjfc7n5te7toughzx2q5ygogniik6jqi",
+    "tag": "Filtración",
+    "ts": "2026-10-26T22:39:26+00:00"
+   },
+   "tries": 1,
+   "at": 1793054367.2767594
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysryz7r6225",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Inoxtag (2x)\n· NASCAR Ford Mustang (1x)\n· Vestiário de Horrores (8x)\n· Nem Suei (2x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysryz7r6225\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigicxsngqoip7a75jnlyhx6gvtdmtvu6e7vo2u3y4ldi3upjvb2qm",
+    "tag": "Filtración",
+    "ts": "2026-10-26T22:39:26+00:00"
+   },
+   "tries": 1,
+   "at": 1793054367.2767594
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-26T22:30:00.433Z",
   "sections": {
