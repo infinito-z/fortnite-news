@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrtle3sn22w",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🌟 FARRA ELEMENTAL DO C7:T4 | #Fortnite\n\nA Farra Elemental do Capítulo 7: Temporada 4 acontece de 27 a 31 de outubro, impulsionando diversas variantes durante o DIA TODO, Armas e Sobrecódigos e muito mais!\n\n🟨 27 DE OUTUBRO:\n— Horas Douradas e Trapaceiras\n— Espingarda 8-Bits Exótica disponível\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrtle3sn22w\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5mz5flqljluvnxlajdu4oac3lsce3sggqotwmhierfjhnji7aui",
+  "tag": "Filtración",
+  "ts": "2026-10-26T13:35:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiesznzoseuvm55bdvxmnej3ei3epq4d3wwiqtno66swv426xbkp4m",
   "tag": "Filtración",
   "ts": "2026-10-17T00:10:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mxzsg26eas2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSiga o caminho torto para a redenção. Alastor, Charlie e Vagatha de Hazbin Hotel fazem a Loja do Fortnite pegar fogo até 26 de outubro! 😈🩸🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mxzsg26eas2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibyxsiuqorempafrtcgjgjqoccn7hl5lq4uu6mb5ra7c5xearfsly",
-  "tag": "Filtración",
-  "ts": "2026-10-17T00:10:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T13:09:51+00:00";
+window.NEWS_UPDATED = "2026-10-26T13:35:02+00:00";
