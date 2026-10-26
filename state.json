@@ -748,21 +748,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:df3b2a8124ba417ce0ee5f0ec9b7b4b9",
-    "kind": "news",
-    "title": "Final en solitario de la FNCS ya disponible en Europa",
-    "text": "🚨 NOTICIA: Final en solitario de la FNCS ya disponible en Europa\nPásate ya por Aterrizaje de leyendas y sé testigo de la competición entre los mejores jugadores de Battle Royale en solitario por el título de campeón de la FNCS en la FNCS en solitario.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/11d6802f58ff4c1f95e4fd39c1ab2b06.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-26T16:32:27+00:00"
-   },
-   "tries": 2,
-   "at": 1793032471.5073023
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
