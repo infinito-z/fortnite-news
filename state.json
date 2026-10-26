@@ -741,7 +741,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysfruv3lc23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysfruv3lc23"
  ],
  "first_run": false,
  "seeded": [
@@ -754,7 +756,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysfruv3lc23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗡️ NOVO TRAJE — Primeira visão de um novo Traje da Charlotte que chegará no Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nAo que parece, esse seria o Traje que originalmente os jogadores especularam como uma nova versão da Bia.\n\n📸: x/FamLitOof | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysfruv3lc23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaupj3s5z2ul25rcdywohbcdn46igoxrr6hwghcgyn5jiiibg2aey",
+    "tag": "Filtración",
+    "ts": "2026-10-26T19:00:23+00:00"
+   },
+   "tries": 1,
+   "at": 1793041224.2466292
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
