@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysln5dpx22a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💻 HACKS — TODOS os 55 Hacks de Lobby do Capítulo 7: Temporada 4 disponíveis para resgate até o momento! #Fortnite\n\nHacks com * necessitam de Tarefas para serem concluídas antes de resgatá-los!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mysln5dpx22a\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidamxhlzhs5o4oflysl7qffio37nv4bkdp4rsitorjokzncloaly4",
+  "tag": "Filtración",
+  "ts": "2026-10-26T20:45:18+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysgppwejc2f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie5iz6gie2uoitn7nyjnv6gzvuu6rrwzprmnxyf5hifdo7s2ubjki",
   "tag": "Filtración",
   "ts": "2026-10-18T00:05:55+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my4cnb3dls2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUma participante patriótica do Expurgo. Aplique a penalidade nos seus oponentes com a Lady Liberty e seus acessórios de Uma Noite de Crime na Loja do Fortnite até 25 de outubro! 🗽🗡️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my4cnb3dls2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaudj3f6rzqcdmm3ivcwvt5xww5ari3flyhmsm57k2a6dcvxdp7bu",
-  "tag": "Filtración",
-  "ts": "2026-10-18T00:05:55+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T19:17:17+00:00";
+window.NEWS_UPDATED = "2026-10-26T20:45:20+00:00";
