@@ -739,21 +739,8 @@
     "tag": "Filtración",
     "ts": "2026-10-26T13:09:51+00:00"
    },
-   "tries": 1,
-   "at": 1793020191.7006645
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrryfrx3k2q",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 3 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n· Nem tudo que tá lá dentro é um tesouro\n· Novos ares, novos mares\n· Tesouros perdidos aparecem nesta praia\n· Procurando o que perdeu? Tá aqui\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrryfrx3k2q\n⚠️ No es oficial.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-26T13:07:33+00:00"
-   },
    "tries": 2,
-   "at": 1793020259.2337332
+   "at": 1793020380.736745
   }
  ],
  "epic_fp": {
