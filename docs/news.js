@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FENÔMENO! A Green Hill Zone de Sonic na Ilha do Capítulo 7: Temporada 4 foi o local MAIS POPULAR da temporada!\n\nCerca de 14% de todos os pousos em pontos denominados foram lá! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mys6juvu7k2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig7hnqkun435dg4dojqpjfvrjsidlobsxh4yfcfatcrdwjadehn6m",
+  "tag": "Filtración",
+  "ts": "2026-10-26T16:50:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/3848a16633c8496d98cbbadd4ddebb79.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-17T23:01:34+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my3wz6v2bs2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 EITA! Tim Sweeney (CEO da Epic Games) informou que uma grande reformulação chegará ao Fall Guys em breve, permitindo que novas coisas sejam possíveis.\n\nUm antigo rumor dizia que o Fall Guys seria importado para dentro do Fortnite, mas parece que os planos mudaram. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my3wz6v2bs2r\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid3z4i6ywg5klevoyra5fhg24u5juyn3jpmbwcgmsmeyloodd4vxy",
-  "tag": "Filtración",
-  "ts": "2026-10-17T20:37:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T16:39:48+00:00";
+window.NEWS_UPDATED = "2026-10-26T16:50:50+00:00";
