@@ -739,7 +739,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q"
  ],
  "first_run": false,
  "seeded": [
@@ -752,7 +754,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myscujlank2q",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏆 FORTNITE x TWITCH — Drop do FNCS solo disponível! #Fortnite\n\nAssista às transmissões do FNCS Solo do Fortnite na Twitch por 30 minutos e receba o Spray \"Chute da Cavaleira Turquesa\" no jogo! Disponível até 29 de outubro à 0h59 BRT!\n\nLink: twitch.tv/fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myscujlank2q\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig73gnnyk5vrhj4tpdzg3pvvdio5fp6hb7t75ugfpzsajmofi2q4e",
+    "tag": "Filtración",
+    "ts": "2026-10-26T18:08:13+00:00"
+   },
+   "tries": 1,
+   "at": 1793038094.7219036
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
