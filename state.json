@@ -744,34 +744,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrymtxvuc26",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚘 FORTNITE x NASCAR — O Nascar Next Gen Ford Mustang foi descriptografado e chega à Loja nesta noite (preço desconhecido).\n\n📁 Pak1017 | 16.78 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrymtxvuc26\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidho5dsb72czgekqo45g4ny3ky7xnzl6hpe57isynqzmambt3p4fi",
-    "tag": "Filtración",
-    "ts": "2026-10-26T15:05:04+00:00"
-   },
-   "tries": 2,
-   "at": 1793027325.6437094
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myryq7xylk26",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚘 FORTNITE x NASCAR — Primeira visão do Nascar Ford Mustang e seus acessórios no Fortnite. Na Loja nesta noite (preço desconhecido).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myryq7xylk26\n⚠️ No es oficial.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-10-26T15:06:37+00:00"
-   },
-   "tries": 2,
-   "at": 1793027325.6437094
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-23T22:45:39.145Z",
   "sections": {
