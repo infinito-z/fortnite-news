@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myugrn7in226",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 4 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n🪎 O Baú começou a ser descarregado, talvez em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myugrn7in226\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-27T14:24:56+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myufg3e4zc2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/backpack_fonduepaper/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-19T15:02:25+00:00"
- },
- {
-  "id": "cosmetic:Character_FonduePaper",
-  "kind": "cosmetic",
-  "title": "Traje: The Slender Man",
-  "text": "⚡ Llegó The Slender Man (Épico). El que no la compre, no es gamer 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_fonduepaper/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-19T15:02:25+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T13:59:40+00:00";
+window.NEWS_UPDATED = "2026-10-27T14:24:57+00:00";
