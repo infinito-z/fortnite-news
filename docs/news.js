@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudm3helk2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪩 FORTNITE x MIKU x TETO — Primeira visão dos Trajes de Hatsune Miku Pirata e Kasane Teto que chegarão no Fortnite: Caçadores de Tesouro a partir de 1° de novembro!\n\nElas serão uma equipe na maior caça ao tesouro da realidade! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myudm3helk2j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidhi7pjkec3jon6j3r4ocwplpkr3izu2rknycluka6psn5hhhpeom",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:26:52+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudlssces2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n⛵ FORTNITE x ONE PIECE — O navio Going Merry de One Piece está confirmado como o Ônibus de Batalha do Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nAlém disso, a colaboração contará com o Arlong Park na Ilha e diversos itens Míticos temáticos! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myudlssces2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic53cgpvoeee264kcflhbbvigeaz4nggwd4ncvgpjf266wcmlobmq",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:26:52+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudlaobtc2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-19T13:04:54+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6mkwlqc2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:T4\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Códigos de Trapaça surgem com mais frequência pela Ilha\n\n⏰ Disponível até amanhã (20) às 10h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mya6mkwlqc2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihszya53bppk5d3kqpilol7b2b4nyx4eiqfegi26nz4dlzsd3e5fe",
-  "tag": "Filtración",
-  "ts": "2026-10-19T13:04:07+00:00"
- },
- {
-  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3my7kpl2jvc24",
-  "kind": "status",
-  "title": "Fortnite Status (@fortnite-status.bsky.social)",
-  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nI’m back, celebrating my second year on Bluesky! ;D\n\nDefinitely not my best year in terms of posts, but I’m still really happy and grateful that I’m still doing this for y’all.\n\nSo once again, thank you all so much for tuning in for my small reports! Means a lot!\n\nHere’s to another year coming!! 🙌\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3my7kpl2jvc24",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreih2bhp2jkd2cde7jsjuornowrgurz5b2n7hnkd5wzphvzssolpe7a",
-  "tag": "Estado",
-  "ts": "2026-10-19T07:08:00+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T13:26:04+00:00";
+window.NEWS_UPDATED = "2026-10-27T13:26:53+00:00";
