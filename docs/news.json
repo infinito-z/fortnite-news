@@ -1,5 +1,23 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudlaobtc2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Luffy, Nami, Zoro, Usopp e Sanji estão confirmados para chegar como Trajes no Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nOutros cosméticos não revelados também poderiam chegar no futuro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myudlaobtc2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtm2zsp2gvrz42ghhhv2jkqyaaxpknautxupnhfleg47kjsa6eri",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:26:03+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudku5mk22j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗺️ MAPA OFICIAL DO FORTNITE: CAÇADORES DE TESOURO!\n\nRelembre os velhos tempos e prepare-se para a maior aventura de todas que começa em 1° de novembro no Fortnite: Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myudku5mk22j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicurej55pi4wwnxo3a4lybopgg4nydqiq3zo3756mniw7r4vwacti",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:26:03+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myucj3lcok23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,23 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreih2bhp2jkd2cde7jsjuornowrgurz5b2n7hnkd5wzphvzssolpe7a",
   "tag": "Estado",
   "ts": "2026-10-19T07:08:00+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my6sxqbrrc2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla não tem medo do escuro, é o escuro que tem medo dela. A Wandinha Addams traz só desgosto na Loja do Fortnite até 22 de outubro! ☂️✋🏻\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my6sxqbrrc2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5rm2wffos3woxng52ro5lhktdkdikwzmncpogvyjbvzgexjl7ca",
-  "tag": "Filtración",
-  "ts": "2026-10-19T00:03:21+00:00"
- },
- {
-  "id": "shop:0fe3891b2ddc9242",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 40 cosas nuevas:\n• Lote de Miércoles — 2.500 paVos\n• Lote de Navidad de pesadilla — 2.100 paVos\n• Lote de Soldado Noel — 2.100 paVos\n• Mordiscazos — 2.000 paVos\n• Exploradora Galaxy — 2.000 paVos\n• Coche fúnebre + Miércoles — 2.000 paVos\n…y 34 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/93bd0af00493fdb3/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-19T00:02:02+00:00"
  }
 ]
