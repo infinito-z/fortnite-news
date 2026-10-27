@@ -808,21 +808,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· A Hora do Pesadelo (3x)\n· Vestiário de Horrores [Lenore] (11x)\n· Embalo de Festa [Gestos] (2x)\n· Insidio [Chassi] (1x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvdpv2rmk2k\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiax6af2rev7nnn6sfzucuhnorikt7zleqtfv2zihwtiukoy7a3imu",
-    "tag": "Filtración",
-    "ts": "2026-10-27T23:01:52+00:00"
-   },
-   "tries": 2,
-   "at": 1793142269.771308
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {
