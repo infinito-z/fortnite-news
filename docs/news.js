@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:192f4833c8126369",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 37 novedades. Lo más fuerte:\n• NASCAR Next Gen Ford Mustang — 2.200 paVos\n• Lote de Inoxtag — 2.000 paVos\n• Olvido — 2.000 paVos\n• Lote de Fiesta espectral — 1.800 paVos\n• Operaciones especiales sombría — 1.500 paVos\n• Golpe nevado — 1.500 paVos\n…y 31 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/8b091b010b16a59a/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-27T00:01:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mysrznkckc25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihhhgahpi7xlo4kmwja3hy2xebarsg3tmpfpw2bedfru46wqycp6y",
   "tag": "Filtración",
   "ts": "2026-10-18T16:28:44+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3my5tfygcyk2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 DATAS DOS LANÇAMENTOS DO FORTNITE: PESADELOS 2026!\n\n· Obsessão — 21 de outubro\n· Slender Man — 22 de outubro\n· Beetlejuice — 23 de outubro\n· Hamikuma — 24 de outubro\n· Predador — 28 de outubro\n\nInfo: x/SpushFNBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3my5tfygcyk2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtu4dhvt4gq2w4luka73ef6qzmfzdrjwea3ipnzej4nfkqiai2di",
-  "tag": "Filtración",
-  "ts": "2026-10-18T14:38:38+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-26T22:39:27+00:00";
+window.NEWS_UPDATED = "2026-10-27T00:01:27+00:00";
