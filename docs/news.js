@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuffq6ct22j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE ORIGINAL — Charlotte e a Líder da Equipe de Abraços receberão novos Trajes no Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nA maior aventura de todos os tempos começa em breve! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuffq6ct22j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiezlg4uvbnpswo6dpfvobnpolm42y5v45zfqf3ivrytjdemr7lhce",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:58:49+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuffbt5hk2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE ORIGINAL — Valentia e Jones estão confirmados para receber novos Trajes no Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nA maior aventura de todos os tempos começa em breve! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuffbt5hk2j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig2ohayxcptpnqtkpsuhawa6dd6ed647ij3pjlrpeelkx4a6atr5m",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:58:49+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myufexr5qs2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎤 FORTNITE x A$AP ROCKY — Primeira visão do Traje Série Ícones de A$AP Rocky que chegará no Fortnite: Caçadores de Tesouro a partir de 1° de novembro!\n\nEle também terá um Iate temático na Ilha do Battle Royale! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myufexr5qs2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdbvzpvxcu2dv55ea2x6xppcx4kmijhdh6gyr5j3vmuposnuquwi",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:58:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myudm3helk2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_fonduepaper/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-19T15:02:25+00:00"
- },
- {
-  "id": "cosmetic:Spray_FonduePaper",
-  "kind": "cosmetic",
-  "title": "Grafiti: The Slender Man estuvo aquí",
-  "text": "👀 Se filtró The Slender Man estuvo aquí (Poco común). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/spray_fonduepaper/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-19T15:02:25+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6z5v7o22i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — chegando à Loja em 21 de outubro! #Fortnite\n\n— Pacotão Obsessão:\n· Traje\n· Mochila\n· Picareta\n· Gesto\n\n🔓 Itens revelados amanhã (20) às 10h BRT\n💰 Preços desconhecidos até o lançamento\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mya6z5v7o22i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtu4dhvt4gq2w4luka73ef6qzmfzdrjwea3ipnzej4nfkqiai2di",
-  "tag": "Filtración",
-  "ts": "2026-10-19T13:11:37+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mya6n5fgxk2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 TEASER — FORTNITE x OBSESSÃO\n \nNikki de Obsessão chega à Loja do Fortnite em 21 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mya6n5fgxk2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-19T13:04:54+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T13:26:53+00:00";
+window.NEWS_UPDATED = "2026-10-27T13:58:49+00:00";
