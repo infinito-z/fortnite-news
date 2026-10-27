@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuhb35qgs2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 SERÁ?! Nenhum Elemental ou Locais de Extração parecem ter sido exibidos no trailer do Fortnite: Caçadores de Tesouro, podendo indicar que eles não estarão presentes na temporada.\n\nO que acham disso? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuhb35qgs2y\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidbfju3tjevay3plz6porbdpe5tzbnuqpybtj2qkk36i5kmdyss2a",
+  "tag": "Filtración",
+  "ts": "2026-10-27T14:31:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myugrn7in226",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibzrg3z42sgtjbqfmh2skan3yiwkoe4rwyjrfbmg4srzzkeqbt2ce",
   "tag": "Filtración",
   "ts": "2026-10-19T15:10:17+00:00"
- },
- {
-  "id": "cosmetic:Backpack_FonduePaper",
-  "kind": "cosmetic",
-  "title": "Accesorio mochilero: Tentáculos de Slender Man",
-  "text": "🔥 Nuevo en los archivos: Tentáculos de Slender Man (Raro). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_fonduepaper/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-19T15:02:25+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T14:24:57+00:00";
+window.NEWS_UPDATED = "2026-10-27T14:31:55+00:00";
