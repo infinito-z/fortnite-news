@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myufg3e4zc2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAJES — Todos os novos Trajes exibidos no Trailer e Key Art do Fortnite: Caçadores de Tesouro que começa em 1° de novembro! #Fortnite\n\n· Luffy, Zoro, Nami, Usopp, Sanji e Buggy\n· Hatsune Miku, Kasane Teto e A$AP Rocky\n· Valentia, Jones, Charlotte e Líder da Equipe de Abraços\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myufg3e4zc2j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif7t3szrzgqtl5gx4uoyjgwk32e726nfmlxtvmjun33is64laiqfq",
+  "tag": "Filtración",
+  "ts": "2026-10-27T13:59:39+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuffq6ct22j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/character_fonduepaper/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-19T15:02:25+00:00"
- },
- {
-  "id": "cosmetic:Pickaxe_FonduePaper",
-  "kind": "cosmetic",
-  "title": "Pico: Garras de Slender",
-  "text": "⚡ Llegó Garras de Slender (Raro). El que no la compre, no es gamer 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_fonduepaper/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-19T15:02:25+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T13:58:49+00:00";
+window.NEWS_UPDATED = "2026-10-27T13:59:40+00:00";
