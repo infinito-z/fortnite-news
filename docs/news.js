@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuhpdp6fc2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 SALVE O MUNDO — A Espingarda Dragoon e o Rifle de Assalto Trabuco devem chegar como itens no Fortnite: Caçadores de Tesouro!\n\nAmbos são itens originais do Salve o Mundo chegando ao Battle Royale, assim como aconteceu com o Rifle Super Retalhador no C7:T2. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuhpdp6fc2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpoh3nqy73pyyupjxfbq7rkmku2ovlfmio2yck4wgzi543ncjpjy",
+  "tag": "Filtración",
+  "ts": "2026-10-27T14:39:57+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuhb35qgs2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-19T15:11:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myafo7bdr222",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Todos os cosméticos do Slender Man foram descriptografados e chegam à Loja do Fortnite em 22 de outubro (preços desconhecidos).\n\n📁 Pak1019 | 21.34 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myafo7bdr222\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibzrg3z42sgtjbqfmh2skan3yiwkoe4rwyjrfbmg4srzzkeqbt2ce",
-  "tag": "Filtración",
-  "ts": "2026-10-19T15:10:17+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T14:31:55+00:00";
+window.NEWS_UPDATED = "2026-10-27T14:39:59+00:00";
