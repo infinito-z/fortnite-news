@@ -775,19 +775,6 @@
  "pending": [
   {
    "item": {
-    "id": "shop:192f4833c8126369",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "🛒 TIENDA NUEVA: 37 novedades. Lo más fuerte:\n• NASCAR Next Gen Ford Mustang — 2.200 paVos\n• Lote de Inoxtag — 2.000 paVos\n• Olvido — 2.000 paVos\n• Lote de Fiesta espectral — 1.800 paVos\n• Operaciones especiales sombría — 1.500 paVos\n• Golpe nevado — 1.500 paVos\n…y 31 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/8b091b010b16a59a/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-10-27T00:01:27+00:00"
-   },
-   "tries": 2,
-   "at": 1793059504.8700025
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myswvdlsr22b",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
