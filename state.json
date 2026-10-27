@@ -772,34 +772,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myswvdlsr22b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nDesempenho envolvente. O NASCAR Next Gen Ford Mustang demonstra potência na Loja do Fortnite por 2.200 V-Bucks até 05 de novembro! 🔥💨\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myswvdlsr22b\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihczc24srrlktdgabednteyim4ehyzrdr67buvtvnfhip6igwskqi",
-    "tag": "Filtración",
-    "ts": "2026-10-27T00:06:31+00:00"
-   },
-   "tries": 2,
-   "at": 1793059779.9931815
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myswuj5nmc2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSer um fenômeno é apenas uma de suas características. Inoxtag e seus acessórios Série Ícones brilham na Loja do Fortnite até 05 de outubro! 🌟\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myswuj5nmc2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifn42h32xh367j3d3edyvefrngxknkxdlkbolhj6nzeiybs56nzdu",
-    "tag": "Filtración",
-    "ts": "2026-10-27T00:06:31+00:00"
-   },
-   "tries": 2,
-   "at": 1793059779.9931815
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-26T22:30:00.433Z",
   "sections": {
