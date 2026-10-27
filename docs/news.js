@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczx3x322u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Primeira visão dos cosméticos de Predador: Terras Selvagens para o jogo!\n\nNa Loja amanhã (28) à noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvczx3x322u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiacosvwwirhjtdfl2zxromjysfpkbb3icxcqfc72qe3phswbn7js4",
+  "tag": "Filtración",
+  "ts": "2026-10-27T22:49:20+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczlztzc2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 28 de outubro!\n\n· Predador (2x)\n· Vestiário do Mexify (2x)\n· Vestiário de Horrores (16x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvczlztzc2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibtlvqrvobxz4org6mu3cpkpwas5edbbi5fvdy4zou6reas3xuuhq",
+  "tag": "Filtración",
+  "ts": "2026-10-27T22:49:20+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myui2clb7s2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid5bwwjlfofoirhb6mwjelzbz7ogziepmfwnk5rj5yy5wtodjtfba",
   "tag": "Filtración",
   "ts": "2026-10-19T20:44:59+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myaqmjdvtc2w",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⬆️ IMPULSO DE XP — A Epic está trabalhando em uma nova funcionalidade de Impulso de XP para o Capítulo 8 do Fortnite!\n\n— COMO FUNCIONA:\n· Concede uma % de XP bônus além do XP já obtido\n· Impulsos (Boosters) podem expirar após um certo período\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myaqmjdvtc2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaspq7aclanpnxkdw3iv2ptw25qjwthberjvaea7ao5jcstz5zh7y",
-  "tag": "Filtración",
-  "ts": "2026-10-19T18:26:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myag6xhlac2f",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Pacotão Slender Man que chega à Loja do Fortnite em 22 de outubro (preço desconhecido).\n\nInclui o Traje com um estilo de rosto definido, Mochila e Picareta! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myag6xhlac2f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaxuanqsnnpgbectlaujwrtawjgxr5kpnlpbhmyo746i7hlkxg6vm",
-  "tag": "Filtración",
-  "ts": "2026-10-19T15:19:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T14:46:39+00:00";
+window.NEWS_UPDATED = "2026-10-27T22:49:21+00:00";
