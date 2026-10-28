@@ -829,6 +829,19 @@
  "pending": [
   {
    "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟦 HORAS DOS HACKERS DE SAQUE POR 24 HORAS!\n\nOs Elementais Hackers de Saque são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e a Escopeta Poderosa Exótica chega à Ilha! \n\n⏰ Somente até amanhã (29) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywsmm2jks2v\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigl5fyvkiv2fewduu7sx4yjglrrmhpdnosl5czc6rwzfosf4jiuye",
+    "tag": "Filtración",
+    "ts": "2026-10-28T13:00:53+00:00"
+   },
+   "tries": 2,
+   "at": 1793192603.5872405
+  },
+  {
+   "item": {
     "id": "cosmetic:Backpack_AltoGorgon",
     "kind": "cosmetic",
     "title": "Accesorio mochilero: Thia",
@@ -837,8 +850,8 @@
     "tag": "Cosmético",
     "ts": "2026-10-28T13:02:19+00:00"
    },
-   "tries": 1,
-   "at": 1793192539.2050254
+   "tries": 2,
+   "at": 1793192660.1169395
   },
   {
    "item": {
@@ -850,8 +863,8 @@
     "tag": "Cosmético",
     "ts": "2026-10-28T13:02:19+00:00"
    },
-   "tries": 1,
-   "at": 1793192539.2050254
+   "tries": 2,
+   "at": 1793192660.1169395
   },
   {
    "item": {
@@ -863,8 +876,8 @@
     "tag": "Cosmético",
     "ts": "2026-10-28T13:02:19+00:00"
    },
-   "tries": 1,
-   "at": 1793192539.2050254
+   "tries": 2,
+   "at": 1793192660.1169395
   },
   {
    "item": {
@@ -876,21 +889,8 @@
     "tag": "Cosmético",
     "ts": "2026-10-28T13:02:19+00:00"
    },
-   "tries": 1,
-   "at": 1793192539.2050254
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟦 HORAS DOS HACKERS DE SAQUE POR 24 HORAS!\n\nOs Elementais Hackers de Saque são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e a Escopeta Poderosa Exótica chega à Ilha! \n\n⏰ Somente até amanhã (29) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywsmm2jks2v\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigl5fyvkiv2fewduu7sx4yjglrrmhpdnosl5czc6rwzfosf4jiuye",
-    "tag": "Filtración",
-    "ts": "2026-10-28T13:00:53+00:00"
-   },
    "tries": 2,
-   "at": 1793192603.5872405
+   "at": 1793192660.1169395
   }
  ],
  "epic_fp": {
