@@ -846,34 +846,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2yw5uhk23",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 TÓXICA! A Miasma chega à Loja do Fortnite nesta sexta, 30 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx2yw5uhk23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicnhp4zv2uu4jadeehmf7ukis5nkkh7ollo3oobeu2ixkh4fag3y4",
-    "tag": "Filtración",
-    "ts": "2026-10-28T15:30:41+00:00"
-   },
-   "tries": 2,
-   "at": 1793201660.7507112
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2zdrjuk23",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗡️ FORTNITE x PHANTOM BLADE ZERO — Soul e seus acessórios chegam à Loja do Fortnite amanhã, 29 de outubro!\n\nEle custará 1.600 V-Bucks e deve ficar disponível até 05 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx2zdrjuk23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidq5sa63je2wwh3zljtglbmigphp362n7ognfwbsb4kepmivo26fu",
-    "tag": "Filtración",
-    "ts": "2026-10-28T15:31:20+00:00"
-   },
-   "tries": 2,
-   "at": 1793201660.7507112
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {
