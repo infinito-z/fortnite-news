@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "news:62b8ec13abdea5c97feb52d579734831",
+  "kind": "news",
+  "title": "Dos formas de jugar",
+  "text": "🚨 NOTICIA: Dos formas de jugar\n¡Encuentra la experiencia de Battle Royale que mejor encaje contigo! El Battle Royale estándar permite a los jugadores recolectar recursos y construir muros, rampas y estructuras sobre la marcha. Cero construcción elimina la construcción, así que los jugadores pueden centrarse en el combate y el movimiento. ¡Cero construcción es un sitio genial para empezar!",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/51ae8d589110497cb9fa6c9affb67699.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-28T18:30:28+00:00"
+ },
+ {
+  "id": "news:f537ecaea83bd3f3c373c43555b0105e",
+  "kind": "news",
+  "title": "Aterriza con cabeza para empezar fuerte",
+  "text": "👀 Epic acaba de soltar esto: Aterriza con cabeza para empezar fuerte\nAl comienzo de cada partida, salta del autobús de batalla y ve a por una zona con menos gente. Esto te da tiempo para saquear y equiparte antes de que empiece el combate... ¡a menos que quieras empezar por todo lo alto!",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a798abf7ee9b490b91fad73e6589ca77.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-28T18:30:28+00:00"
+ },
+ {
+  "id": "news:485cadbe1c7eca4e835d136325c393db",
+  "kind": "news",
+  "title": "Juega a la defensiva con salud y escudo",
+  "text": "⚡ Ojo, ojo: Juega a la defensiva con salud y escudo\nLlevar un control del escudo y la salud es esencial para sobrevivir. Coge y consume pociones de escudo lo antes posible, ya que tener poco escudo significa caer más rápido en un combate. Usa objetos de curación como los botiquines para recuperar salud entre enfrentamientos, preferiblemente antes de que empiece la siguiente batalla.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/c8a5dd019e6e4aa1a2983defc278dd0e.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-28T18:30:28+00:00"
+ },
+ {
+  "id": "news:3228eca0d2c45fcd9711d6f6555979cd",
+  "kind": "news",
+  "title": "Abre cofres para conseguir el mejor botín",
+  "text": "⚡ Ojo, ojo: Abre cofres para conseguir el mejor botín\nLos cofres valiosos están repartidos por toda la isla y contienen objetos de curación, armas y más, y las distintas rarezas de los cofres ofrecen diferentes calidades de botín. ¡Presta atención a la pista de audio chispeante para ir en su busca!",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/7f6b8523a637466189d48010fe9fec62.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-28T18:30:28+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx7uvyvus2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1762,42 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid4l7jao4mtwfush4zm5q7xd47aj7rbd2d2a6fyes5qjc5kfezcwq",
   "tag": "Filtración",
   "ts": "2026-10-20T17:24:12+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myczlgquus2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 TEASER — ROCKET LEAGUE x FNAF\n\nA colaboração com Five Nights At Freddy's chegará em breve ao Rocket League, e com isso, alguns cosméticos devem ser transferidos ao Fortnite!\n\nEmbora não seja confirmado, há algumas semanas a Van do Arnold foi especulada para chegar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myczlgquus2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-20T16:11:44+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myczkt7vu22n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 TRAILER — FORTNITE x OBSESSÃO\n\nNikki e seus acessórios de Obsessão chegam à Loja em 21 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myczkt7vu22n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-20T16:11:44+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycsfq34722w",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🟦 NOVAS MÚSICAS — chegando à Loja do Fortnite nesta semana, provavelmente em 22 de outubro! #Fortnite\n\n· Short Skirt/Long Jacket — CAKE \n· Suavemente — Elvis Crespo \n· Kryptonite — Ken Carson\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycsfq34722w\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia4ynbmfczn3hrrvlyfsgl574zt6wzzvcxeiiqr2dugatss6eksj4",
-  "tag": "Filtración",
-  "ts": "2026-10-20T14:03:57+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycr7bq44s2g",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 BAÚ DO TESOURO — Agora, o Baú do Tesouro na Ilha do C7:T4 causa erros/glitches na sua Barra de Vida e Escudo, e também nas informações do minimapa ao se aproximar!\n\nVale lembrar que assim que ele for completamente carregado, algumas músicas serão tocadas nele! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycr7bq44s2g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-20T13:43:30+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T16:57:43+00:00";
+window.NEWS_UPDATED = "2026-10-28T18:30:28+00:00";
