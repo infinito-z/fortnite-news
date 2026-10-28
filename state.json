@@ -805,7 +805,15 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvhfifkts2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvhezbses2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v",
+  "cosmetic:Backpack_AltoGorgon",
+  "cosmetic:Character_AltoGorgon",
+  "cosmetic:EID_AltoGorgon",
+  "cosmetic:Pickaxe_AltoGorgon",
+  "cosmetic:Backpack_AltoGorgon",
+  "cosmetic:Character_AltoGorgon",
+  "cosmetic:EID_AltoGorgon",
+  "cosmetic:Pickaxe_AltoGorgon"
  ],
  "first_run": false,
  "seeded": [
@@ -831,6 +839,58 @@
    },
    "tries": 1,
    "at": 1793192454.872242
+  },
+  {
+   "item": {
+    "id": "cosmetic:Backpack_AltoGorgon",
+    "kind": "cosmetic",
+    "title": "Accesorio mochilero: Thia",
+    "text": "🔥 Nuevo en los archivos: Thia (Raro). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_altogorgon/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-28T13:02:19+00:00"
+   },
+   "tries": 1,
+   "at": 1793192539.2050254
+  },
+  {
+   "item": {
+    "id": "cosmetic:Character_AltoGorgon",
+    "kind": "cosmetic",
+    "title": "Traje: Dek",
+    "text": "👀 Se filtró Dek (Épico). Que alguien avise a mi tarjeta 😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/character_altogorgon/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-28T13:02:19+00:00"
+   },
+   "tries": 1,
+   "at": 1793192539.2050254
+  },
+  {
+   "item": {
+    "id": "cosmetic:EID_AltoGorgon",
+    "kind": "cosmetic",
+    "title": "Gesto: Corte de espada de depredador",
+    "text": "👀 Se filtró Corte de espada de depredador (Poco común). Que alguien avise a mi tarjeta 😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/eid_altogorgon/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-28T13:02:19+00:00"
+   },
+   "tries": 1,
+   "at": 1793192539.2050254
+  },
+  {
+   "item": {
+    "id": "cosmetic:Pickaxe_AltoGorgon",
+    "kind": "cosmetic",
+    "title": "Pico: Espada de plasma de Dek",
+    "text": "👀 Se filtró Espada de plasma de Dek (Raro). Que alguien avise a mi tarjeta 😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_altogorgon/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-28T13:02:19+00:00"
+   },
+   "tries": 1,
+   "at": 1793192539.2050254
   }
  ],
  "epic_fp": {
