@@ -841,19 +841,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtzyjwf22e",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Pacotão Predador: Terras Selvagens que chega à Loja nesta noite (preço desconhecido).\n\nInclui Traje Dek, Mochila, Picareta e também um Gesto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywtzyjwf22e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiadjktzm6jks6jlszwk7hn4ifecf7axcddjbfil4fyiqjbdjnxygm",
-    "tag": "Filtración",
-    "ts": "2026-10-28T13:26:36+00:00"
-   },
-   "tries": 2,
-   "at": 1793194124.9025702
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywu7rbbhs2k",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
