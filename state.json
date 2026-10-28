@@ -864,21 +864,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxu7m2l4s2n",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Predador (2x)\n· Vestiário do Mexify (2x)\n· Vestiário de Horrores (16x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxu7m2l4s2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibiws4khitqazyipba7xj5rxnaohzwfzay4gnq77l7nawho3u4gra",
-    "tag": "Filtración",
-    "ts": "2026-10-28T23:01:58+00:00"
-   },
-   "tries": 2,
-   "at": 1793228694.9690855
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {
