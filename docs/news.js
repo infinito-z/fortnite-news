@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsx35wy22v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 KEY ART — FORTNITE: CAÇADORES DE TESOURO\n\nNico Robin e Portgas D. Ace de One Piece estão confirmados para chegar no Fortnite: Caçadores de Tesouro que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywsx35wy22v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3gy2qr5ful4r744zzi3pmjyoztagayquawnybyl5wwjn5xqoicq",
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:06:39+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_AltoGorgon",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Thia",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibwbsdncn3h7oa4w46znq3mawgbbb4jwgx777fymcauqlu6j23sxa",
   "tag": "Filtración",
   "ts": "2026-10-20T12:44:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnxoa7rc2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Primeira visão do Traje Nikki de Obsessão para o Fortnite que será revelada daqui a pouco!\n\n📸: x/DiscussingFilm | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycnxoa7rc2p\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif6yieczqp3lxsyg3xyz4tlvkkqjtscjby5obkjox755mvytufkg4",
-  "tag": "Filtración",
-  "ts": "2026-10-20T12:44:19+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T13:02:19+00:00";
+window.NEWS_UPDATED = "2026-10-28T13:06:40+00:00";
