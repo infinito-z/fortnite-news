@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxkp3nvfs2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ TRAILER — FORTNITE x PREDADOR\n\nDek e seus acessórios de Predador: Terras Selvagens chegam à Loja do Fortnite ainda nesta noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxkp3nvfs2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-28T20:11:40+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxiyhpg3k23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibw4jkuhdofrwoka5jaopv7x5fre7nvrpmfxu742hiv5wgvs4yyse",
   "tag": "Filtración",
   "ts": "2026-10-20T21:52:46+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydh5zcgk22d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAJES C7:TM1 — Primeira visão de 5 novos Trajes que chegarão no Capítulo 7: Temporada Mini 1 em 1° de novembro!\n\nTodos são em estilo desenhado/anime e parecem ser novas versões de Bia, Syd, Valentia, Jones e Oscar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mydh5zcgk22d\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifldlo247pwsdxrad52vp5dtm7kxoflib4nnzw7jwpf6bhfojgbma",
-  "tag": "Filtración",
-  "ts": "2026-10-20T20:15:03+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T19:40:47+00:00";
+window.NEWS_UPDATED = "2026-10-28T20:11:41+00:00";
