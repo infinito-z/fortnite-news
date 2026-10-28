@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2zdrjuk23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗡️ FORTNITE x PHANTOM BLADE ZERO — Soul e seus acessórios chegam à Loja do Fortnite amanhã, 29 de outubro!\n\nEle custará 1.600 V-Bucks e deve ficar disponível até 05 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx2zdrjuk23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidq5sa63je2wwh3zljtglbmigphp362n7ognfwbsb4kepmivo26fu",
+  "tag": "Filtración",
+  "ts": "2026-10-28T15:31:20+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2yw5uhk23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-20T13:39:25+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycpjqhx3c2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Pacotão Obsessão que chega à Loja do Fortnite amanhã, 21 de outubro (preço desconhecido).\n\nInclui o Traje Nikki, Mochila, Picareta e também um Gesto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycpjqhx3c2r\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreickpjvzdot7ysfczymw3iay7cfyokerjhxiumq6ataq655vxkkice",
-  "tag": "Filtración",
-  "ts": "2026-10-20T13:12:15+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T15:30:42+00:00";
+window.NEWS_UPDATED = "2026-10-28T15:31:21+00:00";
