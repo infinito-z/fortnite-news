@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2yw5uhk23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 TÓXICA! A Miasma chega à Loja do Fortnite nesta sexta, 30 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx2yw5uhk23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicnhp4zv2uu4jadeehmf7ukis5nkkh7ollo3oobeu2ixkh4fag3y4",
+  "tag": "Filtración",
+  "ts": "2026-10-28T15:30:41+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2epf2mc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreickpjvzdot7ysfczymw3iay7cfyokerjhxiumq6ataq655vxkkice",
   "tag": "Filtración",
   "ts": "2026-10-20T13:12:15+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycp7ijmps2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🩸 FORTNITE x OBSESSÃO — Primeira visão de Nikki e seus acessórios de Obsessão no Vestiário do jogo. Na Loja amanhã, 21 de outubro (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycp7ijmps2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-20T13:06:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T15:19:15+00:00";
+window.NEWS_UPDATED = "2026-10-28T15:30:42+00:00";
