@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 31 de outubro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvhfifkts2z\n⚠️ No es oficial.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihiszuqbgyasrwx2rkbqorrn7lcyiwe7dtya52eyox53aqnlopzde",
   "tag": "Filtración",
-  "ts": "2026-10-28T00:07:32+00:00"
+  "ts": "2026-10-28T00:07:55+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvhezbses2z",
@@ -15,7 +15,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm, dois, ele vem te pegar! O Freddy Krueger de A Hora do Pesadelo faz seu sonho virar um terror na Loja do Fortnite até 1° de novembro! 🩸💤\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvhezbses2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidov3uj3yyh2qh6ditko3eowfmo6hoxfecvisobspbiifr2nwn53m",
   "tag": "Filtración",
-  "ts": "2026-10-28T00:07:32+00:00"
+  "ts": "2026-10-28T00:07:55+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-20T00:11:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T00:07:33+00:00";
+window.NEWS_UPDATED = "2026-10-28T00:07:57+00:00";
