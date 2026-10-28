@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtauonu227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ ELES FICAM! Os Elementais devem continuar presentes no Fortnite: Caçadores de Tesouro, conforme aponta um novo Elemental exibido na Key Art recente!\n\nE aí, o que acham disso?! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywtauonu227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4yaafa5tv4wljipe4ux2bxpmxf5da4iefvis3etm4tsa5xruwrm",
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:12:23+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsx35wy22v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigihh44k45hdhxzwx6ndyj7mvemjahayst6kw3prnpvn3xt7z3dfq",
   "tag": "Filtración",
   "ts": "2026-10-20T12:44:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnxxbohk2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER 4 — CAPÍTULO 7: TEMPORADA 1\n\nUm novo Traje do Jonesy no estilo desenhado deve chegar no Capítulo 7: Temporada 1, pois foi exibido em mais um teaser recente no Japão!\n\n“Eu vi um tesouro”\n\n📸: x/M1yagon | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycnxxbohk2p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibwbsdncn3h7oa4w46znq3mawgbbb4jwgx777fymcauqlu6j23sxa",
-  "tag": "Filtración",
-  "ts": "2026-10-20T12:44:19+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T13:06:40+00:00";
+window.NEWS_UPDATED = "2026-10-28T13:12:24+00:00";
