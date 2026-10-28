@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtv4usus2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Primeira visão dos cosméticos de Predador: Terras Selvagens no jogo. Na Loja nesta noite (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywtv4usus2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:23:45+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtu6xf6k2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_cargolying/icon.png",
   "tag": "Cosmético",
   "ts": "2026-10-20T13:01:24+00:00"
- },
- {
-  "id": "cosmetic:Pickaxe_CargoLying",
-  "kind": "cosmetic",
-  "title": "Pico: Botella rota de Nikki",
-  "text": "👀 Se filtró Botella rota de Nikki (Raro). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_cargolying/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-20T13:01:24+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T13:22:58+00:00";
+window.NEWS_UPDATED = "2026-10-28T13:23:46+00:00";
