@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtu6xf6k2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Todos os cosméticos de Predador: Terras Selvagens foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1035 | 46.93 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywtu6xf6k2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihkpmypj4kvh737kejze35jlj5ivugmzxxlazaogpoheom6al4r5m",
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:22:57+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtauonu227",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_cargolying/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-20T13:01:24+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycnykqadk2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ Um patch de manutenção foi enviado para diversas plataformas, provavelmente para corrigir problemas gerais. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycnykqadk2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigihh44k45hdhxzwx6ndyj7mvemjahayst6kw3prnpvn3xt7z3dfq",
-  "tag": "Filtración",
-  "ts": "2026-10-20T12:44:53+00:00"
  }
 ]
