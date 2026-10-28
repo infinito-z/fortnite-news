@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywu7rbbhs2k",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 5 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n🪎 O Baú continua sendo descarregado em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywu7rbbhs2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:32:26+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtzyjwf22e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cargolying/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-20T13:01:24+00:00"
- },
- {
-  "id": "cosmetic:Character_CargoLying",
-  "kind": "cosmetic",
-  "title": "Traje: Nikki",
-  "text": "⚡ Llegó Nikki (Épico). El que no la compre, no es gamer 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_cargolying/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-20T13:01:24+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T13:26:37+00:00";
+window.NEWS_UPDATED = "2026-10-28T13:32:26+00:00";
