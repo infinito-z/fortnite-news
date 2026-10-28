@@ -795,7 +795,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczx3x322u",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczlztzc2u",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
+  "shop:a0286e8ffa068d17",
+  "shop:a0286e8ffa068d17"
  ],
  "first_run": false,
  "seeded": [
@@ -808,7 +810,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:a0286e8ffa068d17",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 32 novedades. Lo más fuerte:\n• Lote de Noches de ultratumba — 3.500 paVos\n• Lote de Horda heroica — 3.500 paVos\n• Lote de Pesadilla en Elm Street — 2.300 paVos\n• Polaridad putrefacta — 1.500 paVos\n• Insidio — 1.500 paVos\n• Viajero Vestigial — 1.500 paVos\n…y 26 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/36dbb38da8c1a6ae/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-28T00:01:41+00:00"
+   },
+   "tries": 1,
+   "at": 1793145701.336929
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {

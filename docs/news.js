@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:a0286e8ffa068d17",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 32 novedades. Lo más fuerte:\n• Lote de Noches de ultratumba — 3.500 paVos\n• Lote de Horda heroica — 3.500 paVos\n• Lote de Pesadilla en Elm Street — 2.300 paVos\n• Polaridad putrefacta — 1.500 paVos\n• Insidio — 1.500 paVos\n• Viajero Vestigial — 1.500 paVos\n…y 26 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/36dbb38da8c1a6ae/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-28T00:01:41+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/4a96249217b26c44/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-20T00:00:33+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myb7f2cryk2f",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Celebração de Hogwarts (5x)\n· Vestiário de Horrores (7x)\n· Um Estouro [Gestos] (2x)\n· Nem Suei (2x)\n· Novidade na Área (2x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myb7f2cryk2f\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidb6un7m6wfbvkh4fzgysq5owevokbgntwpychvydxikwwwk2me7a",
-  "tag": "Filtración",
-  "ts": "2026-10-19T22:50:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-27T23:01:53+00:00";
+window.NEWS_UPDATED = "2026-10-28T00:01:41+00:00";
