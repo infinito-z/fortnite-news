@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxu7m2l4s2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Predador (2x)\n· Vestiário do Mexify (2x)\n· Vestiário de Horrores (16x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxu7m2l4s2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibiws4khitqazyipba7xj5rxnaohzwfzay4gnq77l7nawho3u4gra",
+  "tag": "Filtración",
+  "ts": "2026-10-28T23:01:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxkp3nvfs2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/a570b790560f4f5697caab5f0f4f28cd.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-20T23:01:26+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mydmmyaxnc2k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Borderlands (3x)\n· Vestiário de Horrores [Morangata] (7x)\n· Totalmente Radical [De Volta Para o Futuro, Anos 80 e mais] (7x)\n· Recoil AV (1x)\n· Novidade na Área (2x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mydmmyaxnc2k\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibw4jkuhdofrwoka5jaopv7x5fre7nvrpmfxu742hiv5wgvs4yyse",
-  "tag": "Filtración",
-  "ts": "2026-10-20T21:52:46+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T20:11:41+00:00";
+window.NEWS_UPDATED = "2026-10-28T23:01:59+00:00";
