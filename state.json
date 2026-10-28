@@ -845,7 +845,9 @@
   "news:62b8ec13abdea5c97feb52d579734831",
   "news:f537ecaea83bd3f3c373c43555b0105e",
   "news:485cadbe1c7eca4e835d136325c393db",
-  "news:3228eca0d2c45fcd9711d6f6555979cd"
+  "news:3228eca0d2c45fcd9711d6f6555979cd",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxiyhpg3k23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxiyhpg3k23"
  ],
  "first_run": false,
  "seeded": [
@@ -858,7 +860,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxiyhpg3k23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👤 COMO APOIAR UM CRIADOR NO FORTNITE E ROCKET LEAGUE:\n\nCom o Fortnite: Caçadores de Tesouro chegando, resolvi relembrar como vocês podem apoiar um criador no Fortnite!\n\n1. Vá até a Loja de Itens\n2. Selecione \"Apoie-Um-Criador\"\n3. Insira o código do seu criador escolhido\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxiyhpg3k23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-28T19:40:46+00:00"
+   },
+   "tries": 1,
+   "at": 1793216447.8460462
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {
