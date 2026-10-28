@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtzyjwf22e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Pacotão Predador: Terras Selvagens que chega à Loja nesta noite (preço desconhecido).\n\nInclui Traje Dek, Mochila, Picareta e também um Gesto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywtzyjwf22e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiadjktzm6jks6jlszwk7hn4ifecf7axcddjbfil4fyiqjbdjnxygm",
+  "tag": "Filtración",
+  "ts": "2026-10-28T13:26:36+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywtv4usus2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/character_cargolying/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-20T13:01:24+00:00"
- },
- {
-  "id": "cosmetic:EID_CargoLying",
-  "kind": "cosmetic",
-  "title": "Gesto: No, no, no...",
-  "text": "🔥 Nuevo en los archivos: No, no, no... (Poco común). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/eid_cargolying/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-20T13:01:24+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T13:23:46+00:00";
+window.NEWS_UPDATED = "2026-10-28T13:26:37+00:00";
