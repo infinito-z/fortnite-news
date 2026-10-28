@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nNão se preocupe, não vai doer por muito tempo. A Enfermeira Lenore e seus acessórios te levam para a eternidade na Loja de Itens até 1° de novembro! 🏥💉\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvheidhv22z\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihofm45k7b2schidaautato6jkwrlrwgwsf22xjg4k6hpqibinu6m",
+  "tag": "Filtración",
+  "ts": "2026-10-28T00:06:43+00:00"
+ },
+ {
   "id": "shop:a0286e8ffa068d17",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigxbqxwnpaggmvzaml6nqx7td5suc6iw4mhh3bygobtmatr7ongce",
   "tag": "Filtración",
   "ts": "2026-10-20T00:11:06+00:00"
- },
- {
-  "id": "shop:7358e91afdd08fb2",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 59 novedades. Lo más fuerte:\n• Lote de Celebración de Hogwarts — 3.200 paVos\n• Aston Martin Valhalla y Mundo Mágico — 2.800 paVos\n• Lote de Máscara de metal — 2.400 paVos\n• Lote de El hombre polilla — 1.600 paVos\n• Dientef — 1.500 paVos\n• Banano pelado — 1.500 paVos\n…y 53 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/4a96249217b26c44/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-20T00:00:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T00:01:41+00:00";
+window.NEWS_UPDATED = "2026-10-28T00:06:44+00:00";

@@ -797,7 +797,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
   "shop:a0286e8ffa068d17",
-  "shop:a0286e8ffa068d17"
+  "shop:a0286e8ffa068d17",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z"
  ],
  "first_run": false,
  "seeded": [
@@ -810,7 +812,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nNão se preocupe, não vai doer por muito tempo. A Enfermeira Lenore e seus acessórios te levam para a eternidade na Loja de Itens até 1° de novembro! 🏥💉\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvheidhv22z\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihofm45k7b2schidaautato6jkwrlrwgwsf22xjg4k6hpqibinu6m",
+    "tag": "Filtración",
+    "ts": "2026-10-28T00:06:43+00:00"
+   },
+   "tries": 1,
+   "at": 1793146004.3949773
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {
