@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx7uvyvus2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 O Fortnite: Caçadores de Tesouro já foi testado por criadores selecionados em um acesso antecipado!\n\nNo entanto, parece que desta vez nenhuma gameplay será revelada por eles próximo ao lançamento da temporada, provavelmente por críticas recentes.\n\nInfo: x/FNBRintel | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx7uvyvus2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3gy2qr5ful4r744zzi3pmjyoztagayquawnybyl5wwjn5xqoicq",
+  "tag": "Filtración",
+  "ts": "2026-10-28T16:57:42+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx3eijyzc23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-20T13:43:30+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mycqzsavm22g",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 3 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\nO Baú continua sendo carregado em preparação para a próxima temporada que chega em menos de 12 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mycqzsavm22g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-20T13:40:53+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T15:37:34+00:00";
+window.NEWS_UPDATED = "2026-10-28T16:57:43+00:00";

@@ -835,7 +835,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2zdrjuk23",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx2zdrjuk23",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx3eijyzc23",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx3eijyzc23"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx3eijyzc23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx7uvyvus2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx7uvyvus2e"
  ],
  "first_run": false,
  "seeded": [
@@ -848,7 +850,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx7uvyvus2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 O Fortnite: Caçadores de Tesouro já foi testado por criadores selecionados em um acesso antecipado!\n\nNo entanto, parece que desta vez nenhuma gameplay será revelada por eles próximo ao lançamento da temporada, provavelmente por críticas recentes.\n\nInfo: x/FNBRintel | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx7uvyvus2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3gy2qr5ful4r744zzi3pmjyoztagayquawnybyl5wwjn5xqoicq",
+    "tag": "Filtración",
+    "ts": "2026-10-28T16:57:42+00:00"
+   },
+   "tries": 1,
+   "at": 1793206663.584587
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-27T22:30:00.475Z",
   "sections": {
