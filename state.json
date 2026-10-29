@@ -876,21 +876,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myzd4bpzkk2t",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🟪 HORAS DOS CAÇADORES POR 24 HORAS!\n\nOs Elementais Caçadores de Recompensas são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e o Rifle Estoura-balões Exótico chega à Ilha! \n\n⏰ Somente até amanhã (30) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myzd4bpzkk2t\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifhf7bdiia5rorkirpkmjeueqflasf6ml2sldyjn6j5edkk35vswq",
-    "tag": "Filtración",
-    "ts": "2026-10-29T13:00:54+00:00"
-   },
-   "tries": 2,
-   "at": 1793279022.639984
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {
