@@ -880,34 +880,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myzgxt4qu22f",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 GENTE?! O término do Passe Musical da Temporada 15 com Lil Tecca foi adiado para 21 de janeiro de 2027.\n\nEste Passe Musical foi lançado em 30 de julho, e marcará quase 6 MESES sem uma única troca. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myzgxt4qu22f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib54mjlg4zhjf7btswufrelau7hxof6762lfyi7ekwooyh5xoxc3q",
-    "tag": "Filtración",
-    "ts": "2026-10-29T14:09:55+00:00"
-   },
-   "tries": 2,
-   "at": 1793283165.8192456
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myzgxjn2422f",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 DE NOVO?! O término do Passe LEGO NINJAGO foi adiado de 31 de outubro para 5 de dezembro!\n\nEste Passe LEGO foi lançado em 16 de abril, e irá marcar quase 8 MESES sem uma única troca. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myzgxjn2422f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreickrmwzjukld6c34qs2qirlax5vzbxj4ahsxe3k53cdbbd6evgwim",
-    "tag": "Filtración",
-    "ts": "2026-10-29T14:09:55+00:00"
-   },
-   "tries": 2,
-   "at": 1793283165.8192456
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {
