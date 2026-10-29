@@ -853,7 +853,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxu7m2l4s2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxu7m2l4s2n",
   "shop:85730d53732ac2df",
-  "shop:85730d53732ac2df"
+  "shop:85730d53732ac2df",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x"
  ],
  "first_run": false,
  "seeded": [
@@ -866,7 +868,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA honra só é valida quando se batalha por ela. Dek e seus acessórios de Predador: Terras Selvagens lutam na Loja do Fortnite até 04 de novembro! 🩸🗡️\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxxwvkdgk2x\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie2q2ulfkcjlhyse7s2yhfcuvbhxdhabcsg4kbytgifksx3nl7dme",
+    "tag": "Filtración",
+    "ts": "2026-10-29T00:08:28+00:00"
+   },
+   "tries": 1,
+   "at": 1793232509.7027903
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {

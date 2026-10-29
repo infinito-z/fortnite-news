@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA honra só é valida quando se batalha por ela. Dek e seus acessórios de Predador: Terras Selvagens lutam na Loja do Fortnite até 04 de novembro! 🩸🗡️\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxxwvkdgk2x\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie2q2ulfkcjlhyse7s2yhfcuvbhxdhabcsg4kbytgifksx3nl7dme",
+  "tag": "Filtración",
+  "ts": "2026-10-29T00:08:28+00:00"
+ },
+ {
   "id": "shop:85730d53732ac2df",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibpbd33x6az42vlw7muc2n3abz63ntatl6olnzllu73ojexjavss4",
   "tag": "Filtración",
   "ts": "2026-10-21T00:09:28+00:00"
- },
- {
-  "id": "shop:cf87965e5e877bec",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 50 novedades. Lo más fuerte:\n• Máquina del tiempo de Regreso al futuro — 2.500 paVos\n• Bandido psicópata — 2.000 paVos\n• Lote de Mad Moxxi — 2.000 paVos\n• Lote de Doc Brown — 2.000 paVos\n• Lote Azucarado — 1.600 paVos\n• Asesina aeróbica — 1.500 paVos\n…y 44 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/c8195eccbb087785/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-21T00:01:17+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-29T00:02:00+00:00";
+window.NEWS_UPDATED = "2026-10-29T00:08:29+00:00";
