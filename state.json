@@ -882,21 +882,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz27zh4oec27",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Terrifier [Art, o Palhaço] (2x)\n· Phantom Blade Zero [Soul] (1x)\n· Vestiário de Horrores (17x)\n· Pista de Dança [Gestos] (2x)\n· Estilo Top (8x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz27zh4oec27\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidj7zxmy4c3oxtgj4bujahbld5o2nnks5juqnsp4fstsuvwjnyaha",
-    "tag": "Filtración",
-    "ts": "2026-10-29T21:38:12+00:00"
-   },
-   "tries": 2,
-   "at": 1793310072.7558937
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
