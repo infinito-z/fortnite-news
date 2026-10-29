@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myzd4bpzkk2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🟪 HORAS DOS CAÇADORES POR 24 HORAS!\n\nOs Elementais Caçadores de Recompensas são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e o Rifle Estoura-balões Exótico chega à Ilha! \n\n⏰ Somente até amanhã (30) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myzd4bpzkk2t\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifhf7bdiia5rorkirpkmjeueqflasf6ml2sldyjn6j5edkk35vswq",
+  "tag": "Filtración",
+  "ts": "2026-10-29T13:00:54+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myz724i4o22l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-21T13:26:20+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myductey622o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO tempo se dobra diante de você. 88 mph! De Volta Para o Futuro surge diretamente de Hill Valley com Doutor Brown e DeLorean na Loja do Fortnite até 24 de outubro! 🚗⏰\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myductey622o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig76fwxgesiauducopnfluhclnrotfm6lwpdegadxzaeuqhws7a6u",
-  "tag": "Filtración",
-  "ts": "2026-10-21T00:10:36+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-29T11:48:29+00:00";
+window.NEWS_UPDATED = "2026-10-29T13:00:55+00:00";
