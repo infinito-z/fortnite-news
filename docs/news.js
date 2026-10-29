@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myz724i4o22l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 KEY ART — FORTNITE: CAÇADORES DE TESOURO\n\nA maior caça ao tesouro de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myz724i4o22l\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaee4y5vwkccjroq7xn642bsby3yh4wkliduwdyujd535tj7s46ai",
+  "tag": "Filtración",
+  "ts": "2026-10-29T11:48:28+00:00"
+ },
+ {
   "id": "shop:5fe58885816ea52e",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig76fwxgesiauducopnfluhclnrotfm6lwpdegadxzaeuqhws7a6u",
   "tag": "Filtración",
   "ts": "2026-10-21T00:10:36+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myduc7o2pk2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nVamonos, lacaio! Sirva hospitalidade de primeira ou cause muito caos com o Bandido Psicopata, Mad Moxxi e Lilith de Borderlands na Loja do Fortnite até 25 de outubro! 💥💕\n\n🧡 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myduc7o2pk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihwir5l2qocflkqfb6rizcvmzoxzump4ckgrj65vqm7bzzk7an2i4",
-  "tag": "Filtración",
-  "ts": "2026-10-21T00:10:05+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-29T01:00:50+00:00";
+window.NEWS_UPDATED = "2026-10-29T11:48:29+00:00";

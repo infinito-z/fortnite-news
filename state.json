@@ -859,7 +859,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x",
   "shop:5fe58885816ea52e",
-  "shop:5fe58885816ea52e"
+  "shop:5fe58885816ea52e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myz724i4o22l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myz724i4o22l"
  ],
  "first_run": false,
  "seeded": [
@@ -872,7 +874,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myz724i4o22l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 KEY ART — FORTNITE: CAÇADORES DE TESOURO\n\nA maior caça ao tesouro de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myz724i4o22l\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaee4y5vwkccjroq7xn642bsby3yh4wkliduwdyujd535tj7s46ai",
+    "tag": "Filtración",
+    "ts": "2026-10-29T11:48:28+00:00"
+   },
+   "tries": 1,
+   "at": 1793274509.7627585
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {
