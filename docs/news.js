@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacote Vestiário de Mexify retornou à Loja por 2.500 V-Bucks até 31 de outubro! 🦖\n\n· Traje Saura\n· Mochila Girassol\n· Picareta Quebra-gelo\n· Gesto Twist\n· Asa-delta Coral Voador\n· Envelopamento Rabisquinhos\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxxxgwq4k2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmkcohkeyfm4xssx6jqa3pqik7bpgfmy6f5jqrtnkc3xrxoaziiq",
+  "tag": "Filtración",
+  "ts": "2026-10-29T00:08:57+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaqjxpc7j75ioyfk56uf2pydl37dkomrkot4voxpartxxfe7n4zia",
   "tag": "Filtración",
   "ts": "2026-10-21T00:10:05+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myduax4n522o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla não é uma gatinha assustada, mas tem uma amiga miau-ravilhosa! A Morangata e a Mascote Abóbora Felina fazem um show de doces na Loja de Itens até 27 de outubro! 🎃🐈\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myduax4n522o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibpbd33x6az42vlw7muc2n3abz63ntatl6olnzllu73ojexjavss4",
-  "tag": "Filtración",
-  "ts": "2026-10-21T00:09:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-29T00:08:29+00:00";
+window.NEWS_UPDATED = "2026-10-29T00:08:58+00:00";

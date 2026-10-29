@@ -855,7 +855,9 @@
   "shop:85730d53732ac2df",
   "shop:85730d53732ac2df",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxwvkdgk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x"
  ],
  "first_run": false,
  "seeded": [
@@ -881,6 +883,19 @@
    },
    "tries": 1,
    "at": 1793232509.7027903
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxxxgwq4k2x",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacote Vestiário de Mexify retornou à Loja por 2.500 V-Bucks até 31 de outubro! 🦖\n\n· Traje Saura\n· Mochila Girassol\n· Picareta Quebra-gelo\n· Gesto Twist\n· Asa-delta Coral Voador\n· Envelopamento Rabisquinhos\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxxxgwq4k2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmkcohkeyfm4xssx6jqa3pqik7bpgfmy6f5jqrtnkc3xrxoaziiq",
+    "tag": "Filtración",
+    "ts": "2026-10-29T00:08:57+00:00"
+   },
+   "tries": 1,
+   "at": 1793232538.1001377
   }
  ],
  "epic_fp": {
