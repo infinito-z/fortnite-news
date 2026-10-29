@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:85730d53732ac2df",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 40 cosas nuevas:\n• Lote de taquilla de Mexify — 2.500 paVos\n• LOTE DE ESCUADRÓN CONTUNDENTE — 2.400 paVos\n• Lote de improvisación de Coachella 2026 — 2.200 paVos\n• Depredador: Lote del Erial desolado — 2.000 paVos\n• Lote de Concepto del miedo — 1.600 paVos\n• Monstruo mediocampista — 1.200 paVos\n…y 34 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/9882c50bdbab95c8/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-29T00:02:00+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxu7m2l4s2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/c8195eccbb087785/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-21T00:01:17+00:00"
- },
- {
-  "id": "news:eac3cc04bc6838da8779af31d5f3d08d",
-  "kind": "news",
-  "title": "En directo: Copa Slender Man",
-  "text": "⚡ Ojo, ojo: En directo: Copa Slender Man\n¡Compite ya en la Copa de Slender Man de dúos de Recarga o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de The Slender Man. Tienes más información en la pestaña Competir.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a570b790560f4f5697caab5f0f4f28cd.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-20T23:01:26+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-28T23:01:59+00:00";
+window.NEWS_UPDATED = "2026-10-29T00:02:00+00:00";
