@@ -866,21 +866,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "shop:85730d53732ac2df",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 40 cosas nuevas:\n• Lote de taquilla de Mexify — 2.500 paVos\n• LOTE DE ESCUADRÓN CONTUNDENTE — 2.400 paVos\n• Lote de improvisación de Coachella 2026 — 2.200 paVos\n• Depredador: Lote del Erial desolado — 2.000 paVos\n• Lote de Concepto del miedo — 1.600 paVos\n• Monstruo mediocampista — 1.200 paVos\n…y 34 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/9882c50bdbab95c8/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-10-29T00:02:00+00:00"
-   },
-   "tries": 2,
-   "at": 1793232276.5058217
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-28T22:49:09.396Z",
   "sections": {
