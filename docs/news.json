@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 A atualização do Fortnite: Caçadores de Tesouro (v43.00) será lançada em 1° de novembro às 2h da manhã BRT (5h em Lisboa).\n\nOs servidores estão previstos para retornar por volta das 5h da manhã BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4sghby422i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtz3nb7ulf57i3og4hhryns2gxlgdoedtk4inriyfburoumpzkwa",
+  "tag": "Filtración",
+  "ts": "2026-10-30T22:13:17+00:00"
+ },
+ {
   "id": "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
   "kind": "status",
   "title": "Mantenimiento: Fortnite: Downtime for v43.00 Update",
@@ -1789,14 +1798,5 @@
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-22T16:10:42+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhymyqr5k26",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚙 FORTNITE x JEEP — O Jeep Wrangler de Jurassic Park do Rocket League deve chegar em breve como um Chassi ao Fortnite!\n\nInfo: x/SamLeakss | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhymyqr5k26\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsno327xjed4cbuqnhv4rgbg54l7nkuidjk55va2acwbbzt57xsu",
-  "tag": "Filtración",
-  "ts": "2026-10-22T15:38:38+00:00"
  }
 ]
