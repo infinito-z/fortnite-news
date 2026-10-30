@@ -901,7 +901,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vg3ouys2i",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vfqmga22i",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vg3ouys2i",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vfqmga22i"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vfqmga22i",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vodklak2r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vodklak2r"
  ],
  "first_run": false,
  "seeded": [
@@ -940,6 +942,19 @@
    },
    "tries": 2,
    "at": 1793367425.128189
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vodklak2r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TRAILER — FORTNITE: CAÇADORES DE TESOURO\n\nA maior caça ao tesouro da realidade começa em 1° de novembro com One Piece, A$AP Rocky, Kasane Teto, Hatsune Miku, Lil Uzi Vert, uma nova Ilha para explorar e muito mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3vodklak2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-30T13:38:59+00:00"
+   },
+   "tries": 1,
+   "at": 1793367540.5749896
   }
  ],
  "epic_fp": {
