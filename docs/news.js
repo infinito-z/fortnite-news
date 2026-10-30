@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vg3ouys2i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ KEY ART — FORTNITE x ONE PIECE\n\nNão achou que a maior tripulação de todas iria ficar de fora dessa aventura né?! Luffy, Nami, Usopp, Zoro, Sanji, Chopper, Buggy, Robin e Ace de One Piece chegam no Fortnite: Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3vg3ouys2i\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiharoo4c2bbptl5zajfvppguddtxpjgcxzu2c37e4gjwjsuq5j52e",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:34:17+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vfqmga22i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 EVENTO FINAL DO CAPÍTULO 7 DO FORTNITE!\n\nO evento final do Capítulo 7 do Fortnite está confirmado para o sábado, 5 de dezembro, não perca! #Fortnite\n\n“O tempo está ao seu lado... por enquanto.”\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3vfqmga22i\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieoch43fzkw72ytuwe7ntmltdf7ha36rzv2pwbyroyhvddlrttvz4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:34:17+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uom3gjc2y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihr7awpgs3m52bvgaibkee6qsztjd35kixzqzc2d4loyt3ihp5nhq",
   "tag": "Filtración",
   "ts": "2026-10-22T14:15:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygeoymfic2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 25 de outubro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygeoymfic2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiffekq7lb3c2hae2vlagec4fi7ecs4aruje5oc3akp2zpkkui2hgy",
-  "tag": "Filtración",
-  "ts": "2026-10-22T00:09:02+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygen3hggs2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacotão Vestiário do BanderitaX está de volta à Loja de Itens por 2.000 V-Bucks até 24 de outubro! 🍕\n\n· Traje Pijama Pepperoni\n· Asa-delta Sabor Voador\n· Picareta Espatuleta\n· Gesto Voumimbora\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygen3hggs2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicau5zhvl3qaxwsi4dnrukgzxi6pgahkb7bnpduqgjfivl56yhm4a",
-  "tag": "Filtración",
-  "ts": "2026-10-22T00:09:02+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T13:20:48+00:00";
+window.NEWS_UPDATED = "2026-10-30T13:34:18+00:00";
