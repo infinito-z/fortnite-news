@@ -932,21 +932,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 A atualização do Fortnite: Caçadores de Tesouro (v43.00) será lançada em 1° de novembro às 2h da manhã BRT (5h em Lisboa).\n\nOs servidores estão previstos para retornar por volta das 5h da manhã BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4sghby422i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtz3nb7ulf57i3og4hhryns2gxlgdoedtk4inriyfburoumpzkwa",
-    "tag": "Filtración",
-    "ts": "2026-10-30T22:13:17+00:00"
-   },
-   "tries": 2,
-   "at": 1793398570.7742603
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
