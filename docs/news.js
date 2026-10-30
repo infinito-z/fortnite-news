@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic:EID_CreatureComfort",
+  "kind": "cosmetic",
+  "title": "Gesto: She Bugging (Whatchu Gonna Do)",
+  "text": "⚡ Llegó She Bugging (Whatchu Gonna Do) (Serie de ídolos). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_creaturecomfort/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-10-30T00:01:33+00:00"
+ },
+ {
   "id": "shop:bc0ecc9eea0beb4c",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-21T13:47:03+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfb2hjvoc2t",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⛵ O IATE RETORNARÁ EM BREVE!\n\nO icônico Iate do C2:T2 retornará à Ilha do Battle Royale no Capítulo 7: Temporada Mini 1 que começa em 1° de novembro!\n\nEle foi visto no teaser trailer de A$AP Rocky para o jogo. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfb2hjvoc2t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifs3wkhco5xrpssvm5ghurbsrznl36d7lq3jzwtgzumnvpqq6a47i",
-  "tag": "Filtración",
-  "ts": "2026-10-21T13:31:00+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:01:04+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:01:33+00:00";

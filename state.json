@@ -871,7 +871,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz27zh4oec27",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz27zh4oec27",
   "shop:bc0ecc9eea0beb4c",
-  "shop:bc0ecc9eea0beb4c"
+  "shop:bc0ecc9eea0beb4c",
+  "cosmetic:EID_CreatureComfort",
+  "cosmetic:EID_CreatureComfort"
  ],
  "first_run": false,
  "seeded": [
@@ -897,6 +899,19 @@
    },
    "tries": 1,
    "at": 1793318464.445021
+  },
+  {
+   "item": {
+    "id": "cosmetic:EID_CreatureComfort",
+    "kind": "cosmetic",
+    "title": "Gesto: She Bugging (Whatchu Gonna Do)",
+    "text": "⚡ Llegó She Bugging (Whatchu Gonna Do) (Serie de ídolos). El que no la compre, no es gamer 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/eid_creaturecomfort/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-10-30T00:01:33+00:00"
+   },
+   "tries": 1,
+   "at": 1793318493.9703727
   }
  ],
  "epic_fp": {
