@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "⚡ Llegó She Bugging (Whatchu Gonna Do) (Serie de ídolos). El que no la compre, no es gamer 🗿",
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_creaturecomfort/icon.png",
   "tag": "Cosmético",
-  "ts": "2026-10-30T00:01:33+00:00"
+  "ts": "2026-10-30T00:01:09+00:00"
  },
  {
   "id": "shop:bc0ecc9eea0beb4c",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-21T13:47:03+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:01:33+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:01:09+00:00";
