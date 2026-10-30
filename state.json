@@ -940,21 +940,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4xvgy34c2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💀🎉 FORTNITE x VIVA: A VIDA É UMA FESTA — O cachorro Dante de Viva: A Vida é uma Festa (Coco) chegará em breve ao Fortnite para a comemoração de Día de los Muertos!\n\n📸: x/Fecooo_ | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4xvgy34c2b\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4uxrfnena5d6c5vmm7ihkus4sckv7h6rcnwriiqqd25lrjqd44y",
-    "tag": "Filtración",
-    "ts": "2026-10-30T23:51:16+00:00"
-   },
-   "tries": 2,
-   "at": 1793404441.0987673
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {
