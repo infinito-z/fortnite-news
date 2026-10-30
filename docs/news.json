@@ -1,5 +1,14 @@
 [
  {
+  "id": "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
+  "kind": "status",
+  "title": "Mantenimiento: Fortnite: Downtime for v43.00 Update",
+  "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.00 Update\nEstado: programado\nDesde: 2026-11-01T05:00:00.000Z\nHasta: 2026-11-01T08:00:00.000Z\n⏰ Scheduled downtime for v43.00 begins at 1 AM ET (5 AM UTC). \nMatchmaking will be disabled 30 minutes prior.\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-10-30T22:06:44+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnopbrk2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsno327xjed4cbuqnhv4rgbg54l7nkuidjk55va2acwbbzt57xsu",
   "tag": "Filtración",
   "ts": "2026-10-22T15:38:38+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhylp6yg226",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🕴️ FORTNITE x SLENDER MAN — Jogabilidade rápida dos cosméticos de Slender Man para o Fortnite! Na Loja nesta noite (preços desconhecidos).\n\n🎥: x/Guille_GAG | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhylp6yg226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-22T15:37:51+00:00"
  }
 ]

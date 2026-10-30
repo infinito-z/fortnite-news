@@ -915,7 +915,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnopbrk2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnf673c2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnopbrk2d",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnf673c2d"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnf673c2d",
+  "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
+  "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z"
  ],
  "first_run": false,
  "seeded": [
@@ -928,7 +930,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
+    "kind": "status",
+    "title": "Mantenimiento: Fortnite: Downtime for v43.00 Update",
+    "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.00 Update\nEstado: programado\nDesde: 2026-11-01T05:00:00.000Z\nHasta: 2026-11-01T08:00:00.000Z\n⏰ Scheduled downtime for v43.00 begins at 1 AM ET (5 AM UTC). \nMatchmaking will be disabled 30 minutes prior.\nhttps://status.epicgames.com",
+    "image": null,
+    "tag": "Estado",
+    "ts": "2026-10-30T22:06:44+00:00"
+   },
+   "tries": 1,
+   "at": 1793398004.5548246
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
