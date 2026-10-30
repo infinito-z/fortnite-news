@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ttivv622m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n⭐ PASSE DE BATALHA DO FORTNITE: CAÇADORES DE TESOURO!\n\n· Portgas D. Ace\n· Nico Robin\n· Novo Jones\n· Nova Líder da Equipe de Abraços\n· Nova Charlotte\n\nA maior aventura de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3ttivv622m\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigts4pci6xdehqdv2ipahfttm4pusolqwmsw4ls232z2yahhgqb5a",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:05:31+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-21T21:16:46+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfzcgz5cs2z",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 Os cosméticos do Passe de Batalha do Capítulo 7: Temporada 4 — Assuma o Controle poderão começar a retornar à Loja de Itens a partir de maio de 2028! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfzcgz5cs2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih24yxwwf35scpirem4mbchjr4uzv4ka5rn6pmqzezr7ejb3o3kxu",
-  "tag": "Filtración",
-  "ts": "2026-10-21T20:44:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T13:01:14+00:00";
+window.NEWS_UPDATED = "2026-10-30T13:05:32+00:00";

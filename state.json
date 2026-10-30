@@ -887,7 +887,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3sursnu226",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3sursnu226",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ttivv622m",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ttivv622m"
  ],
  "first_run": false,
  "seeded": [
@@ -913,6 +915,19 @@
    },
    "tries": 2,
    "at": 1793365478.4815862
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ttivv622m",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n⭐ PASSE DE BATALHA DO FORTNITE: CAÇADORES DE TESOURO!\n\n· Portgas D. Ace\n· Nico Robin\n· Novo Jones\n· Nova Líder da Equipe de Abraços\n· Nova Charlotte\n\nA maior aventura de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3ttivv622m\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigts4pci6xdehqdv2ipahfttm4pusolqwmsw4ls232z2yahhgqb5a",
+    "tag": "Filtración",
+    "ts": "2026-10-30T13:05:31+00:00"
+   },
+   "tries": 1,
+   "at": 1793365532.5015523
   }
  ],
  "epic_fp": {
