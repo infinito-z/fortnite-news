@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tzcsfpc2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ MINIMAPA DO FORTNITE: CAÇADORES DE TESOURO! #Fortnite\n\n· Arlong Park\n· Vila dos Moinhos\n· Resort da Borracha\n· Baú\n· Lar das Lanternas\n· Enseada do Saque\n· Loguetown\n· Porto Pirata\n· Baía Agitada\n· $.$ Rocky\n· Caverna Amaldiçoada\n· Fortaleza de Lil' Uzi\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3tzcsfpc2m\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiejr5ynxyo4ivm6fmptdnykhgyqedp2eg2kves5srsyh4xrodrkf4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:08:45+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ttivv622m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigwtgs2xspc2onnmt7cxj6cfjlyeowqqiy2s6q33q6yvpvtm4dsk4",
   "tag": "Filtración",
   "ts": "2026-10-21T22:57:21+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myg33fh35c2j",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite: Pesadelos 2020 — Vingança do Midas, ocorreu 6 ANOS atrás! 😈\n\nA vingança é um prato folheado a ouro. Ao ser eliminado durante o evento, você retornava ao jogo como uma Sombra, para se aliar ao Midas das Sombras e assombrar seus oponentes. Participaram? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myg33fh35c2j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-21T21:16:46+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T13:05:32+00:00";
+window.NEWS_UPDATED = "2026-10-30T13:08:46+00:00";
