@@ -895,7 +895,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uajadjk2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uajadjk2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ud2neu22m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ud2neu22m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ud2neu22m",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uom3gjc2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uom3gjc2y"
  ],
  "first_run": false,
  "seeded": [
@@ -921,6 +923,19 @@
    },
    "tries": 2,
    "at": 1793366308.1381326
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uom3gjc2y",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 NOVIDADES NO FORTNITE: CAÇADORES DE TESOURO! #Fortnite\n\nEntre no Battle Royale no “Dias de Capitania”, quando armas totalmente novas, Elementais e muito mais chegam ao mapa. Eles acontecerão nos dias 1°, 7, 12, 14 e 21 de novembro a partir das 10h BRT.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3uom3gjc2y\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibelhlqnwbxqbkfguccb6opm43ndrfv53gqzlsucx2gwbfixaqaj4",
+    "tag": "Filtración",
+    "ts": "2026-10-30T13:20:47+00:00"
+   },
+   "tries": 1,
+   "at": 1793366448.4693336
   }
  ],
  "epic_fp": {
