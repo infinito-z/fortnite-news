@@ -1,5 +1,14 @@
 [
  {
+  "id": "shop:bc0ecc9eea0beb4c",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 55 cosas nuevas:\n• Lote de Art el Payaso — 2.200 paVos\n• Rex — 2.000 paVos\n• Lote de Pesadilla caballeresca — 2.000 paVos\n• Lote de Punto focal — 1.800 paVos\n• Soul — 1.600 paVos\n• Astroasesina — 1.500 paVos\n…y 49 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/3ca87688fad01999/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-30T00:01:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz27zh4oec27",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifs3wkhco5xrpssvm5ghurbsrznl36d7lq3jzwtgzumnvpqq6a47i",
   "tag": "Filtración",
   "ts": "2026-10-21T13:31:00+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfasxow2s2k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗡️ NOVO TRAJE — Primeira melhor visão de um novo Traje desenhado/anime para o Capítulo 7: Temporada Mini 1 que começa em 1° de novembro!\n\nA comunidade especulou que seria uma nova versão da Bia do C3:T1, mas por enquanto isso segue incerto. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfasxow2s2k\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifqpproqyjxkb7xvq45gwlg7ozbzadnkgd3hlwtqwvvqradhltvai",
-  "tag": "Filtración",
-  "ts": "2026-10-21T13:27:09+00:00"
  }
 ]
