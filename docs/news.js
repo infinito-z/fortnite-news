@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4xvgy34c2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💀🎉 FORTNITE x VIVA: A VIDA É UMA FESTA — O cachorro Dante de Viva: A Vida é uma Festa (Coco) chegará em breve ao Fortnite para a comemoração de Día de los Muertos!\n\n📸: x/Fecooo_ | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4xvgy34c2b\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4uxrfnena5d6c5vmm7ihkus4sckv7h6rcnwriiqqd25lrjqd44y",
+  "tag": "Filtración",
+  "ts": "2026-10-30T23:51:16+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-22T18:48:29+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myib6by2gk27",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 TEASER — O Fortnite alterou sua biografia para informar que algo acontecerá neste sábado (24) às 15h BRT (19h em Lisboa). O que será que vem aí hein?!\n\n“SATURDAY 2 PM ET ❌” | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myib6by2gk27\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib3am2sargsimbqe5xxlu56tcpxjztrxxbi2dsvxj2kofz3aflcpy",
-  "tag": "Filtración",
-  "ts": "2026-10-22T18:11:11+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T22:48:10+00:00";
+window.NEWS_UPDATED = "2026-10-30T23:51:17+00:00";
