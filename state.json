@@ -920,34 +920,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyqkdxk2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 ALERTA DE LORE! O novo personagem misterioso do Fortnite: Caçadores de Tesouro se chama oficialmente 'Capitão X' em português! \n\nParece que ele será o responsável pelos tesouros do Megabaú na Ilha! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3xyqkdxk2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiclyj4dvd2junzbsv2p5rz46xr53u74bfxfzqiv47ocjjycfqo3ba",
-    "tag": "Filtración",
-    "ts": "2026-10-30T14:20:07+00:00"
-   },
-   "tries": 2,
-   "at": 1793370186.1244478
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyjcjyk2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 FORTNITE x A$AP ROCKY — Primeira visão do Pacotão A$AP Rocky que chega à Loja do Fortnite em 05 de novembro!\n\nO rapper também terá um navio de batalha temático na Ilha do Fortnite: Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3xyjcjyk2z\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihqfgc2mupdup354nzeht44b7fgyxxwvyiasdi4w247oduitafjei",
-    "tag": "Filtración",
-    "ts": "2026-10-30T14:20:07+00:00"
-   },
-   "tries": 2,
-   "at": 1793370186.1244478
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
