@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOpa... calma aí tá? O novo Gesto Série Ícones \"She Bugging (Whatchu Gonna Do) com a música de mesmo nome de Khantrast chegou à Loja do Fortnite até 02 de novembro! ✨\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2i4k474c2e\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-30T00:05:07+00:00"
+ },
+ {
   "id": "cosmetic:EID_CreatureComfort",
   "kind": "cosmetic",
   "title": "Gesto: She Bugging (Whatchu Gonna Do)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicdkibn2g2r5maj3lsyroxknyx2qixrmd2ms7fcl73byhcwk72lum",
   "tag": "Filtración",
   "ts": "2026-10-21T15:11:47+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfbulc5422i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 4 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\n🎶 RIOT — A$AP Rocky\n\nO Baú continua sendo carregado e reproduz uma música em preparação para a nova temporada em 11 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfbulc5422i\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-21T13:47:03+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:01:09+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:05:08+00:00";
