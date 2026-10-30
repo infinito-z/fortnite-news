@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3sursnu226",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💸 Os Pacotes Tática Áurea e Lendas Congeladas retornam à Loja em 17 de novembro e ficarão até 06 de janeiro por R$ 68,99 cada.\n\n⚠️ Provavelmente não retornarão no Brasil por conta das restrições para pacotes com mais de 1 Traje. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3sursnu226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigzig4nv425f2d6e7zq4tqntrgfhcvpklw62gz2wrt775kseukx7q",
+  "tag": "Filtración",
+  "ts": "2026-10-30T12:49:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3s3nidus2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibqsxbjzerxy2kemvsruiijhn3o444gpmxpadcrmrwc5coyianvrq",
   "tag": "Filtración",
   "ts": "2026-10-21T16:18:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfker3ags2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏆 FNCS — A Cavaleira Turquesa do FNCS chega à Loja de Itens nesta sexta-feira, 23 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfker3ags2r\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicimz25gjut6wpa3pe5j77th4nn3dlow6xg7nhdvtkfv5gumpqcw4",
-  "tag": "Filtración",
-  "ts": "2026-10-21T16:18:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T12:34:37+00:00";
+window.NEWS_UPDATED = "2026-10-30T12:49:02+00:00";
