@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 02 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2ihoann22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfhb7dwndfqspvhn4rqyt3jqomrwbohkateykqo2iuxxjmyou6hy",
   "tag": "Filtración",
-  "ts": "2026-10-30T00:09:19+00:00"
+  "ts": "2026-10-30T00:09:26+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-21T15:11:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:09:20+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:09:28+00:00";
