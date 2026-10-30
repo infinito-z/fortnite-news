@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 6 — Novos diálogos do Capitão X do Fortnite: Caçadores de Tesouro foram ativados no Megabaú do Tesouro! #Fortnite\n\n🪎 O Baú continua sendo descarregado em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3yp34rkc2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-30T14:34:24+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyqkdxk2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiddmb3hkg2w2eow55ljj2qhmhyo52zau436rrtwt4f5jlvuxwgxle",
   "tag": "Filtración",
   "ts": "2026-10-22T14:28:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhu5h3i2s2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗡️ NOVO TRAJE — Primeira melhor visão de um novo Traje desenhado/anime da Syd para o Capítulo 7: Temporada Mini 1 que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhu5h3i2s2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiergmeidlo464licaygxonwefpd3qmfi24ef4jjnpre4kle7veu3a",
-  "tag": "Filtración",
-  "ts": "2026-10-22T14:18:18+00:00"
  }
 ]

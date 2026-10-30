@@ -907,7 +907,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyqkdxk2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyjcjyk2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyqkdxk2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyjcjyk2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyjcjyk2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c"
  ],
  "first_run": false,
  "seeded": [
@@ -920,7 +922,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 6 — Novos diálogos do Capitão X do Fortnite: Caçadores de Tesouro foram ativados no Megabaú do Tesouro! #Fortnite\n\n🪎 O Baú continua sendo descarregado em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3yp34rkc2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-30T14:34:24+00:00"
+   },
+   "tries": 1,
+   "at": 1793370866.2643015
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
