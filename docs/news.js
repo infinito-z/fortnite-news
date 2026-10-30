@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uajadjk2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 NOVAS DATAS DE LANÇAMENTO NA LOJA DO FORTNITE!\n\n· 01/11 — Luffy, Nami e Usopp\n· 05/11 — A$AP Rocky\n· 07/11 — Zoro, Sanji e Choper\n· 12/11 — Lil Uzi Vert\n· 13/11 — Buggy\n· 14/11 — Kasane Teto e Hatsune Miku\n\nA maior aventura caça ao tesouro começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3uajadjk2m\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiail6k7primmzg44tvfodibkljxjw72upipmkdezibt4uyx7nzdrm",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:12:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tzcsfpc2m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/a4cad4e5595428f4/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-22T00:00:17+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mygapduytk25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Obsessão (2x)\n· Nada de Relaxar [Gestos] (2x)\n· Vestiário de Horrores (6x)\n· Vestiário do BanderitaX (2x)\n· Novidade na Área (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mygapduytk25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigwtgs2xspc2onnmt7cxj6cfjlyeowqqiy2s6q33q6yvpvtm4dsk4",
-  "tag": "Filtración",
-  "ts": "2026-10-21T22:57:21+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T13:09:32+00:00";
+window.NEWS_UPDATED = "2026-10-30T13:12:56+00:00";
