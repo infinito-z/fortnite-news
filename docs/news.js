@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2ihoann22b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 02 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2ihoann22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfhb7dwndfqspvhn4rqyt3jqomrwbohkateykqo2iuxxjmyou6hy",
+  "tag": "Filtración",
+  "ts": "2026-10-30T00:09:19+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifvcjlpblvtjcdb3e6bf3wiuazfen3dgwethmroxhngtijyzmd3li",
   "tag": "Filtración",
   "ts": "2026-10-21T15:11:47+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfgnwrfws22",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🌊 FORTNITE x REANIMAL — EM BREVE!\n\nUma colaboração o jogo 'REANIMAL' chegará em breve ao Fortnite através do programa de brindes da Epic Games Store! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfgnwrfws22\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicdkibn2g2r5maj3lsyroxknyx2qixrmd2ms7fcl73byhcwk72lum",
-  "tag": "Filtración",
-  "ts": "2026-10-21T15:11:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:05:08+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:09:20+00:00";
