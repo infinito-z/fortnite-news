@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iipxkzk2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm palhaço assassino super assustador. Art, o Palhaço de Terrifier chegou para fazer novas vítimas na Loja do Fortnite até 02 de novembro! 🔪\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2iipxkzk2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibvudnxbnj3kkyl7nk6bito5ve7al2a3vrvmgwmuzql24gwmv7aoa",
+  "tag": "Filtración",
+  "ts": "2026-10-30T00:09:58+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iidw33k2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm espadachim acusado injustamente. O Traje Soul de Phantom Blade Zero traz justiça para a Loja do Fortnite por 1.600 V-Bucks até 05 de novembro! 🗡️⚖️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2iidw33k2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieaavel3jojrpjepgykydedqtlqiyxloa2m7pi6ipjjdqezv5lfc4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T00:09:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2ihoann22b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-21T16:07:27+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfh64e2t22j",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆓 DROPS — Assista às transmissões do Campeonato Mobile de Fortnite na Twitch neste final de semana para receber recompensas grátis! #Fortnite\n\n· 24/10 — Mochila Aboborito Meia-noite\n· 25/10 — Picareta Asas de Morcego da Meia-noite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfh64e2t22j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiccuuzpv75p2w5ofmaky6emko3n5o4kkr75exlpt327l4f6igwxoa",
-  "tag": "Filtración",
-  "ts": "2026-10-21T15:20:14+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfgobh5ic22",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ NOVO MAPA — O Capítulo 7: Temporada Mini 1 que começa em 1° de novembro contará com uma Ilha no Battle Royale completamente nova!\n\nInfo: x/FNBRintel | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfgobh5ic22\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifvcjlpblvtjcdb3e6bf3wiuazfen3dgwethmroxhngtijyzmd3li",
-  "tag": "Filtración",
-  "ts": "2026-10-21T15:11:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:09:28+00:00";
+window.NEWS_UPDATED = "2026-10-30T00:09:59+00:00";

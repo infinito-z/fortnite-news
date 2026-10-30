@@ -877,7 +877,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2ihoann22b",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2ihoann22b"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2ihoann22b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iipxkzk2b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iidw33k2b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iipxkzk2b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iidw33k2b"
  ],
  "first_run": false,
  "seeded": [
@@ -916,6 +920,32 @@
    },
    "tries": 1,
    "at": 1793318967.9872756
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iipxkzk2b",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm palhaço assassino super assustador. Art, o Palhaço de Terrifier chegou para fazer novas vítimas na Loja do Fortnite até 02 de novembro! 🔪\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2iipxkzk2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibvudnxbnj3kkyl7nk6bito5ve7al2a3vrvmgwmuzql24gwmv7aoa",
+    "tag": "Filtración",
+    "ts": "2026-10-30T00:09:58+00:00"
+   },
+   "tries": 1,
+   "at": 1793318999.9212627
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iidw33k2b",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm espadachim acusado injustamente. O Traje Soul de Phantom Blade Zero traz justiça para a Loja do Fortnite por 1.600 V-Bucks até 05 de novembro! 🗡️⚖️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2iidw33k2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieaavel3jojrpjepgykydedqtlqiyxloa2m7pi6ipjjdqezv5lfc4",
+    "tag": "Filtración",
+    "ts": "2026-10-30T00:09:58+00:00"
+   },
+   "tries": 1,
+   "at": 1793318999.9212627
   }
  ],
  "epic_fp": {
