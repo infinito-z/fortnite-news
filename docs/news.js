@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3s3nidus2p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌹 PRESENTES — Em comemoração ao Día de Muertos, faça login no Fortnite a qualquer momento até 31 de outubro à 1h BRT e receba cosméticos temáticos de graça! #Fortnite\n\n· Spray Recorte\n· Emoticon Día de Muertos\n· Spray Catrina Esteve Aqui\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3s3nidus2p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibijrymfsxwezxmbeti3nfezjeelmtprkpao5v3igukcktc3mquwi",
+  "tag": "Filtración",
+  "ts": "2026-10-30T12:34:36+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2iipxkzk2b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicimz25gjut6wpa3pe5j77th4nn3dlow6xg7nhdvtkfv5gumpqcw4",
   "tag": "Filtración",
   "ts": "2026-10-21T16:18:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfjrsgu5k2t",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ EM BREVE NA LOJA | #Fortnite\n\n· 21/10 — Nikki (Obsessão)\n· 22/10 — Slender Man\n· 23/10 — Beetlejuice\n· 23/10 — Cavaleira Turquesa do FNCS\n· 24/10 — Hamikuma (HHN)\n· 24/10 — Shadow e Knuckles (Sonic)\n· 27/10 — Enfermeira Lenore\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfjrsgu5k2t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-21T16:07:27+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T00:09:59+00:00";
+window.NEWS_UPDATED = "2026-10-30T12:34:37+00:00";
