@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟧 HORAS ASSOMBRADAS POR 24 HORAS!\n\nOs Elementais Gostosuras ou Travessuras são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e as Armas da Rebecca Exóticas chegam à Ilha! \n\n⏰ Somente até amanhã (31) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3tkis7uk2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidp26siqej4dftgjueecvbijlj4jipkisctp372aurbixrqcefyi4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T13:01:12+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3sursnu226",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih24yxwwf35scpirem4mbchjr4uzv4ka5rn6pmqzezr7ejb3o3kxu",
   "tag": "Filtración",
   "ts": "2026-10-21T20:44:43+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myfkfcpd7s2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏥 DIVINA! A Enfermeira Lenore finalmente chegará à Loja do Fortnite na terça-feira, 27 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myfkfcpd7s2r\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibqsxbjzerxy2kemvsruiijhn3o444gpmxpadcrmrwc5coyianvrq",
-  "tag": "Filtración",
-  "ts": "2026-10-21T16:18:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T12:49:02+00:00";
+window.NEWS_UPDATED = "2026-10-30T13:01:14+00:00";
