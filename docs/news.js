@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnopbrk2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎁 VEM AÍ?! Os Drops Diários poderiam ser finalmente lançados no Fortnite: Caçadores de Tesouro que começa em 1° de novembro.\n\nAo que parece, diversos arquivos dessa mecânica serão conectados com a temporada com a chegada da v43.00.\n\nInfo: x/ShiinaBR e fn_cousin | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4mnopbrk2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreietxiawlhruwlbplc57zvauxdkxf7lk4d6dyhdmznavfwvl3vord4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T20:29:36+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnf673c2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪩 MINI FESTIVAL?! Ao que parece, o Fortnite Festival poderia receber uma Temporada Mini 1 com a chegada do Fortnite: Caçadores de Tesouro neste domingo, 1° de novembro!\n\nInfo: x/ShiinaBR e Fn_cousin | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4mnf673c2d\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibes7olohwkt76a3q4ra5lbantw6abxanp4vprvl6npvbx3uia67i",
+  "tag": "Filtración",
+  "ts": "2026-10-30T20:29:36+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz45zjybw227",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-22T15:37:51+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhux7rijs2s",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 5 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\n🎶 What You Saying — Lil Uzi Vert\n\nO Baú está segue sendo carregado e agora reproduz uma nova música! Restam 10 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhux7rijs2s\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-22T14:34:26+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhupeucws2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏠 A PRAÇA DA BIGORNA RETORNARÁ EM BREVE!\n\nA Praça da Bigorna do C4:T1 deve retornar no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! Uma nova versão dela parece ter sido exibida no teaser de Lil Uzi Vert! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhupeucws2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidt7edd76xi3upukewkjofjurbl44d7ypjlw3p2bdvvtd4mj4ubta",
-  "tag": "Filtración",
-  "ts": "2026-10-22T14:28:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T16:08:32+00:00";
+window.NEWS_UPDATED = "2026-10-30T20:29:37+00:00";
