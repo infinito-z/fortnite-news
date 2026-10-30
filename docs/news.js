@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz45zjybw227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAILER — ROCKET LEAGUE x ONE PIECE\n\nOne Piece lança âncora no Rocket League a partir de 1° novembro, trazendo novas recompensas de desafio e itens da loja para você adicionar ao seu tesouro!\n\nProvavelmente parte das recompensas chegarão ao Fortnite também! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz45zjybw227\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-10-30T16:08:30+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidt7edd76xi3upukewkjofjurbl44d7ypjlw3p2bdvvtd4mj4ubta",
   "tag": "Filtración",
   "ts": "2026-10-22T14:28:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myhup2agxk2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 FORTNITE x LIL UZI VERT — Primeira visão do Traje Série Ícones de Lil Uzi Vert que chegará ao Fortnite no Capítulo 7: Temporada Mini 1 a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myhup2agxk2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiddmb3hkg2w2eow55ljj2qhmhyo52zau436rrtwt4f5jlvuxwgxle",
-  "tag": "Filtración",
-  "ts": "2026-10-22T14:28:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T14:34:26+00:00";
+window.NEWS_UPDATED = "2026-10-30T16:08:32+00:00";

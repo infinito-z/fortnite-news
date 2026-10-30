@@ -909,7 +909,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyqkdxk2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3xyjcjyk2z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz45zjybw227",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz45zjybw227"
  ],
  "first_run": false,
  "seeded": [
@@ -922,7 +924,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz45zjybw227",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAILER — ROCKET LEAGUE x ONE PIECE\n\nOne Piece lança âncora no Rocket League a partir de 1° novembro, trazendo novas recompensas de desafio e itens da loja para você adicionar ao seu tesouro!\n\nProvavelmente parte das recompensas chegarão ao Fortnite também! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz45zjybw227\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-10-30T16:08:30+00:00"
+   },
+   "tries": 1,
+   "at": 1793376512.2850544
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-29T21:27:38.728Z",
   "sections": {
