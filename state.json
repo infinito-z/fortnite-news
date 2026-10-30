@@ -919,7 +919,13 @@
   "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
   "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uej2ivs2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4ue2yjik2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uej2ivs2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4ue2yjik2v"
  ],
  "first_run": false,
  "seeded": [
@@ -932,7 +938,47 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧑‍🎄 IT'S TIIIIIME! Mariah Carey começará a descongelar e retornará à Loja do Fortnite amanhã, 31 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4uetejhc2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibowtlllrswguamd3zsyhmsdto3z4vcqfm5hduv7gegzy5njtqriy",
+    "tag": "Filtración",
+    "ts": "2026-10-30T22:48:09+00:00"
+   },
+   "tries": 1,
+   "at": 1793400490.3121147
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uej2ivs2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 31 de outubro!\n\n· Mariah Carey (2x)\n· Clube de Novembro (1x)\n· Pista de Dança [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (6x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4uej2ivs2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifam2f33qwejbqu5awg3yluhoureh2yl5snsqn6vswdkzwui4y7o4",
+    "tag": "Filtración",
+    "ts": "2026-10-30T22:48:09+00:00"
+   },
+   "tries": 1,
+   "at": 1793400490.3121147
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4ue2yjik2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Alienígenas [Xenomorfo?] (3x)\n· Vestiário de Horrores [Miasma] (16x)\n· Estilo Top (8x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4ue2yjik2v\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidxz43nohvgoayzzjwqm5tgehrqfttsz7jbcutprzige3q5nj5ofy",
+    "tag": "Filtración",
+    "ts": "2026-10-30T22:48:09+00:00"
+   },
+   "tries": 1,
+   "at": 1793400490.3121147
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {

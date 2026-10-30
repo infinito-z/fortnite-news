@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧑‍🎄 IT'S TIIIIIME! Mariah Carey começará a descongelar e retornará à Loja do Fortnite amanhã, 31 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4uetejhc2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibowtlllrswguamd3zsyhmsdto3z4vcqfm5hduv7gegzy5njtqriy",
+  "tag": "Filtración",
+  "ts": "2026-10-30T22:48:09+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uej2ivs2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 31 de outubro!\n\n· Mariah Carey (2x)\n· Clube de Novembro (1x)\n· Pista de Dança [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (6x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4uej2ivs2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifam2f33qwejbqu5awg3yluhoureh2yl5snsqn6vswdkzwui4y7o4",
+  "tag": "Filtración",
+  "ts": "2026-10-30T22:48:09+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4ue2yjik2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Alienígenas [Xenomorfo?] (3x)\n· Vestiário de Horrores [Miasma] (16x)\n· Estilo Top (8x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4ue2yjik2v\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidxz43nohvgoayzzjwqm5tgehrqfttsz7jbcutprzige3q5nj5ofy",
+  "tag": "Filtración",
+  "ts": "2026-10-30T22:48:09+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib3am2sargsimbqe5xxlu56tcpxjztrxxbi2dsvxj2kofz3aflcpy",
   "tag": "Filtración",
   "ts": "2026-10-22T18:11:11+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myialvn5ik2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 ALERTA DE LORE! Novo personagem da história do Fortnite revelado em um teaser do Capítulo 7: Temporada Mini 1!\n\nAo que parece, ele também terá falas no Baú do Tesouro na Ilha do Battle Royale. A caça ao tesouro começa a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myialvn5ik2o\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidzp2yivkf5inxqm6daythvi4cyvchmvyhmaohe7lwujao22jndji",
-  "tag": "Filtración",
-  "ts": "2026-10-22T18:01:08+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiack36jc2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER — CAPÍTULO 7: TEMPORADA MINI 1\n\nA caçada pelo tesouro começa a partir de 1° de novembro!\n\n🎥: x/FireMonkey | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiack36jc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-22T17:55:21+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myi2ggvxhs24",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 TRAILER — ROCKET LEAGUE x FNAF\n\nFive Nights At Freddy's chegou ao Rocket League com Tarefas, recompensas grátis e cosméticos na Loja já disponíveis para compra!\n\n🤎 Use meu código \"LPFNBR\" para me apoiar na compra deles! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myi2ggvxhs24\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-22T16:10:42+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T22:13:17+00:00";
+window.NEWS_UPDATED = "2026-10-30T22:48:10+00:00";
