@@ -931,7 +931,13 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
   "shop:b8eed25febc239ee",
-  "shop:b8eed25febc239ee"
+  "shop:b8eed25febc239ee",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yr7jsyk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqswetk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqe4pmc2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yr7jsyk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqswetk2x",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqe4pmc2x"
  ],
  "first_run": false,
  "seeded": [
@@ -944,7 +950,47 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yr7jsyk2x",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSe você o vir, já é tarde demais. Investigue e ataque com Ripley e Xenomorfo que retornam para a ação na Loja de Fortnite até 03 de novembro! 👽🌌\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yr7jsyk2x\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigvv6d75wu6dmhagy6jtjiish2ndkjey75fmpkhr6fh3opstbyxea",
+    "tag": "Filtración",
+    "ts": "2026-10-31T00:06:21+00:00"
+   },
+   "tries": 1,
+   "at": 1793405182.2919335
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqswetk2x",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm monstro da parte mais sombria do universo. Toque o terror nos seus inimigos com o Xenomorfo (Alien: Earth) e seus acessórios que surgem com tudo na Loja do Fortnite até 03 de novembro! 👽🌎\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yqswetk2x\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib2634hvtrggzrkltswkr7zcq5qp7ngqucchr5wh4qgskzhhsp5qi",
+    "tag": "Filtración",
+    "ts": "2026-10-31T00:06:21+00:00"
+   },
+   "tries": 1,
+   "at": 1793405182.2919335
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqe4pmc2x",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nInspire e sinta. A Miasma e seus acessórios trazem o caos tóxico para a Loja de Itens até 04 de novembro! ☢️🩸\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yqe4pmc2x\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihsuwq4okebvmwtmho2em6exhcinvxrykfyo5itexyphcp5tbum3u",
+    "tag": "Filtración",
+    "ts": "2026-10-31T00:06:21+00:00"
+   },
+   "tries": 1,
+   "at": 1793405182.2919335
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {

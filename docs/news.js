@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yr7jsyk2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSe você o vir, já é tarde demais. Investigue e ataque com Ripley e Xenomorfo que retornam para a ação na Loja de Fortnite até 03 de novembro! 👽🌌\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yr7jsyk2x\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigvv6d75wu6dmhagy6jtjiish2ndkjey75fmpkhr6fh3opstbyxea",
+  "tag": "Filtración",
+  "ts": "2026-10-31T00:06:21+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqswetk2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm monstro da parte mais sombria do universo. Toque o terror nos seus inimigos com o Xenomorfo (Alien: Earth) e seus acessórios que surgem com tudo na Loja do Fortnite até 03 de novembro! 👽🌎\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yqswetk2x\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib2634hvtrggzrkltswkr7zcq5qp7ngqucchr5wh4qgskzhhsp5qi",
+  "tag": "Filtración",
+  "ts": "2026-10-31T00:06:21+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqe4pmc2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nInspire e sinta. A Miasma e seus acessórios trazem o caos tóxico para a Loja de Itens até 04 de novembro! ☢️🩸\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yqe4pmc2x\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihsuwq4okebvmwtmho2em6exhcinvxrykfyo5itexyphcp5tbum3u",
+  "tag": "Filtración",
+  "ts": "2026-10-31T00:06:21+00:00"
+ },
+ {
   "id": "shop:b8eed25febc239ee",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigy4wuaw3bfm6bpvfd3yulreuzcauf5u2sl2ey3fvuuoqd2jvl244",
   "tag": "Filtración",
   "ts": "2026-10-22T22:47:06+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiqkdvvfc2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Slender Man (2x)\n· Batman [Batman Que Ri] [2x)\n· Vestiário de Horrores (4x)\n· Novidade na Área (2x)\n· Estilo Top (7x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiqkdvvfc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidk4w73kdlmovbinqbsd4pbue3ziwkxeibovvbsqttxsatwu5xura",
-  "tag": "Filtración",
-  "ts": "2026-10-22T22:46:18+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myip3okh5k2x",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER C7:TM1 — O perfil oficial do Fortnite no Instagram publicou um Story novamente reforçando que neste sábado, 24 de outubro às 15h BRT (19h em Lisboa) teremos um anúncio!\n\nEsperam-se mais novidades do Capítulo 7: Temporada Mini 1 que começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myip3okh5k2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifyw52cx4nasintykde6ktv4n5ikmjr6vit6sv62negz44jjsmday",
-  "tag": "Filtración",
-  "ts": "2026-10-22T22:20:27+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiiv45c5s2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 HORAS DA COMUNIDADE NESTE SÁBADO | #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade (e variantes) são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n⏰ Sábado (24), às 15h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiiv45c5s2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
-  "tag": "Filtración",
-  "ts": "2026-10-22T20:29:29+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T00:00:05+00:00";
+window.NEWS_UPDATED = "2026-10-31T00:06:22+00:00";
