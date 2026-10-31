@@ -1,5 +1,14 @@
 [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz747jsffc2f",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nExtending the LEGO and Music Passes wasn’t the right move. Here’s the plan:\n\n🎤 The next Music Pass now drops November 12. Stay tuned for the headliner reveal.\n\n🧣 The new LEGO Pass drops December 5 with our next big update. Pack your bags, KD Rattical.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mz747jsffc2f",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-10-31T20:13:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidtj66faslns53pe46iazk4vjdu6z3jjcozs6jp23hxqrixffmtaa",
   "tag": "Filtración",
   "ts": "2026-10-23T18:27:40+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykhljofwk2i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Jogabilidade rápida dos cosméticos de Beetlejuice no Fortnite! Na Loja nesta noite (preços desconhecidos).\n\n🎥: x/Guille_GAG | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykhljofwk2i\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-23T15:10:58+00:00"
  }
 ]
