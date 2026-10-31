@@ -1,5 +1,14 @@
 [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz74as4mis2f",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🔜 Downtime for v43.00 begins November 1 at 1 AM ET (5 AM UTC) with matchmaking ending shortly beforehand.\n\n🔹 Set sail for Fortnite Treasure Hunters - a new 80-player Island\n🔹 Fight with One Piece powers\n🔹 Challenge A$AP Rocky as the Island’s first Boss\n🔹 New Sprites, a new Ranked Season and more\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mz74as4mis2f",
+  "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreifs66rglpcmbdhwxq7vpyztnuqmlt47j2r3qjhnyq4qp5xrm2hofi",
+  "tag": "Estado",
+  "ts": "2026-10-31T20:14:43+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz747jsffc2f",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,14 +1798,5 @@
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-23T19:09:34+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykskuzu6c23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER C7:TM1 — As Horas do Poder da Comunidade começarão amanhã (24) às 15h BRT, logo após o anúncio do Fortnite sobre o Capítulo 7: Temporada Mini 1, e o seguinte texto será exibido como destaque:\n\n“O show tem que continuar. Mesmo durante as Horas do Poder...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykskuzu6c23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidtj66faslns53pe46iazk4vjdu6z3jjcozs6jp23hxqrixffmtaa",
-  "tag": "Filtración",
-  "ts": "2026-10-23T18:27:40+00:00"
  }
 ]
