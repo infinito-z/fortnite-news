@@ -962,21 +962,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6in2qkuk2e",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER — O Megabaú do Tesouro do Capitão X desapareceu da Ilha do Battle Royale no C7:T4 em preparação para a chegada do Fortnite: Caçadores de Tesouro!\n\nRestam menos de 24 HORAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6in2qkuk2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidib2e4m3z36z7wvo3ft4dp2i7opps66ilmtuitubxmvq4pgqznbe",
-    "tag": "Filtración",
-    "ts": "2026-10-31T14:23:00+00:00"
-   },
-   "tries": 2,
-   "at": 1793456746.1242251
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {
