@@ -979,19 +979,6 @@
  "pending": [
   {
    "item": {
-    "id": "epic:emergencynoticev2:0007407fffac",
-    "kind": "epic",
-    "title": "Epic actualizó: aviso de emergencia",
-    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• The Greatest Adventure Awaits — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.",
-    "image": null,
-    "tag": "Epic",
-    "ts": "2026-10-31T19:00:26+00:00"
-   },
-   "tries": 2,
-   "at": 1793473445.0938196
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
