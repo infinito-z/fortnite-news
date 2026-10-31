@@ -956,34 +956,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6cobrnjc2e",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💀🎉 FORTNITE x VIVA: A VIDA É UMA FESTA (COCO) — na Loja na manhã de 1° de novembro!\n\n— Pacotão Viva: A Vida é uma Festa:\n· 1 Mascote (Dante)\n· 1 Mochila \n· 1 Picareta\n· 1 Instrumento (Guitarra)\n\n💰 Os preços são desconhecidos! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6cobrnjc2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4uxrfnena5d6c5vmm7ihkus4sckv7h6rcnwriiqqd25lrjqd44y",
-    "tag": "Filtración",
-    "ts": "2026-10-31T12:36:50+00:00"
-   },
-   "tries": 2,
-   "at": 1793450375.9720814
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6cnsqkyc2e",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — na Loja nos dias 1°, 7 de 13 de novembro! #Fortnite\n\n— Pacotão One Piece (01/11):\n· 3 Trajes (Luffy, Nami e Usopp)\n· 4 Mochilas\n· 4 Picaretas\n· 1 Gesto\n· 1 Asa-delta\n· 1 Instrumento (Guitarra)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6cnsqkyc2e\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigeez5jv7cd6sgihi4hxmt5flkrbpajgdwm6owbvhnzfvg7x2bize",
-    "tag": "Filtración",
-    "ts": "2026-10-31T12:36:50+00:00"
-   },
-   "tries": 2,
-   "at": 1793450375.9720814
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {
