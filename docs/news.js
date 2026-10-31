@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4zswyk6k2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER — Mark Rein (Vice-presidente da Epic Games) descreveu o Fortnite: Caçadores de Tesouro com a palavra “Plunder”, algo por volta de “Saquear/Pilhar” em português!\n\nA maior aventura de todos os tempos começa em menos de 48 HORAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4zswyk6k2d\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfo5wqskg6eyjz7jvy4zjoiyxdfhlvljsbvpnhaelif7cfj5dyj4",
+  "tag": "Filtración",
+  "ts": "2026-10-31T00:25:42+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yr7jsyk2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic3pmxzp6lkpbrrkao3vwff4kb7uvfff6zyakwpkpqf7c7cq6w2ga",
   "tag": "Filtración",
   "ts": "2026-10-22T22:47:06+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiqkseyq22o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 23 de outubro!\n\n· Os Fantasmas Se Divertem (4x)\n· FNCS [Cavaleira Turquesa] (2x)\n· Vestiário de Horrores [Músicas] (8x)\n· Nada de Relaxar [Gestos] (2x)\n· Estilo Top (8x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiqkseyq22o\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigy4wuaw3bfm6bpvfd3yulreuzcauf5u2sl2ey3fvuuoqd2jvl244",
-  "tag": "Filtración",
-  "ts": "2026-10-22T22:47:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T00:06:48+00:00";
+window.NEWS_UPDATED = "2026-10-31T00:25:43+00:00";
