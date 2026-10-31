@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:b8eed25febc239ee",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 23 cosas nuevas:\n• Lote de Ripley y xenomorfo — 2.200 paVos\n• Lote de Agente del caos — 2.000 paVos\n• Lote de Xenomorfo (Alien: Planeta Tierra) — 2.000 paVos\n• Lote de Miasma — 1.600 paVos\n• Minotauro maestro — 1.500 paVos\n• Lote de equipamiento del espacio — 1.500 paVos\n…y 17 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/e9f1780fa8a38d12/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-10-31T00:00:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
   "tag": "Filtración",
   "ts": "2026-10-22T20:29:29+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myifq3hhkk2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎬 TRAILER — FORTNITE x SLENDER MAN\n\nSlender Man e seus acessórios sombrios chegam à Loja nesta noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myifq3hhkk2y\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-22T19:32:51+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-30T23:59:20+00:00";
+window.NEWS_UPDATED = "2026-10-31T00:00:05+00:00";

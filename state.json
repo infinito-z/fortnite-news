@@ -929,7 +929,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4xvgy34c2b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4xvgy34c2b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
+  "shop:b8eed25febc239ee",
+  "shop:b8eed25febc239ee"
  ],
  "first_run": false,
  "seeded": [
@@ -955,6 +957,19 @@
    },
    "tries": 1,
    "at": 1793404760.357215
+  },
+  {
+   "item": {
+    "id": "shop:b8eed25febc239ee",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 23 cosas nuevas:\n• Lote de Ripley y xenomorfo — 2.200 paVos\n• Lote de Agente del caos — 2.000 paVos\n• Lote de Xenomorfo (Alien: Planeta Tierra) — 2.000 paVos\n• Lote de Miasma — 1.600 paVos\n• Minotauro maestro — 1.500 paVos\n• Lote de equipamiento del espacio — 1.500 paVos\n…y 17 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/e9f1780fa8a38d12/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-10-31T00:00:05+00:00"
+   },
+   "tries": 1,
+   "at": 1793404805.8824413
   }
  ],
  "epic_fp": {
