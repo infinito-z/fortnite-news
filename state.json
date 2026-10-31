@@ -980,34 +980,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz747jsffc2f",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nExtending the LEGO and Music Passes wasn’t the right move. Here’s the plan:\n\n🎤 The next Music Pass now drops November 12. Stay tuned for the headliner reveal.\n\n🧣 The new LEGO Pass drops December 5 with our next big update. Pack your bags, KD Rattical.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mz747jsffc2f",
-    "image": null,
-    "tag": "Estado",
-    "ts": "2026-10-31T20:13:55+00:00"
-   },
-   "tries": 2,
-   "at": 1793477859.6940033
-  },
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz74as4mis2f",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🔜 Downtime for v43.00 begins November 1 at 1 AM ET (5 AM UTC) with matchmaking ending shortly beforehand.\n\n🔹 Set sail for Fortnite Treasure Hunters - a new 80-player Island\n🔹 Fight with One Piece powers\n🔹 Challenge A$AP Rocky as the Island’s first Boss\n🔹 New Sprites, a new Ranked Season and more\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mz74as4mis2f",
-    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreifs66rglpcmbdhwxq7vpyztnuqmlt47j2r3qjhnyq4qp5xrm2hofi",
-    "tag": "Estado",
-    "ts": "2026-10-31T20:14:48+00:00"
-   },
-   "tries": 2,
-   "at": 1793477859.6940033
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-31T11:18:05.898Z",
   "sections": {
