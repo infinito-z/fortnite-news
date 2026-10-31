@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6jfdbczk2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 VITÓRIA! Um novo Passe Musical e LEGO chegam em breve ao Fortnite — e para que eles possam chegar nessa velocidade, eles serão menores e custarão 1.000 V-Bucks! #Fortnite\n\n· Passe Musical T15 — agora termina em 12 de nov. (antes 21 de jan.)\n· Passe LEGO — termina em 05 de dez.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6jfdbczk2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicv5s5z4oz3accljahcpnyuz6k7y5eygyxujiocalyctq2bi7tw2y",
+  "tag": "Filtración",
+  "ts": "2026-10-31T14:36:40+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6in2qkuk2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaur3wrctshi6yqhtvqmz2nora5a5ltnoy2dcwn5nii2eriqnyvoy",
   "tag": "Filtración",
   "ts": "2026-10-23T13:06:11+00:00"
- },
- {
-  "id": "cosmetic-batch:80b6f7b3f4",
-  "kind": "cosmetic",
-  "title": "9 cosméticos nuevos",
-  "text": "🔥 9 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Bitelchús, Letrero de Bitelchús, Gusano de arena de seis cuerdas, Letrero lacerante, Gusano de arena de seis cuerdas, Espirales de Bitelchús. Tu billetera ya lloró 💸😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_asidedepot/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-23T13:03:12+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T14:23:01+00:00";
+window.NEWS_UPDATED = "2026-10-31T14:36:41+00:00";
