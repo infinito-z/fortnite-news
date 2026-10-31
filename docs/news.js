@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🔜 Downtime for v43.00 begins November 1 at 1 AM ET (5 AM UTC) with matchmaking ending shortly beforehand.\n\n🔹 Set sail for Fortnite Treasure Hunters - a new 80-player Island\n🔹 Fight with One Piece powers\n🔹 Challenge A$AP Rocky as the Island’s first Boss\n🔹 New Sprites, a new Ranked Season and more\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mz74as4mis2f",
   "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreifs66rglpcmbdhwxq7vpyztnuqmlt47j2r3qjhnyq4qp5xrm2hofi",
   "tag": "Estado",
-  "ts": "2026-10-31T20:14:43+00:00"
+  "ts": "2026-10-31T20:14:48+00:00"
  },
  {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz747jsffc2f",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-23T19:09:34+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T20:14:43+00:00";
+window.NEWS_UPDATED = "2026-10-31T20:14:48+00:00";
