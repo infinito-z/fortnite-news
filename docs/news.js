@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7bx6jpvk2i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👑 CONCEITO x REALIDADE — Traje Monarca do Clube Fortnite de Novembro (2026) na versão conceitual e como chegou ao jogo!\n\nMonarca chega à Loja ainda nesta noite, às 21h BRT! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7bx6jpvk2i\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig4r7trn6cvxx7urk2avwuf47i2naughvesmapp6aw6hnfbsd47su",
+  "tag": "Filtración",
+  "ts": "2026-10-31T21:56:33+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mz74as4mis2f",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidwabggldmphdr2olhzisq3vfitgasmamz2zqixbs3ps7s6ghlsvu",
   "tag": "Filtración",
   "ts": "2026-10-23T19:24:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykusjoeac2s",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 7 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale!\n\n🎶 BIRDBRAIN — Jamie Paige, OK Glass e Kasane Teto\n\nO Baú segue sendo carregado e uma nova música está sendo tocada! Restam 9 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykusjoeac2s\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-23T19:09:34+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T20:14:48+00:00";
+window.NEWS_UPDATED = "2026-10-31T21:56:34+00:00";
