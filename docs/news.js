@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ A pré-atualização do C7:TM1 será liberada para PlayStation 5 e Xbox a partir das 20h BRT.\n\nVocê poderá baixar a atualização, mas só jogará a nova temporada quando os servidores retornarem amanhã de manhã.\n\nℹ️ Apenas essas plataformas recebem a pré-atualização. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6ygdcajk24\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
+  "tag": "Filtración",
+  "ts": "2026-10-31T19:05:43+00:00"
+ },
+ {
   "id": "epic:emergencynoticev2:0007407fffac",
   "kind": "epic",
   "title": "Epic actualizó: aviso de emergencia",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-23T15:10:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykctmdm622p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 6 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\n🎶 Miku — Anamanaguchi e Hatsune Miku\n\nO Baú está segue sendo carregado e agora reproduz uma nova música! Restam 9 DIAS! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykctmdm622p\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-23T13:47:38+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T19:00:26+00:00";
+window.NEWS_UPDATED = "2026-10-31T19:05:44+00:00";

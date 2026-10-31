@@ -961,7 +961,9 @@
   "news:66009981f8a307a718431afc8af8cf7b",
   "news:ff1af1cbace94686bf3773198c7235e9",
   "epic:emergencynoticev2:0007407fffac",
-  "epic:emergencynoticev2:0007407fffac"
+  "epic:emergencynoticev2:0007407fffac",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24"
  ],
  "first_run": false,
  "seeded": [
@@ -987,6 +989,19 @@
    },
    "tries": 2,
    "at": 1793473445.0938196
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ A pré-atualização do C7:TM1 será liberada para PlayStation 5 e Xbox a partir das 20h BRT.\n\nVocê poderá baixar a atualização, mas só jogará a nova temporada quando os servidores retornarem amanhã de manhã.\n\nℹ️ Apenas essas plataformas recebem a pré-atualização. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6ygdcajk24\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
+    "tag": "Filtración",
+    "ts": "2026-10-31T19:05:43+00:00"
+   },
+   "tries": 1,
+   "at": 1793473544.3797176
   }
  ],
  "epic_fp": {
