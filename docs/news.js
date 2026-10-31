@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "news:32d527dd6b96520b7161dcd51c7f542f",
+  "kind": "news",
+  "title": "Trae a tu escuadrón de vuelta",
+  "text": "👀 Epic acaba de soltar esto: Trae a tu escuadrón de vuelta\n¡No está todo perdido cuando un compañero de equipo cae! Cuando caen, dejan atrás una tarjeta de reinicio. Recógelo, llévalo a una furgoneta de Reinicio y haz que vuelvan al combate para tener una mejor oportunidad de victoria.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a36a76895e7c41e4b273673a67a659ed.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-31T18:31:26+00:00"
+ },
+ {
+  "id": "news:66009981f8a307a718431afc8af8cf7b",
+  "kind": "news",
+  "title": "¡Color más raro, armas mejores!",
+  "text": "👀 Epic acaba de soltar esto: ¡Color más raro, armas mejores!\nLas armas vienen en cinco rarezas: gris (común), verde (poco común), azul (rara), morado (épica) y naranja (legendaria). Una rareza más alta significa mejores estadísticas, así que abre cofres y cambia tus armas cuando encuentres algo mejor.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/adc4663f20d9422883b9c6e05e77accf.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-31T18:31:26+00:00"
+ },
+ {
+  "id": "news:ff1af1cbace94686bf3773198c7235e9",
+  "kind": "news",
+  "title": "Cazatesoros: 1 de noviembre",
+  "text": "👀 Epic acaba de soltar esto: Cazatesoros: 1 de noviembre\nHay cofres que abrir, espíritus que extraer y tesoros que conseguir. La caza del tesoro más grande de todos los tiempos llega el 1 de noviembre.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/c04e6be9f93b4aa5a5b3aa215a11a795.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-10-31T18:31:26+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6vi4dry22v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-23T13:21:08+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykbg4wvyk2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Novas Músicas na Loja nesta noite! #Fortnite\n\n· Banana Boat (Day-O) — Harry Belafonte \n· Jump in the Line — Harry Belafonte\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykbg4wvyk2y\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5cpkmpvytyh2nbn4fry3rlst6fuyprrargjucsi7tpy3g2xmury",
-  "tag": "Filtración",
-  "ts": "2026-10-23T13:21:08+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykbfj5u6k2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Pacotão Beetlejuice que chega à Loja nesta noite!\n\nInclui Traje, Mochila, Picareta, Gesto, Envelopamento e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykbfj5u6k2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiannmokxzu6vi3ma74pab4zcag7smiyyxxjclol4kztgoprfzfuie",
-  "tag": "Filtración",
-  "ts": "2026-10-23T13:20:27+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mykarrcsg22k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪲 FORTNITE x BEETLEJUICE — Primeira visão dos cosméticos do Beetlejuice no Vestiário! Na Loja nesta noite!\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mykarrcsg22k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-23T13:09:36+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T18:13:06+00:00";
+window.NEWS_UPDATED = "2026-10-31T18:31:26+00:00";
