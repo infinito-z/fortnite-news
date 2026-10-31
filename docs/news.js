@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6dzgqrq22k",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 HORAS DAS VARIANTES ATÉ O FIM DA TEMPORADA!\n\nTodas as variantes de Elementais são mais comuns para ajudar a completar a coleção no C7:T4, e a SMG Quebra-ossos Exótica chega à Ilha!\n\n⏰ O Capítulo 7: Temporada 4 — Assuma o Controle fica disponível até às 2h BRT! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6dzgqrq22k\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicfdrgq4jat5hdem5nwy3hcrzgajz3mdri7o2v4a5cm6cgbrin6wm",
+  "tag": "Filtración",
+  "ts": "2026-10-31T13:00:38+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6d7itips2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiffc6py2q5b4pzjnfi36j6t2qhz3ldbjmkkxpeixpofmpiirkg7ve",
   "tag": "Filtración",
   "ts": "2026-10-23T00:07:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myiv3lzoak2w",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA alternância perfeita entre estilo e discreto. Os Calçados MSCHF Big Red Boot 'Black' estão de volta à Loja do Fortnite por 1.200 V-Bucks até 25 de outubro! ⬛\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myiv3lzoak2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihebolu6rimptnznrpmluzenbigmbyigr75tfthysjxosbkhakcpi",
-  "tag": "Filtración",
-  "ts": "2026-10-23T00:07:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T12:46:24+00:00";
+window.NEWS_UPDATED = "2026-10-31T13:00:39+00:00";
