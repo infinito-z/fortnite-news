@@ -984,21 +984,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7evtioyc2d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Mariah Carey (2x)\n· Clube de Novembro (1x)\n· Pista de Dança [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (6x)\n· Músicas (5x)\n\n🏴‍☠️ Luffy, Nami e Usopp de One Piece chegam à Loja amanhã assim que os servidores retornarem!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7evtioyc2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicdelebsypzgb5jfjtdcrpqvedofpamp7qc4bl7mn2hivggc4ayhq",
-    "tag": "Filtración",
-    "ts": "2026-10-31T22:49:12+00:00"
-   },
-   "tries": 2,
-   "at": 1793487096.9111402
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-31T11:18:05.898Z",
   "sections": {
