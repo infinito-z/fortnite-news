@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n✅ A pré-atualização do C7:TM1 começou a ser liberada para PlayStation 5 e Xbox.\n\nVocê poderá baixar a atualização, mas só jogará a nova temporada quando os servidores retornarem amanhã de manhã.\n\n⚠️ Caso não receba a atualização, espere para atualizar no horário geral. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7fk4dqxc2q\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
+  "tag": "Filtración",
+  "ts": "2026-10-31T23:00:48+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7evtioyc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1786,15 +1795,6 @@
   "kind": "cosmetic",
   "title": "Piel: Freddy Fazbear",
   "text": "🔥 Nuevo en los archivos: Freddy Fazbear (Poco común). Billetera, prepárate 💸",
-  "image": null,
-  "tag": "Cosmético",
-  "ts": "2026-10-23T20:29:58+00:00"
- },
- {
-  "id": "cosmetic:Wheel_SunsetEffigyLTE01",
-  "kind": "cosmetic",
-  "title": "Rueda: Faz-fichas",
-  "text": "🔥 Nuevo en los archivos: Faz-fichas (Poco común). Billetera, prepárate 💸",
   "image": null,
   "tag": "Cosmético",
   "ts": "2026-10-23T20:29:58+00:00"
