@@ -959,7 +959,9 @@
   "news:ff1af1cbace94686bf3773198c7235e9",
   "news:32d527dd6b96520b7161dcd51c7f542f",
   "news:66009981f8a307a718431afc8af8cf7b",
-  "news:ff1af1cbace94686bf3773198c7235e9"
+  "news:ff1af1cbace94686bf3773198c7235e9",
+  "epic:emergencynoticev2:0007407fffac",
+  "epic:emergencynoticev2:0007407fffac"
  ],
  "first_run": false,
  "seeded": [
@@ -972,11 +974,25 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "epic:emergencynoticev2:0007407fffac",
+    "kind": "epic",
+    "title": "Epic actualizó: aviso de emergencia",
+    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• The Greatest Adventure Awaits — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-10-31T19:00:26+00:00"
+   },
+   "tries": 1,
+   "at": 1793473226.819786
+  }
+ ],
  "epic_fp": {
-  "lastModified": "2026-10-30T22:36:38.890Z",
+  "lastModified": "2026-10-31T11:18:05.898Z",
   "sections": {
-   "emergencynoticev2": "132c008ce2ffebaa386cb3eaa8577044",
+   "emergencynoticev2": "0007407fffac4056f8d8ac562756ed61",
    "dynamicbackgrounds": "16c3c85cd916ee69b22d2e5aee74cb57",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
@@ -984,7 +1000,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
