@@ -972,47 +972,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:32d527dd6b96520b7161dcd51c7f542f",
-    "kind": "news",
-    "title": "Trae a tu escuadrón de vuelta",
-    "text": "👀 Epic acaba de soltar esto: Trae a tu escuadrón de vuelta\n¡No está todo perdido cuando un compañero de equipo cae! Cuando caen, dejan atrás una tarjeta de reinicio. Recógelo, llévalo a una furgoneta de Reinicio y haz que vuelvan al combate para tener una mejor oportunidad de victoria.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/a36a76895e7c41e4b273673a67a659ed.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-31T18:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1793471664.2173784
-  },
-  {
-   "item": {
-    "id": "news:66009981f8a307a718431afc8af8cf7b",
-    "kind": "news",
-    "title": "¡Color más raro, armas mejores!",
-    "text": "👀 Epic acaba de soltar esto: ¡Color más raro, armas mejores!\nLas armas vienen en cinco rarezas: gris (común), verde (poco común), azul (rara), morado (épica) y naranja (legendaria). Una rareza más alta significa mejores estadísticas, así que abre cofres y cambia tus armas cuando encuentres algo mejor.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/adc4663f20d9422883b9c6e05e77accf.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-31T18:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1793471664.2173784
-  },
-  {
-   "item": {
-    "id": "news:ff1af1cbace94686bf3773198c7235e9",
-    "kind": "news",
-    "title": "Cazatesoros: 1 de noviembre",
-    "text": "👀 Epic acaba de soltar esto: Cazatesoros: 1 de noviembre\nHay cofres que abrir, espíritus que extraer y tesoros que conseguir. La caza del tesoro más grande de todos los tiempos llega el 1 de noviembre.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/c04e6be9f93b4aa5a5b3aa215a11a795.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-10-31T18:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1793471664.2173784
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-30T22:36:38.890Z",
   "sections": {
