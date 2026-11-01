@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4dq5n7c2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ NOVA ILHA — A Ilha Ossos Cruzados do Fortnite: Caçadores de Tesouro chega com 12 novos locais! #Fortnite\n\n· Lar das Lanternas — Atravesse um enorme labirinto de ruas iluminadas por lanternas e escolha seu próximo caminho antes que outro esquadrão bloqueie sua passagem.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4dq5n7c2u\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpmlrx7jol5yaxauyybje4zqtp5n3t6ekk33ijetnk3hb6h5dbse",
+  "tag": "Filtración",
+  "ts": "2026-11-01T05:48:33+00:00"
+ },
+ {
   "id": "epic:emergencynoticev2:3beee393ad28",
   "kind": "epic",
   "title": "Epic actualizó: aviso de emergencia",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreighhw65ioffzz2i745we7mhurzptanrc7vqapa2r6bzy4ypjklwoe",
   "tag": "Filtración",
   "ts": "2026-10-24T00:14:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylfx2srd22j",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA vitória está mais próxima do que nunca! Torne-se a ameaça do FNCS com a Cavaleira Turquesa e seus acessórios do FNCS C7:T4 na Loja do Fortnite até 30 de outubro! 🏆🍀\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylfx2srd22j\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiatbwo24hg7aul6kwc5t7norznlxtdbgid7leiqvxe7bii7faetxu",
-  "tag": "Filtración",
-  "ts": "2026-10-24T00:14:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:44:52+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:48:34+00:00";
