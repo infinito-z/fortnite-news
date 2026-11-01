@@ -1,12 +1,48 @@
 window.NEWS = [
  {
+  "id": "status:component:wf1ys2kx4pxc:under_maintenance:2019-11-15T19:06:39.863Z",
+  "kind": "status",
+  "title": "Fortnite: en mantenimiento",
+  "text": "⚠️ Epic Status: el componente «Fortnite» pasó de operativo a en mantenimiento.\nActualizado: 2019-11-15T19:06:39.863Z\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-01T05:01:09+00:00"
+ },
+ {
+  "id": "status:component:gc4ccpj8dz48:under_maintenance:2024-02-16T19:44:04.839Z",
+  "kind": "status",
+  "title": "LEGO Fortnite: en mantenimiento",
+  "text": "⚠️ Epic Status: el componente «LEGO Fortnite» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:04.839Z\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-01T05:01:09+00:00"
+ },
+ {
+  "id": "status:component:5qdplhgvqxfn:under_maintenance:2024-02-16T19:44:18.761Z",
+  "kind": "status",
+  "title": "Fortnite Festival: en mantenimiento",
+  "text": "⚠️ Epic Status: el componente «Fortnite Festival» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:18.761Z\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-01T05:01:09+00:00"
+ },
+ {
+  "id": "status:component:vyf8y8054472:under_maintenance:2026-11-01T05:00:12.041Z",
+  "kind": "status",
+  "title": "Fortnite Crew: en mantenimiento",
+  "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-01T05:00:12.041Z\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-01T05:01:09+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TERRA À VISTA! O período de inatividade do Fortnite: Caçadores de Tesouro (v43.00) começou agora!\n\nA Epic estima que os servidores retornem por volta das 5h BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7zoo37wk23\n⚠️ No es oficial.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
   "tag": "Filtración",
-  "ts": "2026-11-01T05:00:49+00:00"
+  "ts": "2026-11-01T05:01:05+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
@@ -1762,42 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/266a23764d411c65/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-24T00:01:12+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylbvh6bq22b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Os Fantasmas Se Divertem (4x)\n· FNCS [Cavaleira Turquesa] (2x)\n· Vestiário de Horrores [Músicas] (8x)\n· Nada de Relaxar [Gestos] (2x)\n· Estilo Top (8x)\n· Músicas (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylbvh6bq22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig775lmz7mmk3kni4nkt4tg3hgj63loajr6acpmwrjilxlw2h4fm4",
-  "tag": "Filtración",
-  "ts": "2026-10-23T23:01:51+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb2oyytk2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 26 de outubro!\n\n· NASCAR Ford Mustang (1x)\n· Vestiário de Horrores (8x)\n· Nem Suei (2x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb2oyytk2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifrcopxkkl5afi4aydmlt7v3q7fwgkoza2pfqa7emgoytita4eosu",
-  "tag": "Filtración",
-  "ts": "2026-10-23T22:46:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb2f6yyc2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 25 de outubro!\n\n· Doja Cat (5x)\n· O Telefone Preto 2 (2x)\n· Assuma o Controle (7x)\n· Embalo de Festa [Gestos] (2x)\n· Vestiário de Horrores (8x)\n· Ilimitado [Heróis Personalizáveis] (3x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb2f6yyc2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmrzxlbms5qqgmwusrhrte6zbkzijrpniy4nhn26jfkcswxr5iei",
-  "tag": "Filtración",
-  "ts": "2026-10-23T22:46:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylb237aks2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 24 de outubro!\n\n· Halloween Horror Nights [HamiKuma] (3x)\n· Sonic The Hedgehog (6x)\n· Vestiário de Horrores (8x)\n· Vestiário do Rejekun (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylb237aks2m\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieqlu5wacsrs7ewe725ojiia6bsdf2iyynob4cz27s7uuu6tadqka",
-  "tag": "Filtración",
-  "ts": "2026-10-23T22:46:53+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:00:51+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:01:09+00:00";
