@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚡ FORTNITE x A$AP ROCKY — Jogabilidade rápida do Míssil de Choque de A$AP Rocky's no Fortnite: Caçadores de Tesouro!\n\n“Lançador de Foguetes de assinatura de A$AP Rocky's. Este lançador carrega cargas de Pedra de Choque, transformando cada foguete em um ataque aéreo...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanp6t7sk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-11-01T11:01:12+00:00"
+  "ts": "2026-11-01T11:01:11+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzannn6e2k2o",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-24T23:01:11+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T11:01:13+00:00";
+window.NEWS_UPDATED = "2026-11-01T11:01:12+00:00";
