@@ -1099,19 +1099,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪙 NOVO ITEM — Jogabilidade da Espingarda Dragoon Dourada para o Fortnite: Caçadores de Tesouro!\n\n“Espingarda de tiro único. Causa dano alto ao custo de um pente menor. Acerta como uma bala de canhão e recarrega como se soubesse que você só precisa de um bom disparo.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzao2ny3oc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T11:07:19+00:00"
-   },
-   "tries": 1,
-   "at": 1793531240.2114737
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1135,6 +1122,19 @@
    },
    "tries": 1,
    "at": 1793531348.2661543
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪙 NOVO ITEM — Jogabilidade da Espingarda Dragoon Dourada para o Fortnite: Caçadores de Tesouro!\n\n“Espingarda de tiro único. Causa dano alto ao custo de um pente menor. Acerta como uma bala de canhão e recarrega como se soubesse que você só precisa de um bom disparo.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzao2ny3oc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T11:07:19+00:00"
+   },
+   "tries": 2,
+   "at": 1793531382.830469
   }
  ],
  "epic_fp": {
