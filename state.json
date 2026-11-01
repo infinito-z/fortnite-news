@@ -1093,32 +1093,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanp6t7sk2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚡ FORTNITE x A$AP ROCKY — Jogabilidade rápida do Míssil de Choque de A$AP Rocky's no Fortnite: Caçadores de Tesouro!\n\n“Lançador de Foguetes de assinatura de A$AP Rocky's. Este lançador carrega cargas de Pedra de Choque, transformando cada foguete em um ataque aéreo...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanp6t7sk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T11:01:11+00:00"
-   },
-   "tries": 1,
-   "at": 1793530872.0193973
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚔️ FORTNITE x ONE PIECE — Jogabilidade rápida do Estilo Três Espadas do Zoro de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Empunhe três katanas e torne-se o maior espadachim do mundo!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanlioobc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T10:58:59+00:00"
-   },
-   "tries": 2,
-   "at": 1793530875.158455
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzansubgis2o",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1141,7 +1115,46 @@
     "ts": "2026-11-01T11:00:05+00:00"
    },
    "tries": 2,
-   "at": 1793530976.8259761
+   "at": 1793531005.9960995
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏹 FORTNITE x ONE PIECE — Jogabilidade do Estilingue do Usopp de One Piece no Fortnite: Caçadores de Tesouro!\n\n“Munição pesada e uma precisão absurda fazem deste o melhor amigo de um atirador de elite disfarçado de brinquedo. Não se deixe enganar pelo estilingue.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanjtdzxk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T10:57:57+00:00"
+   },
+   "tries": 3,
+   "at": 1793531005.9960995
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanp6t7sk2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚡ FORTNITE x A$AP ROCKY — Jogabilidade rápida do Míssil de Choque de A$AP Rocky's no Fortnite: Caçadores de Tesouro!\n\n“Lançador de Foguetes de assinatura de A$AP Rocky's. Este lançador carrega cargas de Pedra de Choque, transformando cada foguete em um ataque aéreo...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanp6t7sk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T11:01:11+00:00"
+   },
+   "tries": 2,
+   "at": 1793531005.9960995
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚔️ FORTNITE x ONE PIECE — Jogabilidade rápida do Estilo Três Espadas do Zoro de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Empunhe três katanas e torne-se o maior espadachim do mundo!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanlioobc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T10:58:59+00:00"
+   },
+   "tries": 3,
+   "at": 1793531005.9960995
   }
  ],
  "epic_fp": {
