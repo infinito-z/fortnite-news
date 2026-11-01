@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4npvwsc2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 RANQUEADAS — Uma nova Temporada Ranqueada chega no Fortnite: Caçadores de Tesouro e com recompensas grátis ao subir de Ranque! #Fortnite\n\n🟨 OURO — Emoticon\n🟩 PLATINA — Tela de Carregamento\n🟦 DIAMANTE — Spray\n⬜ ELITE — Mochila\n🟪 SURREAL — Picareta\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4npvwsc2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigx4n6atusma6greh3cr6gqjex7a7izrxkrtmrzoiutbov25euqnq",
+  "tag": "Filtración",
+  "ts": "2026-11-01T05:53:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4mq3sps2u",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_zenithpair/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-24T13:00:58+00:00"
- },
- {
-  "id": "cosmetic:Spray_ZenithPair",
-  "kind": "cosmetic",
-  "title": "Grafiti: HamiKuma estuvo aquí",
-  "text": "🔥 Nuevo en los archivos: HamiKuma estuvo aquí (Poco común). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/spray_zenithpair/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-24T13:00:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:53:27+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:54:00+00:00";
