@@ -973,7 +973,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7evtioyc2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7evtioyc2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
+  "shop:fe902b2102db763d",
+  "shop:fe902b2102db763d"
  ],
  "first_run": false,
  "seeded": [
@@ -986,7 +988,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:fe902b2102db763d",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 113 cosas nuevas:\n• Lote de Mariah Carey — 2.800 paVos\n• Mariah Carey — 1.500 paVos\n• León — 1.500 paVos\n• Guaco — 1.200 paVos\n• Parrilla puntiaguda — 800 paVos\n• Micrófono de Mariah — 800 paVos\n…y 107 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/f926aa6282c8c303/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-01T00:01:00+00:00"
+   },
+   "tries": 1,
+   "at": 1793491260.410993
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-31T11:18:05.898Z",
   "sections": {

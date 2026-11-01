@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:fe902b2102db763d",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 113 cosas nuevas:\n• Lote de Mariah Carey — 2.800 paVos\n• Mariah Carey — 1.500 paVos\n• León — 1.500 paVos\n• Guaco — 1.200 paVos\n• Parrilla puntiaguda — 800 paVos\n• Micrófono de Mariah — 800 paVos\n…y 107 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/f926aa6282c8c303/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-01T00:01:00+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigh2vgpwts2gxfryjfkhmu5drkcyas32etnudu5f42cgtlavchx7y",
   "tag": "Filtración",
   "ts": "2026-10-23T20:38:36+00:00"
- },
- {
-  "id": "cosmetic:CarSkin_OctaneSunsetEffigy01",
-  "kind": "cosmetic",
-  "title": "Piel: Freddy Fazbear",
-  "text": "🔥 Nuevo en los archivos: Freddy Fazbear (Poco común). Billetera, prepárate 💸",
-  "image": null,
-  "tag": "Cosmético",
-  "ts": "2026-10-23T20:29:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-10-31T23:00:49+00:00";
+window.NEWS_UPDATED = "2026-11-01T00:01:00+00:00";
