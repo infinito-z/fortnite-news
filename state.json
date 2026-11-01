@@ -1051,7 +1051,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
   "news:1d0754498020d9bc0ccd12a97cf87e7d",
-  "news:1d0754498020d9bc0ccd12a97cf87e7d"
+  "news:1d0754498020d9bc0ccd12a97cf87e7d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n"
  ],
  "first_run": false,
  "seeded": [
@@ -1077,6 +1079,19 @@
    },
    "tries": 2,
    "at": 1793521105.9785144
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Trailer Híbrido dos Caçadores de Tesouro!\n\nFortunas aguardam para serem encontradas... prepare-se para velejar em Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzaesu6ebk2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T08:20:33+00:00"
+   },
+   "tries": 1,
+   "at": 1793521234.679997
   }
  ],
  "epic_fp": {

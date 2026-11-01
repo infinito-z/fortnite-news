@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Trailer Híbrido dos Caçadores de Tesouro!\n\nFortunas aguardam para serem encontradas... prepare-se para velejar em Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzaesu6ebk2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-01T08:20:33+00:00"
+ },
+ {
   "id": "news:1d0754498020d9bc0ccd12a97cf87e7d",
   "kind": "news",
   "title": "A$AP Rocky desembarca",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
   "tag": "Filtración",
   "ts": "2026-10-24T18:01:07+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynabz7yrc2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TEASER VAZADO — FORTNITE x ONE PIECE\n\nOne Piece está finalmente CONFIRMADO para chegar no Fortnite: Caçadores de Tesouro que começa em 1° de novembro! \n\n🎥: x/FNBRintel | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynabz7yrc2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T17:39:02+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T08:15:57+00:00";
+window.NEWS_UPDATED = "2026-11-01T08:20:34+00:00";
