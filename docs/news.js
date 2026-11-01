@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:5629f6056326ad36b35e807cffbbd656",
+  "kind": "news",
+  "title": "Última oportunidad para conseguir las recompensas de pesadilla espiritual",
+  "text": "⚡ Ojo, ojo: Última oportunidad para conseguir las recompensas de pesadilla espiritual\n¡Celebra Halloween con el fin de pesadilla espiritual! Más cofres calabaza te esperan, podrás encontrar el potente subfusil rompehuesos exótico y las consolas de hackeo garantizan un modificador de buscatesoros, fantasma o caza de objetos para un final realmente aterrador.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/b978ba1a5bef406cb5151ceca39e781a.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-01T06:01:44+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4npvwsc2u",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/character_zenithpair/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-24T13:00:58+00:00"
- },
- {
-  "id": "cosmetic:Pickaxe_ZenithPair",
-  "kind": "cosmetic",
-  "title": "Pico: Garras de HamiKuma",
-  "text": "⚡ Llegó Garras de HamiKuma (Raro). El que no la compre, no es gamer 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_zenithpair/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-24T13:00:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:54:00+00:00";
+window.NEWS_UPDATED = "2026-11-01T06:01:44+00:00";
