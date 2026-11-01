@@ -1,5 +1,14 @@
 [
  {
+  "id": "news:57de216398b7114405d9fdc0a21f72b1",
+  "kind": "news",
+  "title": "¡No te pierdas la aventura!",
+  "text": "👀 Epic acaba de soltar esto: ¡No te pierdas la aventura!\n¡Todas las grandes aventuras comienzan con un mapa del tesoro! Dirígete a la pestaña Tesoro para seguir el progreso semanal y planear tu próximo movimiento.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/17e5919c76f0462a95a0143af0f6b9d8.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-01T07:45:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzabkarizc2i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiapunbu2fgajfcphskfzio75cbflvd2d3iijk4xj3gyov7lugpd3i",
   "tag": "Filtración",
   "ts": "2026-10-24T15:38:50+00:00"
- },
- {
-  "id": "news:3bc782d50697fe3cca9de2e3da357f5d",
-  "kind": "news",
-  "title": "Ya disponible: campeonato del Torneo para Móviles",
-  "text": "🚨 NOTICIA: Ya disponible: campeonato del Torneo para Móviles\nDa el salto ya a Aterrizaje de leyendas y mira cómo los mejores jugadores en solitario de Recarga para móviles compiten por la oportunidad de coronarse campeones del campeonato del Torneo para Móviles en Copenhague, Dinamarca.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/baa4e771befa482393862b9f5c34e024.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-24T15:01:22+00:00"
  }
 ]
