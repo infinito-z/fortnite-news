@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "⚠️ Epic Status: el componente «Fortnite» pasó de operativo a en mantenimiento.\nActualizado: 2019-11-15T19:06:39.863Z\nhttps://status.epicgames.com",
   "image": null,
   "tag": "Estado",
-  "ts": "2026-11-01T05:01:09+00:00"
+  "ts": "2026-11-01T05:01:40+00:00"
  },
  {
   "id": "status:component:gc4ccpj8dz48:under_maintenance:2024-02-16T19:44:04.839Z",
@@ -15,7 +15,7 @@ window.NEWS = [
   "text": "⚠️ Epic Status: el componente «LEGO Fortnite» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:04.839Z\nhttps://status.epicgames.com",
   "image": null,
   "tag": "Estado",
-  "ts": "2026-11-01T05:01:09+00:00"
+  "ts": "2026-11-01T05:01:40+00:00"
  },
  {
   "id": "status:component:5qdplhgvqxfn:under_maintenance:2024-02-16T19:44:18.761Z",
@@ -24,7 +24,7 @@ window.NEWS = [
   "text": "⚠️ Epic Status: el componente «Fortnite Festival» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:18.761Z\nhttps://status.epicgames.com",
   "image": null,
   "tag": "Estado",
-  "ts": "2026-11-01T05:01:09+00:00"
+  "ts": "2026-11-01T05:01:40+00:00"
  },
  {
   "id": "status:component:vyf8y8054472:under_maintenance:2026-11-01T05:00:12.041Z",
@@ -33,7 +33,7 @@ window.NEWS = [
   "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-01T05:00:12.041Z\nhttps://status.epicgames.com",
   "image": null,
   "tag": "Estado",
-  "ts": "2026-11-01T05:01:09+00:00"
+  "ts": "2026-11-01T05:01:40+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23",
@@ -42,7 +42,7 @@ window.NEWS = [
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TERRA À VISTA! O período de inatividade do Fortnite: Caçadores de Tesouro (v43.00) começou agora!\n\nA Epic estima que os servidores retornem por volta das 5h BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7zoo37wk23\n⚠️ No es oficial.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
   "tag": "Filtración",
-  "ts": "2026-11-01T05:01:05+00:00"
+  "ts": "2026-11-01T05:00:49+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-24T00:01:12+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:01:09+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:01:40+00:00";
