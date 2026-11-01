@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzabkarizc2i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n✨ Todos os novos Elementais adicionados na v43.00 em português! #Fortnite\n\n· Base, Amaldiçoados e Valiosos já disponíveis!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzabkarizc2i\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidk5oaikowrbq3amujsovxql47qww7knuhnvvivcg3352ukh2aooi",
+  "tag": "Filtración",
+  "ts": "2026-11-01T07:21:47+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzabjh2i422i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 TODOS os novos cosméticos adicionados no Fortnite: Caçadores de Tesouro (v43.00) em português! #Fortnite\n\n· Trajes, estilos e LEGO\n· Mochilas, Picaretas, Gestos e Envelopamentos\n· Mascotes, Asa-deltas, Telas, Sprays e Rastros\n· E muito mais!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzabjh2i422i\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiewctpllgxs5sjgo2f4jbphqukzgofu76qs2lv4sckbyoty6rimea",
+  "tag": "Filtración",
+  "ts": "2026-11-01T07:21:47+00:00"
+ },
+ {
   "id": "news:f1b136f37037305a1022665021a06787",
   "kind": "news",
   "title": "Gesto Day-O",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/baa4e771befa482393862b9f5c34e024.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-24T15:01:22+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymurqlrus2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRIPULAÇÕES — Fortnite: Caçadores de Tesouro\n\n· Jones e Valentia (Originais)\n· A$AP Rocky\n· ???\n· Hatsune Miku e Kasane Teto\n· Lil Uzi Vert\n· ???\n\nEssas serão as Tripulações de Piratas do Fortnite: Caçadores de Tesouro. Palpites dos desconhecidos? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymurqlrus2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib7ggpudo54t3d2uwfbdiasho7z32tptlffefipsjjm4owdc7nwci",
-  "tag": "Filtración",
-  "ts": "2026-10-24T14:13:03+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymtictet227",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚪ FORTNITE x MIKU x TETO — Primeira visão de um Elemental temático de Hatsune Miku e Kasane Teto que deve chegar no Fortnite: Caçadores de Tesouro!\n\nA maior aventura de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymtictet227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigvl7jpwxovfgonw4westr4l4ohsej6oaec5p4olxris25mupx3qy",
-  "tag": "Filtración",
-  "ts": "2026-10-24T13:49:16+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T07:01:47+00:00";
+window.NEWS_UPDATED = "2026-11-01T07:21:48+00:00";
