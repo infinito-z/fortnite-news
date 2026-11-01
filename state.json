@@ -989,7 +989,9 @@
   "status:maint:npy10q9x5m8d:scheduled:2026-11-01T04:00:17.674Z",
   "status:maint:npy10q9x5m8d:scheduled:2026-11-01T04:00:17.674Z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23"
  ],
  "first_run": false,
  "seeded": [
@@ -1002,7 +1004,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TERRA À VISTA! O período de inatividade do Fortnite: Caçadores de Tesouro (v43.00) começou agora!\n\nA Epic estima que os servidores retornem por volta das 5h BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7zoo37wk23\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
+    "tag": "Filtración",
+    "ts": "2026-11-01T05:01:05+00:00"
+   },
+   "tries": 1,
+   "at": 1793509266.6992817
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-10-31T17:36:59.437Z",
   "sections": {

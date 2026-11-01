@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zoo37wk23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TERRA À VISTA! O período de inatividade do Fortnite: Caçadores de Tesouro (v43.00) começou agora!\n\nA Epic estima que os servidores retornem por volta das 5h BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7zoo37wk23\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
+  "tag": "Filtración",
+  "ts": "2026-11-01T05:01:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieqlu5wacsrs7ewe725ojiia6bsdf2iyynob4cz27s7uuu6tadqka",
   "tag": "Filtración",
   "ts": "2026-10-23T22:46:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myl7rhwgkk2a",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐥 MAPA C7:TM1 — O barco do Patuno retornará no Capítulo 7: Temporada Mini 1 do Fortnite a partir de 1° de novembro!\n\nHatsune Miku e Kasane Teto atualizaram o icônico pato com um visual pirata para a temporada! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myl7rhwgkk2a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlvimcgn2alehomwzhocntpqsndtqqppzjxe53hnh5gwn4qwho5q",
-  "tag": "Filtración",
-  "ts": "2026-10-23T22:24:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T04:55:30+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:01:06+00:00";
