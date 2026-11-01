@@ -1093,32 +1093,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzannn6e2k2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍊 FORTNITE x ONE PIECE — Jogabilidade rápida da Tangerina da Nami de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Restaure Vida e Escudo com esta deliciosa fruta cítrica. Velocidade de movimento aumentada na água.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzannn6e2k2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T11:00:05+00:00"
-   },
-   "tries": 1,
-   "at": 1793530805.939713
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏹 FORTNITE x ONE PIECE — Jogabilidade do Estilingue do Usopp de One Piece no Fortnite: Caçadores de Tesouro!\n\n“Munição pesada e uma precisão absurda fazem deste o melhor amigo de um atirador de elite disfarçado de brinquedo. Não se deixe enganar pelo estilingue.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanjtdzxk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T10:57:57+00:00"
-   },
-   "tries": 2,
-   "at": 1793530840.1425798
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanp6t7sk2o",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1155,6 +1129,19 @@
    },
    "tries": 1,
    "at": 1793530972.5976791
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzannn6e2k2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍊 FORTNITE x ONE PIECE — Jogabilidade rápida da Tangerina da Nami de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Restaure Vida e Escudo com esta deliciosa fruta cítrica. Velocidade de movimento aumentada na água.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzannn6e2k2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T11:00:05+00:00"
+   },
+   "tries": 2,
+   "at": 1793530976.8259761
   }
  ],
  "epic_fp": {
