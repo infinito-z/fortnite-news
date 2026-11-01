@@ -1058,21 +1058,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:57de216398b7114405d9fdc0a21f72b1",
-    "kind": "news",
-    "title": "¡No te pierdas la aventura!",
-    "text": "👀 Epic acaba de soltar esto: ¡No te pierdas la aventura!\n¡Todas las grandes aventuras comienzan con un mapa del tesoro! Dirígete a la pestaña Tesoro para seguir el progreso semanal y planear tu próximo movimiento.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/17e5919c76f0462a95a0143af0f6b9d8.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T07:45:04+00:00"
-   },
-   "tries": 2,
-   "at": 1793519253.029318
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T07:40:27.590Z",
   "sections": {
