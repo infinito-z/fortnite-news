@@ -1,5 +1,14 @@
 [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzbeibucd22m",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n⌨️ Fortnite investigating an issue where the Toggle Inventory and Toggle Map keybinds aren’t responding or letting you rebind. I’ll share an update once it’s fixed.\n\nWorkaround: Update your keybinds in the Lobby and they’ll work right away.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzbeibucd22m",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-01T17:47:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzb2uh7nrk23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": null,
   "tag": "Estado",
   "ts": "2026-10-25T04:20:08+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynz5zosjk2f",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 Horas da Comunidade II disponíveis no Battle Royale do C7:T4 até 0h BRT! #Fortnite\n\n· Todos começam como Animatrônicos de FNAF e recebem Pistolas com os Dedos\n· Os Elementais da Comunidade são mais comuns\n· Fichas de Vida Extra e Extratores Portáteis surgem em Baús\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynz5zosjk2f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbnxdl6ix2zejcxmaufcleg5g4lxal2sgncnp6svk4lf3zivt3vu",
-  "tag": "Filtración",
-  "ts": "2026-10-25T01:04:05+00:00"
  }
 ]
