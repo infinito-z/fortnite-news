@@ -1049,7 +1049,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
+  "news:1d0754498020d9bc0ccd12a97cf87e7d",
+  "news:1d0754498020d9bc0ccd12a97cf87e7d"
  ],
  "first_run": false,
  "seeded": [
@@ -1062,7 +1064,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:1d0754498020d9bc0ccd12a97cf87e7d",
+    "kind": "news",
+    "title": "A$AP Rocky desembarca",
+    "text": "👀 Epic acaba de soltar esto: A$AP Rocky desembarca\n¡Un nuevo capitán se ha apoderado de parte de la isla! Enfréntate al jefe A$AP Rocky para conseguir a Lil' Flacko y elimina a tus oponentes con el cohete de salto de A$AP Rocky.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/9878bb76f933469c8219646efc468255.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-01T08:15:57+00:00"
+   },
+   "tries": 1,
+   "at": 1793520957.5903037
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T07:40:27.590Z",
   "sections": {
