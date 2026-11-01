@@ -1047,7 +1047,9 @@
   "news:57de216398b7114405d9fdc0a21f72b1",
   "news:57de216398b7114405d9fdc0a21f72b1",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c"
  ],
  "first_run": false,
  "seeded": [
@@ -1060,7 +1062,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadtckris2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n✅ SERVIDORES ON-LINE! O Fortnite: Caçadores de Tesouro começa agora, e vamos rumo ao tesouro minha tripulação!\n\n🪎 Use meu código \"LPFNBR\" caso queira me apoiar na compra do Passe de Batalha, agradeço demais! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzadtckris2c\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
+    "tag": "Filtración",
+    "ts": "2026-11-01T08:02:46+00:00"
+   },
+   "tries": 1,
+   "at": 1793520167.7428994
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T07:40:27.590Z",
   "sections": {
