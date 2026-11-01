@@ -1102,21 +1102,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzb2uh7nrk23",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 TUDO GRÁTIS — NOVO TOKEN DE ACESSO À LOJA PIRATA DO FORTNITE!\n\n1. Encontre o Token de Acesso à Loja Pirata do Fortnite abrindo Baús no Battle Royale (as chances são bem baixas)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzb2uh7nrk23\n⚠️ No es oficial.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T14:54:40+00:00"
-   },
-   "tries": 2,
-   "at": 1793545031.791943
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T08:28:58.509Z",
   "sections": {
