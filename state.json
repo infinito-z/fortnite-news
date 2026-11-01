@@ -1030,21 +1030,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:5629f6056326ad36b35e807cffbbd656",
-    "kind": "news",
-    "title": "Última oportunidad para conseguir las recompensas de pesadilla espiritual",
-    "text": "⚡ Ojo, ojo: Última oportunidad para conseguir las recompensas de pesadilla espiritual\n¡Celebra Halloween con el fin de pesadilla espiritual! Más cofres calabaza te esperan, podrás encontrar el potente subfusil rompehuesos exótico y las consolas de hackeo garantizan un modificador de buscatesoros, fantasma o caza de objetos para un final realmente aterrador.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/b978ba1a5bef406cb5151ceca39e781a.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T06:01:44+00:00"
-   },
-   "tries": 2,
-   "at": 1793513077.8448985
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
