@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaivaeu7k26",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ NOVOS ELEMENTAIS | Dia de Novo Elemental\n\nOs Elementais Base do Fortnite: Caçadores de Tesouro na estão disponíveis para coleta — extraia-os e eles irão para a sua Coleção e Jardim dos Elementais! #Fortnite\n\n🔚 Novos Elementais chegam toda semana nesta temporada!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzaivaeu7k26\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifngjyjg4nc75dtlojqg6an6razncfbghom32jdjequggkwfj2lsy",
+  "tag": "Filtración",
+  "ts": "2026-11-01T09:33:08+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzagbktz422h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibvixc664rmwsbfivjmzm632voc33x4ye3ckkbjfif7hkefvjo7je",
   "tag": "Filtración",
   "ts": "2026-10-24T18:27:45+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mync7xvims2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER LORE — Fortnite: Caçadores de Tesouro\n\nAgora é possível interagir com o Baú do Tesouro na Ilha do C7:T4, onde o novo personagem misterioso reproduz algumas frases! #Fortnite\n\n· Tá tentando roubar de mim? Gosto do seu estilo\n· Paciência, caça-tesouro\n· Tentador, não é?\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mync7xvims2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T18:15:01+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T08:46:21+00:00";
+window.NEWS_UPDATED = "2026-11-01T09:33:09+00:00";
