@@ -1003,7 +1003,9 @@
   "shop:8157d51e78ab8ed3",
   "shop:8157d51e78ab8ed3",
   "epic:dynamicbackgrounds:ce0b5a01b339",
-  "epic:dynamicbackgrounds:ce0b5a01b339"
+  "epic:dynamicbackgrounds:ce0b5a01b339",
+  "epic:emergencynoticev2:3beee393ad28",
+  "epic:emergencynoticev2:3beee393ad28"
  ],
  "first_run": false,
  "seeded": [
@@ -1016,11 +1018,25 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "epic:emergencynoticev2:3beee393ad28",
+    "kind": "epic",
+    "title": "Epic actualizó: aviso de emergencia",
+    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-11-01T05:44:52+00:00"
+   },
+   "tries": 1,
+   "at": 1793511892.321332
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
-   "emergencynoticev2": "0007407fffac4056f8d8ac562756ed61",
+   "emergencynoticev2": "3beee393ad28ec6985553e73f5193f8c",
    "dynamicbackgrounds": "ce0b5a01b33977b1e16a8760b604e0dd",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
@@ -1028,7 +1044,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
