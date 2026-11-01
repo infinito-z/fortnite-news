@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5k2kyrc25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n⭐ OFICIAL — Nico Robin de One Piece é o Traje de NÍVEL 1 do Passe de Batalha do Fortnite: Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5k2kyrc25\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihj2u3jnhm2w7te3qjaz5yqvqqeklqunb3avwvtegibfuclngycha",
+  "tag": "Filtración",
+  "ts": "2026-11-01T06:10:15+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5j6pbmc25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiejrqthq6rgr7jdw47o5spoyw2y64hdqzofpbpk637iw57r755koy",
   "tag": "Filtración",
   "ts": "2026-10-24T13:17:24+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymrodrkp22v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧸 FORTNITE x HALLOWEEN HORROR NIGHTS — Primeira visão dos cosméticos do HamiKuma de Halloween Horror Nights no Vestiário do jogo. Na Loja nesta noite (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymrodrkp22v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T13:17:24+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T06:09:45+00:00";
+window.NEWS_UPDATED = "2026-11-01T06:10:15+00:00";
