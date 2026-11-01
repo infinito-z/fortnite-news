@@ -1027,7 +1027,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5k2kyrc25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5k2kyrc25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5rh6ksk25",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5rh6ksk25"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5rh6ksk25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6uybbsk25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6uybbsk25"
  ],
  "first_run": false,
  "seeded": [
@@ -1040,7 +1042,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6uybbsk25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Primeira visão em imagem de todos os Trajes e Estilos de One Piece para o Fortnite!\n\n· Nico Robin e Ace — Passe de Batalha\n· Luffy, Nami e Usopp — Na Loja agora\n· Zoro e Sanji — Na Loja em 07/11\n· Buggy — Na Loja em 13/11\n\n📸: x/HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6uybbsk25\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreialz7alkuftxp2hsg4mwv46zf7q7xwh4oeynz6477s6wn3a5bihwu",
+    "tag": "Filtración",
+    "ts": "2026-11-01T06:34:31+00:00"
+   },
+   "tries": 1,
+   "at": 1793514872.637204
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
