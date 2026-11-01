@@ -1100,34 +1100,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:8f2dfca47c07a922553c9ff15d9d5255",
-    "kind": "news",
-    "title": "Trajes de Monkey D. Luffy, Nami y Usopp",
-    "text": "🚨 NOTICIA: Trajes de Monkey D. Luffy, Nami y Usopp\n¡Cuando la aventura llama, los Sombreros de Paja responden! Zarpa con los trajes de Monkey D. Luffy, Nami y Usopp y pon rumbo a aguas desconocidas.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/dd15db8cc4564f5792d6cf8438e8bcea.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T12:02:15+00:00"
-   },
-   "tries": 2,
-   "at": 1793534688.7506127
-  },
-  {
-   "item": {
-    "id": "news:5a2719190456440b7f33935c3fc21c87",
-    "kind": "news",
-    "title": "Ráfaga de puñetazos",
-    "text": "👀 Epic acaba de soltar esto: Ráfaga de puñetazos\n¡METRALLA GOMU-GOMU!",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/e9db8889f0df48368b6a9a151297980a.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T12:02:15+00:00"
-   },
-   "tries": 2,
-   "at": 1793534688.7506127
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T08:28:58.509Z",
   "sections": {
