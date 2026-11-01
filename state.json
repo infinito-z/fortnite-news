@@ -998,21 +998,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "shop:1eb9a8eb55ec2ba7",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "🛒 TIENDA NUEVA: 113 novedades. Lo más fuerte:\n• Lote de Mariah Carey — 2.800 paVos\n• Mariah Carey — 1.500 paVos\n• León — 1.500 paVos\n• Guaco — 1.200 paVos\n• Parrilla puntiaguda — 800 paVos\n• Micrófono de Mariah — 800 paVos\n…y 107 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/f926aa6282c8c303/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-01T01:00:28+00:00"
-   },
-   "tries": 2,
-   "at": 1793494984.014028
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-10-31T17:36:59.437Z",
   "sections": {
