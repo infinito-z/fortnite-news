@@ -1031,32 +1031,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4dq5n7c2u",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ NOVA ILHA — A Ilha Ossos Cruzados do Fortnite: Caçadores de Tesouro chega com 12 novos locais! #Fortnite\n\n· Lar das Lanternas — Atravesse um enorme labirinto de ruas iluminadas por lanternas e escolha seu próximo caminho antes que outro esquadrão bloqueie sua passagem.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4dq5n7c2u\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpmlrx7jol5yaxauyybje4zqtp5n3t6ekk33ijetnk3hb6h5dbse",
-    "tag": "Filtración",
-    "ts": "2026-11-01T05:48:33+00:00"
-   },
-   "tries": 3,
-   "at": 1793512481.2088559
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4ivnxms2u",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIAS DE CAPITANIA — Os novos Dias de Capitania acontecem toda semana no Fortnite: Caçadores de Tesouro, e trazem novidades fresquinhas! #Fortnite\n\n🟦 SEMANA 1 (01/11) — A$AP Rocky chegou ao porto a bordo do The $.$. Rocky e não pretende abandonar seu navio sem lutar.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4ivnxms2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig5xvp3leclmawaym6byl2k5m7dcza5cavklufsjhrvkjuvkkffzi",
-    "tag": "Filtración",
-    "ts": "2026-11-01T05:51:56+00:00"
-   },
-   "tries": 2,
-   "at": 1793512481.2088559
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4mq3sps2u",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
