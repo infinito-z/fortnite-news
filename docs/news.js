@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzajnxxbhc2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 SEMANAS DO FORTNITE: CAÇADORES DE TESOURO!\n\nToda semana traz novos Itens, Jogabilidade, Tarefas, Chefes, Pontos de Referência e Elementais no Fortnite: Caçadores de Tesouro! #Fortnite\n\n🗺️ Além disso, toda semana traz novos Fragmentos de Mapa, que ao ser encontrados podem garantir XP e mais!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzajnxxbhc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaxnr2u6wd6zabc5rwaglaqsvnzrjrfzapzl5zmrjxcffnwylhhra",
+  "tag": "Filtración",
+  "ts": "2026-11-01T09:48:34+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaivaeu7k26",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-24T19:43:56+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myncz75gp227",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⛵ FORTNITE x ONE PIECE — NOVO ÔNIBUS\n\nO navio Going Merry de One Piece parece ser o Ônibus de Batalha do Fortnite: Caçadores de Tesouro! No teaser da colaboração ele é exibido com um balão no topo, indicando sua chegada à Ilha! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myncz75gp227\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibvixc664rmwsbfivjmzm632voc33x4ye3ckkbjfif7hkefvjo7je",
-  "tag": "Filtración",
-  "ts": "2026-10-24T18:27:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T09:33:09+00:00";
+window.NEWS_UPDATED = "2026-11-01T09:48:34+00:00";
