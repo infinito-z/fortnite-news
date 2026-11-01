@@ -1017,7 +1017,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4npvwsc2u",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4npvwsc2u",
   "news:5629f6056326ad36b35e807cffbbd656",
-  "news:5629f6056326ad36b35e807cffbbd656"
+  "news:5629f6056326ad36b35e807cffbbd656",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25"
  ],
  "first_run": false,
  "seeded": [
@@ -1030,7 +1034,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 BAÚS — Novos Baús da Ilha Ossos Cruzados que chegam no Fortnite: Caçadores de Tesouro! #Fortnite\n\n· Baú Padrão\n· Baú Raro (Lendário)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5ievlqc25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifbjktaangsuuy3gzsvuvfgazcg4epzrjfh4emhouyyits4svv6ey",
+    "tag": "Filtración",
+    "ts": "2026-11-01T06:09:09+00:00"
+   },
+   "tries": 1,
+   "at": 1793513351.1584985
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗺️ Mapa do Fortnite: Caçadores de Tesouro do Battle Royale (v43.00) | #Fortnite\n\n· Arlong Park\n· Vila dos Moinhos\n· Resort da Borracha\n· Baú\n· Lar das Lanternas\n· Enseada do Saque\n· Loguetown\n· Porto Pirata\n· Baía Agitada\n· $.$ Rocky\n· Caverna Amaldiçoada\n· Fortaleza de Lil' Uzi\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5i2jqls25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfu2ra2wrp3kwknps7rsiirbgpjbzdip5ipqc44lfq6s5o7fqa4e",
+    "tag": "Filtración",
+    "ts": "2026-11-01T06:09:09+00:00"
+   },
+   "tries": 1,
+   "at": 1793513351.1584985
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
