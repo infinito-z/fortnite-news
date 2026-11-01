@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4mq3sps2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⭐ ELEMENTAIS — A 3ª geração de Elementais chega no Fortnite: Caçadores de Tesouro (nomes em inglês). #Fortnite\n\n🍌 HALFPEEL'D:\n— Marca eliminações no mapa. O alcance de detecção aumenta a cada nível.\n\n🔄 RE-PETE:\n— Recargas mais rápidas, com chance de recuperar munição.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4mq3sps2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigstdg6fhmzw3cjtszxqi4udnxb2jt6lrwn3dkrtbaiv7jiufqgii",
+  "tag": "Filtración",
+  "ts": "2026-11-01T05:53:26+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4ivnxms2u",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/spray_zenithpair/icon.png",
   "tag": "Cosmético",
   "ts": "2026-10-24T13:00:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mylg4gf4q226",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 27 de outubro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mylg4gf4q226\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibkncxcxrdsmi63rzrzla3n3y7dmxhb56gbd3qii72iv4axweg3oi",
-  "tag": "Filtración",
-  "ts": "2026-10-24T00:17:29+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:51:57+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:53:27+00:00";
