@@ -1097,32 +1097,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💣 NOVO ITEM — Jogabilidade rápida da Bala de Canhão Explosiva do Fortnite: Caçadores de Tesouro!\n\n“Bomba arremessável que pode ser carregada em Canhões Piratas.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanwcvnmc2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T11:04:57+00:00"
-   },
-   "tries": 1,
-   "at": 1793531097.9274187
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzansubgis2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍖 NOVO ITEM — Jogabilidade rápida do Espetinho de Carne do Fortnite: Caçadores de Tesouro!\n\n“Nada como um Espetinho de Carne para voltar à luta!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzansubgis2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-01T11:02:51+00:00"
-   },
-   "tries": 2,
-   "at": 1793531125.0904274
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1133,6 +1107,19 @@
    },
    "tries": 1,
    "at": 1793531240.2114737
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💣 NOVO ITEM — Jogabilidade rápida da Bala de Canhão Explosiva do Fortnite: Caçadores de Tesouro!\n\n“Bomba arremessável que pode ser carregada em Canhões Piratas.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanwcvnmc2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T11:04:57+00:00"
+   },
+   "tries": 2,
+   "at": 1793531275.4601078
   }
  ],
  "epic_fp": {
