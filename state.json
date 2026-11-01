@@ -1021,7 +1021,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5j6pbmc25",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5j6pbmc25"
  ],
  "first_run": false,
  "seeded": [
@@ -1060,6 +1062,19 @@
    },
    "tries": 1,
    "at": 1793513351.1584985
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5j6pbmc25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👑 BONITÃO! Guarda-chuva da Vitória do Fortnite: Caçadores de Tesouro! A segunda versão/estilo parece não estar finalizada por agora.\n\n📸: x/HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5j6pbmc25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidy6texus3ou4262ul4bh2ykgfo2q7opcskyuasqbjpt4h5yb2h34",
+    "tag": "Filtración",
+    "ts": "2026-11-01T06:09:45+00:00"
+   },
+   "tries": 1,
+   "at": 1793513385.9109764
   }
  ],
  "epic_fp": {
