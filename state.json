@@ -1108,21 +1108,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "build:++Fortnite+Release-43.00-CL-59596594",
-    "kind": "build",
-    "title": "Build 43.00",
-    "text": "⚙️ Cambió el build del juego: 43.00. Algo se viene, mantente atento 👀",
-    "image": null,
-    "tag": "Parche",
-    "ts": "2026-11-01T23:14:33+00:00"
-   },
-   "tries": 2,
-   "at": 1793575022.2359724
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T21:25:04.091Z",
   "sections": {
