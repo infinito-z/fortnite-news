@@ -1069,19 +1069,6 @@
  "pending": [
   {
    "item": {
-    "id": "news:1d0754498020d9bc0ccd12a97cf87e7d",
-    "kind": "news",
-    "title": "A$AP Rocky desembarca",
-    "text": "👀 Epic acaba de soltar esto: A$AP Rocky desembarca\n¡Un nuevo capitán se ha apoderado de parte de la isla! Enfréntate al jefe A$AP Rocky para conseguir a Lil' Flacko y elimina a tus oponentes con el cohete de salto de A$AP Rocky.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/9878bb76f933469c8219646efc468255.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T08:15:57+00:00"
-   },
-   "tries": 2,
-   "at": 1793521105.9785144
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
