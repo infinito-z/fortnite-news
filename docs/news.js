@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanfqpcr22o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍇 FORTNITE x ONE PIECE — Jogabilidade rápida da Gomu Gomu no Mi de One Piece no Fortnite: Caçadores de Tesouro!\n\nTransforme-se no Luffy com a Gomu Gomu no Mi e utilize suas habilidades. Você receberá dano ao entrar na água. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanfqpcr22o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-01T10:56:11+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigjvh2axoqr3bcwl4c3vdnxyfu2wjbleuckxo7nivuy6ollf2krn4",
   "tag": "Filtración",
   "ts": "2026-10-24T20:02:13+00:00"
- },
- {
-  "id": "cosmetic:LoadingScreen_IvoryDwell",
-  "kind": "cosmetic",
-  "title": "Pantalla de carga: Paisaje de Inoxtag",
-  "text": "🔥 Nuevo en los archivos: Paisaje de Inoxtag (Poco común). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_ivorydwell/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-24T20:02:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T10:55:00+00:00";
+window.NEWS_UPDATED = "2026-11-01T10:56:12+00:00";
