@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzadejdaq22c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔊 DIÁLOGOS! Todos os 22 diálogos entre Slone, Valentia, Jones e do Capitão X adicionados na v43.00 do Fortnite em português!\n\nA equipe já está ciente da situação na Ilha e do Fragmento do Ponto Zero. Enquanto isso, o Capitão X começa a orquestrar a caça ao tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzadejdaq22c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-01T07:54:33+00:00"
+ },
+ {
   "id": "news:57de216398b7114405d9fdc0a21f72b1",
   "kind": "news",
   "title": "¡No te pierdas la aventura!",
@@ -1789,14 +1798,5 @@
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-24T17:17:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymzlmqizk2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 FORTNITE x TWITCH — Drop do Fortnite Mobile Series! #Fortnite\n\nAssista à transmissão do Fortnite Mobile Series na Twitch por 30 minutos e receba a Mochila Aboborito Meia-noite no jogo! Disponível somente até às 20h59 BRT para resgate!\n\nLive: twitch.tv/fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymzlmqizk2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiapunbu2fgajfcphskfzio75cbflvd2d3iijk4xj3gyov7lugpd3i",
-  "tag": "Filtración",
-  "ts": "2026-10-24T15:38:50+00:00"
  }
 ]
