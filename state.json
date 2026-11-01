@@ -1061,7 +1061,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaivaeu7k26",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaivaeu7k26",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzajnxxbhc2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzajnxxbhc2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzajnxxbhc2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o"
  ],
  "first_run": false,
  "seeded": [
@@ -1074,7 +1076,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⛵ FORTNITE x ONE PIECE — O navio Going Merry agora é o Ônibus de Bat... ou melhor, Navio de Batalha do Fortnite: Caçadores de Tesouro!\n\nPilote o navio assim como no início do Capítulo 7 e leve a sua tripulação! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzane4zey22o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T10:54:59+00:00"
+   },
+   "tries": 1,
+   "at": 1793530500.3860362
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T08:28:58.509Z",
   "sections": {
