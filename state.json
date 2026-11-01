@@ -1052,21 +1052,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:f1b136f37037305a1022665021a06787",
-    "kind": "news",
-    "title": "Gesto Day-O",
-    "text": "👀 Epic acaba de soltar esto: Gesto Day-O\nBaila como si estuviera a punto de amanecer.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/af7838a18c47431099c4d9475970cc05.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-01T07:01:47+00:00"
-   },
-   "tries": 2,
-   "at": 1793516662.7396216
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
