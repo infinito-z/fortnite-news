@@ -1,5 +1,14 @@
 [
  {
+  "id": "epic:dynamicbackgrounds:ce0b5a01b339",
+  "kind": "epic",
+  "title": "Epic actualizó: fondos dinámicos",
+  "text": "🛰️ Epic actualizó «fondos dinámicos» en el servidor de contenido del juego.",
+  "image": null,
+  "tag": "Epic",
+  "ts": "2026-11-01T05:24:38+00:00"
+ },
+ {
   "id": "shop:8157d51e78ab8ed3",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih46vnvzld3rswho3sn2famae4eszind3tl52xirq4ccfhfuho3du",
   "tag": "Filtración",
   "ts": "2026-10-24T00:14:28+00:00"
- },
- {
-  "id": "cosmetic:EID_LoneStar",
-  "kind": "cosmetic",
-  "title": "Gesto: Texas Primadonna",
-  "text": "🔥 Nuevo en los archivos: Texas Primadonna (Serie de ídolos). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/eid_lonestar/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-24T00:01:14+00:00"
  }
 ]
