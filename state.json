@@ -975,7 +975,13 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7fk4dqxc2q",
   "shop:fe902b2102db763d",
-  "shop:fe902b2102db763d"
+  "shop:fe902b2102db763d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j5mdeec2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j56inek2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j4x6rxs2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j5mdeec2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j56inek2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j4x6rxs2l"
  ],
  "first_run": false,
  "seeded": [
@@ -1001,6 +1007,45 @@
    },
    "tries": 2,
    "at": 1793491448.7529624
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j5mdeec2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 04 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7j5mdeec2l\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieeqygmgbgksztaw6xrmg5za3j72mdrkoviivku7qqrloleuypql4",
+    "tag": "Filtración",
+    "ts": "2026-11-01T00:05:13+00:00"
+   },
+   "tries": 1,
+   "at": 1793491514.9515724
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j56inek2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nIT'S TIIIIIIIIIIME! Sinta-se brilhante e viva a magia do natal com o retorno da Mariah Carey e seus acessórios icônicos na Loja do Fortnite até 04 de novembro! ✨🧑‍🎄🧊\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7j56inek2l\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigwitlhetkezjgsa6wicafin3e6ltvg5pvfgp73uqmngfifts5zjm",
+    "tag": "Filtración",
+    "ts": "2026-11-01T00:05:13+00:00"
+   },
+   "tries": 1,
+   "at": 1793491514.9515724
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j4x6rxs2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👑 O Clube Fortnite de Novembro chegou!\n\n· Traje Monarca\n· Mochila Capa Cascuda\n· Picareta Chakram Monarca\n· 800 V-Bucks (ao renovar)\n· Rocket Pass Premium \n· Passe de Batalha, Musical, LEGO e Raiz\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7j4x6rxs2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicn5gtfknz7pzu5de4msfkq33ws5kwkax2eyguljxrhgvbizhdtni",
+    "tag": "Filtración",
+    "ts": "2026-11-01T00:05:13+00:00"
+   },
+   "tries": 1,
+   "at": 1793491514.9515724
   }
  ],
  "epic_fp": {
