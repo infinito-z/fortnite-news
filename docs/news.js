@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzannn6e2k2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍊 FORTNITE x ONE PIECE — Jogabilidade rápida da Tangerina da Nami de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Restaure Vida e Escudo com esta deliciosa fruta cítrica. Velocidade de movimento aumentada na água.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzannn6e2k2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-01T11:00:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihlskhig74l37w2c3o6iqvaqx2abf3rbcvzbdhnbq4nxbx3jlplia",
   "tag": "Filtración",
   "ts": "2026-10-24T21:01:50+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynky556us2v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 FORTNITE x INOXTAG — Primeira visão dos cosméticos Série Ícones de Inoxtag para o Fortnite. Na Loja em 26 de outubro!\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynky556us2v\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T20:49:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T10:58:59+00:00";
+window.NEWS_UPDATED = "2026-11-01T11:00:05+00:00";
