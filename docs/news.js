@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6ygeqrs25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎉 FORTNITE x VIVA: A VIDA É UMA FESTA — Primeira visão do Mascote Dante de Viva: A Vida é uma Festa (Coco) para a Loja do Fortnite. Disponível assim que os servidores retornarem nesta manhã!\n\n📸: x/FireMonkey | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6ygeqrs25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieepahvufeimbky3zmtzzjede2nzl4tcx4fijtispkkhqkeqdxamm",
+  "tag": "Filtración",
+  "ts": "2026-11-01T06:36:06+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6xz62g225",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ PREÇOS — FORTNITE x ONE PIECE\n\n· Pacotão One Piece: 4.000\n· Monkey D. Luffy: 1.800\n· Nami e Usopp: 1.600 cada\n· Mochilas: entre 300 e 400\n· Picaretas: entre 500 e 800\n· Asa-delta: 1.200\n· Gesto: 300\n\nDisponíveis assim que os servidores retornarem nesta manhã! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6xz62g225\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib256tmfobbsnt4dtxxvfxryamktocsehwm6gqobx2albeyvvjvje",
+  "tag": "Filtración",
+  "ts": "2026-11-01T06:36:06+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6wqadbs25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifq333gs5aycasgikxuermf6geeuclqbyhimxbxl6d252snib756e",
   "tag": "Filtración",
   "ts": "2026-10-24T13:35:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mymsili2622h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 TEASER OFICIAL — Fortnite: Caçadores de Tesouros\n\nO Capítulo 7: Temporada Mini 1 do Fortnite deve se chamar 'Caçadores de Tesouros' em português e começa em 1° de novembro!\n\nPrepare-se para “a maior caça ao tesouro da realidade!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mymsili2622h\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T13:31:28+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myms43kyck2t",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 TEASER C7:TM1 — O estágio 8 do Baú do Tesouro do Capítulo 7: Temporada Mini 1 foi ativado na Ilha do Battle Royale, próximo ao Largo Alagado!\n\n🎶 Miku — Anamanaguchi e Hatsune Miku\n\nO Baú está 100% carregado e segue alternando entre as músicas de Miku e Teto! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myms43kyck2t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-24T13:26:38+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T06:35:20+00:00";
+window.NEWS_UPDATED = "2026-11-01T06:36:07+00:00";
