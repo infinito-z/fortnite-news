@@ -1035,7 +1035,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6ygeqrs25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6xz62g225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6ygeqrs25",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6xz62g225"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6xz62g225",
+  "news:28e60681d2caa0a78710cdc5196407ca",
+  "news:28e60681d2caa0a78710cdc5196407ca"
  ],
  "first_run": false,
  "seeded": [
@@ -1048,7 +1050,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:28e60681d2caa0a78710cdc5196407ca",
+    "kind": "news",
+    "title": "Traje The Slender Man",
+    "text": "🚨 NOTICIA: Traje The Slender Man\nUna cara sin rasgos observa desde las sombras Ponte en la piel de la leyenda de internet con el traje The Slender Man.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/4c288571a97d4590bc744d2b0cf0bfaf.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-01T06:50:04+00:00"
+   },
+   "tries": 1,
+   "at": 1793515804.8277721
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T05:23:44.718Z",
   "sections": {
