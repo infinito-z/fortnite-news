@@ -1081,7 +1081,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao5tnpv22o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao5tnpv22o"
  ],
  "first_run": false,
  "seeded": [
@@ -1120,6 +1122,19 @@
    },
    "tries": 2,
    "at": 1793531275.4601078
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao5tnpv22o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💥 NOVO ITEM — Jogabilidade rápida do Rifle Repetidor Trabuco do Fortnite: Caçadores de Tesouro!\n\n“Rifle de assalto totalmente automático de disparo rápido. Libera uma rajada de tiros em rápida sucessão. Melhor uso a média distância e letal nas mãos certas.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzao5tnpv22o\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T11:09:07+00:00"
+   },
+   "tries": 1,
+   "at": 1793531348.2661543
   }
  ],
  "epic_fp": {
