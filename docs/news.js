@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:8157d51e78ab8ed3",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 119 novedades. Lo más fuerte:\n• Lote de Mariah Carey — 2.800 paVos\n• Matador — 1.500 paVos\n• Rosa — 1.500 paVos\n• Mariah Carey — 1.500 paVos\n• León — 1.500 paVos\n• Ariete acústico — 1.200 paVos\n…y 113 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/f926aa6282c8c303/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-01T05:04:17+00:00"
+ },
+ {
   "id": "status:component:wf1ys2kx4pxc:under_maintenance:2019-11-15T19:06:39.863Z",
   "kind": "status",
   "title": "Fortnite: en mantenimiento",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_lonestar/icon.png",
   "tag": "Cosmético",
   "ts": "2026-10-24T00:01:14+00:00"
- },
- {
-  "id": "shop:08ebd0e6d8acd403",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 41 cosas nuevas:\n• Lote de Equipo escultor — 2.600 paVos\n• Lote de Beetlejuice — 2.400 paVos\n• Lote del Caballero esmeralda de la FNCS — 1.500 paVos\n• Ave solar — 1.200 paVos\n• Parche — 1.200 paVos\n• Rey cangrejo — 1.200 paVos\n…y 35 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/266a23764d411c65/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-24T00:01:12+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T05:01:40+00:00";
+window.NEWS_UPDATED = "2026-11-01T05:04:17+00:00";

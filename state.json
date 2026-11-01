@@ -999,7 +999,9 @@
   "status:component:wf1ys2kx4pxc:under_maintenance:2019-11-15T19:06:39.863Z",
   "status:component:gc4ccpj8dz48:under_maintenance:2024-02-16T19:44:04.839Z",
   "status:component:5qdplhgvqxfn:under_maintenance:2024-02-16T19:44:18.761Z",
-  "status:component:vyf8y8054472:under_maintenance:2026-11-01T05:00:12.041Z"
+  "status:component:vyf8y8054472:under_maintenance:2026-11-01T05:00:12.041Z",
+  "shop:8157d51e78ab8ed3",
+  "shop:8157d51e78ab8ed3"
  ],
  "first_run": false,
  "seeded": [
@@ -1077,6 +1079,19 @@
    },
    "tries": 1,
    "at": 1793509300.5833414
+  },
+  {
+   "item": {
+    "id": "shop:8157d51e78ab8ed3",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 119 novedades. Lo más fuerte:\n• Lote de Mariah Carey — 2.800 paVos\n• Matador — 1.500 paVos\n• Rosa — 1.500 paVos\n• Mariah Carey — 1.500 paVos\n• León — 1.500 paVos\n• Ariete acústico — 1.200 paVos\n…y 113 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/f926aa6282c8c303/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-01T05:04:17+00:00"
+   },
+   "tries": 1,
+   "at": 1793509457.3594058
   }
  ],
  "epic_fp": {
