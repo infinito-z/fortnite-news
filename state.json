@@ -1069,7 +1069,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaniekzo22o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaniekzo22o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o"
  ],
  "first_run": false,
  "seeded": [
@@ -1134,6 +1136,19 @@
    },
    "tries": 2,
    "at": 1793530712.6868563
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚔️ FORTNITE x ONE PIECE — Jogabilidade rápida do Estilo Três Espadas do Zoro de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Empunhe três katanas e torne-se o maior espadachim do mundo!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanlioobc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T10:58:59+00:00"
+   },
+   "tries": 1,
+   "at": 1793530739.4731612
   }
  ],
  "epic_fp": {

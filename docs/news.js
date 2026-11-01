@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanlioobc2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚔️ FORTNITE x ONE PIECE — Jogabilidade rápida do Estilo Três Espadas do Zoro de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Empunhe três katanas e torne-se o maior espadachim do mundo!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanlioobc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-01T10:58:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanjtdzxk2o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-24T20:49:45+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mynkx36nds2v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 FORTNITE x INOXTAG — Todos os cosméticos do Inoxtag para a Série Ícones do Fortnite foram descriptografados e chegam à Loja em 26 de outubro (preços desconhecidos).\n\n📁 Pak1029 | 65.3 MB | Traje e mais\n📁 Pak1027 | 851.92 KB | Tela | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mynkx36nds2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicl5iacmhekftpoj5wboyncstn5ps4g6kgvkfsnowtroaiza655fq",
-  "tag": "Filtración",
-  "ts": "2026-10-24T20:49:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T10:57:58+00:00";
+window.NEWS_UPDATED = "2026-11-01T10:58:59+00:00";
