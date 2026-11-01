@@ -1284,21 +1284,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:ad3b01a32d",
-    "kind": "cosmetic",
-    "title": "175 cosméticos nuevos",
-    "text": "👀 Se filtraron 175 cosméticos. Destacan: Lil Uzi Vert de gira, Rocky Rugahand, Nami, Roronoa Zoro, Monkey D. Luffy, Óscar el Corsario. Ahorra paVos desde YA 🗿",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_rookgeckorye/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-01T23:49:12+00:00"
-   },
-   "tries": 2,
-   "at": 1793577107.4455354
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T21:25:04.091Z",
   "sections": {
