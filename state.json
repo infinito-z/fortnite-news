@@ -1104,21 +1104,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzbeibucd22m",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n⌨️ Fortnite investigating an issue where the Toggle Inventory and Toggle Map keybinds aren’t responding or letting you rebind. I’ll share an update once it’s fixed.\n\nWorkaround: Update your keybinds in the Lobby and they’ll work right away.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzbeibucd22m",
-    "image": null,
-    "tag": "Estado",
-    "ts": "2026-11-01T17:47:04+00:00"
-   },
-   "tries": 2,
-   "at": 1793555380.7767048
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-01T08:28:58.509Z",
   "sections": {
