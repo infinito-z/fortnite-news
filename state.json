@@ -1065,7 +1065,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzane4zey22o",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanfqpcr22o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanfqpcr22o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanfqpcr22o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaniekzo22o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaniekzo22o"
  ],
  "first_run": false,
  "seeded": [
@@ -1104,6 +1106,19 @@
    },
    "tries": 1,
    "at": 1793530572.1160357
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaniekzo22o",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🔥 FORTNITE x ONE PIECE — Jogabilidade da Mera Mera no Mi de One Piece no Fortnite: Caçadores de Tesouro!\n\nTransforme-se no Ace ao usar a Mera Mera no Mi e use suas habilidades. Você receberá dano ao entrar na água. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzaniekzo22o\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-01T10:57:23+00:00"
+   },
+   "tries": 1,
+   "at": 1793530644.752539
   }
  ],
  "epic_fp": {
