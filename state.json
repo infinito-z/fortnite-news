@@ -1275,7 +1275,11 @@
   "shop:8b17f766bfcf5bbd",
   "shop:8b17f766bfcf5bbd",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjf6qtc23",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjf6qtc23"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjf6qtc23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjwfsmk23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjwfsmk23"
  ],
  "first_run": false,
  "seeded": [
@@ -1314,6 +1318,32 @@
    },
    "tries": 1,
    "at": 1793577801.7935472
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nCuidado com ela, pois as garras são bem afiadas. Mulher-Gato Zero e sua Picareta Garra de Gancho da Mulher-Gato retornam à Loja do Fortnite até 06 de novembro! 🐈‍⬛🐾\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzkd3d6k23\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiabs77ent3h27b6lm7llqwnr2vnq2oyxnp7pd25becdghznuvdw6u",
+    "tag": "Filtración",
+    "ts": "2026-11-02T00:03:53+00:00"
+   },
+   "tries": 1,
+   "at": 1793577833.7746372
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjwfsmk23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nToque o terror com a primeira e única! A Arlequina e seus acessórios da DC estão de volta à Loja do Fortnite até 06 de novembro! 🃏🤪\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzjwfsmk23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid4zs2g4vd4z6fgx2ryqo5ethepgkx63jocbh7o6ka2v7wm6pgxky",
+    "tag": "Filtración",
+    "ts": "2026-11-02T00:03:53+00:00"
+   },
+   "tries": 1,
+   "at": 1793577833.7746372
   }
  ],
  "epic_fp": {

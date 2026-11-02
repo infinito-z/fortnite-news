@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nCuidado com ela, pois as garras são bem afiadas. Mulher-Gato Zero e sua Picareta Garra de Gancho da Mulher-Gato retornam à Loja do Fortnite até 06 de novembro! 🐈‍⬛🐾\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzkd3d6k23\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiabs77ent3h27b6lm7llqwnr2vnq2oyxnp7pd25becdghznuvdw6u",
+  "tag": "Filtración",
+  "ts": "2026-11-02T00:03:53+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjwfsmk23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nToque o terror com a primeira e única! A Arlequina e seus acessórios da DC estão de volta à Loja do Fortnite até 06 de novembro! 🃏🤪\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzjwfsmk23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid4zs2g4vd4z6fgx2ryqo5ethepgkx63jocbh7o6ka2v7wm6pgxky",
+  "tag": "Filtración",
+  "ts": "2026-11-02T00:03:53+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjf6qtc23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/825793390a211675/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-26T00:01:50+00:00"
- },
- {
-  "id": "news:2f1524ccf702c2339f07b70dd48f3e1e",
-  "kind": "news",
-  "title": "En directo: Copa de ídolos de Inoxtag",
-  "text": "⚡ Ojo, ojo: En directo: Copa de ídolos de Inoxtag\n¡Participa ya en la Copa de ídolos de Inoxtag de dúos de Battle Royale o de dúos de Cero construcción! Los jugadores con mayor puntuación en su región obtendrán el traje de Inoxtag. Tienes más información en la pestaña Competir.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/8f6ca6fc16d344abb22b678b4093fd2d.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-25T23:01:27+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqcqoyj2c2z",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Doja Cat (5x)\n· O Telefone Preto 2 (2x)\n· Assuma o Controle (7x)\n· Embalo de Festa [Gestos] (2x)\n· Vestiário de Horrores (8x)\n· Ilimitado [Heróis Personalizáveis] (3x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqcqoyj2c2z\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicxxj2bzg6445bt2vd56xwy5fh5ovo32w253qfhhz5a3pkgbjntea",
-  "tag": "Filtración",
-  "ts": "2026-10-25T23:00:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T00:03:21+00:00";
+window.NEWS_UPDATED = "2026-11-02T00:03:53+00:00";
