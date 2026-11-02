@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdvl64q4c2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 O Capítulo 6: Temporada 2 — Fora da Lei completa 18 meses de seu término hoje, 02 de novembro!\n\nSendo assim, os cosméticos do Passe do C6:T2 já são elegíveis para retornar à Loja, mas é incerto quando isso acontecerá. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzdvl64q4c2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifkw3ybwnouontcem6e5kndnme2r4svuigmhyapxczoabqaan4f7q",
+  "tag": "Filtración",
+  "ts": "2026-11-02T17:57:52+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzduugkqoc2v",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5mz5flqljluvnxlajdu4oac3lsce3sggqotwmhierfjhnji7aui",
   "tag": "Filtración",
   "ts": "2026-10-26T13:35:02+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrs6mkdcs2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:T4\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Códigos de Trapaça surgem com mais frequência pela Ilha\n\n⏰ Disponível até amanhã (27) às 10h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrs6mkdcs2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7m5r7wl24di7bdqavthoazeed3done3unakkw4swelrf5jn5uwe",
-  "tag": "Filtración",
-  "ts": "2026-10-26T13:09:51+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T17:45:23+00:00";
+window.NEWS_UPDATED = "2026-11-02T17:57:53+00:00";
