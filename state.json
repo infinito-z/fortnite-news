@@ -1316,21 +1316,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Arknights: Endfield (1x)\n· Rambo (2x)\n· Vestiário do Oatley (2x)\n· Esquadrão do Som [Gestos] (2x)\n· Caçadores de Tesouro (6x)\n· Amplificador de Sinal (3x)\n· Estilo Top (4x)\n· Nem Suei (2x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzeggrat6c2g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiecrtzuhdwq6d2sbj2n44sba6a35zcubitzrudu6huyyseav5erp4",
-    "tag": "Filtración",
-    "ts": "2026-11-02T23:00:09+00:00"
-   },
-   "tries": 2,
-   "at": 1793660567.9456937
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
