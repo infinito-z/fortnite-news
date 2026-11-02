@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzc6q5qio22h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Evento Saudações, Nossos Conquistadores Alienígenas de Os Simpsons ocorreu 1 ANO atrás! 🛸\n\nApós o Fragmento do Ponto Zero ser removido da Presença Sombria, uma indecisão de destinos levou Jones e Valentia junto com Kang e Kodos para a Ilha de Springfield! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzc6q5qio22h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-02T01:36:40+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibnxvifeyvf7xlt2yhp34exaydwpfpbp4es2faq2hjfkdjwvctatq",
   "tag": "Filtración",
   "ts": "2026-10-26T00:05:09+00:00"
- },
- {
-  "id": "shop:82977d7b6ba817b6",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 76 novedades. Lo más fuerte:\n• Lamborghini Huracán STO — 3.500 paVos\n• Lote de Doja Cat — 3.200 paVos\n• Lote de El Captor — 2.500 paVos\n• Lote de Bombardera brillante fractal — 2.000 paVos\n• Lote de Midas fractal — 2.000 paVos\n• Instigadora — 1.800 paVos\n…y 70 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/825793390a211675/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-26T00:01:50+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T00:04:35+00:00";
+window.NEWS_UPDATED = "2026-11-02T01:36:41+00:00";
