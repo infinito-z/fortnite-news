@@ -1314,21 +1314,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "epic:dynamicbackgrounds:e512ef5a32ce",
-    "kind": "epic",
-    "title": "Epic actualizó: fondos dinámicos",
-    "text": "🛰️ Epic actualizó «fondos dinámicos» en el servidor de contenido del juego.",
-    "image": null,
-    "tag": "Epic",
-    "ts": "2026-11-02T22:47:05+00:00"
-   },
-   "tries": 2,
-   "at": 1793659815.8205178
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T22:46:39.447Z",
   "sections": {
