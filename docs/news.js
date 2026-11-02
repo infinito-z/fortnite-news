@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzduugkqoc2v",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nOops! 👻 \nCursed Sprites showed up a little earlier than planned, so they’re temporarily disabled. They’ll be back this Saturday, November 7!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzduugkqoc2v",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
+  "tag": "Estado",
+  "ts": "2026-11-02T17:45:23+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdpi5kkcs2i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7m5r7wl24di7bdqavthoazeed3done3unakkw4swelrf5jn5uwe",
   "tag": "Filtración",
   "ts": "2026-10-26T13:09:51+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myrryfrx3k2q",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 3 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n· Nem tudo que tá lá dentro é um tesouro\n· Novos ares, novos mares\n· Tesouros perdidos aparecem nesta praia\n· Procurando o que perdeu? Tá aqui\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myrryfrx3k2q\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-26T13:07:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T16:08:52+00:00";
+window.NEWS_UPDATED = "2026-11-02T17:45:23+00:00";
