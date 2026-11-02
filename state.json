@@ -1271,7 +1271,9 @@
   "cosmetic:Wheel_RoutineBarley01",
   "cosmetic:Wheel_SandTote01",
   "cosmetic:Wheel_TondiInverted",
-  "cosmetic-batch:ad3b01a32d"
+  "cosmetic-batch:ad3b01a32d",
+  "shop:8b17f766bfcf5bbd",
+  "shop:8b17f766bfcf5bbd"
  ],
  "first_run": false,
  "seeded": [
@@ -1284,7 +1286,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:8b17f766bfcf5bbd",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 68 cosas nuevas:\n• Lote de Hora de aventuras — 3.800 paVos\n• Lote del Rey Hielo y Limoncio — 3.200 paVos\n• Chevrolet Corvette Stingray — 2.200 paVos\n• Hime — 2.000 paVos\n• Lote de Harley Quinn — 2.000 paVos\n• Cake la Gata — 1.600 paVos\n…y 62 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/21a8112a2c9e5e57/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-02T00:01:15+00:00"
+   },
+   "tries": 1,
+   "at": 1793577675.7721865
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-01T21:25:04.091Z",
   "sections": {

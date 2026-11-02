@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:8b17f766bfcf5bbd",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 68 cosas nuevas:\n• Lote de Hora de aventuras — 3.800 paVos\n• Lote del Rey Hielo y Limoncio — 3.200 paVos\n• Chevrolet Corvette Stingray — 2.200 paVos\n• Hime — 2.000 paVos\n• Lote de Harley Quinn — 2.000 paVos\n• Cake la Gata — 1.600 paVos\n…y 62 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/21a8112a2c9e5e57/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-02T00:01:15+00:00"
+ },
+ {
   "id": "cosmetic-batch:ad3b01a32d",
   "kind": "cosmetic",
   "title": "175 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdyc4yulffpwobcffpibbqob6s5y2aricenrlzuvtargbrhckp4u",
   "tag": "Filtración",
   "ts": "2026-10-25T22:13:15+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myptklc2xk2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏞️ FORTNITE x INOXTAG — Drops da Twitch disponíveis! #Fortnite\n\nResgate o Spray “Equipe Croutons” (30m) e a Tela “Vista do Inoxtag” no Fortnite ao assistir às transmissões dele na Twitch! Disponíveis até 28 de outubro às 0h59 BRT!\n\nLive: twitch.tv/inoxtag\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myptklc2xk2c\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicou4kh6tlhihslak665wo574ekujlureri64vw5g66b7vxwtt5dm",
-  "tag": "Filtración",
-  "ts": "2026-10-25T18:29:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-01T23:49:12+00:00";
+window.NEWS_UPDATED = "2026-11-02T00:01:15+00:00";
