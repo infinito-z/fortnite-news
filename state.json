@@ -1294,21 +1294,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzc6q5qio22h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Evento Saudações, Nossos Conquistadores Alienígenas de Os Simpsons ocorreu 1 ANO atrás! 🛸\n\nApós o Fragmento do Ponto Zero ser removido da Presença Sombria, uma indecisão de destinos levou Jones e Valentia junto com Kang e Kodos para a Ilha de Springfield! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzc6q5qio22h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-02T01:36:40+00:00"
-   },
-   "tries": 2,
-   "at": 1793583557.404574
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T00:17:00.307Z",
   "sections": {
