@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdih6yagc2o",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:TM1\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Baús Elementais e Cartazes de Elemental Procurado surgem com mais frequência\n\n⏰ Disponível até amanhã (3) às 11h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzdih6yagc2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlvlkksu5b3kosanxtmpqnw4p4vfofawtl3o3aoehdewyasgsihu",
+  "tag": "Filtración",
+  "ts": "2026-11-02T14:03:51+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzcab6dumk2a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-26T00:08:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqge4pk6s2s",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA vingança nunca morre. O Sequestrador de O Telefone Preto assombra eternamente a Loja do Fortnite até 29 de outubro! 📞\n\n💜  Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqge4pk6s2s\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigtacdtaru6ukalrks7u36ejt7vaa6z5gct7dqg7vgtwc5es6mfxi",
-  "tag": "Filtración",
-  "ts": "2026-10-26T00:05:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T02:03:58+00:00";
+window.NEWS_UPDATED = "2026-11-02T14:03:52+00:00";
