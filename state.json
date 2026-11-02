@@ -1287,7 +1287,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzcab6dumk2a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzcab6dumk2a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdih6yagc2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdih6yagc2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdih6yagc2o",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdojmjvks2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdojmjvks2l"
  ],
  "first_run": false,
  "seeded": [
@@ -1300,7 +1302,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdojmjvks2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Capítulo 2: Remix do Fortnite foi lançado 2 ANOS atrás! ✨🔥\n\nA Ilha do Capítulo 2 retornou reimaginada com a presença de alguns rappers, como Snoop Dogg, Eminem, Ice Spice e Juice WRLD. Recebemos o lançamento dos Calçados e um evento musical no final da temporada. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzdojmjvks2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-02T15:52:16+00:00"
+   },
+   "tries": 1,
+   "at": 1793634737.782845
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-02T00:17:00.307Z",
   "sections": {
