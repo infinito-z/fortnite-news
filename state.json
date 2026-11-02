@@ -1295,7 +1295,9 @@
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzduugkqoc2v",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzduugkqoc2v",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdvl64q4c2o",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdvl64q4c2o"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdvl64q4c2o",
+  "news:63daf37648f2ee26898f1415d7ae52d2",
+  "news:63daf37648f2ee26898f1415d7ae52d2"
  ],
  "first_run": false,
  "seeded": [
@@ -1308,7 +1310,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:63daf37648f2ee26898f1415d7ae52d2",
+    "kind": "news",
+    "title": "¡Te espera una aventura!",
+    "text": "⚡ Ojo, ojo: ¡Te espera una aventura!\nExplora Arlong Park de One Piece, navega por la Bahía Baratie o asalta El $.$. Rocky en esta misteriosa isla en forma de cráneo.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/0b3abf5d00144b8fbcd4544c4dbe2c75.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-02T18:41:10+00:00"
+   },
+   "tries": 1,
+   "at": 1793644870.0525494
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-02T18:02:26.095Z",
   "sections": {
