@@ -1303,21 +1303,8 @@
     "tag": "Filtración",
     "ts": "2026-11-02T00:03:20+00:00"
    },
-   "tries": 1,
-   "at": 1793577801.7935472
-  },
-  {
-   "item": {
-    "id": "shop:8b17f766bfcf5bbd",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 68 cosas nuevas:\n• Lote de Hora de aventuras — 3.800 paVos\n• Lote del Rey Hielo y Limoncio — 3.200 paVos\n• Chevrolet Corvette Stingray — 2.200 paVos\n• Hime — 2.000 paVos\n• Lote de Harley Quinn — 2.000 paVos\n• Cake la Gata — 1.600 paVos\n…y 62 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/21a8112a2c9e5e57/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-02T00:01:15+00:00"
-   },
    "tries": 2,
-   "at": 1793577830.1655695
+   "at": 1793578038.6517177
   },
   {
    "item": {
@@ -1329,8 +1316,8 @@
     "tag": "Filtración",
     "ts": "2026-11-02T00:04:34+00:00"
    },
-   "tries": 1,
-   "at": 1793577875.552129
+   "tries": 2,
+   "at": 1793578038.6517177
   },
   {
    "item": {
@@ -1342,8 +1329,8 @@
     "tag": "Filtración",
     "ts": "2026-11-02T00:04:34+00:00"
    },
-   "tries": 1,
-   "at": 1793577875.552129
+   "tries": 2,
+   "at": 1793578038.6517177
   }
  ],
  "epic_fp": {
