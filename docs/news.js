@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzcab6dumk2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nO Fortnite: Os Simpsons (C6:TM2) foi lançado 1 ANO atrás! 🟡🍩\n\nHomer Simpson tomou posse do Controle Remoto do Ponto Zero, causando um caos completo na Ilha do Battle Royale de Springfield. A temporada tornou-se um sucesso com mais de 80 MILHÕES de jogadores únicos. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzcab6dumk2a\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-02T02:03:57+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzc73ehpms2h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigtacdtaru6ukalrks7u36ejt7vaa6z5gct7dqg7vgtwc5es6mfxi",
   "tag": "Filtración",
   "ts": "2026-10-26T00:05:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myqgdu6tms2s",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nRapper, artista e rainha. A Doja Cat surge pra mandar a melodia com estilo e de um jeitinho assombrado na Loja do Fortnite até 30 de outubro! 🌹🎶\n\n🩷 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myqgdu6tms2s\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreies7yyl6h7vp6iij3xvtgladqiptgsos5kyxxy5z45f2vkq7akcpm",
-  "tag": "Filtración",
-  "ts": "2026-10-26T00:05:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T01:42:46+00:00";
+window.NEWS_UPDATED = "2026-11-02T02:03:58+00:00";
