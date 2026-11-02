@@ -1299,7 +1299,9 @@
   "news:63daf37648f2ee26898f1415d7ae52d2",
   "news:63daf37648f2ee26898f1415d7ae52d2",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mze4wba7722f",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mze4wba7722f"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mze4wba7722f",
+  "epic:dynamicbackgrounds:e512ef5a32ce",
+  "epic:dynamicbackgrounds:e512ef5a32ce"
  ],
  "first_run": false,
  "seeded": [
@@ -1312,12 +1314,26 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "epic:dynamicbackgrounds:e512ef5a32ce",
+    "kind": "epic",
+    "title": "Epic actualizó: fondos dinámicos",
+    "text": "🛰️ Epic actualizó «fondos dinámicos» en el servidor de contenido del juego.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-11-02T22:47:05+00:00"
+   },
+   "tries": 1,
+   "at": 1793659625.8321884
+  }
+ ],
  "epic_fp": {
-  "lastModified": "2026-11-02T18:02:26.095Z",
+  "lastModified": "2026-11-02T22:46:39.447Z",
   "sections": {
    "emergencynoticev2": "3beee393ad28ec6985553e73f5193f8c",
-   "dynamicbackgrounds": "ce0b5a01b33977b1e16a8760b604e0dd",
+   "dynamicbackgrounds": "e512ef5a32ce08685457c14b67e9cca7",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
    "playlistinformation": "4f9a658144dd899ef4a6dce36f195eb2"
@@ -1328,7 +1344,7 @@
     "mute_until": 0
    },
    "dynamicbackgrounds": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "lobby": {

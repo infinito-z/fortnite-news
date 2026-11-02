@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "epic:dynamicbackgrounds:e512ef5a32ce",
+  "kind": "epic",
+  "title": "Epic actualizó: fondos dinámicos",
+  "text": "🛰️ Epic actualizó «fondos dinámicos» en el servidor de contenido del juego.",
+  "image": null,
+  "tag": "Epic",
+  "ts": "2026-11-02T22:47:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mze4wba7722f",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidho5dsb72czgekqo45g4ny3ky7xnzl6hpe57isynqzmambt3p4fi",
   "tag": "Filtración",
   "ts": "2026-10-26T15:05:04+00:00"
- },
- {
-  "id": "cosmetic-batch:7f57dd05ce",
-  "kind": "cosmetic",
-  "title": "7 cosméticos nuevos",
-  "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: En blanco, En blanco, En blanco, En blanco, En blanco, En blanco. Tu billetera ya lloró 💸😭",
-  "image": null,
-  "tag": "Cosmético",
-  "ts": "2026-10-26T15:00:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T20:10:07+00:00";
+window.NEWS_UPDATED = "2026-11-02T22:47:05+00:00";
