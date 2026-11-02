@@ -1312,21 +1312,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mze4wba7722f",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ISHOWSPEED — O streamer iShowSpeed ganhará um novo Traje Série Ícones no Fortnite inspirado em Monkey D. Luffy de One Piece!\n\nEle foi exibido em um trailer promocional da colaboração no Japão ontem, 1° de novembro. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mze4wba7722f\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavv6stucz75au75ag7pjymnc4qb46ge7fst44airv56ehiwzsgne",
-    "tag": "Filtración",
-    "ts": "2026-11-02T20:10:06+00:00"
-   },
-   "tries": 2,
-   "at": 1793650366.3834612
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T18:02:26.095Z",
   "sections": {
