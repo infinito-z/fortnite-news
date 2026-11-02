@@ -1310,21 +1310,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:63daf37648f2ee26898f1415d7ae52d2",
-    "kind": "news",
-    "title": "¡Te espera una aventura!",
-    "text": "⚡ Ojo, ojo: ¡Te espera una aventura!\nExplora Arlong Park de One Piece, navega por la Bahía Baratie o asalta El $.$. Rocky en esta misteriosa isla en forma de cráneo.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/0b3abf5d00144b8fbcd4544c4dbe2c75.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-02T18:41:10+00:00"
-   },
-   "tries": 2,
-   "at": 1793645025.3033154
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T18:02:26.095Z",
   "sections": {
