@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgplxyk6s2w",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 ORIGINAIS — Todos os 6 Trajes originais adicionados na v43.00! #Fortnite\n\n· Jones Pirata — Passe\n· Líder da Equipe Kawaii — Passe\n· Charlotte Sensei — Passe\n· Capitão X — Passe (21/11)\n· Nemia, Presidente da Classe — Loja (??/11)\n· Corsário Oscar — Loja (??/11)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgplxyk6s2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie5g6bmxhq7qo47ykamlfj6dbb4joluptmiekp6lrjgj2z7zrytza",
+  "tag": "Filtración",
+  "ts": "2026-11-03T20:49:01+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgn6bxmtc26",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifkceb3433yo4eiw5pbfl4on4ci2yv5m4fvlhopnsosd63pmhtoey",
   "tag": "Filtración",
   "ts": "2026-10-27T13:00:24+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myswvdlsr22b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nDesempenho envolvente. O NASCAR Next Gen Ford Mustang demonstra potência na Loja do Fortnite por 2.200 V-Bucks até 05 de novembro! 🔥💨\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myswvdlsr22b\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihczc24srrlktdgabednteyim4ehyzrdr67buvtvnfhip6igwskqi",
-  "tag": "Filtración",
-  "ts": "2026-10-27T00:06:31+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T20:05:38+00:00";
+window.NEWS_UPDATED = "2026-11-03T20:49:02+00:00";
