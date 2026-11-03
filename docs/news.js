@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:641776a933375548",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 58 cosas nuevas:\n• Lote de Rambo — 2.200 paVos\n• Lote de taquilla de Oatley — 2.100 paVos\n• Aprendiz audaz — 1.500 paVos\n• Discípulo deportista — 1.500 paVos\n• Exploradora estudiosa — 1.500 paVos\n• Perlica — 1.500 paVos\n…y 52 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/954eb639ffabb4d8/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-03T00:01:52+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib6crwz6eod4epezfpdao3cibdkarxos5ubro45ei3vmsrrrx6u2i",
   "tag": "Filtración",
   "ts": "2026-10-26T15:51:37+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myryq7xylk26",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚘 FORTNITE x NASCAR — Primeira visão do Nascar Ford Mustang e seus acessórios no Fortnite. Na Loja nesta noite (preço desconhecido).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myryq7xylk26\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-26T15:06:37+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-02T23:00:10+00:00";
+window.NEWS_UPDATED = "2026-11-03T00:01:52+00:00";

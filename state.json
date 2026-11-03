@@ -1303,7 +1303,9 @@
   "epic:dynamicbackgrounds:e512ef5a32ce",
   "epic:dynamicbackgrounds:e512ef5a32ce",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g",
+  "shop:641776a933375548",
+  "shop:641776a933375548"
  ],
  "first_run": false,
  "seeded": [
@@ -1316,7 +1318,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:641776a933375548",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 58 cosas nuevas:\n• Lote de Rambo — 2.200 paVos\n• Lote de taquilla de Oatley — 2.100 paVos\n• Aprendiz audaz — 1.500 paVos\n• Discípulo deportista — 1.500 paVos\n• Exploradora estudiosa — 1.500 paVos\n• Perlica — 1.500 paVos\n…y 52 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/954eb639ffabb4d8/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-03T00:01:52+00:00"
+   },
+   "tries": 1,
+   "at": 1793664112.6793633
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
