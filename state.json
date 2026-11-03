@@ -1356,21 +1356,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgsywa5g22h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Guerreiras do K-Pop (3x)\n· O Mandaloriano [Customizável] (2x)\n· Snoop Dogg | Cadillac (1x)\n· Komodo [Chassi] (1x)\n· Estilo Top (6x)\n· Amplificador de Sinal (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgsywa5g22h\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidmjjqghysjxtitsr5yzoggpspdymxtokauekjx6eleey2qskr7tm",
-    "tag": "Filtración",
-    "ts": "2026-11-03T21:50:27+00:00"
-   },
-   "tries": 2,
-   "at": 1793742803.207684
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-03T21:42:55.205Z",
   "sections": {
