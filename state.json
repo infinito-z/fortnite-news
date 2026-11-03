@@ -1340,21 +1340,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekzegbxk2g",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆕 CALÇADOS — Primeira visão dos novos Calçados Crocs, Air Jordan, Vans, A$AP Rocky e Originais no jogo. Na Loja aos poucos nos próximos dias! \n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzekzegbxk2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-03T00:22:03+00:00"
-   },
-   "tries": 2,
-   "at": 1793665479.5588272
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
