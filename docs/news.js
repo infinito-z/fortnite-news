@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgn6bxmtc26",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n👊 FINALIZE SEUS OPONENTES — EM BREVE!\n\nA mecânica de finalizar oponentes deve chegar em breve ao jogo, talvez no Capítulo 8. Ela será similar a de outros jogos como Call of Duty e Apex Legends, e terá Tarefas e animações especiais!\n\nInfo: x/HYPEX e vixenovaa | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgn6bxmtc26\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfg5plp2cfzahoc66wxcmwpimno32n2j42hzmbarxpdkowcmvo6m",
+  "tag": "Filtración",
+  "ts": "2026-11-03T20:05:37+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzglgvxas22x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihczc24srrlktdgabednteyim4ehyzrdr67buvtvnfhip6igwskqi",
   "tag": "Filtración",
   "ts": "2026-10-27T00:06:31+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myswuj5nmc2b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nSer um fenômeno é apenas uma de suas características. Inoxtag e seus acessórios Série Ícones brilham na Loja do Fortnite até 05 de outubro! 🌟\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myswuj5nmc2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifn42h32xh367j3d3edyvefrngxknkxdlkbolhj6nzeiybs56nzdu",
-  "tag": "Filtración",
-  "ts": "2026-10-27T00:06:31+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T19:35:01+00:00";
+window.NEWS_UPDATED = "2026-11-03T20:05:38+00:00";
