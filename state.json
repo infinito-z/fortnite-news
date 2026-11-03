@@ -1331,7 +1331,9 @@
   "news:4b20333a374ca9151058fae60b0b1309",
   "news:50696b824e6abffc7b5dc907211647a7",
   "news:4b20333a374ca9151058fae60b0b1309",
-  "news:50696b824e6abffc7b5dc907211647a7"
+  "news:50696b824e6abffc7b5dc907211647a7",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgi5bjvw227",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgi5bjvw227"
  ],
  "first_run": false,
  "seeded": [
@@ -1344,7 +1346,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgi5bjvw227",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite Raiz foi lançado 3 ANOS atrás! 🗺️\n\nA Máquina do Tempo foi ativada, e fomos levados de volta à Ilha do Capítulo 1, onde tudo começou, porém, os acontecimentos não foram os mesmos, e algo parecia diferente. Ele trouxe o Passe Raiz (2023) e a Loja Raiz. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgi5bjvw227\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-03T18:36:22+00:00"
+   },
+   "tries": 1,
+   "at": 1793730983.7766812
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
