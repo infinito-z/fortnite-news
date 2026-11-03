@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek37e7fk2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacotão Vestiário do Oatley retornou à Loja por 2.100 V-Bucks até 05 de novembro! ✨\n\n· Traje Serenata\n· Gesto Suado\n· Asa-delta Prancha de Visão\n· Picareta Quebra Gelo\n· Envelopamento Linha de Varredura\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek37e7fk2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigfxhu6uqq453ttitf4qjlkyziclcovh4ynqyormx4otu3jxshpfy",
+  "tag": "Filtración",
+  "ts": "2026-11-03T00:04:52+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek2vfyrs2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nPara sobreviver à guerra, você tem que se tornar a guerra. John Rambo e seus acessórios vencem todas as batalhas na Loja do Fortnite até 07 de novembro! 💥🗡️\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek2vfyrs2e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihd7rxidlz34jnolc744lkwgcrsbnhdyidxiz5vjn5itaun7g3f5q",
+  "tag": "Filtración",
+  "ts": "2026-11-03T00:04:52+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek2mivqc2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSupervisora das Indústrias Endfield. Perlica de Arknights: Endfield traz energia para a Loja do Fortnite por 1.500 V-Bucks até 06 de novembro! ⚡✨\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek2mivqc2e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigzzeqzkod5gzymbbyj5hryla463lvh34c2jqbdodjdf362bos2oy",
+  "tag": "Filtración",
+  "ts": "2026-11-03T00:04:52+00:00"
+ },
+ {
   "id": "cosmetic-batch:598c860883",
   "kind": "cosmetic",
   "title": "7 cosméticos nuevos",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig73gnnyk5vrhj4tpdzg3pvvdio5fp6hb7t75ugfpzsajmofi2q4e",
   "tag": "Filtración",
   "ts": "2026-10-26T18:08:13+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys6juvu7k2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FENÔMENO! A Green Hill Zone de Sonic na Ilha do Capítulo 7: Temporada 4 foi o local MAIS POPULAR da temporada!\n\nCerca de 14% de todos os pousos em pontos denominados foram lá! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mys6juvu7k2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig7hnqkun435dg4dojqpjfvrjsidlobsxh4yfcfatcrdwjadehn6m",
-  "tag": "Filtración",
-  "ts": "2026-10-26T16:50:50+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mys5vyduek2v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🔥 VEIO AÍ! As estatísticas dos jogadores do Capítulo 7: Temporada 4 já estão disponíveis, como foram as suas? #Fortnite\n\nConfira em: fortnite.com/recap\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mys5vyduek2v\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibh2qmmjdh3zfdgw3x5ihfnvi2j4sjwyuxq4vt4sa2kqfsqpvfhvq",
-  "tag": "Filtración",
-  "ts": "2026-10-26T16:39:46+00:00"
- },
- {
-  "id": "news:df3b2a8124ba417ce0ee5f0ec9b7b4b9",
-  "kind": "news",
-  "title": "Final en solitario de la FNCS ya disponible en Europa",
-  "text": "🚨 NOTICIA: Final en solitario de la FNCS ya disponible en Europa\nPásate ya por Aterrizaje de leyendas y sé testigo de la competición entre los mejores jugadores de Battle Royale en solitario por el título de campeón de la FNCS en la FNCS en solitario.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/11d6802f58ff4c1f95e4fd39c1ab2b06.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-26T16:32:27+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T00:01:55+00:00";
+window.NEWS_UPDATED = "2026-11-03T00:04:52+00:00";
