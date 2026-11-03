@@ -1347,8 +1347,8 @@
     "tag": "Filtración",
     "ts": "2026-11-03T00:04:52+00:00"
    },
-   "tries": 1,
-   "at": 1793664292.8011851
+   "tries": 2,
+   "at": 1793664527.4919815
   },
   {
    "item": {
@@ -1360,8 +1360,8 @@
     "tag": "Filtración",
     "ts": "2026-11-03T00:04:52+00:00"
    },
-   "tries": 1,
-   "at": 1793664292.8011851
+   "tries": 2,
+   "at": 1793664527.4919815
   },
   {
    "item": {
@@ -1373,34 +1373,8 @@
     "tag": "Filtración",
     "ts": "2026-11-03T00:04:52+00:00"
    },
-   "tries": 1,
-   "at": 1793664292.8011851
-  },
-  {
-   "item": {
-    "id": "shop:641776a933375548",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 58 cosas nuevas:\n• Lote de Rambo — 2.200 paVos\n• Lote de taquilla de Oatley — 2.100 paVos\n• Aprendiz audaz — 1.500 paVos\n• Discípulo deportista — 1.500 paVos\n• Exploradora estudiosa — 1.500 paVos\n• Perlica — 1.500 paVos\n…y 52 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/954eb639ffabb4d8/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-03T00:01:52+00:00"
-   },
    "tries": 2,
-   "at": 1793664322.1948802
-  },
-  {
-   "item": {
-    "id": "cosmetic-batch:598c860883",
-    "kind": "cosmetic",
-    "title": "7 cosméticos nuevos",
-    "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Crocs Echo Clog \"Black\", Air Jordan 11 Retro OG \"Space Jam\", Vans x Lil Uzi Vert LX Old Skool 36, Kappa kappas, Pantuflas de Nemia, A$AP ROCKY X PUMA Straycat V6 \"Red Flash/Black\". Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/shoes_charmquake/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-03T00:01:55+00:00"
-   },
-   "tries": 2,
-   "at": 1793664322.1948802
+   "at": 1793664527.4919815
   },
   {
    "item": {
@@ -1412,8 +1386,8 @@
     "tag": "Filtración",
     "ts": "2026-11-03T00:06:08+00:00"
    },
-   "tries": 1,
-   "at": 1793664369.4146707
+   "tries": 2,
+   "at": 1793664527.4919815
   },
   {
    "item": {
@@ -1425,8 +1399,8 @@
     "tag": "Filtración",
     "ts": "2026-11-03T00:06:08+00:00"
    },
-   "tries": 1,
-   "at": 1793664369.4146707
+   "tries": 2,
+   "at": 1793664527.4919815
   }
  ],
  "epic_fp": {
