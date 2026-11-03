@@ -1327,7 +1327,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekdeurds2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekdeurds2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekzegbxk2g",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekzegbxk2g"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekzegbxk2g",
+  "news:4b20333a374ca9151058fae60b0b1309",
+  "news:50696b824e6abffc7b5dc907211647a7",
+  "news:4b20333a374ca9151058fae60b0b1309",
+  "news:50696b824e6abffc7b5dc907211647a7"
  ],
  "first_run": false,
  "seeded": [
@@ -1340,7 +1344,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:4b20333a374ca9151058fae60b0b1309",
+    "kind": "news",
+    "title": "Ala delta Going Merry",
+    "text": "👀 Epic acaba de soltar esto: Ala delta Going Merry\n¡Navega hacia la victoria y traza tu propio rumbo con el ala delta Going Merry!",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/0bc1963f68844b509dbc4bbab42017ef.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-03T18:30:38+00:00"
+   },
+   "tries": 1,
+   "at": 1793730638.41567
+  },
+  {
+   "item": {
+    "id": "news:50696b824e6abffc7b5dc907211647a7",
+    "kind": "news",
+    "title": "SCALE",
+    "text": "⚡ Ojo, ojo: SCALE\nEmbárcate en un juego de terror de extracción y físicas cooperativo con SCALE, creado por Monki. Busca objetos valiosos, transporta el botín usando la física y sobrevive a monstruos con comportamientos únicos en equipo. Alcanza la cuota y mejora tu equipamiento para seguir avanzando.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/c179e92ae8d943fcab9cb37bc9840525.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-03T18:30:38+00:00"
+   },
+   "tries": 1,
+   "at": 1793730638.41567
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
