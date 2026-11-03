@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 06 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek3jcntc2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid6v75fly656jxbegrndtwac4n7sm7tlzqwcrp4gmcdusoh5k3uje",
   "tag": "Filtración",
-  "ts": "2026-11-03T00:06:05+00:00"
+  "ts": "2026-11-03T00:06:08+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzejzrjxi22z",
@@ -15,7 +15,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nHands off, Gabriela! O Gesto Série Ícones “Gabriela” com a música de mesmo nome de KATSEYE retornou à Loja do Fortnite até 06 de novembro! 🙌🌺\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzejzrjxi22z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-11-03T00:06:05+00:00"
+  "ts": "2026-11-03T00:06:08+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek37e7fk2e",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-26T19:17:16+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T00:06:06+00:00";
+window.NEWS_UPDATED = "2026-11-03T00:06:09+00:00";
