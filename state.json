@@ -1348,21 +1348,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzglgvxas22x",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐦‍🔥 FORTNITE x ANGRY BIRDS — EM BREVE!\n\nUma colaboração com Angry Birds 3: O Filme chegará em breve ao Fortnite, pois a logo do jogo foi vista no teaser trailer do filme, e o perfil do Fortnite comentou sobre!\n\nO filme estreia em 1° de janeiro de 2027 no Brasil. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzglgvxas22x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieonf76jco2fxopukkyo6f62tua7aootmc5pa3mdjijtirya3z3t4",
-    "tag": "Filtración",
-    "ts": "2026-11-03T19:35:00+00:00"
-   },
-   "tries": 2,
-   "at": 1793734650.4832869
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-02T22:53:50.157Z",
   "sections": {
