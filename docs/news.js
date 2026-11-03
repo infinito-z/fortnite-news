@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Crocs Echo Clog \"Black\", Air Jordan 11 Retro OG \"Space Jam\", Vans x Lil Uzi Vert LX Old Skool 36, Kappa kappas, Pantuflas de Nemia, A$AP ROCKY X PUMA Straycat V6 \"Red Flash/Black\". Tu billetera ya lloró 💸😭",
   "image": "https://fortnite-api.com/images/cosmetics/br/shoes_charmquake/featured.png",
   "tag": "Cosmético",
-  "ts": "2026-11-03T00:02:27+00:00"
+  "ts": "2026-11-03T00:01:55+00:00"
  },
  {
   "id": "shop:641776a933375548",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-26T16:32:27+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T00:02:27+00:00";
+window.NEWS_UPDATED = "2026-11-03T00:01:55+00:00";
