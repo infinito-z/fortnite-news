@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎬 TRAILER — FORTNITE x A$AP ROCKY\n\nO rapper A$AP Rocky deve ganhar HQs temáticas do Fortnite: Caçadores de Tesouro em breve!\n\nAlém disso, seus acessórios Série Ícones chegam à Loja amanhã, 05 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzik2kphf224\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-04T14:15:33+00:00"
+ },
+ {
   "id": "news:8a0403da078d411d0657afb28a9bc12d",
   "kind": "news",
   "title": "Frutas del diablo por toda la isla",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiezlg4uvbnpswo6dpfvobnpolm42y5v45zfqf3ivrytjdemr7lhce",
   "tag": "Filtración",
   "ts": "2026-10-27T13:58:49+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuffbt5hk2j",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE ORIGINAL — Valentia e Jones estão confirmados para receber novos Trajes no Fortnite: Caçadores de Tesouro que começa em 1° de novembro!\n\nA maior aventura de todos os tempos começa em breve! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuffbt5hk2j\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig2ohayxcptpnqtkpsuhawa6dd6ed647ij3pjlrpeelkx4a6atr5m",
-  "tag": "Filtración",
-  "ts": "2026-10-27T13:58:49+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T14:01:01+00:00";
+window.NEWS_UPDATED = "2026-11-04T14:15:34+00:00";
