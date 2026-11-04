@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7zdpif25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ BÔNUS — Todos os estilos Legado do Clube serão entregues aos jogadores que possuem os respectivos Trajes em 05 de dezembro com as novas mudanças. \n\nSendo assim, após a descontinuação dos Trajes você não precisará mais assinar para coletar o restante dos estilos. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip7zdpif25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibuptybjdvs2apnnjc5e67bcxs2j7c4wmymxgdut2tee2huugg64i",
+  "tag": "Filtración",
+  "ts": "2026-11-04T15:48:09+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7r2qxv25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiacosvwwirhjtdfl2zxromjysfpkbb3icxcqfc72qe3phswbn7js4",
   "tag": "Filtración",
   "ts": "2026-10-27T22:49:20+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczlztzc2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 28 de outubro!\n\n· Predador (2x)\n· Vestiário do Mexify (2x)\n· Vestiário de Horrores (16x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvczlztzc2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibtlvqrvobxz4org6mu3cpkpwas5edbbi5fvdy4zou6reas3xuuhq",
-  "tag": "Filtración",
-  "ts": "2026-10-27T22:49:20+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T15:47:39+00:00";
+window.NEWS_UPDATED = "2026-11-04T15:48:10+00:00";
