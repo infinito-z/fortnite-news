@@ -1357,7 +1357,9 @@
   "news:8a0403da078d411d0657afb28a9bc12d",
   "news:8a0403da078d411d0657afb28a9bc12d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t"
  ],
  "first_run": false,
  "seeded": [
@@ -1370,7 +1372,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — chegando à Loja em 05 de novembro! #Fortnite\n\n— Pacotão A$AP Rocky:\n· 2 Trajes\n· 2 Mochilas\n· 1 Picareta\n· 1 Microfone\n· 2 Gestos\n· 1 Envelopamento\n· 1 Asa-delta\n· 2 Calçados\n\n— Pacotão Músicas do A$AP Rocky:\n· 3 Músicas\n\n💰 Os preços são desconhecidos!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzikfttu322t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig2dvgxgsbxcdjbd3jo54gqtzs4xtfl5fxcoovdoollicujocvjji",
+    "tag": "Filtración",
+    "ts": "2026-11-04T14:22:04+00:00"
+   },
+   "tries": 1,
+   "at": 1793802124.9828427
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-03T21:42:55.205Z",
   "sections": {
