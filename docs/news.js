@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzilege76s23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FORTNITE x BUGATTI — O perfil oficial do Rocket League começou a sugerir o tão aguardado lançamento da Bugatti Centodieci na Loja em 07 de novembro.\n\nHá alguns dias, alguns jogadores receberam as Rodas dela no Fortnite após a remoção meses atrás. Será que vem aí?! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzilege76s23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiay5vccga5d75omt5omr4n7xq5ujvstqxz57j7s3jokxoit2zzi44",
+  "tag": "Filtración",
+  "ts": "2026-11-04T14:39:06+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-27T14:24:56+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myufg3e4zc2j",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ TRAJES — Todos os novos Trajes exibidos no Trailer e Key Art do Fortnite: Caçadores de Tesouro que começa em 1° de novembro! #Fortnite\n\n· Luffy, Zoro, Nami, Usopp, Sanji e Buggy\n· Hatsune Miku, Kasane Teto e A$AP Rocky\n· Valentia, Jones, Charlotte e Líder da Equipe de Abraços\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myufg3e4zc2j\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif7t3szrzgqtl5gx4uoyjgwk32e726nfmlxtvmjun33is64laiqfq",
-  "tag": "Filtración",
-  "ts": "2026-10-27T13:59:39+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T14:21:46+00:00";
+window.NEWS_UPDATED = "2026-11-04T14:39:07+00:00";

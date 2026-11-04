@@ -1359,7 +1359,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzilege76s23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzilege76s23"
  ],
  "first_run": false,
  "seeded": [
@@ -1372,7 +1374,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzilege76s23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FORTNITE x BUGATTI — O perfil oficial do Rocket League começou a sugerir o tão aguardado lançamento da Bugatti Centodieci na Loja em 07 de novembro.\n\nHá alguns dias, alguns jogadores receberam as Rodas dela no Fortnite após a remoção meses atrás. Será que vem aí?! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzilege76s23\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiay5vccga5d75omt5omr4n7xq5ujvstqxz57j7s3jokxoit2zzi44",
+    "tag": "Filtración",
+    "ts": "2026-11-04T14:39:06+00:00"
+   },
+   "tries": 1,
+   "at": 1793803147.5970485
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-03T21:42:55.205Z",
   "sections": {
