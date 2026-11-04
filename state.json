@@ -1343,7 +1343,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgrzh2qls2w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgrzh2qls2w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgsywa5g22h",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgsywa5g22h"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgsywa5g22h",
+  "shop:94f39b9cb7371941",
+  "shop:94f39b9cb7371941"
  ],
  "first_run": false,
  "seeded": [
@@ -1356,7 +1358,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:94f39b9cb7371941",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 39 cosas nuevas:\n• Lote de Las guerreras K-pop — 3.500 paVos\n• Snoop Dogg | Cadillac — 2.800 paVos\n• Lote de Campeones de Mandalore — 2.500 paVos\n• Lote de Andrómeda — 2.000 paVos\n• Visión de acero — 1.500 paVos\n• Mira (HUNTR/X) — 1.500 paVos\n…y 33 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7e8546d10a373dc7/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-04T00:00:25+00:00"
+   },
+   "tries": 1,
+   "at": 1793750425.5495093
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-03T21:42:55.205Z",
   "sections": {

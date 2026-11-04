@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:94f39b9cb7371941",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 39 cosas nuevas:\n• Lote de Las guerreras K-pop — 3.500 paVos\n• Snoop Dogg | Cadillac — 2.800 paVos\n• Lote de Campeones de Mandalore — 2.500 paVos\n• Lote de Andrómeda — 2.000 paVos\n• Visión de acero — 1.500 paVos\n• Mira (HUNTR/X) — 1.500 paVos\n…y 33 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7e8546d10a373dc7/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-04T00:00:25+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgsywa5g22h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicurej55pi4wwnxo3a4lybopgg4nydqiq3zo3756mniw7r4vwacti",
   "tag": "Filtración",
   "ts": "2026-10-27T13:26:03+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myucj3lcok23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ KEY ART — FORTNITE: CAÇADORES DE TESOURO!\n\nA maior aventura de todos os tempos começa com One Piece, Hatsune Miku, Kasane Teto, A$AP Rocky, Lil Uzi Vert e mais no Fortnite: Caçadores de Tesouro em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myucj3lcok23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibfcgxxecnj35d4dljba7mwvzsrmvv3rucvdd2uorogs5uesfi4b4",
-  "tag": "Filtración",
-  "ts": "2026-10-27T13:06:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-03T21:50:27+00:00";
+window.NEWS_UPDATED = "2026-11-04T00:00:25+00:00";
