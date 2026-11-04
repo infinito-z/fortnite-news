@@ -1386,21 +1386,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzj2q6y3xs2c",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nBalance adjustments ahoy! A couple of buffs are rolling out:\n\n👊 It's now easier to land Gum-Gum Fruit punches \n💣 Increased the Explosive Cannon Ball's blast size against opponents\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzj2q6y3xs2c",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
-    "tag": "Estado",
-    "ts": "2026-11-04T19:13:35+00:00"
-   },
-   "tries": 2,
-   "at": 1793819763.2827468
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-04T14:57:55.086Z",
   "sections": {
