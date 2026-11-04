@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzj2q6y3xs2c",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nBalance adjustments ahoy! A couple of buffs are rolling out:\n\n👊 It's now easier to land Gum-Gum Fruit punches \n💣 Increased the Explosive Cannon Ball's blast size against opponents\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzj2q6y3xs2c",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
+  "tag": "Estado",
+  "ts": "2026-11-04T19:13:35+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7zdpif25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiax6af2rev7nnn6sfzucuhnorikt7zleqtfv2zihwtiukoy7a3imu",
   "tag": "Filtración",
   "ts": "2026-10-27T23:01:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvczx3x322u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ FORTNITE x PREDADOR — Primeira visão dos cosméticos de Predador: Terras Selvagens para o jogo!\n\nNa Loja amanhã (28) à noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvczx3x322u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiacosvwwirhjtdfl2zxromjysfpkbb3icxcqfc72qe3phswbn7js4",
-  "tag": "Filtración",
-  "ts": "2026-10-27T22:49:20+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T15:48:10+00:00";
+window.NEWS_UPDATED = "2026-11-04T19:13:35+00:00";
