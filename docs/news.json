@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjbi5qstc2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚫 NÃO VEM! O Fortnite negou publicamente sobre estar trabalhando em uma nova mecânica de finalizações de oponentes para o jogo.\n\nAo que parece, isso foi uma má leitura dos arquivos e eles seriam para uma outra funcionalidade. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjbi5qstc2a\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpwqd7y44ym5g7cwk2myjvlrowmpcgesksasp3ja5ps6prisg62i",
+  "tag": "Filtración",
+  "ts": "2026-11-04T21:14:18+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzj6644ygc2u",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihofm45k7b2schidaautato6jkwrlrwgwsf22xjg4k6hpqibinu6m",
   "tag": "Filtración",
   "ts": "2026-10-28T00:06:43+00:00"
- },
- {
-  "id": "shop:a0286e8ffa068d17",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 32 novedades. Lo más fuerte:\n• Lote de Noches de ultratumba — 3.500 paVos\n• Lote de Horda heroica — 3.500 paVos\n• Lote de Pesadilla en Elm Street — 2.300 paVos\n• Polaridad putrefacta — 1.500 paVos\n• Insidio — 1.500 paVos\n• Viajero Vestigial — 1.500 paVos\n…y 26 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/36dbb38da8c1a6ae/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-28T00:01:41+00:00"
  }
 ]
