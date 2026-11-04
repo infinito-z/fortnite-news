@@ -1385,7 +1385,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3np6ys2h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje34lqh22h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c"
  ],
  "first_run": false,
  "seeded": [
@@ -1398,7 +1402,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — A Kasane Teto está confirmada para ser a Ícone Destaque do próximo Passe Musical do Fortnite!\n\nEla chega em 12 de novembro e o blog da temporada já foi atualizado para refletir essa novidade! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjilv23fk2c\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibkgvijohzklhwrmi2ffvb7ku5r74awmbxgw23f63rpni3popavh4",
+    "tag": "Filtración",
+    "ts": "2026-11-04T23:21:44+00:00"
+   },
+   "tries": 1,
+   "at": 1793834504.7100272
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 PROGRAMAÇÃO — O cronograma de eventos do Fortnite: Caçadores de Tesouro foi alterado! #Fortnite\n\n🟨 HORAS DO TESOURO:\n— Todos os sábados das 16h às 18h BRT e das 23h à 1h BRT\n\n🟦 DIAS DE CAPITANIA:\n— Um novo Capitão chega à Ilha todos os domingos às 11h BRT\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjilieey22c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia62dww4o4watq5wvphdr2wjmf6arl2l7ggexpi34fve5leooxdp4",
+    "tag": "Filtración",
+    "ts": "2026-11-04T23:21:44+00:00"
+   },
+   "tries": 1,
+   "at": 1793834504.7100272
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
