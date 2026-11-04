@@ -1389,7 +1389,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c"
  ],
  "first_run": false,
  "seeded": [
@@ -1428,6 +1430,19 @@
    },
    "tries": 1,
    "at": 1793834504.7100272
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATOS ONE PIECE | #Fortnite\n\n· Campeonato Zoro — 06 de novembro\n· Campeonato Buggy — 13 de novembro\n\nOs melhores jogadores levam os respectivos Trajes antes de chegarem à Loja! Mais detalhes em breve!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjim7wkrc2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicgrdkzzcd66oh4eew5slyddlxb2v2popxi55767szp4in7ttinay",
+    "tag": "Filtración",
+    "ts": "2026-11-04T23:22:19+00:00"
+   },
+   "tries": 1,
+   "at": 1793834539.973863
   }
  ],
  "epic_fp": {
