@@ -1368,21 +1368,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:8a0403da078d411d0657afb28a9bc12d",
-    "kind": "news",
-    "title": "Frutas del diablo por toda la isla",
-    "text": "🚨 NOTICIA: Frutas del diablo por toda la isla\n¡Han aparecido frutas del diablo raras por todo el mapa! Come la Fruta Gomu Gomu para estirar tus habilidades como Luffy, o la Fruta Mera Mera para arrasar como Ace... Eso sí: ¡ni se te ocurra acercarte al agua!",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/277de79b79934dfbba0a2ef1d66e6f1b.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-04T14:01:01+00:00"
-   },
-   "tries": 2,
-   "at": 1793801041.007138
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-03T21:42:55.205Z",
   "sections": {
