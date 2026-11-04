@@ -1351,7 +1351,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2jsqnwc2l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2kjdcwc2l",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2k53nps2l",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2jsqnwc2l"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2jsqnwc2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2ksz6ws2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2ksz6ws2l"
  ],
  "first_run": false,
  "seeded": [
@@ -1403,6 +1405,19 @@
    },
    "tries": 1,
    "at": 1793750703.7771814
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2ksz6ws2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nQRebaixado, mas sempre em alta! O Cadillac DeVille 1996 de Snoop Dogg está de volta à Loja com o Adesivo Embrulho Snoop até 10 de novembro! 😎🚗\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzh2ksz6ws2l\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgia4fykhi5tane6rhy4v5wlity4skrovo2kjacjqrezlsdz5ska",
+    "tag": "Filtración",
+    "ts": "2026-11-04T00:06:05+00:00"
+   },
+   "tries": 1,
+   "at": 1793750765.9678361
   }
  ],
  "epic_fp": {
