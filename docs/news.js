@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — chegando à Loja em 05 de novembro! #Fortnite\n\n— Pacotão A$AP Rocky:\n· 2 Trajes\n· 2 Mochilas\n· 1 Picareta\n· 1 Microfone\n· 2 Gestos\n· 1 Envelopamento\n· 1 Asa-delta\n· 2 Calçados\n\n— Pacotão Músicas do A$AP Rocky:\n· 3 Músicas\n\n💰 Os preços são desconhecidos!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzikfttu322t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig2dvgxgsbxcdjbd3jo54gqtzs4xtfl5fxcoovdoollicujocvjji",
   "tag": "Filtración",
-  "ts": "2026-11-04T14:22:04+00:00"
+  "ts": "2026-11-04T14:21:45+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzik2kphf224",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-27T13:59:39+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T14:22:04+00:00";
+window.NEWS_UPDATED = "2026-11-04T14:21:46+00:00";
