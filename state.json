@@ -1387,19 +1387,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip5tztsn25",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💬 PERGUNTAS FREQUENTES SOBRE AS MUDANÇAS NO CLUBE FORTNITE!\n\n❓ Em qual categoria de V-Bucks vou iniciar em 5 de dezembro se já tiver uma assinatura ativa? \n\n— Isso depende de quantos meses consecutivos você esteve com a assinatura ativa nos últimos 12 meses.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip5tztsn25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidbxuef7foj4sst2c4enamwwavgmecglg5zsvgkdo3tmjlt3siyna",
-    "tag": "Filtración",
-    "ts": "2026-11-04T15:46:23+00:00"
-   },
-   "tries": 1,
-   "at": 1793807184.5401928
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7r2qxv25",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1436,6 +1423,19 @@
    },
    "tries": 1,
    "at": 1793807290.1746526
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip5tztsn25",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💬 PERGUNTAS FREQUENTES SOBRE AS MUDANÇAS NO CLUBE FORTNITE!\n\n❓ Em qual categoria de V-Bucks vou iniciar em 5 de dezembro se já tiver uma assinatura ativa? \n\n— Isso depende de quantos meses consecutivos você esteve com a assinatura ativa nos últimos 12 meses.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip5tztsn25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidbxuef7foj4sst2c4enamwwavgmecglg5zsvgkdo3tmjlt3siyna",
+    "tag": "Filtración",
+    "ts": "2026-11-04T15:46:23+00:00"
+   },
+   "tries": 2,
+   "at": 1793807336.19251
   }
  ],
  "epic_fp": {
