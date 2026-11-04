@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjd6shvb224",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ LOJA DO FORTNITE NOS PRÓXIMOS DIAS! #Fortnite\n\n· 05/11 — A$AP Rocky\n· 06/11 — Nemia, Presidente da Classe\n· 07/11 — Zoro, Sanji e Chopper (One Piece)\n· 07/11 — Bugatti Centodieci\n· 09/11 — Mascote AIBO (Sony)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjd6shvb224\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-04T21:45:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjbi5qstc2a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidov3uj3yyh2qh6ditko3eowfmo6hoxfecvisobspbiifr2nwn53m",
   "tag": "Filtración",
   "ts": "2026-10-28T00:07:55+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvheidhv22z",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nNão se preocupe, não vai doer por muito tempo. A Enfermeira Lenore e seus acessórios te levam para a eternidade na Loja de Itens até 1° de novembro! 🏥💉\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvheidhv22z\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihofm45k7b2schidaautato6jkwrlrwgwsf22xjg4k6hpqibinu6m",
-  "tag": "Filtración",
-  "ts": "2026-10-28T00:06:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T21:14:19+00:00";
+window.NEWS_UPDATED = "2026-11-04T21:45:04+00:00";
