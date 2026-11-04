@@ -1384,47 +1384,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7r2qxv25",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚫 O FIM! Os Trajes dos Pacotes do Clube Fortnite serão ENCERRADOS a partir de janeiro de 2027.\n\nO último Traje será lançado em dezembro, marcando o fim desses lançamentos após 6 ANOS. \n\nOutras novidades das mudanças no Clube já no perfil! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip7r2qxv25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicexsape4l2kjogcgsy7chwsdlttuji42hieh5tybtififjeghoim",
-    "tag": "Filtración",
-    "ts": "2026-11-04T15:47:38+00:00"
-   },
-   "tries": 2,
-   "at": 1793807492.7199767
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7hu76v25",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 OFICIAL — O Fortnite Raiz e o Passe Raiz serão ENCERRADOS a partir de 05 de dezembro com o término do Capítulo 1: Temporada X.\n\nO Fortnite confirma que a próxima Era do Fortnite Raiz estreia no final de 2027. O que acham disso? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip7hu76v25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie6tlxjameok7lnyfefbulrfahseuhbeojgjlv3ggdk5endf7cnk4",
-    "tag": "Filtración",
-    "ts": "2026-11-04T15:47:38+00:00"
-   },
-   "tries": 2,
-   "at": 1793807492.7199767
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7zdpif25",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ BÔNUS — Todos os estilos Legado do Clube serão entregues aos jogadores que possuem os respectivos Trajes em 05 de dezembro com as novas mudanças. \n\nSendo assim, após a descontinuação dos Trajes você não precisará mais assinar para coletar o restante dos estilos. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip7zdpif25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibuptybjdvs2apnnjc5e67bcxs2j7c4wmymxgdut2tee2huugg64i",
-    "tag": "Filtración",
-    "ts": "2026-11-04T15:48:09+00:00"
-   },
-   "tries": 2,
-   "at": 1793807492.7199767
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-04T13:25:07.497Z",
   "sections": {
