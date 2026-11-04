@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip5tztsn25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💬 PERGUNTAS FREQUENTES SOBRE AS MUDANÇAS NO CLUBE FORTNITE!\n\n❓ Em qual categoria de V-Bucks vou iniciar em 5 de dezembro se já tiver uma assinatura ativa? \n\n— Isso depende de quantos meses consecutivos você esteve com a assinatura ativa nos últimos 12 meses.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip5tztsn25\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidbxuef7foj4sst2c4enamwwavgmecglg5zsvgkdo3tmjlt3siyna",
+  "tag": "Filtración",
+  "ts": "2026-11-04T15:46:23+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzioweyem225",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpoh3nqy73pyyupjxfbq7rkmku2ovlfmio2yck4wgzi543ncjpjy",
   "tag": "Filtración",
   "ts": "2026-10-27T14:39:57+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myuhb35qgs2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 SERÁ?! Nenhum Elemental ou Locais de Extração parecem ter sido exibidos no trailer do Fortnite: Caçadores de Tesouro, podendo indicar que eles não estarão presentes na temporada.\n\nO que acham disso? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myuhb35qgs2y\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidbfju3tjevay3plz6porbdpe5tzbnuqpybtj2qkk36i5kmdyss2a",
-  "tag": "Filtración",
-  "ts": "2026-10-27T14:31:55+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T15:42:46+00:00";
+window.NEWS_UPDATED = "2026-11-04T15:46:24+00:00";
