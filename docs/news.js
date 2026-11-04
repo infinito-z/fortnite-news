@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzj6644ygc2u",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗓️ Datas das Atualizações do Fortnite: Caçadores de Tesouro (C7:TM1)\n\n· v43.10 — 12 de novembro\n· v43.11 — 26 de novembro (palpite)\n· v44.00 — 05 de dezembro (Capítulo 8)\n\n⚠️ Vale ressaltar que todas as datas podem mudar sem aviso prévio! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzj6644ygc2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlyngk455bidc7yp7yihwjxqgoznbyt2mbxopee3ibtr3anonr7q",
+  "tag": "Filtración",
+  "ts": "2026-11-04T20:15:39+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzj2q6y3xs2c",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/36dbb38da8c1a6ae/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-10-28T00:01:41+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myvdpv2rmk2k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· A Hora do Pesadelo (3x)\n· Vestiário de Horrores [Lenore] (11x)\n· Embalo de Festa [Gestos] (2x)\n· Insidio [Chassi] (1x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myvdpv2rmk2k\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiax6af2rev7nnn6sfzucuhnorikt7zleqtfv2zihwtiukoy7a3imu",
-  "tag": "Filtración",
-  "ts": "2026-10-27T23:01:52+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T19:13:35+00:00";
+window.NEWS_UPDATED = "2026-11-04T20:15:40+00:00";
