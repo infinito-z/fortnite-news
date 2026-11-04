@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Invencível (7x)\n· Caçadores de Tesouro (5x)\n· Esquadrão do Som [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzje3xllys2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid5kzt2ovp72yjnpawjmordflcvcexhqsbvw46cfgepqxo4hakaoy",
+  "tag": "Filtración",
+  "ts": "2026-11-04T22:01:43+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3np6ys2h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_altogorgon/featured.png",
   "tag": "Cosmético",
   "ts": "2026-10-28T13:02:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywsmm2jks2v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟦 HORAS DOS HACKERS DE SAQUE POR 24 HORAS!\n\nOs Elementais Hackers de Saque são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e a Escopeta Poderosa Exótica chega à Ilha! \n\n⏰ Somente até amanhã (29) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywsmm2jks2v\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigl5fyvkiv2fewduu7sx4yjglrrmhpdnosl5czc6rwzfosf4jiuye",
-  "tag": "Filtración",
-  "ts": "2026-10-28T13:00:53+00:00"
  }
 ]

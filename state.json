@@ -1383,7 +1383,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3np6ys2h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje34lqh22h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3np6ys2h",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje34lqh22h"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje34lqh22h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h"
  ],
  "first_run": false,
  "seeded": [
@@ -1422,6 +1424,19 @@
    },
    "tries": 1,
    "at": 1793829666.6692839
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3xllys2h",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Invencível (7x)\n· Caçadores de Tesouro (5x)\n· Esquadrão do Som [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzje3xllys2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid5kzt2ovp72yjnpawjmordflcvcexhqsbvw46cfgepqxo4hakaoy",
+    "tag": "Filtración",
+    "ts": "2026-11-04T22:01:43+00:00"
+   },
+   "tries": 1,
+   "at": 1793829704.3169713
   }
  ],
  "epic_fp": {
