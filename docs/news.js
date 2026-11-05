@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nAbra para ver a luz. O novo Gesto Série Ícones \"Abertura\" com a música \"Aperture\" de Harry Styles chegou à Loja do Fortnite até 08 de novembro! ✨\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjktgsbec2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-11-05T00:04:06+00:00"
+  "ts": "2026-11-05T00:03:47+00:00"
  },
  {
   "id": "cosmetic:EID_ShutterSpeed",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-28T13:22:57+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T00:04:07+00:00";
+window.NEWS_UPDATED = "2026-11-05T00:03:48+00:00";
