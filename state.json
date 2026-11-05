@@ -1435,7 +1435,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzls74ec622q",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzls74ec622q"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzls74ec622q",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p"
  ],
  "first_run": false,
  "seeded": [
@@ -1448,7 +1450,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· A$AP Rocky (5x)\n· Space Jam: O Jogo do Século (3x)\n· Amplificador de Sinal (5x)\n· Estilo Top (8x)\n· Músicas (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzlvw2yzy22p\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib4gruo6m7nbvjn7w7szz4gufytcny6zlzzwmmzjest3dnlg3gpeu",
+    "tag": "Filtración",
+    "ts": "2026-11-05T22:25:47+00:00"
+   },
+   "tries": 1,
+   "at": 1793917548.9450924
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-05T22:16:07.395Z",
   "sections": {

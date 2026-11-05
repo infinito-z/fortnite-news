@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· A$AP Rocky (5x)\n· Space Jam: O Jogo do Século (3x)\n· Amplificador de Sinal (5x)\n· Estilo Top (8x)\n· Músicas (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzlvw2yzy22p\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib4gruo6m7nbvjn7w7szz4gufytcny6zlzzwmmzjest3dnlg3gpeu",
+  "tag": "Filtración",
+  "ts": "2026-11-05T22:25:47+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzls74ec622q",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-28T19:40:46+00:00"
- },
- {
-  "id": "news:62b8ec13abdea5c97feb52d579734831",
-  "kind": "news",
-  "title": "Dos formas de jugar",
-  "text": "🚨 NOTICIA: Dos formas de jugar\n¡Encuentra la experiencia de Battle Royale que mejor encaje contigo! El Battle Royale estándar permite a los jugadores recolectar recursos y construir muros, rampas y estructuras sobre la marcha. Cero construcción elimina la construcción, así que los jugadores pueden centrarse en el combate y el movimiento. ¡Cero construcción es un sitio genial para empezar!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/51ae8d589110497cb9fa6c9affb67699.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-28T18:30:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T21:19:24+00:00";
+window.NEWS_UPDATED = "2026-11-05T22:25:48+00:00";
