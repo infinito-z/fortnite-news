@@ -1395,7 +1395,9 @@
   "shop:8da148e9f831e001",
   "shop:8da148e9f831e001",
   "cosmetic:EID_ShutterSpeed",
-  "cosmetic:EID_ShutterSpeed"
+  "cosmetic:EID_ShutterSpeed",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjktgsbec2u",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjktgsbec2u"
  ],
  "first_run": false,
  "seeded": [
@@ -1434,6 +1436,19 @@
    },
    "tries": 2,
    "at": 1793837010.4007707
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjktgsbec2u",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nAbra para ver a luz. O novo Gesto Série Ícones \"Abertura\" com a música \"Aperture\" de Harry Styles chegou à Loja do Fortnite até 08 de novembro! ✨\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjktgsbec2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-05T00:04:06+00:00"
+   },
+   "tries": 1,
+   "at": 1793837047.0338871
   }
  ],
  "epic_fp": {
