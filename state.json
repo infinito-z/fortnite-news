@@ -1429,7 +1429,9 @@
   "news:ea7a85eb5cc9028facc9a163c4fab9d2",
   "news:ea7a85eb5cc9028facc9a163c4fab9d2",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a"
  ],
  "first_run": false,
  "seeded": [
@@ -1442,7 +1444,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 SEMANA 1 — Todos os Tesouros da Semana 1 do Fortnite: Caçadores de Tesouros com o tema de A$AP Rocky!\n\nO Token da Loja Pirata fica disponível durante TODA a temporada, e os cosméticos trocam a cada semana! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzllfmqgsc2a\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidukj4ilswjqxbb3fv63njpycmv7he2bttevllf67hw4ejr2537ra",
+    "tag": "Filtración",
+    "ts": "2026-11-05T19:17:39+00:00"
+   },
+   "tries": 1,
+   "at": 1793906260.7872121
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {

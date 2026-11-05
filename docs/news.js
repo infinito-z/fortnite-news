@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 SEMANA 1 — Todos os Tesouros da Semana 1 do Fortnite: Caçadores de Tesouros com o tema de A$AP Rocky!\n\nO Token da Loja Pirata fica disponível durante TODA a temporada, e os cosméticos trocam a cada semana! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzllfmqgsc2a\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidukj4ilswjqxbb3fv63njpycmv7he2bttevllf67hw4ejr2537ra",
+  "tag": "Filtración",
+  "ts": "2026-11-05T19:17:39+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/c8a5dd019e6e4aa1a2983defc278dd0e.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-28T18:30:28+00:00"
- },
- {
-  "id": "news:3228eca0d2c45fcd9711d6f6555979cd",
-  "kind": "news",
-  "title": "Abre cofres para conseguir el mejor botín",
-  "text": "⚡ Ojo, ojo: Abre cofres para conseguir el mejor botín\nLos cofres valiosos están repartidos por toda la isla y contienen objetos de curación, armas y más, y las distintas rarezas de los cofres ofrecen diferentes calidades de botín. ¡Presta atención a la pista de audio chispeante para ir en su busca!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/7f6b8523a637466189d48010fe9fec62.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-28T18:30:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T16:48:18+00:00";
+window.NEWS_UPDATED = "2026-11-05T19:17:40+00:00";
