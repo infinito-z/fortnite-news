@@ -1403,7 +1403,21 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlb4oylk2h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlacfsmk2h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlb4oylk2h",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlacfsmk2h"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlacfsmk2h",
+  "cosmetic:Backpack_TonicMailWeb",
+  "cosmetic:Backpack_TonicMailWeb_Mic",
+  "cosmetic:Backpack_TonicMailYam",
+  "cosmetic:Character_TonicMailWeb",
+  "cosmetic:EID_TonicMailWeb",
+  "cosmetic:EID_TonicMailYam",
+  "cosmetic:Glider_TonicMailWeb",
+  "cosmetic:LoadingScreen_TonicMail",
+  "cosmetic:Pickaxe_TonicMailWeb_Mic",
+  "cosmetic:Pickaxe_TonicMailYam",
+  "cosmetic:Spray_TonicMail",
+  "cosmetic:Wrap_TonicMail",
+  "cosmetic:Sparks_TonicMailWeb_Mic",
+  "cosmetic-batch:9fa94b4056"
  ],
  "first_run": false,
  "seeded": [
@@ -1416,7 +1430,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic-batch:9fa94b4056",
+    "kind": "cosmetic",
+    "title": "13 cosméticos nuevos",
+    "text": "🔥 13 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Propulsores de alta fidelidad, Melodía de Rocky, Suministros de Shirthead, A$AP Rocky Shirthead, null, RIOT (Rowdy Pipe'n). Tu billetera ya lloró 💸😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_tonicmailweb/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-05T14:02:21+00:00"
+   },
+   "tries": 1,
+   "at": 1793887341.3034863
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {

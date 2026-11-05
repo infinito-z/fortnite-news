@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:9fa94b4056",
+  "kind": "cosmetic",
+  "title": "13 cosméticos nuevos",
+  "text": "🔥 13 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Propulsores de alta fidelidad, Melodía de Rocky, Suministros de Shirthead, A$AP Rocky Shirthead, null, RIOT (Rowdy Pipe'n). Tu billetera ya lloró 💸😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_tonicmailweb/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-05T14:02:21+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlb4oylk2h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-28T15:19:15+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mywu7rbbhs2k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 5 — Novos diálogos do personagem misterioso do Fortnite: Caçadores de Tesouro foram ativados no Baú de Tesouro! #Fortnite\n\n🪎 O Baú continua sendo descarregado em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mywu7rbbhs2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-28T13:32:26+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T00:09:24+00:00";
+window.NEWS_UPDATED = "2026-11-05T14:02:21+00:00";
