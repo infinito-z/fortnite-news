@@ -1430,21 +1430,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:9fa94b4056",
-    "kind": "cosmetic",
-    "title": "13 cosméticos nuevos",
-    "text": "🔥 13 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Propulsores de alta fidelidad, Melodía de Rocky, Suministros de Shirthead, A$AP Rocky Shirthead, null, RIOT (Rowdy Pipe'n). Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_tonicmailweb/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-05T14:02:21+00:00"
-   },
-   "tries": 2,
-   "at": 1793887526.2095373
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
