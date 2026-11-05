@@ -1391,7 +1391,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilieey22c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c",
+  "shop:8da148e9f831e001",
+  "shop:8da148e9f831e001"
  ],
  "first_run": false,
  "seeded": [
@@ -1404,7 +1406,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:8da148e9f831e001",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "🛒 TIENDA NUEVA: 51 novedades. Lo más fuerte:\n• Lote de Guardianes de la Tierra — 2.800 paVos\n• Lote de Urgencia hospitalaria — 2.200 paVos\n• Lote de Allen el alien — 2.000 paVos\n• Lote de equipamiento de Guardianes de la Tierra — 1.800 paVos\n• Invencible — 1.500 paVos\n• Lote de Kado Thorne de la Élite — 1.500 paVos\n…y 45 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/851e9778b6f2fc39/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-05T00:00:25+00:00"
+   },
+   "tries": 1,
+   "at": 1793836825.2752113
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {

@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:8da148e9f831e001",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 51 novedades. Lo más fuerte:\n• Lote de Guardianes de la Tierra — 2.800 paVos\n• Lote de Urgencia hospitalaria — 2.200 paVos\n• Lote de Allen el alien — 2.000 paVos\n• Lote de equipamiento de Guardianes de la Tierra — 1.800 paVos\n• Invencible — 1.500 paVos\n• Lote de Kado Thorne de la Élite — 1.500 paVos\n…y 45 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/851e9778b6f2fc39/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-05T00:00:25+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjim7wkrc2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3gy2qr5ful4r744zzi3pmjyoztagayquawnybyl5wwjn5xqoicq",
   "tag": "Filtración",
   "ts": "2026-10-28T13:06:39+00:00"
- },
- {
-  "id": "cosmetic:Backpack_AltoGorgon",
-  "kind": "cosmetic",
-  "title": "Accesorio mochilero: Thia",
-  "text": "🔥 Nuevo en los archivos: Thia (Raro). Billetera, prepárate 💸",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_altogorgon/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-28T13:02:19+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-04T23:22:19+00:00";
+window.NEWS_UPDATED = "2026-11-05T00:00:25+00:00";
