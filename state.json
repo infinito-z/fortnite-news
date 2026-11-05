@@ -1442,21 +1442,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO ZORO | #Fortnite\n\n🗓️ 06 de novembro\n🎮 Battle Royale (Duplas) e Reload (Solo)\n🇧🇷 Top 100 no BR e Top 30 no Reload levam o conjunto do Zoro!\n\nZoro, Sanji e Chopper chegam à Loja em 07 de novembro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzld33jtl22w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidvowykka3wkpcjswkbtkfjmcyodomvuvxeaicnkcblj2hrxwjdoi",
-    "tag": "Filtración",
-    "ts": "2026-11-05T16:48:17+00:00"
-   },
-   "tries": 2,
-   "at": 1793897482.2061622
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
