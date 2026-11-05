@@ -1440,21 +1440,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:ea7a85eb5cc9028facc9a163c4fab9d2",
-    "kind": "news",
-    "title": "-",
-    "text": "👀 Epic acaba de soltar esto: -\n-",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/35444af656924d89abfa9fef33f48817.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-05T14:52:54+00:00"
-   },
-   "tries": 2,
-   "at": 1793890565.2154884
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
