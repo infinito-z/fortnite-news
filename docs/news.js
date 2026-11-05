@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:ea7a85eb5cc9028facc9a163c4fab9d2",
+  "kind": "news",
+  "title": "-",
+  "text": "👀 Epic acaba de soltar esto: -\n-",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/35444af656924d89abfa9fef33f48817.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-05T14:52:54+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3b5k2b22s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia3gy2qr5ful4r744zzi3pmjyoztagayquawnybyl5wwjn5xqoicq",
   "tag": "Filtración",
   "ts": "2026-10-28T16:57:42+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myx3eijyzc23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Todos os Trajes revelados até então para chegar no Fortnite: Caçadores de Tesouro!\n\n· Luffy, Zoro, Nami e Usopp\n· Sanji, Buggy, Nico e Ace\n\nA maior aventura de todos os tempos começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myx3eijyzc23\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpqam5d3pgxhqcm7xl5wnkfq432wegujemp5amxoojp4kxpavwbm",
-  "tag": "Filtración",
-  "ts": "2026-10-28T15:37:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T14:28:30+00:00";
+window.NEWS_UPDATED = "2026-11-05T14:52:54+00:00";

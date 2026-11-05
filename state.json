@@ -1425,7 +1425,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3b5k2b22s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3aor6gc2s",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3b5k2b22s",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3aor6gc2s"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3aor6gc2s",
+  "news:ea7a85eb5cc9028facc9a163c4fab9d2",
+  "news:ea7a85eb5cc9028facc9a163c4fab9d2"
  ],
  "first_run": false,
  "seeded": [
@@ -1438,7 +1440,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:ea7a85eb5cc9028facc9a163c4fab9d2",
+    "kind": "news",
+    "title": "-",
+    "text": "👀 Epic acaba de soltar esto: -\n-",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/35444af656924d89abfa9fef33f48817.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-05T14:52:54+00:00"
+   },
+   "tries": 1,
+   "at": 1793890374.3419278
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
