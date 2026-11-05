@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite: Caçadores de Tesouro é um SUCESSO ABSOLUTO! 🔥\n\nAté então, todos os dias desde o lançamento da temporada marcaram mais de 4.2 MILHÕES de jogadores simultâneos como pico, e no mínimo 1.5 MILHÃO de jogadores como menor número. #Fortnite\n\nÉ o token que fala né... 😮‍💨\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzlo5iy65k2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlyngk455bidc7yp7yihwjxqgoznbyt2mbxopee3ibtr3anonr7q",
+  "tag": "Filtración",
+  "ts": "2026-11-05T20:06:56+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/a798abf7ee9b490b91fad73e6589ca77.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-28T18:30:28+00:00"
- },
- {
-  "id": "news:485cadbe1c7eca4e835d136325c393db",
-  "kind": "news",
-  "title": "Juega a la defensiva con salud y escudo",
-  "text": "⚡ Ojo, ojo: Juega a la defensiva con salud y escudo\nLlevar un control del escudo y la salud es esencial para sobrevivir. Coge y consume pociones de escudo lo antes posible, ya que tener poco escudo significa caer más rápido en un combate. Usa objetos de curación como los botiquines para recuperar salud entre enfrentamientos, preferiblemente antes de que empiece la siguiente batalla.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/c8a5dd019e6e4aa1a2983defc278dd0e.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-28T18:30:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T19:17:40+00:00";
+window.NEWS_UPDATED = "2026-11-05T20:06:57+00:00";

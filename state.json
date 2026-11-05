@@ -1431,7 +1431,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzld33jtl22w",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzllfmqgsc2a",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e"
  ],
  "first_run": false,
  "seeded": [
@@ -1444,7 +1446,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite: Caçadores de Tesouro é um SUCESSO ABSOLUTO! 🔥\n\nAté então, todos os dias desde o lançamento da temporada marcaram mais de 4.2 MILHÕES de jogadores simultâneos como pico, e no mínimo 1.5 MILHÃO de jogadores como menor número. #Fortnite\n\nÉ o token que fala né... 😮‍💨\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzlo5iy65k2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlyngk455bidc7yp7yihwjxqgoznbyt2mbxopee3ibtr3anonr7q",
+    "tag": "Filtración",
+    "ts": "2026-11-05T20:06:56+00:00"
+   },
+   "tries": 1,
+   "at": 1793909217.043625
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
