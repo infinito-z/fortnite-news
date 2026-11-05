@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzls74ec622q",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 MAIS TESOUROS — Novos Tesouros ao abrir Baús chegam em breve no Fortnite: Caçadores de Tesouro com o tema de cada Capitão da semana!\n\n· 08/11 — Lil Uzi Vert\n· 15/11 — Hatsune Miku\n· 22/11 — Corsário Óscar\n\n🟨 Trajes Dourados, Chassis e outros cosméticos chegando! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzls74ec622q\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih6dl6nagefwqnj6hiinhrg53is4atfzjdgv5mhzdeyqpkxlpwou4",
+  "tag": "Filtración",
+  "ts": "2026-11-05T21:19:22+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlo5iy65k2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/51ae8d589110497cb9fa6c9affb67699.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-10-28T18:30:28+00:00"
- },
- {
-  "id": "news:f537ecaea83bd3f3c373c43555b0105e",
-  "kind": "news",
-  "title": "Aterriza con cabeza para empezar fuerte",
-  "text": "👀 Epic acaba de soltar esto: Aterriza con cabeza para empezar fuerte\nAl comienzo de cada partida, salta del autobús de batalla y ve a por una zona con menos gente. Esto te da tiempo para saquear y equiparte antes de que empiece el combate... ¡a menos que quieras empezar por todo lo alto!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a798abf7ee9b490b91fad73e6589ca77.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-28T18:30:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T20:06:57+00:00";
+window.NEWS_UPDATED = "2026-11-05T21:19:24+00:00";
