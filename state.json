@@ -1441,19 +1441,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3b5k2b22s",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — Novas Músicas chegando à Loja nesta noite! #Fortnite\n\n· GRIM Freestyle — A$AP Rocky \n· Lord Pretty Flacko Jodye 2 (LPFJ2) — A$AP Rocky \n· RIOT (Rowdy Pipe'n) — A$AP Rocky\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzl3b5k2b22s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihytfuwiufzdcjia4vlnzsufwiheestqlcouhxypm4rktu2rp7gm4",
-    "tag": "Filtración",
-    "ts": "2026-11-05T14:28:30+00:00"
-   },
-   "tries": 2,
-   "at": 1793889096.731192
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl3aor6gc2s",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1462,8 +1449,8 @@
     "tag": "Filtración",
     "ts": "2026-11-05T14:28:30+00:00"
    },
-   "tries": 2,
-   "at": 1793889096.731192
+   "tries": 3,
+   "at": 1793889219.6452746
   }
  ],
  "epic_fp": {
