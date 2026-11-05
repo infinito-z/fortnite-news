@@ -1417,7 +1417,9 @@
   "cosmetic:Spray_TonicMail",
   "cosmetic:Wrap_TonicMail",
   "cosmetic:Sparks_TonicMailWeb_Mic",
-  "cosmetic-batch:9fa94b4056"
+  "cosmetic-batch:9fa94b4056",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl2jc2mls2p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl2jc2mls2p"
  ],
  "first_run": false,
  "seeded": [
@@ -1430,7 +1432,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl2jc2mls2p",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — Todos os cosméticos de A$AP Rocky foram descriptografados e chegam à Loja nesta noite. A imagem tá só faltando a Picareta (preços desconhecidos).\n\n📁 Pak1017 | 65.04 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzl2jc2mls2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifbj64hfhxj6amskbzcdnnvmohinz556iuhrims7fyhy2pj3gpdnm",
+    "tag": "Filtración",
+    "ts": "2026-11-05T14:15:23+00:00"
+   },
+   "tries": 1,
+   "at": 1793888123.8707247
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-04T21:53:55.385Z",
   "sections": {
