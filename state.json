@@ -1457,7 +1457,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzohjz2qgs26",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzohjz2qgs26",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzoibqcjbs2y",
-  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzoibqcjbs2y"
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzoibqcjbs2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e"
  ],
  "first_run": false,
  "seeded": [
@@ -1470,7 +1474,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 07 de novembro:\n\n· One Piece [Zoro, Sanji e Chopper] (7x)\n· Bugatti Centodieci (1x)\n· Crossover do Deadpool (2x)\n· RAM 1500 RHO (1x)\n· Caçadores de Tesouro (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj4sdqjk2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiax5wixeds2ad4nzrlqccxorp3nhodllabjyj3aqzj75levewknqy",
+    "tag": "Filtración",
+    "ts": "2026-11-06T23:14:32+00:00"
+   },
+   "tries": 1,
+   "at": 1794006873.2871287
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Ben 10 (3x)\n· Lookbook Gótico [Nemia] (4x)\n· Brainrot (2x)\n· Vulcan [Chassi] (1x)\n· Caçadores de Tesouro (5x)\n· Festa da Vitória [Gestos] (2x)\n· Amplificador de Sinal (5x)\n· Estilo Top (8x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj4gqgos2e\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih4igl5chtg75avu5sxdl2u47sm4fs4j6bmo2p6gsccvkttmovjr4",
+    "tag": "Filtración",
+    "ts": "2026-11-06T23:14:32+00:00"
+   },
+   "tries": 1,
+   "at": 1794006873.2871287
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
