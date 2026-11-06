@@ -1470,21 +1470,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzoibqcjbs2y",
-    "kind": "status",
-    "title": "Fortnite Status (@fortnite-status.bsky.social)",
-    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🎯 Usopp’s Slingshot was hitting a little too hard, so it has slightly reduced damage and critical hits at all rarities.\n\nIt's still got plenty of punch - landing those shots should feel just as good!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzoibqcjbs2y",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreie56fa6grx5u3xhkon2vvs22slwckvovvzz2ceds3opornlhkdpem",
-    "tag": "Estado",
-    "ts": "2026-11-06T22:59:43+00:00"
-   },
-   "tries": 2,
-   "at": 1794006104.432062
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
