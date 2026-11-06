@@ -1451,7 +1451,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzo7jgacp223",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzo7jgacp223",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzodyo6zck2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzodyo6zck2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzodyo6zck2z",
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzogaekn222y",
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzogaekn222y"
  ],
  "first_run": false,
  "seeded": [
@@ -1464,7 +1466,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzogaekn222y",
+    "kind": "status",
+    "title": "Fortnite Status (@fortnite-status.bsky.social)",
+    "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🔐 Vaults in Battle Royale have been reinforced - vault Chests and floors are now unbreakable.\n\nGrab a Vault Key to claim what’s inside!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzogaekn222y",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
+    "tag": "Estado",
+    "ts": "2026-11-06T22:22:46+00:00"
+   },
+   "tries": 1,
+   "at": 1794003766.2027595
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T18:54:14.334Z",
   "sections": {
