@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzodyo6zck2z",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 HORAS DO PODER VALIOSAS NESTE SÁBADO | #Fortnite\n\n· Míssil de Choque do A$AP Rocky e Dispositivo de Autorreviver para todos\n· Elementais Valiosos surgem com mais frequência durante as Horas do Poder\n\n⏰ Sábado (7), às 16h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzodyo6zck2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiamxcvgmsdpr7a6ar2viadstr5s7hq7ynqgc6jsywt3acc7pngpca",
+  "tag": "Filtración",
+  "ts": "2026-11-06T21:42:50+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzo7jgacp223",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaee4y5vwkccjroq7xn642bsby3yh4wkliduwdyujd535tj7s46ai",
   "tag": "Filtración",
   "ts": "2026-10-29T11:48:28+00:00"
- },
- {
-  "id": "shop:5fe58885816ea52e",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 40 cosas nuevas:\n• Lote de taquilla de Mexify — 2.500 paVos\n• LOTE DE ESCUADRÓN CONTUNDENTE — 2.400 paVos\n• Lote de improvisación de Coachella 2026 — 2.200 paVos\n• Depredador: Lote del Erial desolado — 2.000 paVos\n• Lote de Concepto del miedo — 1.600 paVos\n• Monstruo mediocampista — 1.200 paVos\n…y 34 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/9882c50bdbab95c8/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-29T01:00:50+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-06T20:22:51+00:00";
+window.NEWS_UPDATED = "2026-11-06T21:42:51+00:00";
