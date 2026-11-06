@@ -1464,21 +1464,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzodyo6zck2z",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 HORAS DO PODER VALIOSAS NESTE SÁBADO | #Fortnite\n\n· Míssil de Choque do A$AP Rocky e Dispositivo de Autorreviver para todos\n· Elementais Valiosos surgem com mais frequência durante as Horas do Poder\n\n⏰ Sábado (7), às 16h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzodyo6zck2z\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiamxcvgmsdpr7a6ar2viadstr5s7hq7ynqgc6jsywt3acc7pngpca",
-    "tag": "Filtración",
-    "ts": "2026-11-06T21:42:50+00:00"
-   },
-   "tries": 2,
-   "at": 1794001517.9087567
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T18:54:14.334Z",
   "sections": {
