@@ -1468,21 +1468,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzohjz2qgs26",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 EITA! O dano do Estilingue do Usopp foi NERFADO no Fortnite: Caçadores de Tesouro! #Fortnite\n\n🟩 Incomum — de 77 para 75\n🟦 Raro — de 81 para 78\n🟪 Épico — de 85 para 82\n🟧 Lendário — de 89 para 86\n🟨 Mítico — de 93 para 90\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzohjz2qgs26\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiawxkjkqxhkbhkd4eqsd4g6wsonbgimaomrw7ru2kvlmrkabjw2ly",
-    "tag": "Filtración",
-    "ts": "2026-11-06T22:46:24+00:00"
-   },
-   "tries": 2,
-   "at": 1794005337.6396525
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T22:35:53.631Z",
   "sections": {
