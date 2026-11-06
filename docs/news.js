@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:8ffe8f39d4fba5f2",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 64 cosas nuevas:\n• Lote de Lola Bunny y Pato Lucas — 3.200 paVos\n• Lote de A$AP Rocky — 3.200 paVos\n• Lote de Asesinos del aerosol — 2.500 paVos\n• Rocky Rugahand — 1.500 paVos\n• Sombra — 1.500 paVos\n• Chispazo — 1.500 paVos\n…y 58 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d6366676d4468360/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-06T00:01:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlyisyccc2z",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibiws4khitqazyipba7xj5rxnaohzwfzay4gnq77l7nawho3u4gra",
   "tag": "Filtración",
   "ts": "2026-10-28T23:01:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3myxkp3nvfs2r",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n♦️ TRAILER — FORTNITE x PREDADOR\n\nDek e seus acessórios de Predador: Terras Selvagens chegam à Loja do Fortnite ainda nesta noite! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3myxkp3nvfs2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-28T20:11:40+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-05T23:11:34+00:00";
+window.NEWS_UPDATED = "2026-11-06T00:01:49+00:00";

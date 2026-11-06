@@ -1439,7 +1439,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlvw2yzy22p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlyisyccc2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlyisyccc2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlyisyccc2z",
+  "shop:8ffe8f39d4fba5f2",
+  "shop:8ffe8f39d4fba5f2"
  ],
  "first_run": false,
  "seeded": [
@@ -1452,7 +1454,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:8ffe8f39d4fba5f2",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 64 cosas nuevas:\n• Lote de Lola Bunny y Pato Lucas — 3.200 paVos\n• Lote de A$AP Rocky — 3.200 paVos\n• Lote de Asesinos del aerosol — 2.500 paVos\n• Rocky Rugahand — 1.500 paVos\n• Sombra — 1.500 paVos\n• Chispazo — 1.500 paVos\n…y 58 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d6366676d4468360/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-06T00:01:49+00:00"
+   },
+   "tries": 1,
+   "at": 1793923309.992649
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-05T22:16:07.395Z",
   "sections": {
