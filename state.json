@@ -1458,34 +1458,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzm3n7b5fc2u",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nDesprezível você, hein?! Desfrute de aventuras malucas com Patolino e Lola Bunny de Looney Tunes agora na Loja do Fortnite até 09 de novembro! 🦆🏀\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzm3n7b5fc2u\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibo2zkvnyor7qw3uuc7h65ius2e274d5pesi6fuv2zofcexdi5hzm",
-    "tag": "Filtración",
-    "ts": "2026-11-06T00:08:08+00:00"
-   },
-   "tries": 2,
-   "at": 1793923845.2337713
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzm3mnoflc2u",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nContinue se destacando, não importa de onde veio! O A$AP Rocky e seus acessórios da $érie Ícones trazem estilo na Loja do Fortnite até 06 de dezembro! 🔥🚀\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzm3mnoflc2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih23725zeyvvojitti2oeiv3nkldwmbqslmtwlxfalffns2gmkuqy",
-    "tag": "Filtración",
-    "ts": "2026-11-06T00:08:08+00:00"
-   },
-   "tries": 2,
-   "at": 1793923845.2337713
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-05T22:16:07.395Z",
   "sections": {
