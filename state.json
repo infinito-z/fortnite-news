@@ -1461,7 +1461,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e"
  ],
  "first_run": false,
  "seeded": [
@@ -1500,6 +1502,19 @@
    },
    "tries": 1,
    "at": 1794006873.2871287
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 08 de novembro!\n\n· Star Wars [Samurais] (2x)\n· Honkai Star Rail (2x)\n· Caçadores de Tesouro (6x)\n· Festa da Vitória [Gestos] (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj53xn2s2e\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbtzygwtrfgwmawthg7jfycvzn5jryzmb2hvsnyvouzoloizo73e",
+    "tag": "Filtración",
+    "ts": "2026-11-06T23:14:58+00:00"
+   },
+   "tries": 1,
+   "at": 1794006899.310802
   }
  ],
  "epic_fp": {

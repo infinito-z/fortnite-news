@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 08 de novembro!\n\n· Star Wars [Samurais] (2x)\n· Honkai Star Rail (2x)\n· Caçadores de Tesouro (6x)\n· Festa da Vitória [Gestos] (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj53xn2s2e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbtzygwtrfgwmawthg7jfycvzn5jryzmb2hvsnyvouzoloizo73e",
+  "tag": "Filtración",
+  "ts": "2026-11-06T23:14:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_creaturecomfort/icon.png",
   "tag": "Cosmético",
   "ts": "2026-10-30T00:01:09+00:00"
- },
- {
-  "id": "shop:bc0ecc9eea0beb4c",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 55 cosas nuevas:\n• Lote de Art el Payaso — 2.200 paVos\n• Rex — 2.000 paVos\n• Lote de Pesadilla caballeresca — 2.000 paVos\n• Lote de Punto focal — 1.800 paVos\n• Soul — 1.600 paVos\n• Astroasesina — 1.500 paVos\n…y 49 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/3ca87688fad01999/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-30T00:01:04+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-06T23:14:33+00:00";
+window.NEWS_UPDATED = "2026-11-06T23:14:59+00:00";
