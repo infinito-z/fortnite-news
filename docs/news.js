@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqroyo3z22p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 INSANO! O Fortnite registrou 8.2 MILHÕES de jogadores simultâneos online durante as Horas do Poder Valiosas do Fortnite: Caçadores de Tesouro!\n\nDesse número, 5.4 MILHÕES estavam jogando o Battle Royale. A busca pelo Token não para! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzqroyo3z22p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicazsi4vbqky7gjqefl4chdmqt7ovjxaax6hd46b4dc4aal6aqp4q",
+  "tag": "Filtración",
+  "ts": "2026-11-07T20:53:39+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqot27guc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiharoo4c2bbptl5zajfvppguddtxpjgcxzu2c37e4gjwjsuq5j52e",
   "tag": "Filtración",
   "ts": "2026-10-30T13:34:17+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3vfqmga22i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 EVENTO FINAL DO CAPÍTULO 7 DO FORTNITE!\n\nO evento final do Capítulo 7 do Fortnite está confirmado para o sábado, 5 de dezembro, não perca! #Fortnite\n\n“O tempo está ao seu lado... por enquanto.”\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3vfqmga22i\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieoch43fzkw72ytuwe7ntmltdf7ha36rzv2pwbyroyhvddlrttvz4",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:34:17+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T20:02:03+00:00";
+window.NEWS_UPDATED = "2026-11-07T20:53:40+00:00";
