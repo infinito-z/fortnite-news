@@ -1483,7 +1483,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzotd6oijk25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzotd6oijk25",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzq3iroras2n",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzq3iroras2n"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzq3iroras2n",
+  "news:e6bf81af654c77e4e7e989501c000f0f",
+  "news:e6bf81af654c77e4e7e989501c000f0f"
  ],
  "first_run": false,
  "seeded": [
@@ -1496,7 +1498,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:e6bf81af654c77e4e7e989501c000f0f",
+    "kind": "news",
+    "title": "Variantes de espíritu afortunado - 7 de noviembre",
+    "text": "👀 Epic acaba de soltar esto: Variantes de espíritu afortunado - 7 de noviembre\n¡Zarpa en busca de espíritus brillantes de 20:00 a 22:00 CEST y de 03:00 a 05:00 CEST! Da el salto con el cohete de salto de A$AP Rocky y un elemento de autorreanimación para encontrar más variantes de espíritus afortunados por toda la isla.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/fbb88d16f6554766857a3070b1d95d55.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-07T19:00:55+00:00"
+   },
+   "tries": 1,
+   "at": 1794078055.146185
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {

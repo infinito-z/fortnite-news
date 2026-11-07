@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:e6bf81af654c77e4e7e989501c000f0f",
+  "kind": "news",
+  "title": "Variantes de espíritu afortunado - 7 de noviembre",
+  "text": "👀 Epic acaba de soltar esto: Variantes de espíritu afortunado - 7 de noviembre\n¡Zarpa en busca de espíritus brillantes de 20:00 a 22:00 CEST y de 03:00 a 05:00 CEST! Da el salto con el cohete de salto de A$AP Rocky y un elemento de autorreanimación para encontrar más variantes de espíritus afortunados por toda la isla.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/fbb88d16f6554766857a3070b1d95d55.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-07T19:00:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzq3iroras2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiail6k7primmzg44tvfodibkljxjw72upipmkdezibt4uyx7nzdrm",
   "tag": "Filtración",
   "ts": "2026-10-30T13:14:39+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uajadjk2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 NOVAS DATAS DE LANÇAMENTO NA LOJA DO FORTNITE!\n\n· 01/11 — Luffy, Nami e Usopp\n· 05/11 — A$AP Rocky\n· 07/11 — Zoro, Sanji e Choper\n· 12/11 — Lil Uzi Vert\n· 13/11 — Buggy\n· 14/11 — Kasane Teto e Hatsune Miku\n\nA maior aventura caça ao tesouro começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3uajadjk2m\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiail6k7primmzg44tvfodibkljxjw72upipmkdezibt4uyx7nzdrm",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:12:55+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T14:16:42+00:00";
+window.NEWS_UPDATED = "2026-11-07T19:00:55+00:00";
