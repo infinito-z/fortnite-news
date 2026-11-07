@@ -1,5 +1,14 @@
 [
  {
+  "id": "shop:2c6183877b7377d5",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 50 cosas nuevas:\n• Lote de Ben 10 — 4.000 paVos\n• Lote de Rey Calabaza y Sally — 3.400 paVos\n• Lote de Jack Skelleton — 2.600 paVos\n• Lote de Eduardo Manostijeras — 2.500 paVos\n• Lote de Brainrot — 2.400 paVos\n• Lote de Nemia delegada — 1.800 paVos\n…y 44 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/351d246a51f28f2b/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-07T00:01:10+00:00"
+ },
+ {
   "id": "news:8ee2c6c9005babcdb443f1513b81d45c",
   "kind": "news",
   "title": "Copa de One Piece: Zoro ya disponible",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfhb7dwndfqspvhn4rqyt3jqomrwbohkateykqo2iuxxjmyou6hy",
   "tag": "Filtración",
   "ts": "2026-10-30T00:09:26+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz2i4k474c2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOpa... calma aí tá? O novo Gesto Série Ícones \"She Bugging (Whatchu Gonna Do) com a música de mesmo nome de Khantrast chegou à Loja do Fortnite até 02 de novembro! ✨\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz2i4k474c2e\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-30T00:05:07+00:00"
  }
 ]
