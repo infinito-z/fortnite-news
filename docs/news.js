@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "💸 Llegó la tienda con 50 cosas nuevas:\n• Lote de Ben 10 — 4.000 paVos\n• Lote de Rey Calabaza y Sally — 3.400 paVos\n• Lote de Jack Skelleton — 2.600 paVos\n• Lote de Eduardo Manostijeras — 2.500 paVos\n• Lote de Brainrot — 2.400 paVos\n• Lote de Nemia delegada — 1.800 paVos\n…y 44 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/351d246a51f28f2b/renderimage_0.png",
   "tag": "Tienda",
-  "ts": "2026-11-07T00:01:10+00:00"
+  "ts": "2026-11-07T00:00:45+00:00"
  },
  {
   "id": "news:8ee2c6c9005babcdb443f1513b81d45c",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-10-30T00:09:26+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T00:01:10+00:00";
+window.NEWS_UPDATED = "2026-11-07T00:00:45+00:00";
