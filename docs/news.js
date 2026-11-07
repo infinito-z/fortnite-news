@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzq3iroras2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIA DE CAPTANIA — Lil Uzi Vert chega em 08 de novembro às 11h BRT! #Fortnite\n\n· Lil Uzi Vert chega como Chefe no Forte da Fortuna e concede a Mini SMG do Lil Uzi Vert ao derrotá-lo\n· Novos Elementais Lil Uzi Vert Jr. e variantes Assombradas\n· Novo Fragmento de Mapa para coleta\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzq3iroras2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicz6jnl25yt5c7oid2sbjw2mj4dagkzfrhsgrtue53cvjrphm562a",
+  "tag": "Filtración",
+  "ts": "2026-11-07T14:16:40+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzotd6oijk25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiail6k7primmzg44tvfodibkljxjw72upipmkdezibt4uyx7nzdrm",
   "tag": "Filtración",
   "ts": "2026-10-30T13:12:55+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tzcsfpc2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ MINIMAPA DO FORTNITE: CAÇADORES DE TESOURO! #Fortnite\n\n· Arlong Park\n· Vila dos Moinhos\n· Resort da Borracha\n· Baú\n· Lar das Lanternas\n· Enseada do Saque\n· Loguetown\n· Porto Pirata\n· Baía Agitada\n· $.$ Rocky\n· Caverna Amaldiçoada\n· Fortaleza de Lil' Uzi\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3tzcsfpc2m\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiejr5ynxyo4ivm6fmptdnykhgyqedp2eg2kves5srsyh4xrodrkf4",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:09:31+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T02:17:08+00:00";
+window.NEWS_UPDATED = "2026-11-07T14:16:42+00:00";
