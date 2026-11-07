@@ -1463,7 +1463,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4gqgos2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
+  "news:8ee2c6c9005babcdb443f1513b81d45c",
+  "news:8ee2c6c9005babcdb443f1513b81d45c"
  ],
  "first_run": false,
  "seeded": [
@@ -1476,7 +1478,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:8ee2c6c9005babcdb443f1513b81d45c",
+    "kind": "news",
+    "title": "Copa de One Piece: Zoro ya disponible",
+    "text": "⚡ Ojo, ojo: Copa de One Piece: Zoro ya disponible\n¡Participa ya en la Copa de One Piece: Zoro de dúos de Battle Royale o de Cero construcción! Los mejores jugadores de cada región recibirán el traje de Roronoa Zoro. Tienes más información en la pestaña Competir.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/1d5eb5c7c5b94fc98e5692cfb0cd246a.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-07T00:00:43+00:00"
+   },
+   "tries": 1,
+   "at": 1794009643.0453606
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {

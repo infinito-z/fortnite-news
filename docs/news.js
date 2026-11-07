@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:8ee2c6c9005babcdb443f1513b81d45c",
+  "kind": "news",
+  "title": "Copa de One Piece: Zoro ya disponible",
+  "text": "⚡ Ojo, ojo: Copa de One Piece: Zoro ya disponible\n¡Participa ya en la Copa de One Piece: Zoro de dúos de Battle Royale o de Cero construcción! Los mejores jugadores de cada región recibirán el traje de Roronoa Zoro. Tienes más información en la pestaña Competir.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/1d5eb5c7c5b94fc98e5692cfb0cd246a.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-07T00:00:43+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-30T00:05:07+00:00"
- },
- {
-  "id": "cosmetic:EID_CreatureComfort",
-  "kind": "cosmetic",
-  "title": "Gesto: She Bugging (Whatchu Gonna Do)",
-  "text": "⚡ Llegó She Bugging (Whatchu Gonna Do) (Serie de ídolos). El que no la compre, no es gamer 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/eid_creaturecomfort/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-10-30T00:01:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-06T23:14:59+00:00";
+window.NEWS_UPDATED = "2026-11-07T00:00:43+00:00";
