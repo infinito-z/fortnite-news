@@ -1480,34 +1480,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:8ee2c6c9005babcdb443f1513b81d45c",
-    "kind": "news",
-    "title": "Copa de One Piece: Zoro ya disponible",
-    "text": "⚡ Ojo, ojo: Copa de One Piece: Zoro ya disponible\n¡Participa ya en la Copa de One Piece: Zoro de dúos de Battle Royale o de Cero construcción! Los mejores jugadores de cada región recibirán el traje de Roronoa Zoro. Tienes más información en la pestaña Competir.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/1d5eb5c7c5b94fc98e5692cfb0cd246a.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-07T00:00:43+00:00"
-   },
-   "tries": 2,
-   "at": 1794009820.371988
-  },
-  {
-   "item": {
-    "id": "shop:2c6183877b7377d5",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 50 cosas nuevas:\n• Lote de Ben 10 — 4.000 paVos\n• Lote de Rey Calabaza y Sally — 3.400 paVos\n• Lote de Jack Skelleton — 2.600 paVos\n• Lote de Eduardo Manostijeras — 2.500 paVos\n• Lote de Brainrot — 2.400 paVos\n• Lote de Nemia delegada — 1.800 paVos\n…y 44 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/351d246a51f28f2b/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-07T00:00:45+00:00"
-   },
-   "tries": 2,
-   "at": 1794009820.371988
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
