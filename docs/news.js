@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nTHE CHANCES HAVE BEEN REVEALED!!!!!!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzr2iatls223",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiadwlzqtjinzwxvxuoygkv2kmnipwqouj73ur5cyjhzwihm4zhgwm",
+  "tag": "Estado",
+  "ts": "2026-11-07T23:30:45+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqzdgnou22y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-10-30T16:08:30+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3yp34rkc2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗣️ TEASER 6 — Novos diálogos do Capitão X do Fortnite: Caçadores de Tesouro foram ativados no Megabaú do Tesouro! #Fortnite\n\n🪎 O Baú continua sendo descarregado em preparação para chegada do C7:TM1.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3yp34rkc2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-10-30T14:34:24+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T23:10:00+00:00";
+window.NEWS_UPDATED = "2026-11-07T23:30:45+00:00";
