@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqot27guc2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Fortnite: Caçadores de Tesouro | #Fortnite\n\n🔥 Progressão: 17%\n📅 Dias restantes: 28\n🔹Nível estimado: 10 (para o 60)\n🔸Nível estimado: 14 (para o 80)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzqot27guc2d\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidwjsf62w6et4h7urwlr45oh7qrcrge3asl3h3zfrd6irv34lqeiu",
+  "tag": "Filtración",
+  "ts": "2026-11-07T20:02:01+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqli2icbs2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieoch43fzkw72ytuwe7ntmltdf7ha36rzv2pwbyroyhvddlrttvz4",
   "tag": "Filtración",
   "ts": "2026-10-30T13:34:17+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3uom3gjc2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪎 NOVIDADES NO FORTNITE: CAÇADORES DE TESOURO! #Fortnite\n\nEntre no Battle Royale no “Dias de Capitania”, quando armas totalmente novas, Elementais e muito mais chegam ao mapa. Eles acontecerão nos dias 1°, 7, 12, 14 e 21 de novembro a partir das 10h BRT.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3uom3gjc2y\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibelhlqnwbxqbkfguccb6opm43ndrfv53gqzlsucx2gwbfixaqaj4",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:20:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T19:02:17+00:00";
+window.NEWS_UPDATED = "2026-11-07T20:02:03+00:00";
