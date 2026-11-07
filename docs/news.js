@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqli2icbs2p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 Horas do Poder Valiosas I agora no Battle Royale do Fortnite: Caçadores de Tesouro até 18h BRT! #Fortnite\n\n· Míssil de Choque do A$AP Rocky e Dispositivo de Autorreviver para todos\n· Elementais Valiosos surgem com mais frequência durante as Horas do Poder\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzqli2icbs2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifxou4vc3k75b4ga5ovanugr62jezifaxdwju63vddmtgdlbcxou4",
+  "tag": "Filtración",
+  "ts": "2026-11-07T19:02:16+00:00"
+ },
+ {
   "id": "news:e6bf81af654c77e4e7e989501c000f0f",
   "kind": "news",
   "title": "Variantes de espíritu afortunado - 7 de noviembre",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibelhlqnwbxqbkfguccb6opm43ndrfv53gqzlsucx2gwbfixaqaj4",
   "tag": "Filtración",
   "ts": "2026-10-30T13:20:47+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3ud2neu22m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 NOVAS DATAS DE LANÇAMENTO NA LOJA DO FORTNITE!\n\n· 01/11 — Luffy, Nami e Usopp\n· 05/11 — A$AP Rocky\n· 07/11 — Zoro, Sanji e Chopper\n· 12/11 — Lil Uzi Vert\n· 13/11 — Buggy\n· 14/11 — Kasane Teto e Hatsune Miku\n\nA maior aventura caça ao tesouro começa em 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3ud2neu22m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiail6k7primmzg44tvfodibkljxjw72upipmkdezibt4uyx7nzdrm",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:14:39+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T19:00:55+00:00";
+window.NEWS_UPDATED = "2026-11-07T19:02:17+00:00";
