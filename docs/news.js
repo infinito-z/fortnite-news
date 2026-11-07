@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzomcbcuw22y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 10 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzomcbcuw22y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdufyf52lqsqj57vlb25jntvvskhrbxaoe324tbxyyjs76ya64oa",
+  "tag": "Filtración",
+  "ts": "2026-11-07T00:11:23+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombvnvek2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm homem de gentileza fora do comum. Tenha uma precisão perfeita com Edward Mãos de Tesoura e seus acessórios que aparam as pontas da Loja do Fortnite até 10 de novembro! ✂️💎\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzombvnvek2y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigqfvfqp2xnkbmclggbmkroqez4buwckyazy4a4n5pcze34dhgdsi",
+  "tag": "Filtración",
+  "ts": "2026-11-07T00:11:23+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombessfc2y",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA lenda da cidade, a costureira costurada e a abóbora do terror se juntam! Jack Esqueleto, Sally e o Rei do Horror de O Estranho Mundo de Jack chegam para assombrar a Loja do Fortnite até 10 de novembro! 💀🧶🎃\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzombessfc2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjzq5uuyacn7hionh6wnjuvq33bqtnrjxjjro3yweghjjals7oga",
+  "tag": "Filtración",
+  "ts": "2026-11-07T00:11:23+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom5x3k222y",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigts4pci6xdehqdv2ipahfttm4pusolqwmsw4ls232z2yahhgqb5a",
   "tag": "Filtración",
   "ts": "2026-10-30T13:05:31+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3tkis7uk2m",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟧 HORAS ASSOMBRADAS POR 24 HORAS!\n\nOs Elementais Gostosuras ou Travessuras são mais comuns durante o dia todo para ajudar a completar a coleção no C7:T4, e as Armas da Rebecca Exóticas chegam à Ilha! \n\n⏰ Somente até amanhã (31) às 10h BRT (13h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3tkis7uk2m\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidp26siqej4dftgjueecvbijlj4jipkisctp372aurbixrqcefyi4",
-  "tag": "Filtración",
-  "ts": "2026-10-30T13:01:12+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3sursnu226",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💸 Os Pacotes Tática Áurea e Lendas Congeladas retornam à Loja em 17 de novembro e ficarão até 06 de janeiro por R$ 68,99 cada.\n\n⚠️ Provavelmente não retornarão no Brasil por conta das restrições para pacotes com mais de 1 Traje. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3sursnu226\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigzig4nv425f2d6e7zq4tqntrgfhcvpklw62gz2wrt775kseukx7q",
-  "tag": "Filtración",
-  "ts": "2026-10-30T12:49:02+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz3s3nidus2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌹 PRESENTES — Em comemoração ao Día de Muertos, faça login no Fortnite a qualquer momento até 31 de outubro à 1h BRT e receba cosméticos temáticos de graça! #Fortnite\n\n· Spray Recorte\n· Emoticon Día de Muertos\n· Spray Catrina Esteve Aqui\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz3s3nidus2p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibijrymfsxwezxmbeti3nfezjeelmtprkpao5v3igukcktc3mquwi",
-  "tag": "Filtración",
-  "ts": "2026-10-30T12:34:36+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-07T00:08:55+00:00";
+window.NEWS_UPDATED = "2026-11-07T00:11:24+00:00";

@@ -1473,7 +1473,13 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom4xutzs2y",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom5x3k222y",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom5ma6sk2y",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom4xutzs2y"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom4xutzs2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzomcbcuw22y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombvnvek2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombessfc2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzomcbcuw22y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombvnvek2y",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombessfc2y"
  ],
  "first_run": false,
  "seeded": [
@@ -1525,6 +1531,45 @@
    },
    "tries": 1,
    "at": 1794010135.3975897
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzomcbcuw22y",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 10 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzomcbcuw22y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdufyf52lqsqj57vlb25jntvvskhrbxaoe324tbxyyjs76ya64oa",
+    "tag": "Filtración",
+    "ts": "2026-11-07T00:11:23+00:00"
+   },
+   "tries": 1,
+   "at": 1794010284.0907817
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombvnvek2y",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm homem de gentileza fora do comum. Tenha uma precisão perfeita com Edward Mãos de Tesoura e seus acessórios que aparam as pontas da Loja do Fortnite até 10 de novembro! ✂️💎\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzombvnvek2y\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigqfvfqp2xnkbmclggbmkroqez4buwckyazy4a4n5pcze34dhgdsi",
+    "tag": "Filtración",
+    "ts": "2026-11-07T00:11:23+00:00"
+   },
+   "tries": 1,
+   "at": 1794010284.0907817
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombessfc2y",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA lenda da cidade, a costureira costurada e a abóbora do terror se juntam! Jack Esqueleto, Sally e o Rei do Horror de O Estranho Mundo de Jack chegam para assombrar a Loja do Fortnite até 10 de novembro! 💀🧶🎃\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzombessfc2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjzq5uuyacn7hionh6wnjuvq33bqtnrjxjjro3yweghjjals7oga",
+    "tag": "Filtración",
+    "ts": "2026-11-07T00:11:23+00:00"
+   },
+   "tries": 1,
+   "at": 1794010284.0907817
   }
  ],
  "epic_fp": {
