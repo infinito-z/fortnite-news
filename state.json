@@ -1493,7 +1493,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqroyo3z22p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqroyo3z22p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqu52pmyc2s",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqu52pmyc2s"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqu52pmyc2s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzquypvfs22s",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzquypvfs22s"
  ],
  "first_run": false,
  "seeded": [
@@ -1506,7 +1508,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzquypvfs22s",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· One Piece [Zoro, Sanji e Chopper] (7x)\n· Bugatti Centodieci (1x)\n· Crossover do Deadpool (2x)\n· RAM 1500 RHO (1x)\n· Caçadores de Tesouro (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzquypvfs22s\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihvzuffowi6mzjpmle2l5qflzax7ak4geuvgxfcfi76glitmbuv6q",
+    "tag": "Filtración",
+    "ts": "2026-11-07T21:52:23+00:00"
+   },
+   "tries": 1,
+   "at": 1794088344.3684459
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
