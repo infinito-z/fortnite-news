@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qohmss2h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nFerozmente vermelha, escuridão máxima e um toque salgado. Corvopool, Abraçopool e Peixepool retornam em ritmo cômico à Loja do Fortnite até 11 de novembro! 🎀🦄🐟\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4qohmss2h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiejr2ectdbrbhz67rsc5iz5xw35pmnmmdzw3mihfx4v3b7bhsa34e",
+  "tag": "Filtración",
+  "ts": "2026-11-08T00:11:03+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qfr3q22h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla pirou na Dodge Ram. Use toda sua potência com a nova Dodge Ram 1500 RHO que retornou à Loja do Fortnite por 2.500 V-Bucks até 14 de novembro! 🔥🐂\n\n🧡 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4qfr3q22h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih6wmr7vhchpgyngmwdgham5ykzjkrux3jmoykm7yq4q7tjwwcdta",
+  "tag": "Filtración",
+  "ts": "2026-11-08T00:11:03+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidxz43nohvgoayzzjwqm5tgehrqfttsz7jbcutprzige3q5nj5ofy",
   "tag": "Filtración",
   "ts": "2026-10-30T22:48:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4sghby422i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 A atualização do Fortnite: Caçadores de Tesouro (v43.00) será lançada em 1° de novembro às 2h da manhã BRT (5h em Lisboa).\n\nOs servidores estão previstos para retornar por volta das 5h da manhã BRT (8h em Lisboa), podendo variar. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4sghby422i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihtz3nb7ulf57i3og4hhryns2gxlgdoedtk4inriyfburoumpzkwa",
-  "tag": "Filtración",
-  "ts": "2026-10-30T22:13:17+00:00"
- },
- {
-  "id": "status:maint:npy10q9x5m8d:scheduled:2026-10-30T22:04:49.769Z",
-  "kind": "status",
-  "title": "Mantenimiento: Fortnite: Downtime for v43.00 Update",
-  "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.00 Update\nEstado: programado\nDesde: 2026-11-01T05:00:00.000Z\nHasta: 2026-11-01T08:00:00.000Z\n⏰ Scheduled downtime for v43.00 begins at 1 AM ET (5 AM UTC). \nMatchmaking will be disabled 30 minutes prior.\nhttps://status.epicgames.com",
-  "image": null,
-  "tag": "Estado",
-  "ts": "2026-10-30T22:06:44+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-08T00:10:35+00:00";
+window.NEWS_UPDATED = "2026-11-08T00:11:04+00:00";
