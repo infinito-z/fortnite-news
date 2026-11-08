@@ -1524,60 +1524,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nExcelência, potência e qualidade. A Bugatti Centodieci traz energia para a Loja do Fortnite por 2.800 V-Bucks até 17 de novembro! 🔥💨\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4q4zgj22h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreids224yictq6qjomxaffmrfaarnfzo2smfasl4j5lwsasqlo7xd4q",
-    "tag": "Filtración",
-    "ts": "2026-11-08T00:10:34+00:00"
-   },
-   "tries": 2,
-   "at": 1794096820.7738955
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4pprwqs2h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nUm mestre espadachim, um cozinheiro e um médico rena que fazem de tudo! Roronoa Zoro, Sanji e Tony Tony Chopper de One Piece fazem a festa dos Chapéus de Palha na Loja do Fortnite até 05 de dezembro! ⚔️🍳💊\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4pprwqs2h\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiflgxhstcsg3ywnx5oosr24knab5u4xv6ou6cufqx3ps7vhiiybzu",
-    "tag": "Filtración",
-    "ts": "2026-11-08T00:10:34+00:00"
-   },
-   "tries": 2,
-   "at": 1794096820.7738955
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qohmss2h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nFerozmente vermelha, escuridão máxima e um toque salgado. Corvopool, Abraçopool e Peixepool retornam em ritmo cômico à Loja do Fortnite até 11 de novembro! 🎀🦄🐟\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4qohmss2h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiejr2ectdbrbhz67rsc5iz5xw35pmnmmdzw3mihfx4v3b7bhsa34e",
-    "tag": "Filtración",
-    "ts": "2026-11-08T00:11:03+00:00"
-   },
-   "tries": 2,
-   "at": 1794096820.7738955
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qfr3q22h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEla pirou na Dodge Ram. Use toda sua potência com a nova Dodge Ram 1500 RHO que retornou à Loja do Fortnite por 2.500 V-Bucks até 14 de novembro! 🔥🐂\n\n🧡 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4qfr3q22h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih6wmr7vhchpgyngmwdgham5ykzjkrux3jmoykm7yq4q7tjwwcdta",
-    "tag": "Filtración",
-    "ts": "2026-11-08T00:11:03+00:00"
-   },
-   "tries": 2,
-   "at": 1794096820.7738955
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
