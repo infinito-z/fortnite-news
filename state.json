@@ -1501,7 +1501,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqzdgnou22y",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqzdgnou22y",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223",
-  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223"
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223",
+  "shop:191ceee4e16fd58c",
+  "shop:191ceee4e16fd58c"
  ],
  "first_run": false,
  "seeded": [
@@ -1514,7 +1516,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:191ceee4e16fd58c",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 26 cosas nuevas:\n• Lote de Sombreros de paja — 3.200 paVos\n• Lote de Bugatti Centodieci — 2.800 paVos\n• RAM 1500 RHO — 2.500 paVos\n• Lote de equipamiento de Deadpool — 2.000 paVos\n• Combinaciones con Deadpool — 2.000 paVos\n• Lote de Adanna de las profundidades — 1.700 paVos\n…y 20 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/08e43d2736617a99/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-08T00:00:29+00:00"
+   },
+   "tries": 1,
+   "at": 1794096029.9670942
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
