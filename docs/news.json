@@ -1,5 +1,41 @@
 [
  {
+  "id": "cosmetic:Backpack_RumbaShowyReward",
+  "kind": "cosmetic",
+  "title": "Accesorio mochilero: Oro y diamante",
+  "text": "👀 Se filtró Oro y diamante (Raro). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_rumbashowyreward/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-08T13:31:26+00:00"
+ },
+ {
+  "id": "cosmetic:Character_RumbaShowy",
+  "kind": "cosmetic",
+  "title": "Traje: Lil Uzi Vert de oro macizo",
+  "text": "⚡ Llegó Lil Uzi Vert de oro macizo (Épico). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_rumbashowy/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-08T13:31:26+00:00"
+ },
+ {
+  "id": "cosmetic:loadingscreen_delilahthw2",
+  "kind": "cosmetic",
+  "title": "Pantalla de carga: Qué kawaii",
+  "text": "👀 Se filtró Qué kawaii (Poco común). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_delilahthw2/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-08T13:31:26+00:00"
+ },
+ {
+  "id": "cosmetic:CarSkin_BurnishedRavenTreasureHunt01",
+  "kind": "cosmetic",
+  "title": "Piel: En blanco",
+  "text": "🔥 Nuevo en los archivos: En blanco (Común). Billetera, prepárate 💸",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-11-08T13:31:26+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrjoijsqk2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1762,41 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihsuwq4okebvmwtmho2em6exhcinvxrykfyo5itexyphcp5tbum3u",
   "tag": "Filtración",
   "ts": "2026-10-31T00:06:47+00:00"
- },
- {
-  "id": "shop:b8eed25febc239ee",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 23 cosas nuevas:\n• Lote de Ripley y xenomorfo — 2.200 paVos\n• Lote de Agente del caos — 2.000 paVos\n• Lote de Xenomorfo (Alien: Planeta Tierra) — 2.000 paVos\n• Lote de Miasma — 1.600 paVos\n• Minotauro maestro — 1.500 paVos\n• Lote de equipamiento del espacio — 1.500 paVos\n…y 17 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/e9f1780fa8a38d12/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-10-31T00:00:05+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yde4xzk2f",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Os conteúdos de One Piece do Fortnite: Caçadores de Tesouro chegarão no Battle Royale, Reload e Blitz Royale a partir de 1° de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yde4xzk2f\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic5parw5u6um6cc44vnhh5xux54jd3htjyylt55j4gr74hc7p53hy",
-  "tag": "Filtración",
-  "ts": "2026-10-30T23:59:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4xvgy34c2b",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💀🎉 FORTNITE x VIVA: A VIDA É UMA FESTA — O cachorro Dante de Viva: A Vida é uma Festa (Coco) chegará em breve ao Fortnite para a comemoração de Día de los Muertos!\n\n📸: x/Fecooo_ | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4xvgy34c2b\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic4uxrfnena5d6c5vmm7ihkus4sckv7h6rcnwriiqqd25lrjqd44y",
-  "tag": "Filtración",
-  "ts": "2026-10-30T23:51:16+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4uetejhc2v",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🧑‍🎄 IT'S TIIIIIME! Mariah Carey começará a descongelar e retornará à Loja do Fortnite amanhã, 31 de outubro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4uetejhc2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibowtlllrswguamd3zsyhmsdto3z4vcqfm5hduv7gegzy5njtqriy",
-  "tag": "Filtración",
-  "ts": "2026-10-30T22:48:09+00:00"
  }
 ]
