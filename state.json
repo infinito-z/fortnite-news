@@ -1549,19 +1549,6 @@
  "pending": [
   {
    "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzslkrikak2q",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIA DE CAPTANIA DO LIL UZI VERT JÁ DISPONÍVEL! #Fortnite\n\n· Lil Uzi Vert chega como Chefe no Forte da Fortuna e concede a Mini SMG do Lil Uzi Vert ao derrotá-lo\n· Novos Elementais Lil Uzi Vert Jr. e variantes Assombradas\n· Novos Tesouros em Baús e Fragmento de Mapa\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzslkrikak2q\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreian3ihqk5s4mi56xafadk7nfqncaulmngtcwg5blnpap43jtuptlq",
-    "tag": "Filtración",
-    "ts": "2026-11-08T14:09:09+00:00"
-   },
-   "tries": 2,
-   "at": 1794147136.5493462
-  },
-  {
-   "item": {
     "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzslsza2p22q",
     "kind": "leak",
     "title": "Filtración de @lpleaksnews.bsky.social",
