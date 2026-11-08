@@ -1523,7 +1523,9 @@
   "cosmetic:Backpack_RumbaShowyReward",
   "cosmetic:Character_RumbaShowy",
   "cosmetic:loadingscreen_delilahthw2",
-  "cosmetic:CarSkin_BurnishedRavenTreasureHunt01"
+  "cosmetic:CarSkin_BurnishedRavenTreasureHunt01",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzskal6fn22a",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzskal6fn22a"
  ],
  "first_run": false,
  "seeded": [
@@ -1536,7 +1538,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzskal6fn22a",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟨 FORTNITE x LIL UZI VERT — Os cosméticos do Lil Uzi Vert Ouro Maciço e o Adesivo do Cadillac CT5-V Blackwing foram descriptografados e estarão disponíveis para encontrar nos Baús de Tesouro a partir das 11h BRT!\n\n📁 Pak1024 | 7.66 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzskal6fn22a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifnduj5fx73xmjdkcgxfrxy2i4eqjfsn6jppps4kgjzecdej7ynqe",
+    "tag": "Filtración",
+    "ts": "2026-11-08T13:45:51+00:00"
+   },
+   "tries": 1,
+   "at": 1794145552.0006592
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {

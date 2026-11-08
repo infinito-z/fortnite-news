@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzskal6fn22a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟨 FORTNITE x LIL UZI VERT — Os cosméticos do Lil Uzi Vert Ouro Maciço e o Adesivo do Cadillac CT5-V Blackwing foram descriptografados e estarão disponíveis para encontrar nos Baús de Tesouro a partir das 11h BRT!\n\n📁 Pak1024 | 7.66 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzskal6fn22a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifnduj5fx73xmjdkcgxfrxy2i4eqjfsn6jppps4kgjzecdej7ynqe",
+  "tag": "Filtración",
+  "ts": "2026-11-08T13:45:51+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_RumbaShowyReward",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Oro y diamante",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib2634hvtrggzrkltswkr7zcq5qp7ngqucchr5wh4qgskzhhsp5qi",
   "tag": "Filtración",
   "ts": "2026-10-31T00:06:47+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4yqe4pmc2x",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nInspire e sinta. A Miasma e seus acessórios trazem o caos tóxico para a Loja de Itens até 04 de novembro! ☢️🩸\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4yqe4pmc2x\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihsuwq4okebvmwtmho2em6exhcinvxrykfyo5itexyphcp5tbum3u",
-  "tag": "Filtración",
-  "ts": "2026-10-31T00:06:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-08T13:31:26+00:00";
+window.NEWS_UPDATED = "2026-11-08T13:45:52+00:00";
