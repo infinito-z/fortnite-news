@@ -1536,60 +1536,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic:Backpack_RumbaShowyReward",
-    "kind": "cosmetic",
-    "title": "Accesorio mochilero: Oro y diamante",
-    "text": "👀 Se filtró Oro y diamante (Raro). Que alguien avise a mi tarjeta 😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_rumbashowyreward/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-08T13:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1794144841.5424201
-  },
-  {
-   "item": {
-    "id": "cosmetic:Character_RumbaShowy",
-    "kind": "cosmetic",
-    "title": "Traje: Lil Uzi Vert de oro macizo",
-    "text": "⚡ Llegó Lil Uzi Vert de oro macizo (Épico). El que no la compre, no es gamer 🗿",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_rumbashowy/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-08T13:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1794144841.5424201
-  },
-  {
-   "item": {
-    "id": "cosmetic:loadingscreen_delilahthw2",
-    "kind": "cosmetic",
-    "title": "Pantalla de carga: Qué kawaii",
-    "text": "👀 Se filtró Qué kawaii (Poco común). Que alguien avise a mi tarjeta 😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_delilahthw2/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-08T13:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1794144841.5424201
-  },
-  {
-   "item": {
-    "id": "cosmetic:CarSkin_BurnishedRavenTreasureHunt01",
-    "kind": "cosmetic",
-    "title": "Piel: En blanco",
-    "text": "🔥 Nuevo en los archivos: En blanco (Común). Billetera, prepárate 💸",
-    "image": null,
-    "tag": "Cosmético",
-    "ts": "2026-11-08T13:31:26+00:00"
-   },
-   "tries": 2,
-   "at": 1794144841.5424201
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
