@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzt2e2px2227",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Evento Siga a Borboleta do Raiz C1:T6 (2025) ocorreu há 1 ANO! 🦋🟥\n\nApós a explosão do Cubo Kevin no Lago do Saque, fomos levados ao Nexus do Ponto Zero, onde o Cubo Revin foi exibido e retornamos à Ilha logo após. O evento foi diferente do original em 2018. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzt2e2px2227\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-08T18:33:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzsm5izo322q",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidib2e4m3z36z7wvo3ft4dp2i7opps66ilmtuitubxmvq4pgqznbe",
   "tag": "Filtración",
   "ts": "2026-10-31T14:23:00+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6dzgqrq22k",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 HORAS DAS VARIANTES ATÉ O FIM DA TEMPORADA!\n\nTodas as variantes de Elementais são mais comuns para ajudar a completar a coleção no C7:T4, e a SMG Quebra-ossos Exótica chega à Ilha!\n\n⏰ O Capítulo 7: Temporada 4 — Assuma o Controle fica disponível até às 2h BRT! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6dzgqrq22k\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicfdrgq4jat5hdem5nwy3hcrzgajz3mdri7o2v4a5cm6cgbrin6wm",
-  "tag": "Filtración",
-  "ts": "2026-10-31T13:00:38+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-08T14:19:36+00:00";
+window.NEWS_UPDATED = "2026-11-08T18:34:00+00:00";
