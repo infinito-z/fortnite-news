@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nExcelência, potência e qualidade. A Bugatti Centodieci traz energia para a Loja do Fortnite por 2.800 V-Bucks até 17 de novembro! 🔥💨\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4q4zgj22h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreids224yictq6qjomxaffmrfaarnfzo2smfasl4j5lwsasqlo7xd4q",
+  "tag": "Filtración",
+  "ts": "2026-11-08T00:10:34+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4pprwqs2h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nUm mestre espadachim, um cozinheiro e um médico rena que fazem de tudo! Roronoa Zoro, Sanji e Tony Tony Chopper de One Piece fazem a festa dos Chapéus de Palha na Loja do Fortnite até 05 de dezembro! ⚔️🍳💊\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4pprwqs2h\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiflgxhstcsg3ywnx5oosr24knab5u4xv6ou6cufqx3ps7vhiiybzu",
+  "tag": "Filtración",
+  "ts": "2026-11-08T00:10:34+00:00"
+ },
+ {
   "id": "shop:191ceee4e16fd58c",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-10-30T22:06:44+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnopbrk2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎁 VEM AÍ?! Os Drops Diários poderiam ser finalmente lançados no Fortnite: Caçadores de Tesouro que começa em 1° de novembro.\n\nAo que parece, diversos arquivos dessa mecânica serão conectados com a temporada com a chegada da v43.00.\n\nInfo: x/ShiinaBR e fn_cousin | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4mnopbrk2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreietxiawlhruwlbplc57zvauxdkxf7lk4d6dyhdmznavfwvl3vord4",
-  "tag": "Filtración",
-  "ts": "2026-10-30T20:29:36+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz4mnf673c2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪩 MINI FESTIVAL?! Ao que parece, o Fortnite Festival poderia receber uma Temporada Mini 1 com a chegada do Fortnite: Caçadores de Tesouro neste domingo, 1° de novembro!\n\nInfo: x/ShiinaBR e Fn_cousin | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz4mnf673c2d\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibes7olohwkt76a3q4ra5lbantw6abxanp4vprvl6npvbx3uia67i",
-  "tag": "Filtración",
-  "ts": "2026-10-30T20:29:36+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-08T00:00:29+00:00";
+window.NEWS_UPDATED = "2026-11-08T00:10:35+00:00";

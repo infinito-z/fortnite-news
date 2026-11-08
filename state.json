@@ -1503,7 +1503,11 @@
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzr2iatls223",
   "shop:191ceee4e16fd58c",
-  "shop:191ceee4e16fd58c"
+  "shop:191ceee4e16fd58c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4pprwqs2h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4pprwqs2h"
  ],
  "first_run": false,
  "seeded": [
@@ -1516,7 +1520,34 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4q4zgj22h",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nExcelência, potência e qualidade. A Bugatti Centodieci traz energia para a Loja do Fortnite por 2.800 V-Bucks até 17 de novembro! 🔥💨\n\n🤍 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4q4zgj22h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreids224yictq6qjomxaffmrfaarnfzo2smfasl4j5lwsasqlo7xd4q",
+    "tag": "Filtración",
+    "ts": "2026-11-08T00:10:34+00:00"
+   },
+   "tries": 1,
+   "at": 1794096635.594468
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4pprwqs2h",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nUm mestre espadachim, um cozinheiro e um médico rena que fazem de tudo! Roronoa Zoro, Sanji e Tony Tony Chopper de One Piece fazem a festa dos Chapéus de Palha na Loja do Fortnite até 05 de dezembro! ⚔️🍳💊\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzr4pprwqs2h\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiflgxhstcsg3ywnx5oosr24knab5u4xv6ou6cufqx3ps7vhiiybzu",
+    "tag": "Filtración",
+    "ts": "2026-11-08T00:10:34+00:00"
+   },
+   "tries": 1,
+   "at": 1794096635.594468
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
