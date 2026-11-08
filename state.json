@@ -1556,21 +1556,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztj6qn7p22d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Star Wars [Samurais] (2x)\n· Honkai Star Rail (2x)\n· Caçadores de Tesouro (6x)\n· Festa da Vitória [Gestos] (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mztj6qn7p22d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreict7zjpwvb7wsmciif6jmcyjmqogw74x6jwj7xirj766si4lsoli4",
-    "tag": "Filtración",
-    "ts": "2026-11-08T22:59:02+00:00"
-   },
-   "tries": 2,
-   "at": 1794178891.1021225
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-08T19:42:05.868Z",
   "sections": {
