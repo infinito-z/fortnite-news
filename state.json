@@ -1513,7 +1513,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qohmss2h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzr4qfr3q22h",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrcv3rzo22a",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrcv3rzo22a"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrcv3rzo22a",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrjoijsqk2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrjoijsqk2c"
  ],
  "first_run": false,
  "seeded": [
@@ -1526,7 +1528,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzrjoijsqk2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪙 EM BREVE — O Token da Loja Pirata terá sua taxa de surgimento aumentada nas próximas Horas do Poder que acontecem todo sábado no Fortnite: Caçadores de Tesouro! #Fortnite\n\n· Dias 14, 21 e 28 de novembro\n· Das 16h às 18h BRT e das 23h à 1h BRT\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzrjoijsqk2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigkhlnfhk54stxwhuuhu2pl2u7vk54pz5lecum5tda6tzludde24a",
+    "tag": "Filtración",
+    "ts": "2026-11-08T04:02:28+00:00"
+   },
+   "tries": 1,
+   "at": 1794110549.7305207
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-06T23:00:11.417Z",
   "sections": {
