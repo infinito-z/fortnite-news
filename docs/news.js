@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzv3lkre5s2h",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:TM1\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Baús Elementais e Cartazes de Elemental Procurado surgem com mais frequência\n\n⏰ Disponível até amanhã (10) às 11h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzv3lkre5s2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih7nvauq2y3is4yd5ieiuzfrmxgoxpuayfzv323fudsco5vqc7fzu",
+  "tag": "Filtración",
+  "ts": "2026-11-09T14:00:48+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmwty6pc27",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-10-31T20:13:55+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz6ygdcajk24",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ A pré-atualização do C7:TM1 será liberada para PlayStation 5 e Xbox a partir das 20h BRT.\n\nVocê poderá baixar a atualização, mas só jogará a nova temporada quando os servidores retornarem amanhã de manhã.\n\nℹ️ Apenas essas plataformas recebem a pré-atualização. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz6ygdcajk24\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
-  "tag": "Filtración",
-  "ts": "2026-10-31T19:05:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-09T00:06:11+00:00";
+window.NEWS_UPDATED = "2026-11-09T14:00:48+00:00";
