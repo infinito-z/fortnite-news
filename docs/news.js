@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzvzygbr422s",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Mestres do Universo (3x)\n· Vestiário Do Jacob Pierogi (2x)\n· Nem Suei (2x)\n· Amplificador de Sinal [Mascote AIBO] (5x)\n· Estilo Top (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzvzygbr422s\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjdtbvbjwcytcsblbm4gd2dxgwfqscfihqpwxfurh5djgbfpthme",
+  "tag": "Filtración",
+  "ts": "2026-11-09T23:05:04+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzvxtgco7k2s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
   "tag": "Filtración",
   "ts": "2026-10-31T23:00:48+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7evtioyc2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Mariah Carey (2x)\n· Clube de Novembro (1x)\n· Pista de Dança [Gestos] (2x)\n· Amplificador de Sinal (6x)\n· Estilo Top (6x)\n· Músicas (5x)\n\n🏴‍☠️ Luffy, Nami e Usopp de One Piece chegam à Loja amanhã assim que os servidores retornarem!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7evtioyc2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicdelebsypzgb5jfjtdcrpqvedofpamp7qc4bl7mn2hivggc4ayhq",
-  "tag": "Filtración",
-  "ts": "2026-10-31T22:49:12+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-09T22:26:38+00:00";
+window.NEWS_UPDATED = "2026-11-09T23:05:05+00:00";
