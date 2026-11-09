@@ -1570,21 +1570,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzvejhfan22n",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🐦‍⬛ O Pacote Inicial Corvo Tempestuoso retornará à Loja em 1° de dezembro por R$ 16,99 e ficará até 1° de dezembro de 2027! #Fortnite\n\n· Traje Corvo Tempestuoso \n· Pacotão Decoração Calmaria do Corvo do LEGO Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzvejhfan22n\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigorszgud3weejgjjgjqbrkgh77fw7ypknyutq4c6gbugsest2mj4",
-    "tag": "Filtración",
-    "ts": "2026-11-09T16:40:49+00:00"
-   },
-   "tries": 2,
-   "at": 1794242629.0999863
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-09T15:49:23.625Z",
   "sections": {
