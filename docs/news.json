@@ -1,5 +1,23 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmwty6pc27",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 12 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mztmwty6pc27\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsqyuxnax3a3clieumzo5q25wnejugbaflqu5akn6gjwirwphwka",
+  "tag": "Filtración",
+  "ts": "2026-11-09T00:06:10+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmwazwcs27",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nQuebre as barreiras do mundo digital. Chigusa, Megumi e Yuki do Pacotão Infiltração Cibernética retornam à Loja de Itens até 11 de novembro — também separadamente para jogadores do Brasil! 💻👾\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mztmwazwcs27\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiedw673f2zouz5li4ng2o7arzuss7pz6j7oxlszoiwmekofspu6h4",
+  "tag": "Filtración",
+  "ts": "2026-11-09T00:06:10+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvwzv4227",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,23 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiavs54rh7xxo4xd6c72zw5mxseenbkpt6zxftzvl65y2v4eigsmtm",
   "tag": "Filtración",
   "ts": "2026-10-31T19:05:43+00:00"
- },
- {
-  "id": "epic:emergencynoticev2:0007407fffac",
-  "kind": "epic",
-  "title": "Epic actualizó: aviso de emergencia",
-  "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.\n• The Greatest Adventure Awaits — Downtime for v43.00 begins at 1 AM EDT (5 AM UTC). Matchmaking will end shortly beforehand.",
-  "image": null,
-  "tag": "Epic",
-  "ts": "2026-10-31T19:00:26+00:00"
- },
- {
-  "id": "news:32d527dd6b96520b7161dcd51c7f542f",
-  "kind": "news",
-  "title": "Trae a tu escuadrón de vuelta",
-  "text": "👀 Epic acaba de soltar esto: Trae a tu escuadrón de vuelta\n¡No está todo perdido cuando un compañero de equipo cae! Cuando caen, dejan atrás una tarjeta de reinicio. Recógelo, llévalo a una furgoneta de Reinicio y haz que vuelvan al combate para tener una mejor oportunidad de victoria.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a36a76895e7c41e4b273673a67a659ed.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-10-31T18:31:26+00:00"
  }
 ]
