@@ -1568,21 +1568,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzv3lkre5s2h",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:TM1\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Baús Elementais e Cartazes de Elemental Procurado surgem com mais frequência\n\n⏰ Disponível até amanhã (10) às 11h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzv3lkre5s2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih7nvauq2y3is4yd5ieiuzfrmxgoxpuayfzv323fudsco5vqc7fzu",
-    "tag": "Filtración",
-    "ts": "2026-11-09T14:00:48+00:00"
-   },
-   "tries": 2,
-   "at": 1794233035.4287066
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-08T19:42:05.868Z",
   "sections": {
