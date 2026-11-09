@@ -1545,7 +1545,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztj6qn7p22d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztj6qn7p22d",
   "shop:6d96250f83da46e5",
-  "shop:6d96250f83da46e5"
+  "shop:6d96250f83da46e5",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvwzv4227",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvbkkxk27",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvwzv4227",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvbkkxk27"
  ],
  "first_run": false,
  "seeded": [
@@ -1571,6 +1575,32 @@
    },
    "tries": 2,
    "at": 1794182599.2172227
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvwzv4227",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nViva com lembranças de um passado fragmentado, ou como uma fugitiva de alto nível. Blade e Kafka, os Caçadores de Stellaron de Honkai: Star Rail avançam na Loja do Fortnite até 11 de novembro! 🌠🗡️\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mztmvwzv4227\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib7zewnyrm2ijtsp4x43xqni7txqdgwqvm266bjuuyvmsoeijucra",
+    "tag": "Filtración",
+    "ts": "2026-11-09T00:05:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794182745.3010335
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mztmvbkkxk27",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSinta a força com um novo olhar! Darth Vader Samurai e Stormtrooper Samurai abrem novos caminhos na Loja do Fortnite até 12 de novembro! ⚔️⛩️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mztmvbkkxk27\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibqhuuprjdp3lkwgeqxgf4tff2ouij3sdmhzsftvcqjvxfj3y4cca",
+    "tag": "Filtración",
+    "ts": "2026-11-09T00:05:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794182745.3010335
   }
  ],
  "epic_fp": {
