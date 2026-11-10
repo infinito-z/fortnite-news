@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydu4u2ks2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⛩️ ESTILO — Primeira visão de um novo estilo para a Charlotte-Sensei do Passe de Batalha dos Caçadores de Tesouro que chegará na v43.10 em 12 de novembro!\n\n📸: x/EpicTofuChris | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzydu4u2ks2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiceij5gz3khnygit6d2volrtxh4olbslkf42qm6qfzfj4kqvb5e74",
+  "tag": "Filtración",
+  "ts": "2026-11-10T21:07:17+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydtpnk2k2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgmqmvjtbfylqpoz4gym5ifwdf3zupwgprtoqpseqm6jirhxvopi",
   "tag": "Filtración",
   "ts": "2026-11-01T05:00:49+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7zexhjmk2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗺️ MAPA — Nova visão ampla da Ilha Ossos Cruzados do Fortnite: Caçadores de Tesouro! \n\nA maior caçada de todos os tempos começa em breve! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7zexhjmk2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiesocduciik47mw4oqzdfm2bnzcafe6fgl65e4ueajaxzseb65jze",
-  "tag": "Filtración",
-  "ts": "2026-11-01T04:55:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-10T21:06:29+00:00";
+window.NEWS_UPDATED = "2026-11-10T21:07:17+00:00";
