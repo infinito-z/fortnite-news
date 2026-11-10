@@ -1577,7 +1577,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxvwqehos2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxvwqehos2m",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxwaoi4pk2z",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxwaoi4pk2z"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxwaoi4pk2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydtpnk2k2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydtpnk2k2n"
  ],
  "first_run": false,
  "seeded": [
@@ -1590,7 +1592,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydtpnk2k2n",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n⛩️ ESTILO — Primeira visão de um novo estilo para a Charlotte-Sensei do Passe de Batalha dos Caçadores de Tesouro que chegará na v43.10 em 12 de novembro!\n\n📸: x,lEpicTofuChris | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzydtpnk2k2n\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiceij5gz3khnygit6d2volrtxh4olbslkf42qm6qfzfj4kqvb5e74",
+    "tag": "Filtración",
+    "ts": "2026-11-10T21:06:28+00:00"
+   },
+   "tries": 1,
+   "at": 1794344789.9657154
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-09T22:18:44.315Z",
   "sections": {
