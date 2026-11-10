@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzxplc6c6s25",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🤟 FORTNITE x LIL UZI VERT — Músicas na Loja em 12 de novembro! #Fortnite\n\n· Poured — Lil Uzi Vert\n· Say It Was — Lil Uzi Vert\n· What You Saying — Lil Uzi Vert\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzxplc6c6s25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiagb4yzxj4q2ibnisrmdjkvjrnjz6mcw63ftsj52ssa5s5p57levu",
+  "tag": "Filtración",
+  "ts": "2026-11-10T15:03:58+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzw5jbrlys26",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihj2u3jnhm2w7te3qjaz5yqvqqeklqunb3avwvtegibfuclngycha",
   "tag": "Filtración",
   "ts": "2026-11-01T00:14:22+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mz7j5mdeec2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 04 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mz7j5mdeec2l\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieeqygmgbgksztaw6xrmg5za3j72mdrkoviivku7qqrloleuypql4",
-  "tag": "Filtración",
-  "ts": "2026-11-01T00:05:13+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-10T00:07:57+00:00";
+window.NEWS_UPDATED = "2026-11-10T15:03:59+00:00";
