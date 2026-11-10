@@ -1578,21 +1578,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "shop:2ea8228d1efd1630",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 53 cosas nuevas:\n• Lote de Masters del Universo — 3.600 paVos\n• Lote de Medicina lúgubre — 2.200 paVos\n• Lote de taquilla de Pierogi de Jacob — 2.000 paVos\n• Skeletor — 1.800 paVos\n• She-Ra — 1.600 paVos\n• Plaga — 1.500 paVos\n…y 47 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/27c1012276fffe39/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-10T00:01:29+00:00"
-   },
-   "tries": 2,
-   "at": 1794269061.3444204
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-09T22:18:44.315Z",
   "sections": {
