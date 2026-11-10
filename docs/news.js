@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzym4x7lok2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 LATINOS! J Balvin (1.144 DIAS), J Balvin Repaginado e Karol G Platina retornam à Loja do Fortnite nesta noite pela seção \"Momentos do Palco Principal\" do Grammy Latino!\n\n💗 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzym4x7lok2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig5d7ub25ksv3agcl4vey5txdcqit2ku7gpli6qnfkjuahxqf3mxa",
+  "tag": "Filtración",
+  "ts": "2026-11-10T23:35:31+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzygf6e2pc27",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-11-01T05:01:40+00:00"
- },
- {
-  "id": "status:component:vyf8y8054472:under_maintenance:2026-11-01T05:00:12.041Z",
-  "kind": "status",
-  "title": "Fortnite Crew: en mantenimiento",
-  "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-01T05:00:12.041Z\nhttps://status.epicgames.com",
-  "image": null,
-  "tag": "Estado",
-  "ts": "2026-11-01T05:01:40+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-10T21:52:25+00:00";
+window.NEWS_UPDATED = "2026-11-10T23:35:32+00:00";

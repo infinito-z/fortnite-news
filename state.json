@@ -1583,7 +1583,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydu4u2ks2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzydu4u2ks2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzygf6e2pc27",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzygf6e2pc27"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzygf6e2pc27",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzym4x7lok2l",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzym4x7lok2l"
  ],
  "first_run": false,
  "seeded": [
@@ -1596,7 +1598,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzym4x7lok2l",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 LATINOS! J Balvin (1.144 DIAS), J Balvin Repaginado e Karol G Platina retornam à Loja do Fortnite nesta noite pela seção \"Momentos do Palco Principal\" do Grammy Latino!\n\n💗 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzym4x7lok2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig5d7ub25ksv3agcl4vey5txdcqit2ku7gpli6qnfkjuahxqf3mxa",
+    "tag": "Filtración",
+    "ts": "2026-11-10T23:35:31+00:00"
+   },
+   "tries": 1,
+   "at": 1794353732.6560428
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-10T21:44:32.065Z",
   "sections": {
