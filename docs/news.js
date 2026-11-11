@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzywhe6us2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Primeira visão do Traje de Kasane Teto e seu estilo reativo à música para a Mini Temporada do Festival em 12 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzzywhe6us2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifygsm3cnhcup5zeamhoinczbo6dp3jnizxtlopirnqwxh453i7uy",
+  "tag": "Filtración",
+  "ts": "2026-11-11T12:56:44+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzyvyep4s2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Kasane Teto se junta ao Fortnite na Mini Temporada do Festival em 12 de novembro!\n\nO conjunto completo dela estará disponível em um Mini Passe por 1.000 V-Bucks, e inclui Traje, Mochila, Picareta, Músicas e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzzyvyep4s2r\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicqqaxud7esbgsk4tjhl27x4mv5yux2ve4nwizt7rggjl4b7vtx44",
+  "tag": "Filtración",
+  "ts": "2026-11-11T12:56:44+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyui34qa22r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig5xvp3leclmawaym6byl2k5m7dcza5cavklufsjhrvkjuvkkffzi",
   "tag": "Filtración",
   "ts": "2026-11-01T05:51:56+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4hfn5vc2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔫 NOVOS ITENS — O Fortnite: Caçadores de Tesouro traz 11 novos Itens e Armas! #Fortnite\n\n🍈 GOMU GOMU NO MI:\n— Transforme-se em Luffy e estique seu corpo para entrar na batalha. Acerte seus adversários com socos de borracha de longo alcance, pisões ou carregue um ataque para se lançar pelos ares.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4hfn5vc2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiei3jiy4yh377qvuz4jgu4rvjfhohuqfy7bp27g4efbbcurki2nzm",
-  "tag": "Filtración",
-  "ts": "2026-11-01T05:50:41+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4dq5n7c2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🗺️ NOVA ILHA — A Ilha Ossos Cruzados do Fortnite: Caçadores de Tesouro chega com 12 novos locais! #Fortnite\n\n· Lar das Lanternas — Atravesse um enorme labirinto de ruas iluminadas por lanternas e escolha seu próximo caminho antes que outro esquadrão bloqueie sua passagem.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4dq5n7c2u\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpmlrx7jol5yaxauyybje4zqtp5n3t6ekk33ijetnk3hb6h5dbse",
-  "tag": "Filtración",
-  "ts": "2026-11-01T05:48:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T02:04:29+00:00";
+window.NEWS_UPDATED = "2026-11-11T12:56:46+00:00";
