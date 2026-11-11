@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynypvmhc2c",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nOs maiores nomes da música brilham na melodia! J Balvin (1.144 DIAS), J Balvin Repaginado e Karol G Platina retornam à Loja do Fortnite em comemoração ao Grammy Latino até 15 de novembro! 🪩🎙️\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzynypvmhc2c\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihchbrqev4tb3wy5lgk53xdcz56dwwgcz7ihziujflgaowfqveati",
+  "tag": "Filtración",
+  "ts": "2026-11-11T00:08:22+00:00"
+ },
+ {
   "id": "shop:452e6d8ba8fc6954",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-11-01T05:01:40+00:00"
- },
- {
-  "id": "status:component:gc4ccpj8dz48:under_maintenance:2024-02-16T19:44:04.839Z",
-  "kind": "status",
-  "title": "LEGO Fortnite: en mantenimiento",
-  "text": "⚠️ Epic Status: el componente «LEGO Fortnite» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:04.839Z\nhttps://status.epicgames.com",
-  "image": null,
-  "tag": "Estado",
-  "ts": "2026-11-01T05:01:40+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T00:01:52+00:00";
+window.NEWS_UPDATED = "2026-11-11T00:08:23+00:00";
