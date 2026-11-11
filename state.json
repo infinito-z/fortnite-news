@@ -1600,21 +1600,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "shop:452e6d8ba8fc6954",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "🛒 TIENDA NUEVA: 48 novedades. Lo más fuerte:\n• Lote de Mega Man — 3.800 paVos\n• Lote de J Jurásico — 2.500 paVos\n• LOTE DE J BALVIN — 2.400 paVos\n• Mega Man X — 1.800 paVos\n• Lote de Arquetipo — 1.800 paVos\n• Karol G platino — 1.800 paVos\n…y 42 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/a5ab4d9b7c1fb4c2/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-11T00:01:52+00:00"
-   },
-   "tries": 2,
-   "at": 1794355487.0705075
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-10T21:44:32.065Z",
   "sections": {
