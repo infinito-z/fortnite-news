@@ -1627,7 +1627,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232wvo55s2x",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232wvo55s2x",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n233ovahcc2f",
-  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n233ovahcc2f"
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n233ovahcc2f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n234mk6m3s2d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n234mk6m3s2d"
  ],
  "first_run": false,
  "seeded": [
@@ -1640,7 +1642,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n234mk6m3s2d",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Kernel Hearts [Fernet] (1x)\n· Marvel [Gata Negra, Homem-Aranha Zero e Surfista Prateado] (3x)\n· Caçadores de Tesouro (5x)\n· Amplificador de Sinal (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n234mk6m3s2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie76z64uqlx6w7rquthpfjh6tcgk355suhasdx3vb3vabmf5tue6e",
+    "tag": "Filtración",
+    "ts": "2026-11-11T23:35:30+00:00"
+   },
+   "tries": 1,
+   "at": 1794440131.7976637
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-11T22:49:26.240Z",
   "sections": {
