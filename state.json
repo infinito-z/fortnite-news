@@ -1589,7 +1589,11 @@
   "shop:452e6d8ba8fc6954",
   "shop:452e6d8ba8fc6954",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynypvmhc2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynypvmhc2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynypvmhc2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynzpvtts2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynzpvtts2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c"
  ],
  "first_run": false,
  "seeded": [
@@ -1615,6 +1619,32 @@
    },
    "tries": 1,
    "at": 1794355703.0447097
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynzpvtts2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSai da frente que vem coisa quente! O Mascote Magnus pega fogo na Loja de Itens por 1.200 V-Bucks até 17 de novembro! 🐉🔥\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzynzpvtts2c\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifbpsytuf5hdtjk7braq7masxlgdbtu3yapfosiaybh5qquac3glm",
+    "tag": "Filtración",
+    "ts": "2026-11-11T00:09:09+00:00"
+   },
+   "tries": 1,
+   "at": 1794355750.6717584
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nOs lendários robôs de combate supremo se juntam à luta! Mega Man (Dual Override), Mega Man X e Zero trazem o caos clássico para a Loja do Fortnite até 15 de novembro! 🔵💥\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzynz5qmac2c\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiblbj3ikfkeyupdmhho4zfpaq4ho6hyklxqa7pjvcx4fqtgrz43ha",
+    "tag": "Filtración",
+    "ts": "2026-11-11T00:09:09+00:00"
+   },
+   "tries": 1,
+   "at": 1794355750.6717584
   }
  ],
  "epic_fp": {
