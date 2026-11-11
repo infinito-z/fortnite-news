@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232eygowc23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 A atualização v43.10 do Fortnite chega em 12 de novembro às 6h BRT (9h em Lisboa), com o pareamento de partidas sendo desabilitado 30 minutos antes!\n\nKasane Teto, Lil Uzi Vert, Buggy, Hatsune Miku Pirata e mais conteúdos são esperados na atualização! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n232eygowc23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreianhhe7uqholzq2x43rlxx7ycwam3ucokp2el75mcqlefgt4574wm",
+  "tag": "Filtración",
+  "ts": "2026-11-11T22:55:29+00:00"
+ },
+ {
   "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
   "kind": "status",
   "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib256tmfobbsnt4dtxxvfxryamktocsehwm6gqobx2albeyvvjvje",
   "tag": "Filtración",
   "ts": "2026-11-01T06:36:06+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6wqadbs25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🐾 MASCOTES — Primeira visão de novos Mascotes adicionados na v43.00 do Fortnite: Caçadores de Tesouro e seus Gestos Embutidos!\n\n· 01/11 — Dante\n· ??/11 — AIBO\n· 03/11 — Bushi\n· 07/11 — Tony Tony Chopper\n· ??/11 — Magnus\n\n🎥: x/Guille_GAG | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6wqadbs25\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:35:19+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T22:50:39+00:00";
+window.NEWS_UPDATED = "2026-11-11T22:55:30+00:00";

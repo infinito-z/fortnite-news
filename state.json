@@ -1621,7 +1621,9 @@
   "epic:emergencynoticev2:49fe3b9bc95d",
   "epic:emergencynoticev2:49fe3b9bc95d",
   "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
-  "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z"
+  "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232eygowc23",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232eygowc23"
  ],
  "first_run": false,
  "seeded": [
@@ -1686,6 +1688,19 @@
    },
    "tries": 2,
    "at": 1794437576.8857858
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232eygowc23",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 A atualização v43.10 do Fortnite chega em 12 de novembro às 6h BRT (9h em Lisboa), com o pareamento de partidas sendo desabilitado 30 minutos antes!\n\nKasane Teto, Lil Uzi Vert, Buggy, Hatsune Miku Pirata e mais conteúdos são esperados na atualização! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n232eygowc23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreianhhe7uqholzq2x43rlxx7ycwam3ucokp2el75mcqlefgt4574wm",
+    "tag": "Filtración",
+    "ts": "2026-11-11T22:55:29+00:00"
+   },
+   "tries": 1,
+   "at": 1794437730.6456423
   }
  ],
  "epic_fp": {
