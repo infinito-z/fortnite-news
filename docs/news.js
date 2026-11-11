@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232wvo55s2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆕 RESUMINHO — Novidades anunciadas pelo Fortnite para a v43.10 amanhã, 12 de novembro! #Fortnite\n\n· Buggy chega à Ilha como um Chefe\n· Horas do Tesouro com Elementais Amaldiçoados neste sábado\n· Miku e Teto chegam à Ilha na Vila da Amizade neste domingo\n· Melhorias de Áudio, PC, Vestiário e mais!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n232wvo55s2x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibe2kwkbge7hrttrmhmabsixj4lpbio5g3b4e4jamxe3kwvbbtq2a",
+  "tag": "Filtración",
+  "ts": "2026-11-11T23:05:32+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232eygowc23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieepahvufeimbky3zmtzzjede2nzl4tcx4fijtispkkhqkeqdxamm",
   "tag": "Filtración",
   "ts": "2026-11-01T06:36:06+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6xz62g225",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ PREÇOS — FORTNITE x ONE PIECE\n\n· Pacotão One Piece: 4.000\n· Monkey D. Luffy: 1.800\n· Nami e Usopp: 1.600 cada\n· Mochilas: entre 300 e 400\n· Picaretas: entre 500 e 800\n· Asa-delta: 1.200\n· Gesto: 300\n\nDisponíveis assim que os servidores retornarem nesta manhã! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6xz62g225\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib256tmfobbsnt4dtxxvfxryamktocsehwm6gqobx2albeyvvjvje",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:36:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T22:55:30+00:00";
+window.NEWS_UPDATED = "2026-11-11T23:05:33+00:00";
