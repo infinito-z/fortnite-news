@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzyxkific2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️🎀 FORTNITE x MIKU E TETO — A Capitã Hatsune Miku e a Kasane Teto chegam à Ilha Ossos Cruzados neste domingo (15) no Dia de Capitania!\n\nElas transformam o Resort da Borracha na Vila da Amizade, além de um algo-poró que você pode empunhar! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzzyxkific2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaslmex3grjip5woddrvcezuuu7rqz6qy53zjhy5dwsr2z4rt4kby",
+  "tag": "Filtración",
+  "ts": "2026-11-11T12:57:34+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzyx7sabc2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Primeira visão do Traje de Kasane Teto e seu estilo reativo à música para a Mini Temporada do Festival em 12 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzzyx7sabc2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifygsm3cnhcup5zeamhoinczbo6dp3jnizxtlopirnqwxh453i7uy",
+  "tag": "Filtración",
+  "ts": "2026-11-11T12:57:34+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzywhe6us2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigx4n6atusma6greh3cr6gqjex7a7izrxkrtmrzoiutbov25euqnq",
   "tag": "Filtración",
   "ts": "2026-11-01T05:53:59+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4mq3sps2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⭐ ELEMENTAIS — A 3ª geração de Elementais chega no Fortnite: Caçadores de Tesouro (nomes em inglês). #Fortnite\n\n🍌 HALFPEEL'D:\n— Marca eliminações no mapa. O alcance de detecção aumenta a cada nível.\n\n🔄 RE-PETE:\n— Recargas mais rápidas, com chance de recuperar munição.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4mq3sps2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigstdg6fhmzw3cjtszxqi4udnxb2jt6lrwn3dkrtbaiv7jiufqgii",
-  "tag": "Filtración",
-  "ts": "2026-11-01T05:53:26+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza4ivnxms2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIAS DE CAPITANIA — Os novos Dias de Capitania acontecem toda semana no Fortnite: Caçadores de Tesouro, e trazem novidades fresquinhas! #Fortnite\n\n🟦 SEMANA 1 (01/11) — A$AP Rocky chegou ao porto a bordo do The $.$. Rocky e não pretende abandonar seu navio sem lutar.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza4ivnxms2u\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig5xvp3leclmawaym6byl2k5m7dcza5cavklufsjhrvkjuvkkffzi",
-  "tag": "Filtración",
-  "ts": "2026-11-01T05:51:56+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T12:56:46+00:00";
+window.NEWS_UPDATED = "2026-11-11T12:57:35+00:00";
