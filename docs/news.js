@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22zyuh5322m",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Kernel Hearts [Fernet] (1x)\n· Marvel [Quarteto (?) e Surfista] (3x)\n· Caçadores de Tesouro (5x)\n· Amplificador de Sinal (2x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n22zyuh5322m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihois4jv6qusdidinscioa6qdhwa2mvht2h7llcbpxtlpfatgpfbu",
+  "tag": "Filtración",
+  "ts": "2026-11-11T22:48:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22hcvcq7k2i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihj2u3jnhm2w7te3qjaz5yqvqqeklqunb3avwvtegibfuclngycha",
   "tag": "Filtración",
   "ts": "2026-11-01T06:10:15+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5j6pbmc25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👑 BONITÃO! Guarda-chuva da Vitória do Fortnite: Caçadores de Tesouro! A segunda versão/estilo parece não estar finalizada por agora.\n\n📸: x/HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5j6pbmc25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidy6texus3ou4262ul4bh2ykgfo2q7opcskyuasqbjpt4h5yb2h34",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:09:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T17:14:01+00:00";
+window.NEWS_UPDATED = "2026-11-11T22:48:51+00:00";
