@@ -1615,7 +1615,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22hcvcq7k2i",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22hcgwtg22i",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22zyuh5322m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22zyuh5322m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22zyuh5322m",
+  "epic:emergencynoticev2:9d4a57822b31",
+  "epic:emergencynoticev2:9d4a57822b31"
  ],
  "first_run": false,
  "seeded": [
@@ -1641,12 +1643,25 @@
    },
    "tries": 1,
    "at": 1794437331.23084
+  },
+  {
+   "item": {
+    "id": "epic:emergencynoticev2:9d4a57822b31",
+    "kind": "epic",
+    "title": "Epic actualizó: aviso de emergencia",
+    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.10 begins at 4 AM ET (8 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.\n• Scheduled Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-11-11T22:49:15+00:00"
+   },
+   "tries": 1,
+   "at": 1794437355.1173093
   }
  ],
  "epic_fp": {
   "lastModified": "2026-11-11T22:42:42.408Z",
   "sections": {
-   "emergencynoticev2": "3beee393ad28ec6985553e73f5193f8c",
+   "emergencynoticev2": "9d4a57822b314db3d166fe56bb9c104c",
    "dynamicbackgrounds": "e512ef5a32ce08685457c14b67e9cca7",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
@@ -1654,7 +1669,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
