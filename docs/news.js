@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:452e6d8ba8fc6954",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 48 novedades. Lo más fuerte:\n• Lote de Mega Man — 3.800 paVos\n• Lote de J Jurásico — 2.500 paVos\n• LOTE DE J BALVIN — 2.400 paVos\n• Mega Man X — 1.800 paVos\n• Lote de Arquetipo — 1.800 paVos\n• Karol G platino — 1.800 paVos\n…y 42 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/a5ab4d9b7c1fb4c2/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-11T00:01:52+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzym4x7lok2l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-11-01T05:01:40+00:00"
- },
- {
-  "id": "status:component:5qdplhgvqxfn:under_maintenance:2024-02-16T19:44:18.761Z",
-  "kind": "status",
-  "title": "Fortnite Festival: en mantenimiento",
-  "text": "⚠️ Epic Status: el componente «Fortnite Festival» pasó de operativo a en mantenimiento.\nActualizado: 2024-02-16T19:44:18.761Z\nhttps://status.epicgames.com",
-  "image": null,
-  "tag": "Estado",
-  "ts": "2026-11-01T05:01:40+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-10T23:35:32+00:00";
+window.NEWS_UPDATED = "2026-11-11T00:01:52+00:00";
