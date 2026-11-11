@@ -1593,7 +1593,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynzpvtts2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynzpvtts2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzynz5qmac2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyo53svvc2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyo53svvc2c"
  ],
  "first_run": false,
  "seeded": [
@@ -1645,6 +1647,19 @@
    },
    "tries": 1,
    "at": 1794355750.6717584
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyo53svvc2c",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 14 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzyo53svvc2c\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibe4nebpwdc734ozhf27vwl3geejfdfmivz6f6dszaaua4hom7rqe",
+    "tag": "Filtración",
+    "ts": "2026-11-11T00:10:49+00:00"
+   },
+   "tries": 1,
+   "at": 1794355850.3943763
   }
  ],
  "epic_fp": {
