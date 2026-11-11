@@ -1637,19 +1637,6 @@
  "pending": [
   {
    "item": {
-    "id": "epic:emergencynoticev2:9d4a57822b31",
-    "kind": "epic",
-    "title": "Epic actualizó: aviso de emergencia",
-    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.10 begins at 4 AM ET (8 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.\n• Scheduled Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.",
-    "image": null,
-    "tag": "Epic",
-    "ts": "2026-11-11T22:49:37+00:00"
-   },
-   "tries": 1,
-   "at": 1794437377.7999227
-  },
-  {
-   "item": {
     "id": "epic:emergencynoticev2:49fe3b9bc95d",
     "kind": "epic",
     "title": "Epic actualizó: aviso de emergencia",
@@ -1685,7 +1672,20 @@
     "ts": "2026-11-11T22:48:49+00:00"
    },
    "tries": 2,
-   "at": 1794437493.9488344
+   "at": 1794437532.1371994
+  },
+  {
+   "item": {
+    "id": "epic:emergencynoticev2:9d4a57822b31",
+    "kind": "epic",
+    "title": "Epic actualizó: aviso de emergencia",
+    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.10 begins at 4 AM ET (8 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.\n• Scheduled Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-11-11T22:49:37+00:00"
+   },
+   "tries": 2,
+   "at": 1794437532.1371994
   }
  ],
  "epic_fp": {
