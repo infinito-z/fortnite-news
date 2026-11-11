@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n233ovahcc2f",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nDowntime for v43.10 begins at 4 AM ET (9 AM UTC) with matchmaking ending shortly beforehand.\n\n🔴 Buggy drops anchor as the newest Boss on Crossbones Isle \n👻 Treasure Hours: Cursed Sprites this Saturday \n🎤 Miku and Teto arrive at Friendship Villa this Sunday \n\nstatus.epicgames.com\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3n233ovahcc2f",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-11T23:18:53+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n232wvo55s2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/4c288571a97d4590bc744d2b0cf0bfaf.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-11-01T06:50:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6ygeqrs25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎉 FORTNITE x VIVA: A VIDA É UMA FESTA — Primeira visão do Mascote Dante de Viva: A Vida é uma Festa (Coco) para a Loja do Fortnite. Disponível assim que os servidores retornarem nesta manhã!\n\n📸: x/FireMonkey | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6ygeqrs25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieepahvufeimbky3zmtzzjede2nzl4tcx4fijtispkkhqkeqdxamm",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:36:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T23:05:33+00:00";
+window.NEWS_UPDATED = "2026-11-11T23:18:53+00:00";
