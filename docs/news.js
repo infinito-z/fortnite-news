@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
+  "kind": "status",
+  "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
+  "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.10 Update\nEstado: programado\nDesde: 2026-11-12T09:00:00.000Z\nHasta: 2026-11-12T10:30:00.000Z\n⏰ Scheduled downtime for v43.10 begins at 4 AM ET (9 AM UTC). \nMatchmaking will be disabled 30 minutes prior.\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-11T22:50:39+00:00"
+ },
+ {
   "id": "epic:emergencynoticev2:49fe3b9bc95d",
   "kind": "epic",
   "title": "Epic actualizó: aviso de emergencia",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-01T06:35:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza6uybbsk25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Primeira visão em imagem de todos os Trajes e Estilos de One Piece para o Fortnite!\n\n· Nico Robin e Ace — Passe de Batalha\n· Luffy, Nami e Usopp — Na Loja agora\n· Zoro e Sanji — Na Loja em 07/11\n· Buggy — Na Loja em 13/11\n\n📸: x/HYPEX | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza6uybbsk25\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreialz7alkuftxp2hsg4mwv46zf7q7xwh4oeynz6477s6wn3a5bihwu",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:34:31+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T22:50:36+00:00";
+window.NEWS_UPDATED = "2026-11-11T22:50:39+00:00";

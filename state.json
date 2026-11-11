@@ -1619,7 +1619,9 @@
   "epic:emergencynoticev2:9d4a57822b31",
   "epic:emergencynoticev2:9d4a57822b31",
   "epic:emergencynoticev2:49fe3b9bc95d",
-  "epic:emergencynoticev2:49fe3b9bc95d"
+  "epic:emergencynoticev2:49fe3b9bc95d",
+  "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
+  "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z"
  ],
  "first_run": false,
  "seeded": [
@@ -1671,6 +1673,19 @@
    },
    "tries": 1,
    "at": 1794437436.5606046
+  },
+  {
+   "item": {
+    "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-11T22:49:57.128Z",
+    "kind": "status",
+    "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
+    "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.10 Update\nEstado: programado\nDesde: 2026-11-12T09:00:00.000Z\nHasta: 2026-11-12T10:30:00.000Z\n⏰ Scheduled downtime for v43.10 begins at 4 AM ET (9 AM UTC). \nMatchmaking will be disabled 30 minutes prior.\nhttps://status.epicgames.com",
+    "image": null,
+    "tag": "Estado",
+    "ts": "2026-11-11T22:50:39+00:00"
+   },
+   "tries": 1,
+   "at": 1794437439.450291
   }
  ],
  "epic_fp": {
