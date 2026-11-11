@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzz3qawzk2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️🎀 FORTNITE x MIKU E TETO — A Capitã Hatsune Miku e a Kasane Teto chegam à Ilha Ossos Cruzados neste domingo (15) no Dia de Capitania!\n\nElas transformam o Resort da Borracha na Vila da Amizade, além de um alho-poró que você pode empunhar! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzzz3qawzk2r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaslmex3grjip5woddrvcezuuu7rqz6qy53zjhy5dwsr2z4rt4kby",
+  "tag": "Filtración",
+  "ts": "2026-11-11T13:00:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzz3csyac2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfu2ra2wrp3kwknps7rsiirbgpjbzdip5ipqc44lfq6s5o7fqa4e",
   "tag": "Filtración",
   "ts": "2026-11-01T06:09:09+00:00"
- },
- {
-  "id": "news:5629f6056326ad36b35e807cffbbd656",
-  "kind": "news",
-  "title": "Última oportunidad para conseguir las recompensas de pesadilla espiritual",
-  "text": "⚡ Ojo, ojo: Última oportunidad para conseguir las recompensas de pesadilla espiritual\n¡Celebra Halloween con el fin de pesadilla espiritual! Más cofres calabaza te esperan, podrás encontrar el potente subfusil rompehuesos exótico y las consolas de hackeo garantizan un modificador de buscatesoros, fantasma o caza de objetos para un final realmente aterrador.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/b978ba1a5bef406cb5151ceca39e781a.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-01T06:01:44+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T12:59:15+00:00";
+window.NEWS_UPDATED = "2026-11-11T13:00:03+00:00";
