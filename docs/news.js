@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyui34qa22r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n📜 ESTILOS PASSE — Primeira visão dos Estilos de Super Nível para Jones Pirata, Charlotte-Sensei e Líder da Equipe Kawaii para o Passe de Batalha dos Caçadores de Tesouro!\n\nResgate todos a partir de 12 de novembro ao alcançar o Nível 80! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzyui34qa22r\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigfuaajjrulu63ugpyo2yoism2cvyecfu55qmsp2akitsxgcj2awu",
+  "tag": "Filtración",
+  "ts": "2026-11-11T02:04:28+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzyo53svvc2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpmlrx7jol5yaxauyybje4zqtp5n3t6ekk33ijetnk3hb6h5dbse",
   "tag": "Filtración",
   "ts": "2026-11-01T05:48:33+00:00"
- },
- {
-  "id": "epic:emergencynoticev2:3beee393ad28",
-  "kind": "epic",
-  "title": "Epic actualizó: aviso de emergencia",
-  "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.",
-  "image": null,
-  "tag": "Epic",
-  "ts": "2026-11-01T05:44:52+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T00:10:50+00:00";
+window.NEWS_UPDATED = "2026-11-11T02:04:29+00:00";
