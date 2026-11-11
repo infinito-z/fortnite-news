@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22hcvcq7k2i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏖️ OS MAIORAIS! Helsie Bruxa da Areia, Joni Caçadora de Verão e Lucien Fera da Praia do Pacotão Verão de Alto Risco retornam à Loja na segunda-feira, 16 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n22hcvcq7k2i\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidvftosfmijesj5juub4xgabfkghera6v3eo4qw3ea7cefcr667dm",
+  "tag": "Filtración",
+  "ts": "2026-11-11T17:14:01+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22hcgwtg22i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ EM BREVE NA LOJA DO FORTNITE!\n\n· 12/11 — Lil Uzi Vert\n· 13/11 — Buggy\n· 13/11 — Volkswagen Golf II GTI\n· 15/11 — Batman (Batférias de Verão)\n· 16/11 — A Odisseia\n· 16/11 — Verão de Alto Risco\n· 16/11 — Pacote Tática Áurea (talvez não no Brasil)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n22hcgwtg22i\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-11T17:14:01+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzzz3qawzk2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidy6texus3ou4262ul4bh2ykgfo2q7opcskyuasqbjpt4h5yb2h34",
   "tag": "Filtración",
   "ts": "2026-11-01T06:09:45+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5ievlqc25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 BAÚS — Novos Baús da Ilha Ossos Cruzados que chegam no Fortnite: Caçadores de Tesouro! #Fortnite\n\n· Baú Padrão\n· Baú Raro (Lendário)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5ievlqc25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifbjktaangsuuy3gzsvuvfgazcg4epzrjfh4emhouyyits4svv6ey",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:09:09+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mza5i2jqls25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗺️ Mapa do Fortnite: Caçadores de Tesouro do Battle Royale (v43.00) | #Fortnite\n\n· Arlong Park\n· Vila dos Moinhos\n· Resort da Borracha\n· Baú\n· Lar das Lanternas\n· Enseada do Saque\n· Loguetown\n· Porto Pirata\n· Baía Agitada\n· $.$ Rocky\n· Caverna Amaldiçoada\n· Fortaleza de Lil' Uzi\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mza5i2jqls25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfu2ra2wrp3kwknps7rsiirbgpjbzdip5ipqc44lfq6s5o7fqa4e",
-  "tag": "Filtración",
-  "ts": "2026-11-01T06:09:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T13:00:05+00:00";
+window.NEWS_UPDATED = "2026-11-11T17:14:01+00:00";
