@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Fortnite Festival Downtime — Downtime for v43.10 begins at 4 AM ET (8 AM UTC). Matchmaking will end shortly beforehand.\n• LEGO Fortnite Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.\n• Scheduled Downtime — Downtime for v43.10 begins at 4 AM ET (9 AM UTC). Matchmaking will end shortly beforehand.",
   "image": null,
   "tag": "Epic",
-  "ts": "2026-11-11T22:49:15+00:00"
+  "ts": "2026-11-11T22:49:37+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n22zyuh5322m",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-01T06:14:06+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-11T22:49:15+00:00";
+window.NEWS_UPDATED = "2026-11-11T22:49:37+00:00";
