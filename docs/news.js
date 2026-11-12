@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:3ff751d4e8",
+  "kind": "cosmetic",
+  "title": "37 cosméticos nuevos",
+  "text": "🔥 37 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Pearto, Kasane Teto, Capitana Hatsune Miku, BIRDBRAIN, Bate baguette de Teto, Kasane Teto 0401. Tu billetera ya lloró 💸😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cactusbait/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-12T13:15:46+00:00"
+ },
+ {
   "id": "build:++Fortnite+Release-43.10-CL-60118918",
   "kind": "build",
   "title": "Build 43.10",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-02T15:52:16+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdih6yagc2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🌟 SEGUNDA DA DOMINAÇÃO | C7:TM1\n\n· 2x mais Poeira Elemental em Extrações\n· 2x mais XP na evolução de Elementais\n· Baús Elementais e Cartazes de Elemental Procurado surgem com mais frequência\n\n⏰ Disponível até amanhã (3) às 11h BRT (14h em Lisboa). #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzdih6yagc2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlvlkksu5b3kosanxtmpqnw4p4vfofawtl3o3aoehdewyasgsihu",
-  "tag": "Filtración",
-  "ts": "2026-11-02T14:03:51+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T13:11:00+00:00";
+window.NEWS_UPDATED = "2026-11-12T13:15:46+00:00";
