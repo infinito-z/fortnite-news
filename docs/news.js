@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — O Mini Passe Musical de Kasane Teto para o Festival já está disponível para progressão por 1.000 V-Bucks ou pelo Clube Fortnite até 21 de janeiro!\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24cgpqyes2l\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicdubderj3sqe7drmoftwcmaqjaigfguywuiwwtgg7h56h2wbzsmu",
+  "tag": "Filtración",
+  "ts": "2026-11-12T10:54:38+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/21a8112a2c9e5e57/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-11-02T00:01:15+00:00"
- },
- {
-  "id": "cosmetic-batch:ad3b01a32d",
-  "kind": "cosmetic",
-  "title": "175 cosméticos nuevos",
-  "text": "👀 Se filtraron 175 cosméticos. Destacan: Lil Uzi Vert de gira, Rocky Rugahand, Nami, Roronoa Zoro, Monkey D. Luffy, Óscar el Corsario. Ahorra paVos desde YA 🗿",
-  "image": "https://fortnite-api.com/images/cosmetics/br/character_rookgeckorye/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-11-01T23:49:12+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T10:36:12+00:00";
+window.NEWS_UPDATED = "2026-11-12T10:54:39+00:00";
