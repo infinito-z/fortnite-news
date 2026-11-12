@@ -1645,7 +1645,9 @@
   "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
   "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23",
+  "status:component:vyf8y8054472:under_maintenance:2026-11-12T09:00:16.922Z",
+  "status:component:vyf8y8054472:under_maintenance:2026-11-12T09:00:16.922Z"
  ],
  "first_run": false,
  "seeded": [
@@ -1671,6 +1673,19 @@
    },
    "tries": 1,
    "at": 1794473987.4756155
+  },
+  {
+   "item": {
+    "id": "status:component:vyf8y8054472:under_maintenance:2026-11-12T09:00:16.922Z",
+    "kind": "status",
+    "title": "Fortnite Crew: en mantenimiento",
+    "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-12T09:00:16.922Z\nhttps://status.epicgames.com",
+    "image": null,
+    "tag": "Estado",
+    "ts": "2026-11-12T09:01:53+00:00"
+   },
+   "tries": 1,
+   "at": 1794474113.5491965
   }
  ],
  "epic_fp": {
@@ -1706,9 +1721,9 @@
   }
  },
  "status_components": {
-  "wf1ys2kx4pxc": "operational",
-  "gc4ccpj8dz48": "operational",
-  "5qdplhgvqxfn": "operational",
-  "vyf8y8054472": "operational"
+  "wf1ys2kx4pxc": "under_maintenance",
+  "gc4ccpj8dz48": "under_maintenance",
+  "5qdplhgvqxfn": "under_maintenance",
+  "vyf8y8054472": "under_maintenance"
  }
 }

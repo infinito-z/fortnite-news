@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:component:vyf8y8054472:under_maintenance:2026-11-12T09:00:16.922Z",
+  "kind": "status",
+  "title": "Fortnite Crew: en mantenimiento",
+  "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-12T09:00:16.922Z\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-12T09:01:53+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih3vras3jdczwxt7e6dawl5vuddjmtfdd72i4bo6ndwkjaebszlji",
   "tag": "Filtración",
   "ts": "2026-11-01T08:46:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzagayogqs2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nEle vai se tornar o novo Rei Pirata ao lado da navegadora e do atirador de elite. Monkey D. Luffy, Nami e Usopp de One Piece navegam pelos mares da Loja do Fortnite até 03 de dezembro! 🏴‍☠️🌊👒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzagayogqs2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdj5mnnc4u4cb2vqkm4qsvkrnh2yfoax2tpokhgwgpp4szri6ebm",
-  "tag": "Filtración",
-  "ts": "2026-11-01T08:46:19+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T08:59:47+00:00";
+window.NEWS_UPDATED = "2026-11-12T09:01:53+00:00";
