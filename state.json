@@ -1754,21 +1754,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:3ff751d4e8",
-    "kind": "cosmetic",
-    "title": "37 cosméticos nuevos",
-    "text": "🔥 37 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Pearto, Kasane Teto, Capitana Hatsune Miku, BIRDBRAIN, Bate baguette de Teto, Kasane Teto 0401. Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cactusbait/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-12T13:15:52+00:00"
-   },
-   "tries": 2,
-   "at": 1794489577.3175743
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {
