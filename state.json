@@ -1657,7 +1657,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244vbrgks2k",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244uvowfk2k",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244w7jmc22k",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244w7jmc22k"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244w7jmc22k",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n245n237cc24",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n245n237cc24"
  ],
  "first_run": false,
  "seeded": [
@@ -1670,7 +1672,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n245n237cc24",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Novo Gesto Série Ícones \"Birdbrain\" de Kasane Teto para o Fortnite! Disponível no Mini Passe Musical assim que os servidores retornarem!\n\n🎥: x/FNBRintel | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n245n237cc24\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-12T09:26:34+00:00"
+   },
+   "tries": 1,
+   "at": 1794475594.8178294
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T08:02:03.819Z",
   "sections": {
