@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n246rhcnk22t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIA DE CAPITANIA — MIKU E TETO EM 15 DE NOVEMBRO! #Fortnite\n\n· Miku e Teto dominam o Resort da Borracha e o transformam na Vila da Amizade\n· O Bastão de Alho-poró e o Rifle de Tambor chegam nos saques\n· Um novo Fragmento de Mapa fica disponível\n\n⏰ Sábado (15), às 11h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n246rhcnk22t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiau5ljp2q3xiwtca4qqwiviqx2snic7b6yiflcfvldi2zcbywc44q",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:46:27+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n246r7r3322t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👻 HORAS DO PODER AMALDIÇOADAS NESTE SÁBADO | #Fortnite\n\n· Mini SMG de Lil Uzi Vert e Autorreviver para todos\n· Elementais Amaldiçoados são mais comuns\n· Buff no Token Pirata, Traje Dourado e Chassi\n· Extratores Portáteis surgem em Baús\n\n⏰ Sábado (14), às 16h e 22h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n246r7r3322t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibsrl7jersdd35kdxcf724y5vwyjm7asyy6gunms3woxmua7wvkfq",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:46:27+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n246qvjuek2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ DIA DE CAPITANIA DO BUGGY JÁ DISPONÍVEL! #Fortnite\n\n· Buggy domina a Enseada do Saque como Chefe\n· Nova Bala de Canhão do Buggy\n· Receba a Espingarda de Ação por Alavanca ao derrotá-lo na Ilha\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n246qvjuek2t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidu3otmoujmjaskazbaihmuaxsm25t34d4gk5edlvufcut3erku6e",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:46:27+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n245te7sg224",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-01T11:04:57+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzansubgis2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍖 NOVO ITEM — Jogabilidade rápida do Espetinho de Carne do Fortnite: Caçadores de Tesouro!\n\n“Nada como um Espetinho de Carne para voltar à luta!” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzansubgis2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:02:51+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanp6t7sk2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚡ FORTNITE x A$AP ROCKY — Jogabilidade rápida do Míssil de Choque de A$AP Rocky's no Fortnite: Caçadores de Tesouro!\n\n“Lançador de Foguetes de assinatura de A$AP Rocky's. Este lançador carrega cargas de Pedra de Choque, transformando cada foguete em um ataque aéreo...” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanp6t7sk2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:01:11+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzannn6e2k2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍊 FORTNITE x ONE PIECE — Jogabilidade rápida da Tangerina da Nami de One Piece para o Fortnite: Caçadores de Tesouro!\n\n“Restaure Vida e Escudo com esta deliciosa fruta cítrica. Velocidade de movimento aumentada na água.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzannn6e2k2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:00:05+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T09:30:07+00:00";
+window.NEWS_UPDATED = "2026-11-12T09:46:29+00:00";
