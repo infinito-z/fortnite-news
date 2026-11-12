@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244w7jmc22k",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆕 ORIGINAL — Novo Traje da Valentia Caçadora de Tesouros que chega em breve à Loja de Itens!\n\n📸: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244w7jmc22k\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihgjazo2jm5fqi3ocuyk4xyvd3vpzcwusqsqcjhmoajhsaodkfwyi",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:14:02+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244vuf6zc2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-01T10:57:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanfqpcr22o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🍇 FORTNITE x ONE PIECE — Jogabilidade rápida da Gomu Gomu no Mi de One Piece no Fortnite: Caçadores de Tesouro!\n\nTransforme-se no Luffy com a Gomu Gomu no Mi e utilize suas habilidades. Você receberá dano ao entrar na água. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanfqpcr22o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T10:56:11+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T09:13:11+00:00";
+window.NEWS_UPDATED = "2026-11-12T09:14:03+00:00";
