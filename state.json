@@ -1743,7 +1743,19 @@
   "cosmetic:Wheel_DubT2",
   "cosmetic-batch:3ff751d4e8",
   "news:b72e2f8f9db662d8f232acb77db6d183",
-  "news:b72e2f8f9db662d8f232acb77db6d183"
+  "news:b72e2f8f9db662d8f232acb77db6d183",
+  "cosmetic:Backpack_RookGeckoRod",
+  "cosmetic:Backpack_RookGeckoRye",
+  "cosmetic:Backpack_RookGeckoRye_Guitar",
+  "cosmetic:Character_RookGeckoRod",
+  "cosmetic:EID_RookGeckoRod",
+  "cosmetic:EID_RookGeckoRye",
+  "cosmetic:LoadingScreen_RookGecko",
+  "cosmetic:Pickaxe_RookGeckoRod",
+  "cosmetic:Pickaxe_RookGeckoRye_Guitar",
+  "cosmetic:Wrap_RookGecko",
+  "cosmetic:Sparks_RookGeckoRye_Guitar",
+  "cosmetic-batch:7ea9c0a5a0"
  ],
  "first_run": false,
  "seeded": [
@@ -1769,6 +1781,19 @@
    },
    "tries": 1,
    "at": 1794492080.0410314
+  },
+  {
+   "item": {
+    "id": "cosmetic-batch:7ea9c0a5a0",
+    "kind": "cosmetic",
+    "title": "11 cosméticos nuevos",
+    "text": "🔥 11 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Alas de Uzi, Estrella de Lil Uzi, Cuerdas de gira de Uzi, Lil Uzi Vert, XO Tour Llif3, What You Saying. Tu billetera ya lloró 💸😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_rookgeckorod/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-12T14:01:24+00:00"
+   },
+   "tries": 1,
+   "at": 1794492084.3822212
   }
  ],
  "epic_fp": {
