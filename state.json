@@ -1768,34 +1768,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:b72e2f8f9db662d8f232acb77db6d183",
-    "kind": "news",
-    "title": "Buggy de One Piece desembarca",
-    "text": "⚡ Ojo, ojo: Buggy de One Piece desembarca\n¡Un nuevo capitán ha conquistado el territorio! Derrota al jefe Buggy, consigue el espíritu de caracolófono y lánzate a la acción con la Bola de Buggy especial.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/a2c8b83e675d407f9c764ae6c539b95d.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-12T14:01:20+00:00"
-   },
-   "tries": 2,
-   "at": 1794492299.8709457
-  },
-  {
-   "item": {
-    "id": "cosmetic-batch:7ea9c0a5a0",
-    "kind": "cosmetic",
-    "title": "11 cosméticos nuevos",
-    "text": "🔥 11 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Alas de Uzi, Estrella de Lil Uzi, Cuerdas de gira de Uzi, Lil Uzi Vert, XO Tour Llif3, What You Saying. Tu billetera ya lloró 💸😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_rookgeckorod/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-12T14:01:24+00:00"
-   },
-   "tries": 2,
-   "at": 1794492299.8709457
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {
