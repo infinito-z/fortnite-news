@@ -1656,21 +1656,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
-    "kind": "status",
-    "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
-    "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.10 Update\nEstado: programado\nDesde: 2026-11-12T09:00:00.000Z\nHasta: 2026-11-12T10:30:00.000Z\nMaintenance will begin as scheduled in 60 minutes.\nhttps://status.epicgames.com",
-    "image": null,
-    "tag": "Estado",
-    "ts": "2026-11-12T08:02:35+00:00"
-   },
-   "tries": 2,
-   "at": 1794470729.2019796
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-11T22:49:26.240Z",
   "sections": {
