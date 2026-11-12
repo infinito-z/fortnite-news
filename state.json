@@ -1778,21 +1778,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24vwlwa3k25",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏆 CAMPEONATO BUGGY | #Fortnite\n\n🗓️ 13 de novembro\n🎮 Battle Royale (Duplas) e Reload (Solo)\n🇧🇷 Top 100 no BR e Top 30 no Reload levam o conjunto do Buggy!\n\nBuggy chega à Loja também em 13 de novembro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24vwlwa3k25\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigukknrjpcw5gadtnigqe6fsdjsw4dio2us5jtkmt2yaorrdvpi6u",
-    "tag": "Filtración",
-    "ts": "2026-11-12T16:41:20+00:00"
-   },
-   "tries": 2,
-   "at": 1794501850.383596
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {
