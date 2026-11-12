@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:f494d389340dd842574fe090dac9b3e8",
+  "kind": "news",
+  "title": "Pase musical de DIVA TWINDRILL",
+  "text": "⚡ Ojo, ojo: Pase musical de DIVA TWINDRILL\n¡La diva virtual Kasane Teto sube al escenario! Quienes tengan el pase musical de Diva de TwinDrill podrán acceder al traje de Kasane Teto, un accesorio mochilero, un gesto y mucho más. ¡Adéntrate en Festival para empezar a desbloquear recompensas!",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/7580ba329d924e32866850f8a992f973.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-12T11:01:11+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihfthwqnsybljvgitifx2f62ovgyaysdsbwh7dbetskcxzkbkjxra",
   "tag": "Filtración",
   "ts": "2026-11-02T00:03:20+00:00"
- },
- {
-  "id": "shop:8b17f766bfcf5bbd",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 68 cosas nuevas:\n• Lote de Hora de aventuras — 3.800 paVos\n• Lote del Rey Hielo y Limoncio — 3.200 paVos\n• Chevrolet Corvette Stingray — 2.200 paVos\n• Hime — 2.000 paVos\n• Lote de Harley Quinn — 2.000 paVos\n• Cake la Gata — 1.600 paVos\n…y 62 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/21a8112a2c9e5e57/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-11-02T00:01:15+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T10:54:39+00:00";
+window.NEWS_UPDATED = "2026-11-12T11:01:11+00:00";

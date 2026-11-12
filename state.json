@@ -1689,7 +1689,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l",
+  "news:f494d389340dd842574fe090dac9b3e8",
+  "news:f494d389340dd842574fe090dac9b3e8"
  ],
  "first_run": false,
  "seeded": [
@@ -1702,7 +1704,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:f494d389340dd842574fe090dac9b3e8",
+    "kind": "news",
+    "title": "Pase musical de DIVA TWINDRILL",
+    "text": "⚡ Ojo, ojo: Pase musical de DIVA TWINDRILL\n¡La diva virtual Kasane Teto sube al escenario! Quienes tengan el pase musical de Diva de TwinDrill podrán acceder al traje de Kasane Teto, un accesorio mochilero, un gesto y mucho más. ¡Adéntrate en Festival para empezar a desbloquear recompensas!",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/7580ba329d924e32866850f8a992f973.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-12T11:01:11+00:00"
+   },
+   "tries": 1,
+   "at": 1794481271.895971
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {
