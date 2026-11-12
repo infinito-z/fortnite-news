@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ É AGORA! O período de inatividade para a atualização v43.10 começou!\n\nA duração estimada da atualização é de 1h30m, segundo a Epic Games! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24464qrus23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiblgxqutrmnxehsleflnemsumlywyx5kcvt3s3b6mz2ssfe34zuvq",
+  "tag": "Filtración",
+  "ts": "2026-11-12T08:59:46+00:00"
+ },
+ {
   "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
   "kind": "status",
   "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdj5mnnc4u4cb2vqkm4qsvkrnh2yfoax2tpokhgwgpp4szri6ebm",
   "tag": "Filtración",
   "ts": "2026-11-01T08:46:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzaesu6ebk2n",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x ONE PIECE — Trailer Híbrido dos Caçadores de Tesouro!\n\nFortunas aguardam para serem encontradas... prepare-se para velejar em Caçadores de Tesouro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzaesu6ebk2n\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T08:20:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T08:02:35+00:00";
+window.NEWS_UPDATED = "2026-11-12T08:59:47+00:00";
