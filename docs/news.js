@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "news:b72e2f8f9db662d8f232acb77db6d183",
+  "kind": "news",
+  "title": "Buggy de One Piece desembarca",
+  "text": "⚡ Ojo, ojo: Buggy de One Piece desembarca\n¡Un nuevo capitán ha conquistado el territorio! Derrota al jefe Buggy, consigue el espíritu de caracolófono y lánzate a la acción con la Bola de Buggy especial.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/a2c8b83e675d407f9c764ae6c539b95d.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-12T14:01:20+00:00"
+ },
+ {
   "id": "cosmetic-batch:3ff751d4e8",
   "kind": "cosmetic",
   "title": "37 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-02T16:08:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzdojmjvks2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Capítulo 2: Remix do Fortnite foi lançado 2 ANOS atrás! ✨🔥\n\nA Ilha do Capítulo 2 retornou reimaginada com a presença de alguns rappers, como Snoop Dogg, Eminem, Ice Spice e Juice WRLD. Recebemos o lançamento dos Calçados e um evento musical no final da temporada. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzdojmjvks2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-02T15:52:16+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T13:15:52+00:00";
+window.NEWS_UPDATED = "2026-11-12T14:01:20+00:00";

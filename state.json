@@ -1741,7 +1741,9 @@
   "cosmetic:CarSkin_DubT2Wings",
   "cosmetic:Wheel_DubT1",
   "cosmetic:Wheel_DubT2",
-  "cosmetic-batch:3ff751d4e8"
+  "cosmetic-batch:3ff751d4e8",
+  "news:b72e2f8f9db662d8f232acb77db6d183",
+  "news:b72e2f8f9db662d8f232acb77db6d183"
  ],
  "first_run": false,
  "seeded": [
@@ -1754,7 +1756,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "news:b72e2f8f9db662d8f232acb77db6d183",
+    "kind": "news",
+    "title": "Buggy de One Piece desembarca",
+    "text": "⚡ Ojo, ojo: Buggy de One Piece desembarca\n¡Un nuevo capitán ha conquistado el territorio! Derrota al jefe Buggy, consigue el espíritu de caracolófono y lánzate a la acción con la Bola de Buggy especial.",
+    "image": "https://cdn-live.prm.ol.epicgames.com/prod/a2c8b83e675d407f9c764ae6c539b95d.jpeg?width=1024&height=1080&aspect=fill",
+    "tag": "Noticia",
+    "ts": "2026-11-12T14:01:20+00:00"
+   },
+   "tries": 1,
+   "at": 1794492080.0410314
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {
