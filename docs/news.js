@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✨ Todos os novos Elementais adicionados na v43.10 em português! #Fortnite\n\n· Mini Miku e Mô Lusco — 15 de novembro\n· Oscar II e Dourados — 22 de novembro\n· Ponto Zé — ???\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24aycm3is2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiclytnjylezrt7i52ocx6dohpmxq2nf4xjcivcpatm72u5ykaovga",
   "tag": "Filtración",
-  "ts": "2026-11-12T10:26:32+00:00"
+  "ts": "2026-11-12T10:26:38+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axv332k2p",
@@ -15,7 +15,7 @@ window.NEWS = [
   "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 Todos os novos Estilos para Trajes/Acessórios adicionados na v43.10 em português! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24axv332k2p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7qumnuw3zvhypg4nn2o7yjff7tnlzaemqgw5owqx76g5l6wdpbe",
   "tag": "Filtración",
-  "ts": "2026-11-12T10:26:32+00:00"
+  "ts": "2026-11-12T10:26:38+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axiik722p",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-01T23:14:33+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T10:26:33+00:00";
+window.NEWS_UPDATED = "2026-11-12T10:26:38+00:00";
