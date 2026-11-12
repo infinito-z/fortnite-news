@@ -1685,7 +1685,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24aycm3is2p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axv332k2p",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24aycm3is2p",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axv332k2p"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axv332k2p",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225"
  ],
  "first_run": false,
  "seeded": [
@@ -1698,7 +1700,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ SERVIDORES ON-LINE! O período de inatividade da v43.10 terminou e a Kasane Teto chegou no Mini Passe Musical do Festival!\n\n💗 Use meu código \"LPFNBR\" para me apoiar na compra dela! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24bkmgl7225\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsskcuz4ooxuuufwwfir3gbld52ushdvdifhnacccvj2txwdpoxq",
+    "tag": "Filtración",
+    "ts": "2026-11-12T10:36:12+00:00"
+   },
+   "tries": 1,
+   "at": 1794479772.3882318
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {

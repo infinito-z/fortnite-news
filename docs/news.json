@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24bkmgl7225",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ SERVIDORES ON-LINE! O período de inatividade da v43.10 terminou e a Kasane Teto chegou no Mini Passe Musical do Festival!\n\n💗 Use meu código \"LPFNBR\" para me apoiar na compra dela! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24bkmgl7225\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigsskcuz4ooxuuufwwfir3gbld52ushdvdifhnacccvj2txwdpoxq",
+  "tag": "Filtración",
+  "ts": "2026-11-12T10:36:12+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24aycm3is2p",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://fortnite-api.com/images/cosmetics/br/character_rookgeckorye/featured.png",
   "tag": "Cosmético",
   "ts": "2026-11-01T23:49:12+00:00"
- },
- {
-  "id": "build:++Fortnite+Release-43.00-CL-59596594",
-  "kind": "build",
-  "title": "Build 43.00",
-  "text": "⚙️ Cambió el build del juego: 43.00. Algo se viene, mantente atento 👀",
-  "image": null,
-  "tag": "Parche",
-  "ts": "2026-11-01T23:14:33+00:00"
  }
 ]
