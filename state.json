@@ -1641,7 +1641,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2366yyenc2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2366yyenc2e",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n23boraphk2m",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n23boraphk2m"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n23boraphk2m",
+  "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
+  "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z"
  ],
  "first_run": false,
  "seeded": [
@@ -1654,7 +1656,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
+    "kind": "status",
+    "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
+    "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.10 Update\nEstado: programado\nDesde: 2026-11-12T09:00:00.000Z\nHasta: 2026-11-12T10:30:00.000Z\nMaintenance will begin as scheduled in 60 minutes.\nhttps://status.epicgames.com",
+    "image": null,
+    "tag": "Estado",
+    "ts": "2026-11-12T08:02:35+00:00"
+   },
+   "tries": 1,
+   "at": 1794470555.0670402
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-11T22:49:26.240Z",
   "sections": {

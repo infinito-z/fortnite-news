@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:maint:mpp1cbb204zr:scheduled:2026-11-12T08:01:16.647Z",
+  "kind": "status",
+  "title": "Mantenimiento: Fortnite: Downtime for v43.10 Update",
+  "text": "🗓️ Mantenimiento programado que toca Fortnite: Fortnite: Downtime for v43.10 Update\nEstado: programado\nDesde: 2026-11-12T09:00:00.000Z\nHasta: 2026-11-12T10:30:00.000Z\nMaintenance will begin as scheduled in 60 minutes.\nhttps://status.epicgames.com",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-12T08:02:35+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n23boraphk2m",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-01T08:20:33+00:00"
- },
- {
-  "id": "news:1d0754498020d9bc0ccd12a97cf87e7d",
-  "kind": "news",
-  "title": "A$AP Rocky desembarca",
-  "text": "👀 Epic acaba de soltar esto: A$AP Rocky desembarca\n¡Un nuevo capitán se ha apoderado de parte de la isla! Enfréntate al jefe A$AP Rocky para conseguir a Lil' Flacko y elimina a tus oponentes con el cohete de salto de A$AP Rocky.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/9878bb76f933469c8219646efc468255.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-01T08:15:57+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T01:06:25+00:00";
+window.NEWS_UPDATED = "2026-11-12T08:02:35+00:00";
