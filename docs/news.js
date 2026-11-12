@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔥 37 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Pearto, Kasane Teto, Capitana Hatsune Miku, BIRDBRAIN, Bate baguette de Teto, Kasane Teto 0401. Tu billetera ya lloró 💸😭",
   "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cactusbait/featured.png",
   "tag": "Cosmético",
-  "ts": "2026-11-12T13:15:52+00:00"
+  "ts": "2026-11-12T13:15:46+00:00"
  },
  {
   "id": "build:++Fortnite+Release-43.10-CL-60118918",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-02T15:52:16+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T13:15:52+00:00";
+window.NEWS_UPDATED = "2026-11-12T13:15:46+00:00";

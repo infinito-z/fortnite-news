@@ -1757,29 +1757,16 @@
  "pending": [
   {
    "item": {
-    "id": "build:++Fortnite+Release-43.10-CL-60118918",
-    "kind": "build",
-    "title": "Build 43.10",
-    "text": "🚨 NUEVA VERSIÓN DETECTADA: 43.10. Parche en camino, a preparar el pop-off 🔧",
-    "image": null,
-    "tag": "Parche",
-    "ts": "2026-11-12T13:11:00+00:00"
-   },
-   "tries": 2,
-   "at": 1794489228.0272279
-  },
-  {
-   "item": {
     "id": "cosmetic-batch:3ff751d4e8",
     "kind": "cosmetic",
     "title": "37 cosméticos nuevos",
     "text": "🔥 37 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Pearto, Kasane Teto, Capitana Hatsune Miku, BIRDBRAIN, Bate baguette de Teto, Kasane Teto 0401. Tu billetera ya lloró 💸😭",
     "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cactusbait/featured.png",
     "tag": "Cosmético",
-    "ts": "2026-11-12T13:15:52+00:00"
+    "ts": "2026-11-12T13:15:46+00:00"
    },
    "tries": 1,
-   "at": 1794489352.7463474
+   "at": 1794489346.2503693
   }
  ],
  "epic_fp": {
