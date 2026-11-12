@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24nk5v5qs2f",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🧢 FORTNITE x LIL UZI VERT — Todos os cosméticos de Lil Uzi Vert para a Série Ícones do Fortnite foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1041 | 37.97 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24nk5v5qs2f\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibdricepphnpt3gypp4pdxwq7geakypsrsvlu2npjobjd56nc4hty",
+  "tag": "Filtración",
+  "ts": "2026-11-12T14:11:06+00:00"
+ },
+ {
   "id": "cosmetic-batch:7ea9c0a5a0",
   "kind": "cosmetic",
   "title": "11 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifkw3ybwnouontcem6e5kndnme2r4svuigmhyapxczoabqaan4f7q",
   "tag": "Filtración",
   "ts": "2026-11-02T17:57:52+00:00"
- },
- {
-  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzduugkqoc2v",
-  "kind": "status",
-  "title": "Fortnite Status (@fortnite-status.bsky.social)",
-  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\nOops! 👻 \nCursed Sprites showed up a little earlier than planned, so they’re temporarily disabled. They’ll be back this Saturday, November 7!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzduugkqoc2v",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
-  "tag": "Estado",
-  "ts": "2026-11-02T17:45:23+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T14:01:24+00:00";
+window.NEWS_UPDATED = "2026-11-12T14:11:06+00:00";
