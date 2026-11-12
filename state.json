@@ -1660,21 +1660,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "status:component:vyf8y8054472:under_maintenance:2026-11-12T09:00:16.922Z",
-    "kind": "status",
-    "title": "Fortnite Crew: en mantenimiento",
-    "text": "⚠️ Epic Status: el componente «Fortnite Crew» pasó de operativo a en mantenimiento.\nActualizado: 2026-11-12T09:00:16.922Z\nhttps://status.epicgames.com",
-    "image": null,
-    "tag": "Estado",
-    "ts": "2026-11-12T09:01:53+00:00"
-   },
-   "tries": 2,
-   "at": 1794474325.8467789
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-11T22:49:26.240Z",
   "sections": {
