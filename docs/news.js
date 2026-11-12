@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n25ayqmze22e",
+  "kind": "status",
+  "title": "Fortnite Status (@fortnite-status.bsky.social)",
+  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🚗 Tortnite fixed an issue causing some Car Bodies and their Wheels to appear at a lower level of detail than intended on PlayStation 5, Xbox Series X|S, Nintendo Switch 2 and PC.\n\nThey’re working on bringing these improvements to other supported devices too.\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3n25ayqmze22e",
+  "image": null,
+  "tag": "Estado",
+  "ts": "2026-11-12T19:59:25+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24vwlwa3k25",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/954eb639ffabb4d8/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-11-03T00:01:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzeggrat6c2g",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Arknights: Endfield (1x)\n· Rambo (2x)\n· Vestiário do Oatley (2x)\n· Esquadrão do Som [Gestos] (2x)\n· Caçadores de Tesouro (6x)\n· Amplificador de Sinal (3x)\n· Estilo Top (4x)\n· Nem Suei (2x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzeggrat6c2g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiecrtzuhdwq6d2sbj2n44sba6a35zcubitzrudu6huyyseav5erp4",
-  "tag": "Filtración",
-  "ts": "2026-11-02T23:00:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T16:41:21+00:00";
+window.NEWS_UPDATED = "2026-11-12T19:59:25+00:00";
