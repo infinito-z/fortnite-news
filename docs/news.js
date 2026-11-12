@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25lib3p5c2r",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Lil Uzi Vert (6x)\n· Sexta-feira 13 [Jason] (2x)\n· Energia de Protagonista (6x)\n· Pegue Seus Calçados (2x)\n· Festa da Vitória [Gestos] (2x)\n· Rivian R1S [Chassi] (1x)\n· Caçadores de Tesouro (2x)\n· Circuito do Hype (2x)\n· Músicas (4x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25lib3p5c2r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreian5krsoypnuqtzemyd7p4o3qu724glmrtljudm34apym52rbblvi",
+  "tag": "Filtración",
+  "ts": "2026-11-12T23:07:07+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n25ayqmze22e",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/shoes_charmquake/featured.png",
   "tag": "Cosmético",
   "ts": "2026-11-03T00:01:55+00:00"
- },
- {
-  "id": "shop:641776a933375548",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 58 cosas nuevas:\n• Lote de Rambo — 2.200 paVos\n• Lote de taquilla de Oatley — 2.100 paVos\n• Aprendiz audaz — 1.500 paVos\n• Discípulo deportista — 1.500 paVos\n• Exploradora estudiosa — 1.500 paVos\n• Perlica — 1.500 paVos\n…y 52 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/954eb639ffabb4d8/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-11-03T00:01:52+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T19:59:25+00:00";
+window.NEWS_UPDATED = "2026-11-12T23:07:07+00:00";
