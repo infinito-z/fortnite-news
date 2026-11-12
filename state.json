@@ -1654,21 +1654,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n23boraphk2m",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — Primeira visão do Gesto Série Ícones \"Birdbrain\" de Kasane Teto que chegará no Mini Passe Musical amanhã, 12 de novembro!\n\nA Música \"BIRDBRAIN (Jaime Paige, OK Glass e Kasane Teto)\" também estará disponível no Passe Musical! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n23boraphk2m\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-12T01:06:24+00:00"
-   },
-   "tries": 2,
-   "at": 1794445757.9393551
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-11T22:49:26.240Z",
   "sections": {
