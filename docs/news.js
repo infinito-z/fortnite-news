@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gxlcdcc2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📚 FORTNITE x DOKI DOKI LITERATURE CLUB — EM BREVE?!\n\nUma colaboração com Doki Doki Literature Club poderia estar criptografada na v43.10 pata chegar em breve ao Fortnite, e incluiria 4 Trajes. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24gxlcdcc2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie6mylzbvm6fc3nvrrtkmcxen6d5u6fue2ril6plzcjrabegwxypq",
+  "tag": "Filtración",
+  "ts": "2026-11-12T12:13:05+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gwotpnk2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🥤 FORTNITE x SCOTT PILGRIM — EM BREVE?!\n\nUma colaboração com Scott Pilgrim poderia estar criptografada na v43.10 para chegar em breve ao Fortnite, e incluiria Trajes de Scott e Ramona. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24gwotpnk2d\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiescu5gfutrxmqa5fdhrjs5lnx4hhhpp56jr457525lygjxb7ltua",
+  "tag": "Filtración",
+  "ts": "2026-11-12T12:13:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gvda2jc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-02T02:03:57+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzc73ehpms2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Evento Saudações, Nossos Conquistadores Alienígenas de Os Simpsons ocorreu 1 ANO atrás! 🛸\n\nApós o Fragmento do Ponto Zero ser removido da Presença Sombria, uma indecisão de destinos levou Jones e Valentia junto com Kang e Kodos para a Ilha de Springfield! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzc73ehpms2h\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreietqiednrl24kmdy2lyiob7klpcx6e4mypgoucmomdjr5pabc4jvu",
-  "tag": "Filtración",
-  "ts": "2026-11-02T01:42:45+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzc6q5qio22h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Evento Saudações, Nossos Conquistadores Alienígenas de Os Simpsons ocorreu 1 ANO atrás! 🛸\n\nApós o Fragmento do Ponto Zero ser removido da Presença Sombria, uma indecisão de destinos levou Jones e Valentia junto com Kang e Kodos para a Ilha de Springfield! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzc6q5qio22h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-02T01:36:40+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T12:12:17+00:00";
+window.NEWS_UPDATED = "2026-11-12T12:13:05+00:00";
