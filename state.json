@@ -1748,7 +1748,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 1,
+    "n": 0,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
