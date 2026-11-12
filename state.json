@@ -1663,8 +1663,8 @@
     "tag": "Filtración",
     "ts": "2026-11-12T00:03:24+00:00"
    },
-   "tries": 1,
-   "at": 1794441805.4296088
+   "tries": 2,
+   "at": 1794442018.6380754
   },
   {
    "item": {
@@ -1676,21 +1676,8 @@
     "tag": "Filtración",
     "ts": "2026-11-12T00:03:24+00:00"
    },
-   "tries": 1,
-   "at": 1794441805.4296088
-  },
-  {
-   "item": {
-    "id": "shop:d40fdc8bfc62f629",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 17 cosas nuevas:\n• Lote de Gata Negra — 2.300 paVos\n• Lote de Artistas del escapismo — 1.800 paVos\n• Lote de Spider-Man Cero — 1.800 paVos\n• Fernet — 1.500 paVos\n• Delictiva — 1.200 paVos\n• Anwar — 1.200 paVos\n…y 11 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/32e1e9cd0b48165a/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-12T00:00:58+00:00"
-   },
    "tries": 2,
-   "at": 1794441833.5320523
+   "at": 1794442018.6380754
   },
   {
    "item": {
@@ -1702,8 +1689,8 @@
     "tag": "Filtración",
     "ts": "2026-11-12T00:04:14+00:00"
    },
-   "tries": 1,
-   "at": 1794441854.995482
+   "tries": 2,
+   "at": 1794442018.6380754
   }
  ],
  "epic_fp": {
