@@ -1,5 +1,23 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2366pydts2e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSeu amigão da vizinhança pronto para a Batalha. O Homem-Aranha Zero e seus acessórios soltam ataques na Loja do Fortnite até 15 de novembro! 🕸️🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2366pydts2e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicnyeo4hwlpkmx326jngnp3oruhz7zb47x2tpjegl6igkrrlmfmfi",
+  "tag": "Filtración",
+  "ts": "2026-11-12T00:03:24+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2366gpyh22e",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nCapitã da unidade M.A.H.O.U. e com estilo impecável! A Fernet de Kernel Hearts exibe suas magníficas habilidades na Loja do Fortnite por 1.500 V-Bucks até 15 de novembro! 🩰✨\n\n🩷 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2366gpyh22e\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig4fv67vrexsxy2w4i2u3i43znuljdhu4fajxbeyxvvzszdg4ddsa",
+  "tag": "Filtración",
+  "ts": "2026-11-12T00:03:24+00:00"
+ },
+ {
   "id": "shop:d40fdc8bfc62f629",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1780,23 +1798,5 @@
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-01T07:54:33+00:00"
- },
- {
-  "id": "news:57de216398b7114405d9fdc0a21f72b1",
-  "kind": "news",
-  "title": "¡No te pierdas la aventura!",
-  "text": "👀 Epic acaba de soltar esto: ¡No te pierdas la aventura!\n¡Todas las grandes aventuras comienzan con un mapa del tesoro! Dirígete a la pestaña Tesoro para seguir el progreso semanal y planear tu próximo movimiento.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/17e5919c76f0462a95a0143af0f6b9d8.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-01T07:45:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzabkarizc2i",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n✨ Todos os novos Elementais adicionados na v43.00 em português! #Fortnite\n\n· Base, Amaldiçoados e Valiosos já disponíveis!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzabkarizc2i\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidk5oaikowrbq3amujsovxql47qww7knuhnvvivcg3352ukh2aooi",
-  "tag": "Filtración",
-  "ts": "2026-11-01T07:21:47+00:00"
  }
 ]
