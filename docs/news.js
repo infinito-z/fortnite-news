@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n247enxls22t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎄 SALVE O MUNDO — A Base Inicial do Salve o Mundo ganhará em breve decorações natalinas para a chegada da nova Temporada de Aventura dos Friordes Friorentos, o Frionite e mais em 18 de novembro.\n\n📸: x/archer_fortnite | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n247enxls22t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidkyaeffrfcwneapdreb4fjfjmhs2iqznb5xppnyccwu3kh7wjo7y",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:57:14+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n247eflctc2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🔄 RELOAD — A Ilha de Springfield está de volta à rotação de mapas do Reload, e chega acompanhada do novo Modificador Chuva de Rosquinhas!\n\nAlém disso, a Ilha Round 6 e a Cidade do Surfe também entram na rotação de mapas do modo. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n247eflctc2t\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicxoq6wwlkqfa4rnax4uso43o3osvnf7y4khdqvs7p6ve4r5e47xu",
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:57:14+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n247dxroyk2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👚 VESTIÁRIO — O Vestiário do Fortnite foi levemente melhorado com a chegada da v43.10!\n\n· Novas Grades (Pequeno, Médio e Grande)\n· Setas Para Baixo e Para Cima avançam pelos itens da página de uma vez\n\n🎥: x/FN_Assist | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n247dxroyk2t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-12T09:57:14+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n246rhcnk22t",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/e9db8889f0df48368b6a9a151297980a.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-11-01T12:02:15+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao5tnpv22o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n💥 NOVO ITEM — Jogabilidade rápida do Rifle Repetidor Trabuco do Fortnite: Caçadores de Tesouro!\n\n“Rifle de assalto totalmente automático de disparo rápido. Libera uma rajada de tiros em rápida sucessão. Melhor uso a média distância e letal nas mãos certas.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzao5tnpv22o\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:09:07+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzao2ny3oc2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪙 NOVO ITEM — Jogabilidade da Espingarda Dragoon Dourada para o Fortnite: Caçadores de Tesouro!\n\n“Espingarda de tiro único. Causa dano alto ao custo de um pente menor. Acerta como uma bala de canhão e recarrega como se soubesse que você só precisa de um bom disparo.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzao2ny3oc2o\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:07:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzanwcvnmc2o",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n💣 NOVO ITEM — Jogabilidade rápida da Bala de Canhão Explosiva do Fortnite: Caçadores de Tesouro!\n\n“Bomba arremessável que pode ser carregada em Canhões Piratas.” #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzanwcvnmc2o\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T11:04:57+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T09:46:29+00:00";
+window.NEWS_UPDATED = "2026-11-12T09:57:14+00:00";
