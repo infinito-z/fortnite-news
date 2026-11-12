@@ -1695,7 +1695,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cvleev225",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cvleev225",
   "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n24cvscaik2z",
-  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n24cvscaik2z"
+  "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n24cvscaik2z",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gvda2jc2d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gvda2jc2d"
  ],
  "first_run": false,
  "seeded": [
@@ -1708,7 +1710,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gvda2jc2d",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🐈 FORTNITE x GATO DE BOTAS — EM BREVE?!\n\nUma colaboração com Gato de Botas poderia estar criptografada na v43.10 para chegar em breve ao Fortnite, e incluiria um Mascote e um Traje. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24gvda2jc2d\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiebp46e2av4iuhvskxn2vgomesaxbrqidrlexjkdalvjyqaonv2ba",
+    "tag": "Filtración",
+    "ts": "2026-11-12T12:12:17+00:00"
+   },
+   "tries": 1,
+   "at": 1794485537.9618676
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {

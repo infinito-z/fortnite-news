@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gvda2jc2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🐈 FORTNITE x GATO DE BOTAS — EM BREVE?!\n\nUma colaboração com Gato de Botas poderia estar criptografada na v43.10 para chegar em breve ao Fortnite, e incluiria um Mascote e um Traje. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24gvda2jc2d\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiebp46e2av4iuhvskxn2vgomesaxbrqidrlexjkdalvjyqaonv2ba",
+  "tag": "Filtración",
+  "ts": "2026-11-12T12:12:17+00:00"
+ },
+ {
   "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3n24cvscaik2z",
   "kind": "status",
   "title": "Fortnite Status (@fortnite-status.bsky.social)",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-02T01:36:40+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzkd3d6k23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nCuidado com ela, pois as garras são bem afiadas. Mulher-Gato Zero e sua Picareta Garra de Gancho da Mulher-Gato retornam à Loja do Fortnite até 06 de novembro! 🐈‍⬛🐾\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzkd3d6k23\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiabs77ent3h27b6lm7llqwnr2vnq2oyxnp7pd25becdghznuvdw6u",
-  "tag": "Filtración",
-  "ts": "2026-11-02T00:04:34+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T11:01:18+00:00";
+window.NEWS_UPDATED = "2026-11-12T12:12:17+00:00";
