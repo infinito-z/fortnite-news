@@ -1,5 +1,32 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24axiik722p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐾 Novo Mascote e seus Acessórios adicionados na v43.10 em português! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24axiik722p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigy6nrvs66yzjykfb5e2yg2774wm7gmdvbvta3i3hqfxpqzovhwiy",
+  "tag": "Filtración",
+  "ts": "2026-11-12T10:25:41+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24ax4nvyc2p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 Todos os novos Trajes, Mochilas Picaretas, Gestos e mais adicionados na v43.10 em português! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24ax4nvyc2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih5ppx37swkwgzzionc4rdyjhssvoozyrlhpytfyhmpcpsvktb3wq",
+  "tag": "Filtración",
+  "ts": "2026-11-12T10:25:41+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24awohe3k2p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚘 Todos os novos cosméticos de Veículos adicionados na v43.10! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24awohe3k2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieskfameyp2g2v4hkkbhjvodlu6evxqhqxf62g6odqne775g44lzm",
+  "tag": "Filtración",
+  "ts": "2026-11-12T10:25:41+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n247enxls22t",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,33 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Estado",
   "ts": "2026-11-01T17:47:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzb2uh7nrk23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 TUDO GRÁTIS — NOVO TOKEN DE ACESSO À LOJA PIRATA DO FORTNITE!\n\n1. Encontre o Token de Acesso à Loja Pirata do Fortnite abrindo Baús no Battle Royale (as chances são bem baixas)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzb2uh7nrk23\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-01T14:54:40+00:00"
- },
- {
-  "id": "news:8f2dfca47c07a922553c9ff15d9d5255",
-  "kind": "news",
-  "title": "Trajes de Monkey D. Luffy, Nami y Usopp",
-  "text": "🚨 NOTICIA: Trajes de Monkey D. Luffy, Nami y Usopp\n¡Cuando la aventura llama, los Sombreros de Paja responden! Zarpa con los trajes de Monkey D. Luffy, Nami y Usopp y pon rumbo a aguas desconocidas.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/dd15db8cc4564f5792d6cf8438e8bcea.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-01T12:02:15+00:00"
- },
- {
-  "id": "news:5a2719190456440b7f33935c3fc21c87",
-  "kind": "news",
-  "title": "Ráfaga de puñetazos",
-  "text": "👀 Epic acaba de soltar esto: Ráfaga de puñetazos\n¡METRALLA GOMU-GOMU!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/e9db8889f0df48368b6a9a151297980a.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-01T12:02:15+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T09:57:14+00:00";
+window.NEWS_UPDATED = "2026-11-12T10:25:42+00:00";
