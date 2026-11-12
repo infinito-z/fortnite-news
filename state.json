@@ -1701,7 +1701,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gxlcdcc2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gwotpnk2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gxlcdcc2d",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gwotpnk2d"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gwotpnk2d",
+  "build:++Fortnite+Release-43.10-CL-60118918",
+  "build:++Fortnite+Release-43.10-CL-60118918"
  ],
  "first_run": false,
  "seeded": [
@@ -1714,7 +1716,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "build:++Fortnite+Release-43.10-CL-60118918",
+    "kind": "build",
+    "title": "Build 43.10",
+    "text": "🚨 NUEVA VERSIÓN DETECTADA: 43.10. Parche en camino, a preparar el pop-off 🔧",
+    "image": null,
+    "tag": "Parche",
+    "ts": "2026-11-12T13:11:00+00:00"
+   },
+   "tries": 1,
+   "at": 1794489060.832214
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T09:34:30.471Z",
   "sections": {

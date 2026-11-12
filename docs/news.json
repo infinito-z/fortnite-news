@@ -1,5 +1,14 @@
 [
  {
+  "id": "build:++Fortnite+Release-43.10-CL-60118918",
+  "kind": "build",
+  "title": "Build 43.10",
+  "text": "🚨 NUEVA VERSIÓN DETECTADA: 43.10. Parche en camino, a preparar el pop-off 🔧",
+  "image": null,
+  "tag": "Parche",
+  "ts": "2026-11-12T13:11:00+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24gxlcdcc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidlvlkksu5b3kosanxtmpqnw4p4vfofawtl3o3aoehdewyasgsihu",
   "tag": "Filtración",
   "ts": "2026-11-02T14:03:51+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzcab6dumk2a",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nO Fortnite: Os Simpsons (C6:TM2) foi lançado 1 ANO atrás! 🟡🍩\n\nHomer Simpson tomou posse do Controle Remoto do Ponto Zero, causando um caos completo na Ilha do Battle Royale de Springfield. A temporada tornou-se um sucesso com mais de 80 MILHÕES de jogadores únicos. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzcab6dumk2a\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-02T02:03:57+00:00"
  }
 ]
