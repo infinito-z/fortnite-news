@@ -1670,73 +1670,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244vuf6zc2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️🎀 FORTNITE x MIKU E TETO — Primeira visão dos Trajes de Capitã Hatsune Miku e Kasane Teto para o Fortnite!\n\nTeto chega logo após o retorno dos servidores e a Miku chega na Loja em 14 de novembro (até então).\n\n📸: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244vuf6zc2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia45vmzogr52ykm5gupuqyt4ntiyb3dc77habjpz6v26dbi2lzy5i",
-    "tag": "Filtración",
-    "ts": "2026-11-12T09:13:10+00:00"
-   },
-   "tries": 2,
-   "at": 1794475021.1643732
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244vla44c2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪩 FORTNITE x HATSUNE MIKU — Primeira visão do Elemental Hatsune Miku adicionado na v43.10.\n\nDisponível neste domingo com a chegada do novo Dia de Capitania! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244vla44c2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia53x36iohe3naqltsyzuakpkn6q4ag246vzjlrwuzkuvwum6ayk4",
-    "tag": "Filtración",
-    "ts": "2026-11-12T09:13:10+00:00"
-   },
-   "tries": 2,
-   "at": 1794475021.1643732
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244vbrgks2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👑 CLUBE — Primeira visão do último Traje do Clube Fortnite que chega em dezembro!\n\nDisponível em 30 de novembro a partir das 21h BRT! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244vbrgks2k\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmfcsemem33xomdj6vqyrz5apwile6dyi2vogsazglfazcapdsbu",
-    "tag": "Filtración",
-    "ts": "2026-11-12T09:13:10+00:00"
-   },
-   "tries": 2,
-   "at": 1794475021.1643732
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244uvowfk2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🗺️ Mapa do Fortnite: Caçadores de Tesouro do Battle Royale (v43.10) | #Fortnite\n\n· Barco do Buggy chega à Ilha\n· Vila da Amizade de Miku e Teto chega no domingo\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244uvowfk2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicazpsmeo5ac7saq23wdti6qdv57f26v7dgirpo6r7kzktd4f46py",
-    "tag": "Filtración",
-    "ts": "2026-11-12T09:13:10+00:00"
-   },
-   "tries": 2,
-   "at": 1794475021.1643732
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n244w7jmc22k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆕 ORIGINAL — Novo Traje da Valentia Caçadora de Tesouros que chega em breve à Loja de Itens!\n\n📸: x/ShiinaBR | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n244w7jmc22k\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihgjazo2jm5fqi3ocuyk4xyvd3vpzcwusqsqcjhmoajhsaodkfwyi",
-    "tag": "Filtración",
-    "ts": "2026-11-12T09:14:02+00:00"
-   },
-   "tries": 2,
-   "at": 1794475021.1643732
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T08:02:03.819Z",
   "sections": {
