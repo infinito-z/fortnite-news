@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🟢 Downtime's a wrap! Jump back in and see what's new:\n\nBR: fn.gg/BR-43-10 \nArenas: fn.gg/Arenas-43-10\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3n24cvscaik2z",
   "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreibkrwz2vnqvhxu5wmdpk6r26empjsd3wpkgwtqa5jam7ajh3ijy7m",
   "tag": "Estado",
-  "ts": "2026-11-12T11:00:40+00:00"
+  "ts": "2026-11-12T11:01:18+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cvleev225",
@@ -15,7 +15,16 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔊 DIÁLOGOS! Todos os 37 diálogos entre Capitão X, Slone, Valentia, Jones e Geno adicionados na v43.10 em português!\n\nGeno retorna ao jogo e se prepara para o combate final contra a equipe de Jones, Slone e Valentia. O Capitão X sugere que irá se revelar em breve... #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24cvleev225\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": null,
   "tag": "Filtración",
-  "ts": "2026-11-12T11:00:37+00:00"
+  "ts": "2026-11-12T11:01:16+00:00"
+ },
+ {
+  "id": "news:f494d389340dd842574fe090dac9b3e8",
+  "kind": "news",
+  "title": "Pase musical de DIVA TWINDRILL",
+  "text": "⚡ Ojo, ojo: Pase musical de DIVA TWINDRILL\n¡La diva virtual Kasane Teto sube al escenario! Quienes tengan el pase musical de Diva de TwinDrill podrán acceder al traje de Kasane Teto, un accesorio mochilero, un gesto y mucho más. ¡Adéntrate en Festival para empezar a desbloquear recompensas!",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/7580ba329d924e32866850f8a992f973.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-12T11:01:11+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24cgpqyes2l",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiabs77ent3h27b6lm7llqwnr2vnq2oyxnp7pd25becdghznuvdw6u",
   "tag": "Filtración",
   "ts": "2026-11-02T00:04:34+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzbzjwfsmk23",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nToque o terror com a primeira e única! A Arlequina e seus acessórios da DC estão de volta à Loja do Fortnite até 06 de novembro! 🃏🤪\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzbzjwfsmk23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid4zs2g4vd4z6fgx2ryqo5ethepgkx63jocbh7o6ka2v7wm6pgxky",
-  "tag": "Filtración",
-  "ts": "2026-11-02T00:04:34+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-12T11:00:40+00:00";
+window.NEWS_UPDATED = "2026-11-12T11:01:18+00:00";
