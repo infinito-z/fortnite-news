@@ -1671,21 +1671,8 @@
     "tag": "Estado",
     "ts": "2026-11-12T09:01:53+00:00"
    },
-   "tries": 1,
-   "at": 1794474113.5491965
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n24464qrus23",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ É AGORA! O período de inatividade para a atualização v43.10 começou!\n\nA duração estimada da atualização é de 1h30m, segundo a Epic Games! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n24464qrus23\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiblgxqutrmnxehsleflnemsumlywyx5kcvt3s3b6mz2ssfe34zuvq",
-    "tag": "Filtración",
-    "ts": "2026-11-12T08:59:46+00:00"
-   },
    "tries": 2,
-   "at": 1794474160.070637
+   "at": 1794474325.8467789
   }
  ],
  "epic_fp": {
