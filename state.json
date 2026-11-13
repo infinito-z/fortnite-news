@@ -1833,60 +1833,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6cjk2pc2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 16 de novembro!\n\n· Madison Beer (4x)\n· Kaiju No. 8 (2x)\n· A Odisseia (2x)\n· Só no Gingado [Gestos] (2x)\n· Pegue Seus Calçados (3x)\n· Nem Suei (2x)\n· Circuito do Hype (1x)\n· Energia de Protagonista [Verão de Alto Risco] (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6cjk2pc2b\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreienexz6bvnitawus76lficlb2brpkhdwhu7cffjiulofyut7k7gku",
-    "tag": "Filtración",
-    "ts": "2026-11-13T23:48:59+00:00"
-   },
-   "tries": 2,
-   "at": 1794613907.7950292
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6cc375k2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 15 de novembro! \n\n· Batférias de Verão (5x)\n· Shohei Ohtani (3x)\n· Vestiário Bug do Candywing (2x)\n· Caçadores de Tesouro (3x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6cc375k2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibz6raaffb6pnyacwpumrxbfbgzln5eeu3c2tite2aeeqc4jko6eu",
-    "tag": "Filtración",
-    "ts": "2026-11-13T23:48:59+00:00"
-   },
-   "tries": 2,
-   "at": 1794613907.7950292
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6bzx6tk2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 14 de novembro!\n\n· Hatsune Miku (4x)\n· Pegue Seus Calçados (3x)\n· Festa da Vitória [Gestos] (2x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6bzx6tk2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiemxoaltngbdtlmdxwjksjbdcdhh6cjfpkdchjq5o44nnpvajlt4a",
-    "tag": "Filtración",
-    "ts": "2026-11-13T23:48:59+00:00"
-   },
-   "tries": 2,
-   "at": 1794613907.7950292
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6brvfss2b",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· One Piece [Buggy] (7x)\n· iShowSpeed [Pirata Speedy] (2x)\n· Volkswagen Golf GTI (1x)\n· Pegue Seus Calçados (2x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6brvfss2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib2a2t5a6xty4zrkqlknfyynekvfbsbrgktmbykwalhp3ciuuwf6e",
-    "tag": "Filtración",
-    "ts": "2026-11-13T23:48:59+00:00"
-   },
-   "tries": 2,
-   "at": 1794613907.7950292
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-13T23:30:00.432Z",
   "sections": {
