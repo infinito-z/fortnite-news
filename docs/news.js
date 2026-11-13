@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6cjk2pc2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 16 de novembro!\n\n· Madison Beer (4x)\n· Kaiju No. 8 (2x)\n· A Odisseia (2x)\n· Só no Gingado [Gestos] (2x)\n· Pegue Seus Calçados (3x)\n· Nem Suei (2x)\n· Circuito do Hype (1x)\n· Energia de Protagonista [Verão de Alto Risco] (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6cjk2pc2b\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreienexz6bvnitawus76lficlb2brpkhdwhu7cffjiulofyut7k7gku",
+  "tag": "Filtración",
+  "ts": "2026-11-13T23:48:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6cc375k2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 15 de novembro! \n\n· Batférias de Verão (5x)\n· Shohei Ohtani (3x)\n· Vestiário Bug do Candywing (2x)\n· Caçadores de Tesouro (3x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6cc375k2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibz6raaffb6pnyacwpumrxbfbgzln5eeu3c2tite2aeeqc4jko6eu",
+  "tag": "Filtración",
+  "ts": "2026-11-13T23:48:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6bzx6tk2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 14 de novembro!\n\n· Hatsune Miku (4x)\n· Pegue Seus Calçados (3x)\n· Festa da Vitória [Gestos] (2x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6bzx6tk2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiemxoaltngbdtlmdxwjksjbdcdhh6cjfpkdchjq5o44nnpvajlt4a",
+  "tag": "Filtración",
+  "ts": "2026-11-13T23:48:59+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6brvfss2b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· One Piece [Buggy] (7x)\n· iShowSpeed [Pirata Speedy] (2x)\n· Volkswagen Golf GTI (1x)\n· Pegue Seus Calçados (2x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (7x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2a6brvfss2b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib2a2t5a6xty4zrkqlknfyynekvfbsbrgktmbykwalhp3ciuuwf6e",
+  "tag": "Filtración",
+  "ts": "2026-11-13T23:48:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n27lalazys2j",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1762,42 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-04T14:15:33+00:00"
- },
- {
-  "id": "news:8a0403da078d411d0657afb28a9bc12d",
-  "kind": "news",
-  "title": "Frutas del diablo por toda la isla",
-  "text": "🚨 NOTICIA: Frutas del diablo por toda la isla\n¡Han aparecido frutas del diablo raras por todo el mapa! Come la Fruta Gomu Gomu para estirar tus habilidades como Luffy, o la Fruta Mera Mera para arrasar como Ace... Eso sí: ¡ni se te ocurra acercarte al agua!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/277de79b79934dfbba0a2ef1d66e6f1b.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-04T14:01:01+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2ksz6ws2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nQRebaixado, mas sempre em alta! O Cadillac DeVille 1996 de Snoop Dogg está de volta à Loja com o Adesivo Embrulho Snoop até 10 de novembro! 😎🚗\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzh2ksz6ws2l\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidgia4fykhi5tane6rhy4v5wlity4skrovo2kjacjqrezlsdz5ska",
-  "tag": "Filtración",
-  "ts": "2026-11-04T00:05:32+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2kjdcwc2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nTorne-se Mando'ade. O Combatente Mandaloriano de Star Wars avança na Loja do Fortnite com inúmeros estilos personalizáveis até 07 de novembro! 💫🌌\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzh2kjdcwc2l\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigz4iepfr6u5ln4oibp4sp5etdjry5wcqbjslx4gy3ueuzpttj4pa",
-  "tag": "Filtración",
-  "ts": "2026-11-04T00:05:02+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2k53nps2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nNo more hiding, I'll be shining. Leve sua voz para o povo com Zoey, Rumi e Mira do grupo HUNTR/X de Guerreiras do K-pop que protegem a Loja do Fortnite para salvar o Honmoon até 08 de novembro! 🎤🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzh2k53nps2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7evdn2h5l2emrka2qqfo4ifpdmagbm4zkcf2f6hqi77mkpyfrbq",
-  "tag": "Filtración",
-  "ts": "2026-11-04T00:05:02+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T18:07:50+00:00";
+window.NEWS_UPDATED = "2026-11-13T23:48:59+00:00";
