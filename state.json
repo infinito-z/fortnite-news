@@ -1825,21 +1825,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n27lalazys2j",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n👻 HORAS DO PODER AMALDIÇOADAS NESTE SÁBADO | #Fortnite\n\n· Mini SMG de Lil Uzi Vert e Autorreviver para todos\n· Elementais Amaldiçoados são mais comuns\n· Buff no Token Pirata, Traje Dourado e Chassi\n· Extratores Portáteis surgem em Baús\n\n⏰ Sábado (14), às 16h e 23h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n27lalazys2j\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidkpieutf2oo4f6dhrdk533tqla3y4fw6rivjtinsccpfdk4xtvjy",
-    "tag": "Filtración",
-    "ts": "2026-11-13T18:07:49+00:00"
-   },
-   "tries": 2,
-   "at": 1794593437.8288991
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T23:01:01.414Z",
   "sections": {
