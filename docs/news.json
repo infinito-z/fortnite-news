@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n276idw7m22l",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪩 FORTNITE x HATSUNE MIKU — chegando à Loja em 14 de novembro! #Fortnite\n\n— Pacotão Capitã Hatsune Miku:\n· Traje\n· Mochila\n· Picareta\n· Microfone\n· Gesto\n· Música\n\n💰 Os preços são revelados só no lançamento!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n276idw7m22l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihxzu6bp7ar7by2gquat67cm4pus35zmrzhoyolpzgyczoijxsvja",
+  "tag": "Filtración",
+  "ts": "2026-11-13T14:19:48+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275xppvus24",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigejjzoxaktuocjbeitusd7ppvig6twr7wquaz3bt5ai5tq5wzwq4",
   "tag": "Filtración",
   "ts": "2026-11-04T00:05:02+00:00"
- },
- {
-  "id": "shop:94f39b9cb7371941",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 39 cosas nuevas:\n• Lote de Las guerreras K-pop — 3.500 paVos\n• Snoop Dogg | Cadillac — 2.800 paVos\n• Lote de Campeones de Mandalore — 2.500 paVos\n• Lote de Andrómeda — 2.000 paVos\n• Visión de acero — 1.500 paVos\n• Mira (HUNTR/X) — 1.500 paVos\n…y 33 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7e8546d10a373dc7/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-11-04T00:00:25+00:00"
  }
 ]
