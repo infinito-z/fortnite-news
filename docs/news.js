@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25oxmtnhk2k",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nÉ melhor correr para escapar do maníaco supremo. Jason Voorhees e seus acessórios de Sexta-feira 13 acabam com a festa na Loja do Fortnite até 15 de novembro! 🔪🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25oxmtnhk2k\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihr23fjooc5whdxt4tjgduskboqsdho3cndhdelgtqr3gkornmxeq",
+  "tag": "Filtración",
+  "ts": "2026-11-13T00:09:35+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25owl4ztk2k",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigleerbzqkiwqbpclliuws3372qb3ooxlrfxz46fpka4adktq527e",
   "tag": "Filtración",
   "ts": "2026-11-03T00:09:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek3jcntc2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 06 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek3jcntc2e\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid6v75fly656jxbegrndtwac4n7sm7tlzqwcrp4gmcdusoh5k3uje",
-  "tag": "Filtración",
-  "ts": "2026-11-03T00:06:08+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T00:08:47+00:00";
+window.NEWS_UPDATED = "2026-11-13T00:09:36+00:00";
