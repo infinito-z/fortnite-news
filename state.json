@@ -1801,47 +1801,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25owl4ztk2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nDiamante bruto que é lapidado pela melodia. Lil Uzi Vert e seus acessórios Série Ícones brilham na Loja do Fortnite até 12 de dezembro! 🧢✨\n\n🩷 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25owl4ztk2k\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia2sgnrobqb4mvimhzaidrobqcyspc62fr5fag3wisd3t37fyvruy",
-    "tag": "Filtración",
-    "ts": "2026-11-13T00:08:46+00:00"
-   },
-   "tries": 2,
-   "at": 1794528680.8861406
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25owcfmgk2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 18 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25owcfmgk2k\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreia2aknw4d3dndipnf72qrxoz6xn7fydbaua4xjg2ajsjdisyhuqni",
-    "tag": "Filtración",
-    "ts": "2026-11-13T00:08:46+00:00"
-   },
-   "tries": 2,
-   "at": 1794528680.8861406
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25oxmtnhk2k",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nÉ melhor correr para escapar do maníaco supremo. Jason Voorhees e seus acessórios de Sexta-feira 13 acabam com a festa na Loja do Fortnite até 15 de novembro! 🔪🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25oxmtnhk2k\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihr23fjooc5whdxt4tjgduskboqsdho3cndhdelgtqr3gkornmxeq",
-    "tag": "Filtración",
-    "ts": "2026-11-13T00:09:40+00:00"
-   },
-   "tries": 2,
-   "at": 1794528726.9809453
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T23:01:01.414Z",
   "sections": {
