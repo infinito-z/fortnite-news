@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👒 FORTNITE x ISHOWSPEED — Todos os cosméticos do Pirata Speedy foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1044 | 11.47 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n275oacqjc2f\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmh3i6eicapxuculvfaskfovhlazoz3vv6442taaz6qnmyfgscye",
+  "tag": "Filtración",
+  "ts": "2026-11-13T14:05:00+00:00"
+ },
+ {
   "id": "cosmetic:Backpack_LocketSnug",
   "kind": "cosmetic",
   "title": "Accesorio mochilero: Moneda de IShowSpeed",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicxoq6wwlkqfa4rnax4uso43o3osvnf7y4khdqvs7p6ve4r5e47xu",
   "tag": "Filtración",
   "ts": "2026-11-03T21:32:53+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgplxyk6s2w",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪎 ORIGINAIS — Todos os 6 Trajes originais adicionados na v43.00! #Fortnite\n\n· Jones Pirata — Passe\n· Líder da Equipe Kawaii — Passe\n· Charlotte Sensei — Passe\n· Capitão X — Passe (21/11)\n· Nemia, Presidente da Classe — Loja (??/11)\n· Corsário Oscar — Loja (??/11)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgplxyk6s2w\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie5g6bmxhq7qo47ykamlfj6dbb4joluptmiekp6lrjgj2z7zrytza",
-  "tag": "Filtración",
-  "ts": "2026-11-03T20:49:01+00:00"
  }
 ]
