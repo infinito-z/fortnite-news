@@ -1806,34 +1806,8 @@
     "tag": "Filtración",
     "ts": "2026-11-13T00:03:53+00:00"
    },
-   "tries": 1,
-   "at": 1794528233.852111
-  },
-  {
-   "item": {
-    "id": "shop:df2a2b09b99956c1",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "🛒 TIENDA NUEVA: 68 novedades. Lo más fuerte:\n• Lote de Lil Uzi Vert — 3.200 paVos\n• Lote de Jason — 2.500 paVos\n• Rivian R1S — 2.000 paVos\n• Aracne — 2.000 paVos\n• Lil Uzi Vert de gira — 1.500 paVos\n• Chaqueta orejuda — 1.500 paVos\n…y 62 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d561e5f2b0adcf56/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-13T00:01:33+00:00"
-   },
    "tries": 2,
-   "at": 1794528256.1879642
-  },
-  {
-   "item": {
-    "id": "cosmetic-batch:a85f5853c5",
-    "kind": "cosmetic",
-    "title": "8 cosméticos nuevos",
-    "text": "👀 Se filtraron 8 cosméticos. Destacan: PINKY UP, Pantuflas de kitsune, Gatuflas gruñonas, Nike Air Force 1 \"Orange/Blue\", Air Jordan 14 Retro \"Yellow/Black\", Bantuflas. Ahorra paVos desde YA 🗿",
-    "image": "https://fortnite-api.com/images/cosmetics/br/eid_handslap/icon.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-13T00:01:38+00:00"
-   },
-   "tries": 2,
-   "at": 1794528256.1879642
+   "at": 1794528433.0010586
   }
  ],
  "epic_fp": {
