@@ -1,5 +1,14 @@
 [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25q3s6pjs2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 FORTNITE x OVERWATCH — 2ª ONDA EM BREVE!\n\nUma 2ª onda da colaboração com Overwatch chegará em breve ao Fortnite, possivelmente trazendo Kiriko e Widowmaker ou Juno como Trajes!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25q3s6pjs2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreib46mo2rwko7cjvys22dylrbryoirkvbh2mckf6ciwiscc5don43m",
+  "tag": "Filtración",
+  "ts": "2026-11-13T00:29:19+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25peqn6j22n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/c179e92ae8d943fcab9cb37bc9840525.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-11-03T18:30:38+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzekzegbxk2g",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🆕 CALÇADOS — Primeira visão dos novos Calçados Crocs, Air Jordan, Vans, A$AP Rocky e Originais no jogo. Na Loja aos poucos nos próximos dias! \n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzekzegbxk2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-03T00:22:03+00:00"
  }
 ]
