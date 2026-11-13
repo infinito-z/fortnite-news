@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n27lalazys2j",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n👻 HORAS DO PODER AMALDIÇOADAS NESTE SÁBADO | #Fortnite\n\n· Mini SMG de Lil Uzi Vert e Autorreviver para todos\n· Elementais Amaldiçoados são mais comuns\n· Buff no Token Pirata, Traje Dourado e Chassi\n· Extratores Portáteis surgem em Baús\n\n⏰ Sábado (14), às 16h e 23h BRT!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n27lalazys2j\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidkpieutf2oo4f6dhrdk533tqla3y4fw6rivjtinsccpfdk4xtvjy",
+  "tag": "Filtración",
+  "ts": "2026-11-13T18:07:49+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n276idw7m22l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid7evdn2h5l2emrka2qqfo4ifpdmagbm4zkcf2f6hqi77mkpyfrbq",
   "tag": "Filtración",
   "ts": "2026-11-04T00:05:02+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzh2jsqnwc2l",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nDeixe-o te mostrar o caminho do nekomata. O Mascote Bushi traz ótimas energias para a Loja de Itens por 1.200 V-Bucks até 10 de novembro! 🐈⛩️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzh2jsqnwc2l\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigejjzoxaktuocjbeitusd7ppvig6twr7wquaz3bt5ai5tq5wzwq4",
-  "tag": "Filtración",
-  "ts": "2026-11-04T00:05:02+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T14:19:49+00:00";
+window.NEWS_UPDATED = "2026-11-13T18:07:50+00:00";
