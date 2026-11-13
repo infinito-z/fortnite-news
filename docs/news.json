@@ -1,5 +1,14 @@
 [
  {
+  "id": "shop:df2a2b09b99956c1",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 68 novedades. Lo más fuerte:\n• Lote de Lil Uzi Vert — 3.200 paVos\n• Lote de Jason — 2.500 paVos\n• Rivian R1S — 2.000 paVos\n• Aracne — 2.000 paVos\n• Lil Uzi Vert de gira — 1.500 paVos\n• Chaqueta orejuda — 1.500 paVos\n…y 62 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d561e5f2b0adcf56/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-13T00:01:33+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25lib3p5c2r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigzzeqzkod5gzymbbyj5hryla463lvh34c2jqbdodjdf362bos2oy",
   "tag": "Filtración",
   "ts": "2026-11-03T00:04:52+00:00"
- },
- {
-  "id": "cosmetic-batch:598c860883",
-  "kind": "cosmetic",
-  "title": "7 cosméticos nuevos",
-  "text": "🔥 7 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Crocs Echo Clog \"Black\", Air Jordan 11 Retro OG \"Space Jam\", Vans x Lil Uzi Vert LX Old Skool 36, Kappa kappas, Pantuflas de Nemia, A$AP ROCKY X PUMA Straycat V6 \"Red Flash/Black\". Tu billetera ya lloró 💸😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/shoes_charmquake/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-11-03T00:01:55+00:00"
  }
 ]
