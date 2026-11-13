@@ -1804,7 +1804,9 @@
   "cosmetic:EID_LocketSnug",
   "cosmetic:Pickaxe_LocketSnug",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275rsgsq22f",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275rsgsq22f"
  ],
  "first_run": false,
  "seeded": [
@@ -1882,6 +1884,19 @@
    },
    "tries": 2,
    "at": 1794578749.088325
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275rsgsq22f",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n👒 FORTNITE x ISHOWSPEED — Primeira visão dos cosméticos do Pirata Speedy no jogo. Na Loja nesta noite (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n275rsgsq22f\n⚠️ No es oficial.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-13T14:07:13+00:00"
+   },
+   "tries": 1,
+   "at": 1794578834.4441895
   }
  ],
  "epic_fp": {
