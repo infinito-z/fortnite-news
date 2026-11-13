@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25ojnbsn22p",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nBet it goes like this! O novo Gesto Série Ícones \"PINKY UP\" com a música de mesmo nome de KATSEYE chegou à Loja do Fortnite até 18 de novembro! 🤙🌹\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25ojnbsn22p\n⚠️ No es oficial.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-13T00:03:53+00:00"
+ },
+ {
   "id": "cosmetic-batch:a85f5853c5",
   "kind": "cosmetic",
   "title": "8 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigfxhu6uqq453ttitf4qjlkyziclcovh4ynqyormx4otu3jxshpfy",
   "tag": "Filtración",
   "ts": "2026-11-03T00:04:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek2vfyrs2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nPara sobreviver à guerra, você tem que se tornar a guerra. John Rambo e seus acessórios vencem todas as batalhas na Loja do Fortnite até 07 de novembro! 💥🗡️\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek2vfyrs2e\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihd7rxidlz34jnolc744lkwgcrsbnhdyidxiz5vjn5itaun7g3f5q",
-  "tag": "Filtración",
-  "ts": "2026-11-03T00:04:52+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T00:01:38+00:00";
+window.NEWS_UPDATED = "2026-11-13T00:03:53+00:00";
