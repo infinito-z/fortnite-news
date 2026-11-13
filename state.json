@@ -1794,7 +1794,15 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25q3s6pjs2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25q3s6pjs2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n26zubs6rs2x",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n26zubs6rs2x"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n26zubs6rs2x",
+  "cosmetic:Backpack_LocketSnug",
+  "cosmetic:Character_LocketSnug",
+  "cosmetic:EID_LocketSnug",
+  "cosmetic:Pickaxe_LocketSnug",
+  "cosmetic:Backpack_LocketSnug",
+  "cosmetic:Character_LocketSnug",
+  "cosmetic:EID_LocketSnug",
+  "cosmetic:Pickaxe_LocketSnug"
  ],
  "first_run": false,
  "seeded": [
@@ -1807,7 +1815,60 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic:Backpack_LocketSnug",
+    "kind": "cosmetic",
+    "title": "Accesorio mochilero: Moneda de IShowSpeed",
+    "text": "🔥 Nuevo en los archivos: Moneda de IShowSpeed (Serie de ídolos). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_locketsnug/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-13T14:02:33+00:00"
+   },
+   "tries": 1,
+   "at": 1794578553.51447
+  },
+  {
+   "item": {
+    "id": "cosmetic:Character_LocketSnug",
+    "kind": "cosmetic",
+    "title": "Traje: TBD",
+    "text": "🔥 Nuevo en los archivos: TBD (Serie de ídolos). Billetera, prepárate 💸",
+    "image": "https://fortnite-api.com/images/cosmetics/br/character_locketsnug/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-13T14:02:33+00:00"
+   },
+   "tries": 1,
+   "at": 1794578553.51447
+  },
+  {
+   "item": {
+    "id": "cosmetic:EID_LocketSnug",
+    "kind": "cosmetic",
+    "title": "Gesto: Salto mortal de iShowSpeed",
+    "text": "👀 Se filtró Salto mortal de iShowSpeed (Serie de ídolos). Que alguien avise a mi tarjeta 😭",
+    "image": "https://fortnite-api.com/images/cosmetics/br/eid_locketsnug/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-13T14:02:33+00:00"
+   },
+   "tries": 1,
+   "at": 1794578553.51447
+  },
+  {
+   "item": {
+    "id": "cosmetic:Pickaxe_LocketSnug",
+    "kind": "cosmetic",
+    "title": "Pico: Espada pirata de IShowSpeed",
+    "text": "⚡ Llegó Espada pirata de IShowSpeed (Serie de ídolos). El que no la compre, no es gamer 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_locketsnug/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-13T14:02:33+00:00"
+   },
+   "tries": 1,
+   "at": 1794578553.51447
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-12T23:01:01.414Z",
   "sections": {

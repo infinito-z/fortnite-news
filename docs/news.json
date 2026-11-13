@@ -1,5 +1,41 @@
 [
  {
+  "id": "cosmetic:Backpack_LocketSnug",
+  "kind": "cosmetic",
+  "title": "Accesorio mochilero: Moneda de IShowSpeed",
+  "text": "🔥 Nuevo en los archivos: Moneda de IShowSpeed (Serie de ídolos). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_locketsnug/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-13T14:02:33+00:00"
+ },
+ {
+  "id": "cosmetic:Character_LocketSnug",
+  "kind": "cosmetic",
+  "title": "Traje: TBD",
+  "text": "🔥 Nuevo en los archivos: TBD (Serie de ídolos). Billetera, prepárate 💸",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_locketsnug/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-13T14:02:33+00:00"
+ },
+ {
+  "id": "cosmetic:EID_LocketSnug",
+  "kind": "cosmetic",
+  "title": "Gesto: Salto mortal de iShowSpeed",
+  "text": "👀 Se filtró Salto mortal de iShowSpeed (Serie de ídolos). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_locketsnug/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-13T14:02:33+00:00"
+ },
+ {
+  "id": "cosmetic:Pickaxe_LocketSnug",
+  "kind": "cosmetic",
+  "title": "Pico: Espada pirata de IShowSpeed",
+  "text": "⚡ Llegó Espada pirata de IShowSpeed (Serie de ídolos). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_locketsnug/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-13T14:02:33+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n26zubs6rs2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1762,41 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreie5g6bmxhq7qo47ykamlfj6dbb4joluptmiekp6lrjgj2z7zrytza",
   "tag": "Filtración",
   "ts": "2026-11-03T20:49:01+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgn6bxmtc26",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n👊 FINALIZE SEUS OPONENTES — EM BREVE!\n\nA mecânica de finalizar oponentes deve chegar em breve ao jogo, talvez no Capítulo 8. Ela será similar a de outros jogos como Call of Duty e Apex Legends, e terá Tarefas e animações especiais!\n\nInfo: x/HYPEX e vixenovaa | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgn6bxmtc26\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfg5plp2cfzahoc66wxcmwpimno32n2j42hzmbarxpdkowcmvo6m",
-  "tag": "Filtración",
-  "ts": "2026-11-03T20:05:37+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzglgvxas22x",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐦‍🔥 FORTNITE x ANGRY BIRDS — EM BREVE!\n\nUma colaboração com Angry Birds 3: O Filme chegará em breve ao Fortnite, pois a logo do jogo foi vista no teaser trailer do filme, e o perfil do Fortnite comentou sobre!\n\nO filme estreia em 1° de janeiro de 2027 no Brasil. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzglgvxas22x\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieonf76jco2fxopukkyo6f62tua7aootmc5pa3mdjijtirya3z3t4",
-  "tag": "Filtración",
-  "ts": "2026-11-03T19:35:00+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzgi5bjvw227",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Fortnite Raiz foi lançado 3 ANOS atrás! 🗺️\n\nA Máquina do Tempo foi ativada, e fomos levados de volta à Ilha do Capítulo 1, onde tudo começou, porém, os acontecimentos não foram os mesmos, e algo parecia diferente. Ele trouxe o Passe Raiz (2023) e a Loja Raiz. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzgi5bjvw227\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-03T18:36:12+00:00"
- },
- {
-  "id": "news:4b20333a374ca9151058fae60b0b1309",
-  "kind": "news",
-  "title": "Ala delta Going Merry",
-  "text": "👀 Epic acaba de soltar esto: Ala delta Going Merry\n¡Navega hacia la victoria y traza tu propio rumbo con el ala delta Going Merry!",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/0bc1963f68844b509dbc4bbab42017ef.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-03T18:30:38+00:00"
  }
 ]
