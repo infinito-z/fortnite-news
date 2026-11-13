@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n26zubs6rs2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚨 VEM AÍ! O Capitão X foi exibido rapidamente no The Streamer Awards nesta madrugada e informou que irá revelar a sua identidade em 05 de dezembro no Evento Final do Capítulo 7!\n\nA comunidade teoriza que ele será uma celebridade. Palpites?! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n26zubs6rs2x\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicp34nl4jd2zvdbvjj2rd5zcwzzwwas2phbfv2yllgl6xoteztevm",
+  "tag": "Filtración",
+  "ts": "2026-11-13T12:57:13+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25q3s6pjs2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/0bc1963f68844b509dbc4bbab42017ef.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-11-03T18:30:38+00:00"
- },
- {
-  "id": "news:50696b824e6abffc7b5dc907211647a7",
-  "kind": "news",
-  "title": "SCALE",
-  "text": "⚡ Ojo, ojo: SCALE\nEmbárcate en un juego de terror de extracción y físicas cooperativo con SCALE, creado por Monki. Busca objetos valiosos, transporta el botín usando la física y sobrevive a monstruos con comportamientos únicos en equipo. Alcanza la cuota y mejora tu equipamiento para seguir avanzando.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/c179e92ae8d943fcab9cb37bc9840525.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-03T18:30:38+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T00:29:19+00:00";
+window.NEWS_UPDATED = "2026-11-13T12:57:14+00:00";
