@@ -1820,6 +1820,19 @@
  "pending": [
   {
    "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👒 FORTNITE x ISHOWSPEED — Todos os cosméticos do Pirata Speedy foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1044 | 11.47 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n275oacqjc2f\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmh3i6eicapxuculvfaskfovhlazoz3vv6442taaz6qnmyfgscye",
+    "tag": "Filtración",
+    "ts": "2026-11-13T14:05:00+00:00"
+   },
+   "tries": 1,
+   "at": 1794578701.031941
+  },
+  {
+   "item": {
     "id": "cosmetic:Backpack_LocketSnug",
     "kind": "cosmetic",
     "title": "Accesorio mochilero: Moneda de IShowSpeed",
@@ -1828,8 +1841,8 @@
     "tag": "Cosmético",
     "ts": "2026-11-13T14:02:33+00:00"
    },
-   "tries": 1,
-   "at": 1794578553.51447
+   "tries": 2,
+   "at": 1794578729.4950411
   },
   {
    "item": {
@@ -1841,8 +1854,8 @@
     "tag": "Cosmético",
     "ts": "2026-11-13T14:02:33+00:00"
    },
-   "tries": 1,
-   "at": 1794578553.51447
+   "tries": 2,
+   "at": 1794578729.4950411
   },
   {
    "item": {
@@ -1854,8 +1867,8 @@
     "tag": "Cosmético",
     "ts": "2026-11-13T14:02:33+00:00"
    },
-   "tries": 1,
-   "at": 1794578553.51447
+   "tries": 2,
+   "at": 1794578729.4950411
   },
   {
    "item": {
@@ -1867,21 +1880,8 @@
     "tag": "Cosmético",
     "ts": "2026-11-13T14:02:33+00:00"
    },
-   "tries": 1,
-   "at": 1794578553.51447
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n275oacqjc2f",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👒 FORTNITE x ISHOWSPEED — Todos os cosméticos do Pirata Speedy foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1044 | 11.47 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n275oacqjc2f\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibmh3i6eicapxuculvfaskfovhlazoz3vv6442taaz6qnmyfgscye",
-    "tag": "Filtración",
-    "ts": "2026-11-13T14:05:00+00:00"
-   },
-   "tries": 1,
-   "at": 1794578701.031941
+   "tries": 2,
+   "at": 1794578729.4950411
   }
  ],
  "epic_fp": {
