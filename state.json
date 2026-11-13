@@ -1823,21 +1823,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n276idw7m22l",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🪩 FORTNITE x HATSUNE MIKU — chegando à Loja em 14 de novembro! #Fortnite\n\n— Pacotão Capitã Hatsune Miku:\n· Traje\n· Mochila\n· Picareta\n· Microfone\n· Gesto\n· Música\n\n💰 Os preços são revelados só no lançamento!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n276idw7m22l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihxzu6bp7ar7by2gquat67cm4pus35zmrzhoyolpzgyczoijxsvja",
-    "tag": "Filtración",
-    "ts": "2026-11-13T14:19:48+00:00"
-   },
-   "tries": 2,
-   "at": 1794579796.0331936
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-12T23:01:01.414Z",
   "sections": {
