@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:a85f5853c5",
+  "kind": "cosmetic",
+  "title": "8 cosméticos nuevos",
+  "text": "👀 Se filtraron 8 cosméticos. Destacan: PINKY UP, Pantuflas de kitsune, Gatuflas gruñonas, Nike Air Force 1 \"Orange/Blue\", Air Jordan 14 Retro \"Yellow/Black\", Bantuflas. Ahorra paVos desde YA 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/eid_handslap/icon.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-13T00:01:38+00:00"
+ },
+ {
   "id": "shop:df2a2b09b99956c1",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihd7rxidlz34jnolc744lkwgcrsbnhdyidxiz5vjn5itaun7g3f5q",
   "tag": "Filtración",
   "ts": "2026-11-03T00:04:52+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzek2mivqc2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSupervisora das Indústrias Endfield. Perlica de Arknights: Endfield traz energia para a Loja do Fortnite por 1.500 V-Bucks até 06 de novembro! ⚡✨\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzek2mivqc2e\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigzzeqzkod5gzymbbyj5hryla463lvh34c2jqbdodjdf362bos2oy",
-  "tag": "Filtración",
-  "ts": "2026-11-03T00:04:52+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T00:01:33+00:00";
+window.NEWS_UPDATED = "2026-11-13T00:01:38+00:00";

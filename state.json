@@ -1771,7 +1771,16 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25lib3p5c2r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25lib3p5c2r",
   "shop:df2a2b09b99956c1",
-  "shop:df2a2b09b99956c1"
+  "shop:df2a2b09b99956c1",
+  "cosmetic:EID_HandSlap",
+  "cosmetic:Shoes_DanderClay",
+  "cosmetic:Shoes_LethalFluff",
+  "cosmetic:Shoes_ManaStride",
+  "cosmetic:Shoes_PurityJadeAloe",
+  "cosmetic:Shoes_PurityJadeYen",
+  "cosmetic:Shoes_RunnerNova",
+  "cosmetic:Shoes_UserSigil",
+  "cosmetic-batch:a85f5853c5"
  ],
  "first_run": false,
  "seeded": [
@@ -1797,6 +1806,19 @@
    },
    "tries": 1,
    "at": 1794528093.8904235
+  },
+  {
+   "item": {
+    "id": "cosmetic-batch:a85f5853c5",
+    "kind": "cosmetic",
+    "title": "8 cosméticos nuevos",
+    "text": "👀 Se filtraron 8 cosméticos. Destacan: PINKY UP, Pantuflas de kitsune, Gatuflas gruñonas, Nike Air Force 1 \"Orange/Blue\", Air Jordan 14 Retro \"Yellow/Black\", Bantuflas. Ahorra paVos desde YA 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/eid_handslap/icon.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-13T00:01:38+00:00"
+   },
+   "tries": 1,
+   "at": 1794528098.5992675
   }
  ],
  "epic_fp": {
