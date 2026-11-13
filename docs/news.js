@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nÉ melhor correr para escapar do maníaco supremo. Jason Voorhees e seus acessórios de Sexta-feira 13 acabam com a festa na Loja do Fortnite até 15 de novembro! 🔪🔥\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n25oxmtnhk2k\n⚠️ No es oficial.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihr23fjooc5whdxt4tjgduskboqsdho3cndhdelgtqr3gkornmxeq",
   "tag": "Filtración",
-  "ts": "2026-11-13T00:09:35+00:00"
+  "ts": "2026-11-13T00:09:40+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n25owl4ztk2k",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-03T00:09:23+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-13T00:09:36+00:00";
+window.NEWS_UPDATED = "2026-11-13T00:09:41+00:00";
