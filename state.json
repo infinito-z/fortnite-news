@@ -1857,34 +1857,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bofcmsrk2t",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Primeira visão dos cosméticos da Capitã Hatsune Miku no jogo. Na Loja nesta noite (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bofcmsrk2t\n⚠️ No es oficial.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-14T14:09:30+00:00"
-   },
-   "tries": 2,
-   "at": 1794665529.3424299
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bodsw3ck2t",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Todos os cosméticos da Capitã Hatsune Miku foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1040 | 12.4 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bodsw3ck2t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihgumcrems56tv2afirczlu62fh5a4qkilflyugixmgqdpbjicr24",
-    "tag": "Filtración",
-    "ts": "2026-11-14T14:09:30+00:00"
-   },
-   "tries": 2,
-   "at": 1794665529.3424299
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-13T23:30:00.432Z",
   "sections": {
