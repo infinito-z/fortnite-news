@@ -1873,21 +1873,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "epic:emergencynoticev2:4dc9549c88af",
-    "kind": "epic",
-    "title": "Epic actualizó: aviso de emergencia",
-    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Matchmaking Issues — Matchmaking is currently experiencing issues and we are working to resolve them.",
-    "image": null,
-    "tag": "Epic",
-    "ts": "2026-11-14T19:37:06+00:00"
-   },
-   "tries": 2,
-   "at": 1794685231.244354
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-14T19:36:20.785Z",
   "sections": {
