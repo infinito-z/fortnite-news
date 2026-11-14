@@ -1865,21 +1865,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bzlhwjrk2o",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🏠 TEASER — FORTNITE x HELLO NEIGHBOR\n\nA colaboração com Hello Neighbor especulada há alguns meses chegará em breve ao Fortnite, como parte do programa de brindes da Epic Games Store! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bzlhwjrk2o\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiaajevsgursxnkh4n6ytb35k2zjqckpd4zqghzblyx7p6wuh2ug3q",
-    "tag": "Filtración",
-    "ts": "2026-11-14T17:30:07+00:00"
-   },
-   "tries": 2,
-   "at": 1794677570.116475
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-13T23:30:00.432Z",
   "sections": {
