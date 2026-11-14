@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "epic:emergencynoticev2:4dc9549c88af",
+  "kind": "epic",
+  "title": "Epic actualizó: aviso de emergencia",
+  "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Matchmaking Issues — Matchmaking is currently experiencing issues and we are working to resolve them.",
+  "image": null,
+  "tag": "Epic",
+  "ts": "2026-11-14T19:37:06+00:00"
+ },
+ {
   "id": "epic:emergencynoticev2:f3cb30a377fd",
   "kind": "epic",
   "title": "Epic actualizó: aviso de emergencia",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicgrdkzzcd66oh4eew5slyddlxb2v2popxi55767szp4in7ttinay",
   "tag": "Filtración",
   "ts": "2026-11-04T23:22:19+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjilv23fk2c",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🎀 FORTNITE x KASANE TETO — A Kasane Teto está confirmada para ser a Ícone Destaque do próximo Passe Musical do Fortnite!\n\nEla chega em 12 de novembro e o blog da temporada já foi atualizado para refletir essa novidade! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjilv23fk2c\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibkgvijohzklhwrmi2ffvb7ku5r74awmbxgw23f63rpni3popavh4",
-  "tag": "Filtración",
-  "ts": "2026-11-04T23:21:44+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T19:22:13+00:00";
+window.NEWS_UPDATED = "2026-11-14T19:37:06+00:00";

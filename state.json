@@ -1858,7 +1858,9 @@
   "news:56d8d8a51b3196da3f7c37103721fcc4",
   "news:56d8d8a51b3196da3f7c37103721fcc4",
   "epic:emergencynoticev2:f3cb30a377fd",
-  "epic:emergencynoticev2:f3cb30a377fd"
+  "epic:emergencynoticev2:f3cb30a377fd",
+  "epic:emergencynoticev2:4dc9549c88af",
+  "epic:emergencynoticev2:4dc9549c88af"
  ],
  "first_run": false,
  "seeded": [
@@ -1871,11 +1873,25 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "epic:emergencynoticev2:4dc9549c88af",
+    "kind": "epic",
+    "title": "Epic actualizó: aviso de emergencia",
+    "text": "🛰️ Epic actualizó «aviso de emergencia» en el servidor de contenido del juego.\n• Matchmaking Issues — Matchmaking is currently experiencing issues and we are working to resolve them.",
+    "image": null,
+    "tag": "Epic",
+    "ts": "2026-11-14T19:37:06+00:00"
+   },
+   "tries": 1,
+   "at": 1794685026.3605394
+  }
+ ],
  "epic_fp": {
-  "lastModified": "2026-11-14T19:21:46.848Z",
+  "lastModified": "2026-11-14T19:36:20.785Z",
   "sections": {
-   "emergencynoticev2": "f3cb30a377fd613c52bea2fcf7f16358",
+   "emergencynoticev2": "4dc9549c88af60b786894157594773ce",
    "dynamicbackgrounds": "e512ef5a32ce08685457c14b67e9cca7",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
@@ -1883,7 +1899,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
