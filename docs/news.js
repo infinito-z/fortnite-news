@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bov3fdn22i",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Pacotão Capitã Hatsune Miku que chega à Loja do Fortnite nesta noite (preço desconhecido).\n\nInclui Traje, Mochila, Picareta, Instrumento, Gesto e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bov3fdn22i\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif42xjz23ydlklbv36topkxzpaallla7sczcfdx24h5utftb2djvu",
+  "tag": "Filtración",
+  "ts": "2026-11-14T14:18:39+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2booq6htk2l",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-04T21:45:04+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjbi5qstc2a",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🚫 NÃO VEM! O Fortnite negou publicamente sobre estar trabalhando em uma nova mecânica de finalizações de oponentes para o jogo.\n\nAo que parece, isso foi uma má leitura dos arquivos e eles seriam para uma outra funcionalidade. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjbi5qstc2a\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihpwqd7y44ym5g7cwk2myjvlrowmpcgesksasp3ja5ps6prisg62i",
-  "tag": "Filtración",
-  "ts": "2026-11-04T21:14:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T14:15:40+00:00";
+window.NEWS_UPDATED = "2026-11-14T14:18:40+00:00";
