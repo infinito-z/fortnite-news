@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Epic acaba de soltar esto: Variantes de espíritus malditos - 14 de noviembre\n¡Cuidado con la marea maldita de 20:00 a 22:00 CEST y de 03:00 a 05:00 CEST! Lánzate con el Lil uzi de Lil Uzi Vert y un objeto de autorreanimación, y busca más variantes de espíritus malditos por la isla.",
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/67a01e4e513649acb740d4b3bbc631db.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
-  "ts": "2026-11-14T19:02:48+00:00"
+  "ts": "2026-11-14T19:02:10+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2c6pxomrs22",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-04T23:21:44+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T19:02:48+00:00";
+window.NEWS_UPDATED = "2026-11-14T19:02:10+00:00";
