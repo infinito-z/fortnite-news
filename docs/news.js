@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bodsw3ck2t",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Todos os cosméticos da Capitã Hatsune Miku foram descriptografados e chegam à Loja nesta noite (preços desconhecidos).\n\n📁 Pak1040 | 12.4 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bodsw3ck2t\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihgumcrems56tv2afirczlu62fh5a4qkilflyugixmgqdpbjicr24",
+  "tag": "Filtración",
+  "ts": "2026-11-14T14:09:03+00:00"
+ },
+ {
   "id": "cosmetic-batch:fb65bbfeb6",
   "kind": "cosmetic",
   "title": "7 cosméticos nuevos",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
   "tag": "Estado",
   "ts": "2026-11-04T19:13:35+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzip7zdpif25",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n✅ BÔNUS — Todos os estilos Legado do Clube serão entregues aos jogadores que possuem os respectivos Trajes em 05 de dezembro com as novas mudanças. \n\nSendo assim, após a descontinuação dos Trajes você não precisará mais assinar para coletar o restante dos estilos. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzip7zdpif25\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibuptybjdvs2apnnjc5e67bcxs2j7c4wmymxgdut2tee2huugg64i",
-  "tag": "Filtración",
-  "ts": "2026-11-04T15:48:09+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T14:02:27+00:00";
+window.NEWS_UPDATED = "2026-11-14T14:09:03+00:00";
