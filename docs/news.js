@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cc6hmwe22a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Fortnite: Caçadores de Tesouro | #Fortnite\n\n🔥 Progressão: 37%\n📅 Dias restantes: 21\n🔹Nível estimado: 24 (para o 60)\n🔸Nível estimado: 30 (para o 80)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cc6hmwe22a\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidwjsf62w6et4h7urwlr45oh7qrcrge3asl3h3zfrd6irv34lqeiu",
+  "tag": "Filtración",
+  "ts": "2026-11-14T20:03:51+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cbtjbye22a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/eid_shutterspeed/icon.png",
   "tag": "Cosmético",
   "ts": "2026-11-05T00:00:28+00:00"
- },
- {
-  "id": "shop:8da148e9f831e001",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "🛒 TIENDA NUEVA: 51 novedades. Lo más fuerte:\n• Lote de Guardianes de la Tierra — 2.800 paVos\n• Lote de Urgencia hospitalaria — 2.200 paVos\n• Lote de Allen el alien — 2.000 paVos\n• Lote de equipamiento de Guardianes de la Tierra — 1.800 paVos\n• Invencible — 1.500 paVos\n• Lote de Kado Thorne de la Élite — 1.500 paVos\n…y 45 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/851e9778b6f2fc39/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-11-05T00:00:25+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T19:57:08+00:00";
+window.NEWS_UPDATED = "2026-11-14T20:03:52+00:00";
