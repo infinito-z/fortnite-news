@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bv4sanz22v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🪩 FORTNITE x HATSUNE MIKU — Música chegando à Loja nesta noite! #Fortnite\n\n· CONNECT:COMMUNE — FLAVOR FOLEY (feat. Hatsune Miku)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2bv4sanz22v\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifaromkzo4bp45x2hq3kns5ttfhfdfspkc3ytjp7zztuquqh4wvay",
+  "tag": "Filtración",
+  "ts": "2026-11-14T16:09:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bov3fdn22i",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifdaewoalzq7mv5d7cg4q34x3zvuh2k5bkwm24qgzf7ocsqt6tq6y",
   "tag": "Filtración",
   "ts": "2026-11-04T22:01:05+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjd6shvb224",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ LOJA DO FORTNITE NOS PRÓXIMOS DIAS! #Fortnite\n\n· 05/11 — A$AP Rocky\n· 06/11 — Nemia, Presidente da Classe\n· 07/11 — Zoro, Sanji e Chopper (One Piece)\n· 07/11 — Bugatti Centodieci\n· 09/11 — Mascote AIBO (Sony)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjd6shvb224\n⚠️ No es oficial.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-04T21:45:04+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T14:19:03+00:00";
+window.NEWS_UPDATED = "2026-11-14T16:09:56+00:00";
