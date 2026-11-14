@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:0c1bc82ea8fde310",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 16 cosas nuevas:\n• Volkswagen Golf GTI — 2.000 paVos\n• Lote Speedy pirata — 1.800 paVos\n• Buggy — 1.600 paVos\n• Sabueso — 1.500 paVos\n• Batalla — 1.200 paVos\n• Ala partida — 1.200 paVos\n…y 10 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d8b01bb813dab09a/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-14T00:02:26+00:00"
+ },
+ {
   "id": "news:d22f6e347ac5e1d4440544eb36de049e",
   "kind": "news",
   "title": "Ya disponible: One Piece: Copa de Buggy",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiay5vccga5d75omt5omr4n7xq5ujvstqxz57j7s3jokxoit2zzi44",
   "tag": "Filtración",
   "ts": "2026-11-04T14:39:06+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzikfttu322t",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — chegando à Loja em 05 de novembro! #Fortnite\n\n— Pacotão A$AP Rocky:\n· 2 Trajes\n· 2 Mochilas\n· 1 Picareta\n· 1 Microfone\n· 2 Gestos\n· 1 Envelopamento\n· 1 Asa-delta\n· 2 Calçados\n\n— Pacotão Músicas do A$AP Rocky:\n· 3 Músicas\n\n💰 Os preços são desconhecidos!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzikfttu322t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreig2dvgxgsbxcdjbd3jo54gqtzs4xtfl5fxcoovdoollicujocvjji",
-  "tag": "Filtración",
-  "ts": "2026-11-04T14:21:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T00:01:32+00:00";
+window.NEWS_UPDATED = "2026-11-14T00:02:26+00:00";

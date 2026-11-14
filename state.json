@@ -1822,7 +1822,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6bzx6tk2b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2a6brvfss2b",
   "news:d22f6e347ac5e1d4440544eb36de049e",
-  "news:d22f6e347ac5e1d4440544eb36de049e"
+  "news:d22f6e347ac5e1d4440544eb36de049e",
+  "shop:0c1bc82ea8fde310",
+  "shop:0c1bc82ea8fde310"
  ],
  "first_run": false,
  "seeded": [
@@ -1848,6 +1850,19 @@
    },
    "tries": 1,
    "at": 1794614492.8469522
+  },
+  {
+   "item": {
+    "id": "shop:0c1bc82ea8fde310",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 16 cosas nuevas:\n• Volkswagen Golf GTI — 2.000 paVos\n• Lote Speedy pirata — 1.800 paVos\n• Buggy — 1.600 paVos\n• Sabueso — 1.500 paVos\n• Batalla — 1.200 paVos\n• Ala partida — 1.200 paVos\n…y 10 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d8b01bb813dab09a/renderimage_0.png",
+    "tag": "Tienda",
+    "ts": "2026-11-14T00:02:26+00:00"
+   },
+   "tries": 1,
+   "at": 1794614546.963247
   }
  ],
  "epic_fp": {
