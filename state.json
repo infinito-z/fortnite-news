@@ -1832,7 +1832,15 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa42ikh22r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3sa5j22r",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3e4u422r",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa2tp5tk2r"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa2tp5tk2r",
+  "cosmetic:Backpack_FledGravelReward",
+  "cosmetic:Backpack_PeonyPizza",
+  "cosmetic:Backpack_PeonyPizza_Mic",
+  "cosmetic:EID_PeonyPizza",
+  "cosmetic:Pickaxe_PeonyPizza",
+  "cosmetic:Pickaxe_PeonyPizza_Mic",
+  "cosmetic:Sparks_PeonyPizza_Mic",
+  "cosmetic-batch:fb65bbfeb6"
  ],
  "first_run": false,
  "seeded": [
@@ -1845,7 +1853,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "cosmetic-batch:fb65bbfeb6",
+    "kind": "cosmetic",
+    "title": "7 cosméticos nuevos",
+    "text": "👀 Se filtraron 7 cosméticos. Destacan: Tesoro de Miku, Voz de Miku, Miku Miku ni Shite Ageru♪, Flotador de ancla de Miku, Voz de Miku, Voz de Miku. Ahorra paVos desde YA 🗿",
+    "image": "https://fortnite-api.com/images/cosmetics/br/backpack_peonypizza/featured.png",
+    "tag": "Cosmético",
+    "ts": "2026-11-14T14:02:27+00:00"
+   },
+   "tries": 1,
+   "at": 1794664947.9613485
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-13T23:30:00.432Z",
   "sections": {
