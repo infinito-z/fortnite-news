@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 INSANO! O Fortnite registrou 9.5 MILHÕES de jogadores simultâneos online durante as Horas do Poder Amaldiçoadas do Fortnite: Caçadores de Tesouro!\n\nDesse número, 6.4 MILHÕES estavam jogando o Battle Royale. A busca pelo Token é interminável! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cmc45eo22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiazh6ksoaxbwxsyy5662liuekoden2hhy4szn2znt6z2n66g25gpe",
+  "tag": "Filtración",
+  "ts": "2026-11-14T23:04:17+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif675bd4t23w7yxoabakgua4qvf2n7zp2mvdzoqfy5ql7pfmbatuu",
   "tag": "Filtración",
   "ts": "2026-11-05T00:08:49+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjktgsbec2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nAbra para ver a luz. O novo Gesto Série Ícones \"Abertura\" com a música \"Aperture\" de Harry Styles chegou à Loja do Fortnite até 08 de novembro! ✨\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjktgsbec2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-05T00:03:47+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T23:01:15+00:00";
+window.NEWS_UPDATED = "2026-11-14T23:04:18+00:00";

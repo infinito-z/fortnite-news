@@ -1866,7 +1866,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cc6hmwe22a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cc6hmwe22a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b"
  ],
  "first_run": false,
  "seeded": [
@@ -1892,6 +1894,19 @@
    },
    "tries": 2,
    "at": 1794697439.534444
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 INSANO! O Fortnite registrou 9.5 MILHÕES de jogadores simultâneos online durante as Horas do Poder Amaldiçoadas do Fortnite: Caçadores de Tesouro!\n\nDesse número, 6.4 MILHÕES estavam jogando o Battle Royale. A busca pelo Token é interminável! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cmc45eo22b\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiazh6ksoaxbwxsyy5662liuekoden2hhy4szn2znt6z2n66g25gpe",
+    "tag": "Filtración",
+    "ts": "2026-11-14T23:04:17+00:00"
+   },
+   "tries": 1,
+   "at": 1794697458.168021
   }
  ],
  "epic_fp": {
