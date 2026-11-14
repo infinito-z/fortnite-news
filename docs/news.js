@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Hatsune Miku (4x)\n· Pegue Seus Calçados (3x)\n· Festa da Vitória [Gestos] (2x)\n· Circuito do Hype (2x)\n· Energia de Protagonista (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cm3q4lrc2n\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiemxoaltngbdtlmdxwjksjbdcdhh6cjfpkdchjq5o44nnpvajlt4a",
+  "tag": "Filtración",
+  "ts": "2026-11-14T23:01:14+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cc6hmwe22a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": null,
   "tag": "Filtración",
   "ts": "2026-11-05T00:03:47+00:00"
- },
- {
-  "id": "cosmetic:EID_ShutterSpeed",
-  "kind": "cosmetic",
-  "title": "Gesto: Apertura",
-  "text": "👀 Se filtró Apertura (Serie de ídolos). Que alguien avise a mi tarjeta 😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/eid_shutterspeed/icon.png",
-  "tag": "Cosmético",
-  "ts": "2026-11-05T00:00:28+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T20:03:52+00:00";
+window.NEWS_UPDATED = "2026-11-14T23:01:15+00:00";
