@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2c6pxomrs22",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n👻 Horas do Poder Amaldiçoadas I agora no Battle Royale do Fortnite: Caçadores de Tesouro até 18h BRT! #Fortnite\n\n· Mini SMG de Lil Uzi Vert e Autorreviver para todos\n· Elementais Amaldiçoados são mais comuns\n· Buff no Token Pirata, Traje Dourado e Chassi e mais\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2c6pxomrs22\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihxmxjhwjrb52ccju7xhqvjwtkt7tfbjjpsf6ww5pwmgbuqcv24ge",
+  "tag": "Filtración",
+  "ts": "2026-11-14T19:02:05+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bzlhwjrk2o",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid5kzt2ovp72yjnpawjmordflcvcexhqsbvw46cfgepqxo4hakaoy",
   "tag": "Filtración",
   "ts": "2026-11-04T22:01:43+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzje3np6ys2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 A Bugatti Centodieci finalmente será lançada na Loja do Fortnite neste sábado, 07 de novembro! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzje3np6ys2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihleu4f3sk6vfmt3nbqpkc3e73654bkxmb5kvbmmvzksxiw5wb7e4",
-  "tag": "Filtración",
-  "ts": "2026-11-04T22:01:05+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T17:30:08+00:00";
+window.NEWS_UPDATED = "2026-11-14T19:02:07+00:00";
