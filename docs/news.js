@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🏴‍☠️ FORTNITE x HATSUNE MIKU — Pacotão Capitã Hatsune Miku que chega à Loja do Fortnite nesta noite (preço desconhecido).\n\nInclui Traje, Mochila, Picareta, Instrumento, Gesto e mais! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2booq6htk2l\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifajamfjyofcsk5a66e3i3b63bym6w6u2trglxihjcvxd65nsdrrq",
   "tag": "Filtración",
-  "ts": "2026-11-14T14:15:13+00:00"
+  "ts": "2026-11-14T14:15:39+00:00"
  },
  {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2bofcmsrk2t",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-04T21:14:18+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T14:15:14+00:00";
+window.NEWS_UPDATED = "2026-11-14T14:15:40+00:00";
