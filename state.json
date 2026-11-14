@@ -1824,7 +1824,15 @@
   "news:d22f6e347ac5e1d4440544eb36de049e",
   "news:d22f6e347ac5e1d4440544eb36de049e",
   "shop:0c1bc82ea8fde310",
-  "shop:0c1bc82ea8fde310"
+  "shop:0c1bc82ea8fde310",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa42ikh22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3sa5j22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3e4u422r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa2tp5tk2r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa42ikh22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3sa5j22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3e4u422r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa2tp5tk2r"
  ],
  "first_run": false,
  "seeded": [
@@ -1837,7 +1845,60 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa42ikh22r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA gangue tá completa! Viva a magia do mundo dos piratas com Luffy, Nami, Usopp, Zoro, Sanji, Chopper e Buggy de One Piece que embarcam na Loja do Fortnite até 05 de dezembro! 🏴‍☠️👒🔥\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2aa42ikh22r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihbwl2epwswgjvaswvs5wi3vva77mcqfdwkosnda6v6t2jcwb76ty",
+    "tag": "Filtración",
+    "ts": "2026-11-14T00:25:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794615953.2277744
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3sa5j22r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nRelíquia, potência e estilo. O Chassi Volkswagen Golf II GTI embarca em altas aventuras na Loja do Fortnite por 2.000 V-Bucks até 23 de novembro! 🔥💨\n\n🧡 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2aa3sa5j22r\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicfvbiqefdh2kiwd23qagwu7t7ijlgiwk3jaxzeeql67tmjs6muuy",
+    "tag": "Filtración",
+    "ts": "2026-11-14T00:25:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794615953.2277744
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa3e4u422r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO presidente chamativo da Cross Guild. Buggy e seus acessórios de One Piece trazem o caos para a Loja do Fortnite até 05 de dezembro! 🤡🏴‍☠️\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2aa3e4u422r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidfq27llkix3mjmuyiufzm5pknkvfpkutv45ausnlcw5gsvjyth4y",
+    "tag": "Filtración",
+    "ts": "2026-11-14T00:25:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794615953.2277744
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2aa2tp5tk2r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nMe dá isso! O Pirata Speedy e seus acessórios Série Ícones de iShowSpeed caçam os tesouros na Loja do Fortnite até 20 de novembro! 🏴‍☠️👒\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2aa2tp5tk2r\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidkldlxoy5rghqe25q6di67anwo6zl663qzedikp7gk5nc2kvwfwy",
+    "tag": "Filtración",
+    "ts": "2026-11-14T00:25:44+00:00"
+   },
+   "tries": 1,
+   "at": 1794615953.2277744
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-13T23:30:00.432Z",
   "sections": {
