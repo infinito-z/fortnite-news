@@ -1875,9 +1875,9 @@
  ],
  "pending": [],
  "epic_fp": {
-  "lastModified": "2026-11-14T19:36:20.785Z",
+  "lastModified": "2026-11-14T19:44:49.571Z",
   "sections": {
-   "emergencynoticev2": "4dc9549c88af60b786894157594773ce",
+   "emergencynoticev2": "3beee393ad28ec6985553e73f5193f8c",
    "dynamicbackgrounds": "e512ef5a32ce08685457c14b67e9cca7",
    "lobby": "1b184eafbe9f1dda4586c7e030376514",
    "loginmessage": "bb9f7746467f425a4a3617564b13475c",
@@ -1885,7 +1885,7 @@
   },
   "flaps": {
    "emergencynoticev2": {
-    "n": 0,
+    "n": 1,
     "mute_until": 0
    },
    "dynamicbackgrounds": {
