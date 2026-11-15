@@ -1,5 +1,23 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cpq6nasc2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 20 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cpq6nasc2v\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih2ypik5hxb23upkj4dxnmng2dsijivg4v6geqc34fandirhcvh2e",
+  "tag": "Filtración",
+  "ts": "2026-11-15T00:06:05+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cppoyt4s2v",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nTodos a bordo do navio da amizade. A Capitã Hatsune Miku e seus acessórios fazem a festa do alho-poró na Loja do Fortnite até 14 de dezembro! 🪩🧄\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cppoyt4s2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic3lwzbvg5eutf7nqllycvyu2t2rbqcxkt3xtvtswkxpa3dhmj2fy",
+  "tag": "Filtración",
+  "ts": "2026-11-15T00:06:05+00:00"
+ },
+ {
   "id": "shop:42c9b68003d7dbf5",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1780,24 +1798,6 @@ window.NEWS = [
   "image": "https://fortnite-api.com/images/cosmetics/br/backpack_tonicmailweb/featured.png",
   "tag": "Cosmético",
   "ts": "2026-11-05T14:02:21+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlb4oylk2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSempre em busca de novas aventuras e desafios incríveis! Invencível, Omni-Man, Eve Atômica, Dupli-Kate e Allen, o Alien da série Invencível estão de volta à Loja do Fortnite até 08 de novembro! 🌎⭐\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjlb4oylk2h\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihqn3pkz5vlh4l7ndk3jhfmylbzopdflnes5j2xguwzuo44k4upoa",
-  "tag": "Filtración",
-  "ts": "2026-11-05T00:09:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjlacfsmk2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nUm membro voraz da Elite, determinado a se tornar o maior de todos. O Kouji Datura de Elite e seus acessórios trazem o caos colecionador para a Loja de Itens até 11 de novembro! 🧛🏆\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjlacfsmk2h\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibjxrcqvmbdif2itrlwky2tysepth4ekb637eew5o63a43zn6ebz4",
-  "tag": "Filtración",
-  "ts": "2026-11-05T00:09:23+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-15T00:00:52+00:00";
+window.NEWS_UPDATED = "2026-11-15T00:06:07+00:00";

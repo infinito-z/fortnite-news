@@ -1870,7 +1870,11 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
   "shop:42c9b68003d7dbf5",
-  "shop:42c9b68003d7dbf5"
+  "shop:42c9b68003d7dbf5",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cpq6nasc2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cppoyt4s2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cpq6nasc2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cppoyt4s2v"
  ],
  "first_run": false,
  "seeded": [
@@ -1896,6 +1900,32 @@
    },
    "tries": 2,
    "at": 1794701008.2007096
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cpq6nasc2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 20 de novembro!🕺🏻🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cpq6nasc2v\n⚠️ No es oficial.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih2ypik5hxb23upkj4dxnmng2dsijivg4v6geqc34fandirhcvh2e",
+    "tag": "Filtración",
+    "ts": "2026-11-15T00:06:05+00:00"
+   },
+   "tries": 1,
+   "at": 1794701167.0378811
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cppoyt4s2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nTodos a bordo do navio da amizade. A Capitã Hatsune Miku e seus acessórios fazem a festa do alho-poró na Loja do Fortnite até 14 de dezembro! 🪩🧄\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2cppoyt4s2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic3lwzbvg5eutf7nqllycvyu2t2rbqcxkt3xtvtswkxpa3dhmj2fy",
+    "tag": "Filtración",
+    "ts": "2026-11-15T00:06:05+00:00"
+   },
+   "tries": 1,
+   "at": 1794701167.0378811
   }
  ],
  "epic_fp": {
