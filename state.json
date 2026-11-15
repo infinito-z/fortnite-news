@@ -1893,47 +1893,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic:Character_FledGravel",
-    "kind": "cosmetic",
-    "title": "Traje: Miku de oro macizo",
-    "text": "👀 Se filtró Miku de oro macizo (Épico). Que alguien avise a mi tarjeta 😭",
-    "image": "https://fortnite-api.com/images/cosmetics/br/character_fledgravel/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-15T13:32:38+00:00"
-   },
-   "tries": 2,
-   "at": 1794749720.0174468
-  },
-  {
-   "item": {
-    "id": "cosmetic:loadingscreen_delilahthw3",
-    "kind": "cosmetic",
-    "title": "Pantalla de carga: Que la fortuna te acompañe",
-    "text": "⚡ Llegó Que la fortuna te acompañe (Poco común). El que no la compre, no es gamer 🗿",
-    "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_delilahthw3/featured.png",
-    "tag": "Cosmético",
-    "ts": "2026-11-15T13:32:38+00:00"
-   },
-   "tries": 2,
-   "at": 1794749720.0174468
-  },
-  {
-   "item": {
-    "id": "cosmetic:CarSkin_EagleTreasureHunt01",
-    "kind": "cosmetic",
-    "title": "Piel: En blanco",
-    "text": "🔥 Nuevo en los archivos: En blanco (Común). Billetera, prepárate 💸",
-    "image": null,
-    "tag": "Cosmético",
-    "ts": "2026-11-15T13:32:38+00:00"
-   },
-   "tries": 2,
-   "at": 1794749720.0174468
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-14T19:44:49.571Z",
   "sections": {
