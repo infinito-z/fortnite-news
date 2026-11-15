@@ -1880,7 +1880,9 @@
   "cosmetic:CarSkin_EagleTreasureHunt01",
   "cosmetic:Character_FledGravel",
   "cosmetic:loadingscreen_delilahthw3",
-  "cosmetic:CarSkin_EagleTreasureHunt01"
+  "cosmetic:CarSkin_EagleTreasureHunt01",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e56gsrss26",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e56gsrss26"
  ],
  "first_run": false,
  "seeded": [
@@ -1893,7 +1895,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e56gsrss26",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🟨 FORTNITE x HATSUNE MIKU — Os cosméticos da Miku Ouro Maciço e o Adesivo do Chevrolet Corvette ZR1 foram descriptografados e estarão disponíveis para encontrar nos Baús de Tesouro a partir das 11h BRT!\n\n📁 Pak1045 | 7.33 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2e56gsrss26\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibfnwr6jghihcitayzovowr4gazmvswyqeilcu2w2hqox26bel5ty",
+    "tag": "Filtración",
+    "ts": "2026-11-15T13:39:22+00:00"
+   },
+   "tries": 1,
+   "at": 1794749963.3314936
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-14T19:44:49.571Z",
   "sections": {
