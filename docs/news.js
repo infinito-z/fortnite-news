@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:42c9b68003d7dbf5",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 25 cosas nuevas:\n• Capitana Hatsune Miku — 2.200 paVos\n• Lote de Mantente a flote — 1.600 paVos\n• Lote de Cyclone de Hatsune Miku — 1.500 paVos\n• Lote de Reina Héspero — 1.300 paVos\n• Nike Air Force 1 \"Berserker\" — 1.200 paVos\n• Ariete radiante — 1.200 paVos\n…y 19 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_peonypizza/featured.png",
+  "tag": "Tienda",
+  "ts": "2026-11-15T00:00:52+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibjxrcqvmbdif2itrlwky2tysepth4ekb637eew5o63a43zn6ebz4",
   "tag": "Filtración",
   "ts": "2026-11-05T00:09:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzjla3dt6c2h",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 08 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzjla3dt6c2h\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreif675bd4t23w7yxoabakgua4qvf2n7zp2mvdzoqfy5ql7pfmbatuu",
-  "tag": "Filtración",
-  "ts": "2026-11-05T00:08:49+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-14T23:04:33+00:00";
+window.NEWS_UPDATED = "2026-11-15T00:00:52+00:00";

@@ -1868,7 +1868,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cm3q4lrc2n",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cmc45eo22b",
+  "shop:42c9b68003d7dbf5",
+  "shop:42c9b68003d7dbf5"
  ],
  "first_run": false,
  "seeded": [
@@ -1881,7 +1883,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "shop:42c9b68003d7dbf5",
+    "kind": "shop",
+    "title": "Tienda del día",
+    "text": "💸 Llegó la tienda con 25 cosas nuevas:\n• Capitana Hatsune Miku — 2.200 paVos\n• Lote de Mantente a flote — 1.600 paVos\n• Lote de Cyclone de Hatsune Miku — 1.500 paVos\n• Lote de Reina Héspero — 1.300 paVos\n• Nike Air Force 1 \"Berserker\" — 1.200 paVos\n• Ariete radiante — 1.200 paVos\n…y 19 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+    "image": "https://fortnite-api.com/images/cosmetics/br/character_peonypizza/featured.png",
+    "tag": "Tienda",
+    "ts": "2026-11-15T00:00:52+00:00"
+   },
+   "tries": 1,
+   "at": 1794700852.775079
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-14T19:44:49.571Z",
   "sections": {
