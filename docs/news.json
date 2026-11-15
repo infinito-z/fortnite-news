@@ -1,5 +1,32 @@
 [
  {
+  "id": "cosmetic:Character_FledGravel",
+  "kind": "cosmetic",
+  "title": "Traje: Miku de oro macizo",
+  "text": "👀 Se filtró Miku de oro macizo (Épico). Que alguien avise a mi tarjeta 😭",
+  "image": "https://fortnite-api.com/images/cosmetics/br/character_fledgravel/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-15T13:32:38+00:00"
+ },
+ {
+  "id": "cosmetic:loadingscreen_delilahthw3",
+  "kind": "cosmetic",
+  "title": "Pantalla de carga: Que la fortuna te acompañe",
+  "text": "⚡ Llegó Que la fortuna te acompañe (Poco común). El que no la compre, no es gamer 🗿",
+  "image": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_delilahthw3/featured.png",
+  "tag": "Cosmético",
+  "ts": "2026-11-15T13:32:38+00:00"
+ },
+ {
+  "id": "cosmetic:CarSkin_EagleTreasureHunt01",
+  "kind": "cosmetic",
+  "title": "Piel: En blanco",
+  "text": "🔥 Nuevo en los archivos: En blanco (Común). Billetera, prepárate 💸",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-11-15T13:32:38+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2cpq6nasc2v",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1771,32 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih6hq4qry2li6ahbjdn7g4rlg44de4ncxvbkpzscinkgmpfm64twu",
   "tag": "Filtración",
   "ts": "2026-11-05T14:28:30+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl2u3xnlc2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — Primeira visão dos cosméticos de A$AP Rocky sendo exibidos no jogo. Na Loja nesta noite (preços desconhecidos).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzl2u3xnlc2p\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-05T14:21:34+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzl2jc2mls2p",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n📀 FORTNITE x A$AP ROCKY — Todos os cosméticos de A$AP Rocky foram descriptografados e chegam à Loja nesta noite. A imagem tá só faltando a Picareta (preços desconhecidos).\n\n📁 Pak1017 | 65.04 MB | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzl2jc2mls2p\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifbj64hfhxj6amskbzcdnnvmohinz556iuhrims7fyhy2pj3gpdnm",
-  "tag": "Filtración",
-  "ts": "2026-11-05T14:15:23+00:00"
- },
- {
-  "id": "cosmetic-batch:9fa94b4056",
-  "kind": "cosmetic",
-  "title": "13 cosméticos nuevos",
-  "text": "🔥 13 COSMÉTICOS NUEVOS en los archivos. Lo mejor: Propulsores de alta fidelidad, Melodía de Rocky, Suministros de Shirthead, A$AP Rocky Shirthead, null, RIOT (Rowdy Pipe'n). Tu billetera ya lloró 💸😭",
-  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_tonicmailweb/featured.png",
-  "tag": "Cosmético",
-  "ts": "2026-11-05T14:02:21+00:00"
  }
 ]
