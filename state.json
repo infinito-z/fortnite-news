@@ -1892,7 +1892,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e6kfkbvs22",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e6l5n4vk22",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e6ksbga222",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e6kfkbvs22"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2e6kfkbvs22",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2essehshc2v",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2essehshc2v"
  ],
  "first_run": false,
  "seeded": [
@@ -1905,7 +1907,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2essehshc2v",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🎾 Naomi Osaka e seus acessórios marcam mais de 1.600 DIAS da sua última aparição na Loja do Fortnite, sendo em 03 de agosto de 2023.\n\nAté o momento, a tenista japonesa não possui uma previsão de retorno. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2essehshc2v\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiemkcpmcojmt3cc5jwna2e6aqb5b6p6fsn7dtdzcpv4oz7wjmoe2e",
+    "tag": "Filtración",
+    "ts": "2026-11-15T20:06:23+00:00"
+   },
+   "tries": 1,
+   "at": 1794773185.0962276
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-15T19:57:43.298Z",
   "sections": {
