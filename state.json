@@ -1933,21 +1933,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hpnaotus2a",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 17 de novembro!\n\n· Naruto (7x)\n· Bruno Mars [algum dos abaixo] (1x)\n· McLaren P1 e Void Burn (2x)\n· Energia de Protagonista (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hpnaotus2a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidalc7eipkmggrg3cwupwiqfbxth4ed4w427y54ngdehjh4o5kn3y",
-    "tag": "Filtración",
-    "ts": "2026-11-16T23:47:59+00:00"
-   },
-   "tries": 2,
-   "at": 1794873033.7723248
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-16T23:30:00.464Z",
   "sections": {
