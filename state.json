@@ -1931,21 +1931,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hm2762222r",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Madison Beer (4x)\n· Kaiju No. 8 (2x)\n· A Odisseia (2x)\n· Só no Gingado [Gestos] (2x)\n· Pegue Seus Calçados (3x)\n· Nem Suei (2x)\n· Circuito do Hype (1x)\n· Energia de Protagonista [Verão de Alto Risco] (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hm2762222r\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjyw6n7f4ncqr4u3lvaupbxclze3fofilj6t7amjxrd27htcwzpy",
-    "tag": "Filtración",
-    "ts": "2026-11-16T22:43:46+00:00"
-   },
-   "tries": 2,
-   "at": 1794869170.7005222
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-16T18:48:54.755Z",
   "sections": {
