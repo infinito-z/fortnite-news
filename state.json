@@ -1925,21 +1925,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "news:7011deec12cb77fd885b94cf87ab1b0a",
-    "kind": "news",
-    "title": "Más polvo de espíritu y PE",
-    "text": "👀 Epic acaba de soltar esto: Más polvo de espíritu y PE\n¡Te espera un montón de pillaje! Doble de polvo de espíritu y PE, además de mayores probabilidades de encontrar cofres de espíritu y carteles de Se busca espíritus.",
-    "image": "https://cdn-live.prm.ol.epicgames.com/prod/e9be3c78e6b8437aba288ba1c78a9418.jpeg?width=1024&height=1080&aspect=fill",
-    "tag": "Noticia",
-    "ts": "2026-11-16T17:10:29+00:00"
-   },
-   "tries": 2,
-   "at": 1794849192.3102205
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-15T22:03:16.981Z",
   "sections": {
