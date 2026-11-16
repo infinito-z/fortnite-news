@@ -1,5 +1,14 @@
 [
  {
+  "id": "news:7011deec12cb77fd885b94cf87ab1b0a",
+  "kind": "news",
+  "title": "Más polvo de espíritu y PE",
+  "text": "👀 Epic acaba de soltar esto: Más polvo de espíritu y PE\n¡Te espera un montón de pillaje! Doble de polvo de espíritu y PE, además de mayores probabilidades de encontrar cofres de espíritu y carteles de Se busca espíritus.",
+  "image": "https://cdn-live.prm.ol.epicgames.com/prod/e9be3c78e6b8437aba288ba1c78a9418.jpeg?width=1024&height=1080&aspect=fill",
+  "tag": "Noticia",
+  "ts": "2026-11-16T17:10:29+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2gxq5cdos24",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiawxkjkqxhkbhkd4eqsd4g6wsonbgimaomrw7ru2kvlmrkabjw2ly",
   "tag": "Filtración",
   "ts": "2026-11-06T22:46:24+00:00"
- },
- {
-  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzogaekn222y",
-  "kind": "status",
-  "title": "Fortnite Status (@fortnite-status.bsky.social)",
-  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🔐 Vaults in Battle Royale have been reinforced - vault Chests and floors are now unbreakable.\n\nGrab a Vault Key to claim what’s inside!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzogaekn222y",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreiguld32azrldjy3wjmdf6lzd5j2noywvcuxlor7ny4rtifrrsruti",
-  "tag": "Estado",
-  "ts": "2026-11-06T22:22:46+00:00"
  }
 ]
