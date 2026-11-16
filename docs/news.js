@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hlszxixk22",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ BALANCEAMENTO 1 — Capítulo 7: Temporada Mini 1 (v43.10) | #Fortnite\n\n🔥 MERA MERA NO MI:\n· Dano das Armas de Fogo aumentado e dano ambiental dos Punhos do Fogo aumentado \n\n👊 GOMU GOMU NO MI:\n· Dano da Pistola da Gumi Gumi contra jogadores e ambiente aumentados\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hlszxixk22\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihhy4wr4oyt7z5ret32w5gycr4jbek3lspsadjkgdrln63adch3fi",
+  "tag": "Filtración",
+  "ts": "2026-11-16T22:39:42+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2h5jo5xds2c",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih4igl5chtg75avu5sxdl2u47sm4fs4j6bmo2p6gsccvkttmovjr4",
   "tag": "Filtración",
   "ts": "2026-11-06T23:14:32+00:00"
- },
- {
-  "id": "status:at://did:plc:etorkpic3x3buovmfdsh2ydm/app.bsky.feed.post/3mzoibqcjbs2y",
-  "kind": "status",
-  "title": "Fortnite Status (@fortnite-status.bsky.social)",
-  "text": "📢 Fortnite Status (vía @fortnite-status.bsky.social):\n\n🎯 Usopp’s Slingshot was hitting a little too hard, so it has slightly reduced damage and critical hits at all rarities.\n\nIt's still got plenty of punch - landing those shots should feel just as good!\n\n🔗 https://bsky.app/profile/fortnite-status.bsky.social/post/3mzoibqcjbs2y",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:etorkpic3x3buovmfdsh2ydm/bafkreie56fa6grx5u3xhkon2vvs22slwckvovvzz2ceds3opornlhkdpem",
-  "tag": "Estado",
-  "ts": "2026-11-06T22:59:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-16T18:23:59+00:00";
+window.NEWS_UPDATED = "2026-11-16T22:39:44+00:00";

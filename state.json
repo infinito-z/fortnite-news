@@ -1914,7 +1914,9 @@
   "news:7011deec12cb77fd885b94cf87ab1b0a",
   "news:7011deec12cb77fd885b94cf87ab1b0a",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2h5jo5xds2c",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2h5jo5xds2c"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2h5jo5xds2c",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hlszxixk22",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hlszxixk22"
  ],
  "first_run": false,
  "seeded": [
@@ -1927,7 +1929,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hlszxixk22",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n⚙️ BALANCEAMENTO 1 — Capítulo 7: Temporada Mini 1 (v43.10) | #Fortnite\n\n🔥 MERA MERA NO MI:\n· Dano das Armas de Fogo aumentado e dano ambiental dos Punhos do Fogo aumentado \n\n👊 GOMU GOMU NO MI:\n· Dano da Pistola da Gumi Gumi contra jogadores e ambiente aumentados\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hlszxixk22\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihhy4wr4oyt7z5ret32w5gycr4jbek3lspsadjkgdrln63adch3fi",
+    "tag": "Filtración",
+    "ts": "2026-11-16T22:39:42+00:00"
+   },
+   "tries": 1,
+   "at": 1794868784.1136918
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-16T18:48:54.755Z",
   "sections": {
