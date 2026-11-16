@@ -1,5 +1,41 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2fa6hzrzc2g",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\nO Pacote Vestiário Bug de Candywing retornou por 2.800 V-Bucks até 18 de novembro! ✨\n\n· Traje Bugada\n· Picareta Taco Truculento\n· Gesto Rock do Girassol\n· Envelopamento Estampa Floral\n· Asa-Delta Tubarão Voador\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2fa6hzrzc2g\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreieoh77gouj3iqn5w3alx3acziybd2g7ajwhof4276kuhpg4hpxlw4",
+  "tag": "Filtración",
+  "ts": "2026-11-16T00:05:31+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2fa65yaxc2g",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nRecordes foram feitos para serem batidos. Honre sua vitória com o retorno de Shohei Ohtani e seus acessórios na Loja do Fortnite até 20 de novembro! ⚾🧤\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2fa65yaxc2g\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihxv3z7hnthcrk7pwwfgx2xptpoy2oom4m5hsa5bn26ehbx5drkoi",
+  "tag": "Filtración",
+  "ts": "2026-11-16T00:05:31+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2fa5pzxpc2g",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nSer herói ou vilão, não te impede de aproveitar o verão! Viva intensamente as Batférias com Batman, Mulher-Gato, Arlequina e Hera Venenosa Praianos na Loja do Fortnite até 20 de novembro! ☀️🏖️🦇\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2fa5pzxpc2g\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreic3ky7g7mfpi2qzvn3kigftzfnhtodf6gj3cktorrknszsjgypjq4",
+  "tag": "Filtración",
+  "ts": "2026-11-16T00:05:31+00:00"
+ },
+ {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2fa5eg4c22g",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nMIKU MIKU OO-EE-OO! A ícone virtual Hatsune Miku traz novas energias para a Loja do Fortnite até 20 de novembro! 🪩\n\n💜 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2fa5eg4c22g\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiga2i735ucfig7wwcwiov352vld6qtklflyyxmczakgjuqumbvzli",
+  "tag": "Filtración",
+  "ts": "2026-11-16T00:05:31+00:00"
+ },
+ {
   "id": "shop:6ed2436c0a85858d",
   "kind": "shop",
   "title": "Tienda del día",
@@ -1762,42 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigamfvhg54kurwggywqiqte7byosq4nno6577k56ldom6vuzaouya",
   "tag": "Filtración",
   "ts": "2026-11-06T20:22:50+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzo36te3ec2t",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 TODOS os 86 Trajes lançados no Capítulo 7: Temporada 4 do Fortnite!\n\nVocê possui quantos dessa Edição de Colecionador? #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzo36te3ec2t\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihepbq6ywqdeykd3ekydaqvcuwgraonhksz5tynq7gopeuoehevlq",
-  "tag": "Filtración",
-  "ts": "2026-11-06T19:05:13+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzm3n7b5fc2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nDesprezível você, hein?! Desfrute de aventuras malucas com Patolino e Lola Bunny de Looney Tunes agora na Loja do Fortnite até 09 de novembro! 🦆🏀\n\n💛 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzm3n7b5fc2u\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibo2zkvnyor7qw3uuc7h65ius2e274d5pesi6fuv2zofcexdi5hzm",
-  "tag": "Filtración",
-  "ts": "2026-11-06T00:08:08+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzm3mnoflc2u",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nContinue se destacando, não importa de onde veio! O A$AP Rocky e seus acessórios da $érie Ícones trazem estilo na Loja do Fortnite até 06 de dezembro! 🔥🚀\n\n❤️ Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzm3mnoflc2u\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreih23725zeyvvojitti2oeiv3nkldwmbqslmtwlxfalffns2gmkuqy",
-  "tag": "Filtración",
-  "ts": "2026-11-06T00:08:08+00:00"
- },
- {
-  "id": "shop:8ffe8f39d4fba5f2",
-  "kind": "shop",
-  "title": "Tienda del día",
-  "text": "💸 Llegó la tienda con 64 cosas nuevas:\n• Lote de Lola Bunny y Pato Lucas — 3.200 paVos\n• Lote de A$AP Rocky — 3.200 paVos\n• Lote de Asesinos del aerosol — 2.500 paVos\n• Rocky Rugahand — 1.500 paVos\n• Sombra — 1.500 paVos\n• Chispazo — 1.500 paVos\n…y 58 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d6366676d4468360/renderimage_0.png",
-  "tag": "Tienda",
-  "ts": "2026-11-06T00:01:49+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-16T00:01:23+00:00";
+window.NEWS_UPDATED = "2026-11-16T00:05:32+00:00";
