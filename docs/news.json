@@ -1,5 +1,14 @@
 [
  {
+  "id": "shop:6ed2436c0a85858d",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "🛒 TIENDA NUEVA: 74 novedades. Lo más fuerte:\n• Lote de Hatsune Miku — 3.200 paVos\n• Lote de Verano en Gotham City — 3.000 paVos\n• Lote de taquilla de Glitch de Candywing — 2.800 paVos\n• Lote de Shohei Ohtani — 2.800 paVos\n• Lote de Harley veraniega y Hiedra botánica — 2.300 paVos\n• Lote de Katalina — 1.600 paVos\n…y 68 más\n¿Te alcanzan los paVos? 💀\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/07cba06fb0be769c/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-16T00:01:23+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2f4l7dhhc2b",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,14 +1798,5 @@
   "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d6366676d4468360/renderimage_0.png",
   "tag": "Tienda",
   "ts": "2026-11-06T00:01:49+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzlyisyccc2z",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🔥 FORTNITE x A$AP ROCKY — Novo mangá 'The Rise of Rocky Rugahand' de A$AP Rocky temático do Fortnite: Caçadores de Tesouro! #Fortnite\n\nLeia em: fn.gg/rise-of-rocky\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzlyisyccc2z\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiart74rhhser2h6labqlyaqnp5puj47w5n6iouti34to7q35qwo2u",
-  "tag": "Filtración",
-  "ts": "2026-11-05T23:11:33+00:00"
  }
 ]
