@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hpnaotus2a",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 17 de novembro!\n\n· Naruto (7x)\n· Bruno Mars [algum dos abaixo] (1x)\n· McLaren P1 e Void Burn (2x)\n· Energia de Protagonista (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hpnaotus2a\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidalc7eipkmggrg3cwupwiqfbxth4ed4w427y54ngdehjh4o5kn3y",
+  "tag": "Filtración",
+  "ts": "2026-11-16T23:47:59+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hm2762222r",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbtzygwtrfgwmawthg7jfycvzn5jryzmb2hvsnyvouzoloizo73e",
   "tag": "Filtración",
   "ts": "2026-11-06T23:14:58+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj4sdqjk2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 07 de novembro:\n\n· One Piece [Zoro, Sanji e Chopper] (7x)\n· Bugatti Centodieci (1x)\n· Crossover do Deadpool (2x)\n· RAM 1500 RHO (1x)\n· Caçadores de Tesouro (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (6x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj4sdqjk2e\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiax5wixeds2ad4nzrlqccxorp3nhodllabjyj3aqzj75levewknqy",
-  "tag": "Filtración",
-  "ts": "2026-11-06T23:14:32+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-16T22:43:47+00:00";
+window.NEWS_UPDATED = "2026-11-16T23:48:00+00:00";
