@@ -6,7 +6,7 @@ window.NEWS = [
   "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nVocê pertence a ela. Brilhe e seja lindamente agridoce com Madison Beer e seus acessórios Série Ícones que encantam na Loja do Fortnite até 21 de novembro! 💘🪽\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hqp7alpk2s\n⚠️ No es oficial.",
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibihlu4jjuep27jn6gzl3uumar77qxongwhyzxjesslnv5fddcnf4",
   "tag": "Filtración",
-  "ts": "2026-11-17T00:06:41+00:00"
+  "ts": "2026-11-17T00:06:38+00:00"
  },
  {
   "id": "shop:e8f3d47ece24f6c1",
@@ -1800,4 +1800,4 @@ window.NEWS = [
   "ts": "2026-11-07T00:00:45+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T00:06:42+00:00";
+window.NEWS_UPDATED = "2026-11-17T00:06:39+00:00";
