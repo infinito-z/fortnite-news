@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2k3gvgljk2w",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de Hoje:\n\n· Naruto (7x)\n· Bruno Mars [algum dos abaixo] (1x)\n· McLaren P1 e Void Burn (2x)\n· Energia de Protagonista (10x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2k3gvgljk2w\n⚠️ No es oficial.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifcvw5puxwnddjk2a4bs4dfxms7zlsqutypbovkjhutluf24o6qui",
+  "tag": "Filtración",
+  "ts": "2026-11-17T22:24:28+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jsnsmf6s2t",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreihvzuffowi6mzjpmle2l5qflzax7ak4geuvgxfcfi76glitmbuv6q",
   "tag": "Filtración",
   "ts": "2026-11-07T21:52:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqu52pmyc2s",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nOs Mascotes do Fortnite foram lançados 1 ANO atrás! 🐾\n\nLeve o seu maior companheiro para o Battle Royale, Reload, LEGO Fortnite e mais! Os Mascotes são um fenômeno desde seu lançamento, e abriram portas para diversas ideias e colaborações no jogo! #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzqu52pmyc2s\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": null,
-  "tag": "Filtración",
-  "ts": "2026-11-07T21:36:43+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T19:46:59+00:00";
+window.NEWS_UPDATED = "2026-11-17T22:24:29+00:00";
