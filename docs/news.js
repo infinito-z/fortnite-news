@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2huj5tois2x",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA festa continua! Entre na vibe com alguns Gestos Série Ícones que retornaram à Loja do Fortnite até 22 de novembro!🕺🏻🪩\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2huj5tois2x\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreid2odkhv2vdk4sjridebjribezoxkcfre7qrkex6z7nsxzemhfgma",
+  "tag": "Filtración",
+  "ts": "2026-11-17T01:14:54+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hqqa5bb22s",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjzq5uuyacn7hionh6wnjuvq33bqtnrjxjjro3yweghjjals7oga",
   "tag": "Filtración",
   "ts": "2026-11-07T00:11:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzom5x3k222y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nRaça absoluta, além da consciência. Sinta o poder que beira a onipotência com Ben e Gwen Tennyson de Ben 10 que ativam o Omnitrix na Loja do Fortnite até 10 de novembro! 🟢🔥\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzom5x3k222y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiebco2spnnogu2o4ww47khgbllpwpq3re6bq4ce5wf5w7fuxhkp4q",
-  "tag": "Filtración",
-  "ts": "2026-11-07T00:08:54+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T00:07:16+00:00";
+window.NEWS_UPDATED = "2026-11-17T01:14:54+00:00";
