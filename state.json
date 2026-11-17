@@ -1953,21 +1953,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "cosmetic-batch:6a18a59cb2",
-    "kind": "cosmetic",
-    "title": "7 cosméticos nuevos",
-    "text": "👀 Se filtraron 7 cosméticos. Destacan: Jurassic Jeep® Wrangler, Vehículo del personal, Vehículo del personal: azul, Vehículo de tour, Jurassic Jeep® Wrangler, Jurassic Jeep® Wrangler de tour. Ahorra paVos desde YA 🗿",
-    "image": null,
-    "tag": "Cosmético",
-    "ts": "2026-11-17T14:01:55+00:00"
-   },
-   "tries": 2,
-   "at": 1794924275.4280903
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-17T00:36:50.585Z",
   "sections": {
