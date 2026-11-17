@@ -1965,21 +1965,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkhtjtqs2d",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 O Star Wars: Droid Tycoon do UEFN do Fortnite foi indicado como \"Melhor Criação de Usuário\" no #TheGameAwards 2026.\n\n🏆 Vote em thegameawards.com e descubra o vencedor em 10 de dezembro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2jkhtjtqs2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
-    "image": null,
-    "tag": "Filtración",
-    "ts": "2026-11-17T17:20:45+00:00"
-   },
-   "tries": 2,
-   "at": 1794936230.9107792
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-17T00:36:50.585Z",
   "sections": {
