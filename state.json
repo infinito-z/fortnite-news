@@ -1942,7 +1942,9 @@
   "cosmetic:Wheel_MapleRed",
   "cosmetic-batch:6a18a59cb2",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7nchby22r",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7nchby22r"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7nchby22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7ql4bx22r",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7ql4bx22r"
  ],
  "first_run": false,
  "seeded": [
@@ -1968,6 +1970,19 @@
    },
    "tries": 1,
    "at": 1794924438.5515227
+  },
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2j7ql4bx22r",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚘 FORTNITE x JEEP — Primeira visão do Jeep Wrangler Jurassic e seus acessórios no jogo. Na Loja amanhã, 18 de novembro (preço desconhecido).\n\n🎥: @laylathefox.bsky.social | #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2j7ql4bx22r\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-17T14:08:46+00:00"
+   },
+   "tries": 1,
+   "at": 1794924527.7018785
   }
  ],
  "epic_fp": {
