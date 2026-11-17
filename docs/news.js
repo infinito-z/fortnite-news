@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2js4iqwsc2q",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐯 CHEFÃO! Todos os 51 diálogos em português do Corsário Oscar do Fortnite: Caçadores de Tesouro!\n\nEle deixa bem claro que é aliado do Geno nessa batalha, e chega à Ilha do Battle Royale neste domingo, 22 de novembro, como um novo Chefe. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2js4iqwsc2q\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-17T19:37:34+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkhtjtqs2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicazsi4vbqky7gjqefl4chdmqt7ovjxaax6hd46b4dc4aal6aqp4q",
   "tag": "Filtración",
   "ts": "2026-11-07T20:53:39+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzqot27guc2d",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nℹ️ Estatísticas atuais do Fortnite: Caçadores de Tesouro | #Fortnite\n\n🔥 Progressão: 17%\n📅 Dias restantes: 28\n🔹Nível estimado: 10 (para o 60)\n🔸Nível estimado: 14 (para o 80)\n\nOs níveis citados são apenas para auxílio. Você pode estar acima ou abaixo do estimado sem problemas.\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzqot27guc2d\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreidwjsf62w6et4h7urwlr45oh7qrcrge3asl3h3zfrd6irv34lqeiu",
-  "tag": "Filtración",
-  "ts": "2026-11-07T20:02:01+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T17:20:46+00:00";
+window.NEWS_UPDATED = "2026-11-17T19:37:35+00:00";

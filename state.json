@@ -1952,7 +1952,9 @@
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkenzy4c2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkenzy4c2d",
   "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkhtjtqs2d",
-  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkhtjtqs2d"
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkhtjtqs2d",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2js4iqwsc2q",
+  "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2js4iqwsc2q"
  ],
  "first_run": false,
  "seeded": [
@@ -1965,7 +1967,21 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [],
+ "pending": [
+  {
+   "item": {
+    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2js4iqwsc2q",
+    "kind": "leak",
+    "title": "Filtración de @lpleaksnews.bsky.social",
+    "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🐯 CHEFÃO! Todos os 51 diálogos em português do Corsário Oscar do Fortnite: Caçadores de Tesouro!\n\nEle deixa bem claro que é aliado do Geno nessa batalha, e chega à Ilha do Battle Royale neste domingo, 22 de novembro, como um novo Chefe. #Fortnite\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2js4iqwsc2q\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
+    "image": null,
+    "tag": "Filtración",
+    "ts": "2026-11-17T19:37:34+00:00"
+   },
+   "tries": 1,
+   "at": 1794944255.339578
+  }
+ ],
  "epic_fp": {
   "lastModified": "2026-11-17T00:36:50.585Z",
   "sections": {
