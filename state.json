@@ -1935,21 +1935,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "shop:e8f3d47ece24f6c1",
-    "kind": "shop",
-    "title": "Tienda del día",
-    "text": "💸 Llegó la tienda con 80 cosas nuevas:\n• Lote de Kaiju N.º 8 — 3.800 paVos\n• Lote de Madison Beer — 3.400 paVos\n• Lote Estacas veraniegas — 2.300 paVos\n• Lote de La Odisea — 2.200 paVos\n• Lote de Serge — 1.600 paVos\n• Lote de Dientes de descanso — 1.600 paVos\n…y 74 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
-    "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/61e231fb71351fbb/renderimage_0.png",
-    "tag": "Tienda",
-    "ts": "2026-11-17T00:01:25+00:00"
-   },
-   "tries": 2,
-   "at": 1794873838.0688164
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-16T23:30:00.464Z",
   "sections": {
