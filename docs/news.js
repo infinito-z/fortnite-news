@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkenzy4c2d",
+  "kind": "leak",
+  "title": "Filtración de @lpleaksnews.bsky.social",
+  "text": "🕵️ FILTRACIÓN (sin confirmar), vía @lpleaksnews.bsky.social:\n\n🚨 O Star Wars: Droid Tycoon do UEFN do Fortnite foi indicado como \"Melhor Criação de Usuário\" \nno #TheGameAwards 2026.\n\n🏆 Vote em thegameawards.com e descubra o vencedor em 10 de dezembro!\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2jkenzy4c2d\n⚠️ Es una filtración, Epic no lo ha confirmado.",
+  "image": null,
+  "tag": "Filtración",
+  "ts": "2026-11-17T17:18:46+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2jkdnt7qc2d",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifxou4vc3k75b4ga5ovanugr62jezifaxdwju63vddmtgdlbcxou4",
   "tag": "Filtración",
   "ts": "2026-11-07T19:02:16+00:00"
- },
- {
-  "id": "news:e6bf81af654c77e4e7e989501c000f0f",
-  "kind": "news",
-  "title": "Variantes de espíritu afortunado - 7 de noviembre",
-  "text": "👀 Epic acaba de soltar esto: Variantes de espíritu afortunado - 7 de noviembre\n¡Zarpa en busca de espíritus brillantes de 20:00 a 22:00 CEST y de 03:00 a 05:00 CEST! Da el salto con el cohete de salto de A$AP Rocky y un elemento de autorreanimación para encontrar más variantes de espíritus afortunados por toda la isla.",
-  "image": "https://cdn-live.prm.ol.epicgames.com/prod/fbb88d16f6554766857a3070b1d95d55.jpeg?width=1024&height=1080&aspect=fill",
-  "tag": "Noticia",
-  "ts": "2026-11-07T19:00:55+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T17:18:05+00:00";
+window.NEWS_UPDATED = "2026-11-17T17:18:46+00:00";
