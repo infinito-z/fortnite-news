@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "cosmetic-batch:6a18a59cb2",
+  "kind": "cosmetic",
+  "title": "7 cosméticos nuevos",
+  "text": "👀 Se filtraron 7 cosméticos. Destacan: Jurassic Jeep® Wrangler, Vehículo del personal, Vehículo del personal: azul, Vehículo de tour, Jurassic Jeep® Wrangler, Jurassic Jeep® Wrangler de tour. Ahorra paVos desde YA 🗿",
+  "image": null,
+  "tag": "Cosmético",
+  "ts": "2026-11-17T14:01:55+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2huj5tois2x",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreigqfvfqp2xnkbmclggbmkroqez4buwckyazy4a4n5pcze34dhgdsi",
   "tag": "Filtración",
   "ts": "2026-11-07T00:11:23+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzombessfc2y",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "👀 Se filtró algo (sin confirmar), vía @lpleaksnews.bsky.social:\n\nA lenda da cidade, a costureira costurada e a abóbora do terror se juntam! Jack Esqueleto, Sally e o Rei do Horror de O Estranho Mundo de Jack chegam para assombrar a Loja do Fortnite até 10 de novembro! 💀🧶🎃\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzombessfc2y\n⚠️ Filtración: tómalo con pinzas hasta que Epic lo anuncie.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicjzq5uuyacn7hionh6wnjuvq33bqtnrjxjjro3yweghjjals7oga",
-  "tag": "Filtración",
-  "ts": "2026-11-07T00:11:23+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-17T01:14:54+00:00";
+window.NEWS_UPDATED = "2026-11-17T14:01:55+00:00";
