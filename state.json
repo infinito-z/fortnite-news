@@ -1943,60 +1943,7 @@
   "status_bsky",
   "statuspage"
  ],
- "pending": [
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hqp7alpk2s",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nVocê pertence a ela. Brilhe e seja lindamente agridoce com Madison Beer e seus acessórios Série Ícones que encantam na Loja do Fortnite até 21 de novembro! 💘🪽\n\n💙 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hqp7alpk2s\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreibihlu4jjuep27jn6gzl3uumar77qxongwhyzxjesslnv5fddcnf4",
-    "tag": "Filtración",
-    "ts": "2026-11-17T00:06:38+00:00"
-   },
-   "tries": 2,
-   "at": 1794874184.2453964
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hqqa5bb22s",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA maré baixou, é hora da ação! Aposte alto com Helsie Bruxa da Areia, Joni Caçadora de Verão e Lucien Fera da Praia do Verão de Alto Risco na Loja de Itens até 20 de novembro! 🏖️☀️\n\n💙 Use meu código \"LPFNBR\" para me apoiar nesses charmosos! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hqqa5bb22s\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicgfbcbmc53ojywvw25sr5ze3s2oxnawy67bjo4ruw2pknzv7qpbi",
-    "tag": "Filtración",
-    "ts": "2026-11-17T00:07:15+00:00"
-   },
-   "tries": 2,
-   "at": 1794874184.2453964
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hqpv23zk2s",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nA jornada continua após três mil anos de lenda. Odisseu e Agamenon de A Odisseia fazem história na Loja do Fortnite até 20 de novembro! ⚔️🪖\n\n🤎 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hqpv23zk2s\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreiebwoitxk34mbew32p5in2ne56pbtcoaeivbkdx35fl2o3inldnxu",
-    "tag": "Filtración",
-    "ts": "2026-11-17T00:07:15+00:00"
-   },
-   "tries": 2,
-   "at": 1794874184.2453964
-  },
-  {
-   "item": {
-    "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hqplxi7s2s",
-    "kind": "leak",
-    "title": "Filtración de @lpleaksnews.bsky.social",
-    "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\nKafka Hibino, o homem que se tornou um Kaiju, Reno Ichikawa, o atirador de elite e Kikoru Shinomiya, guerreira renomada de Kaiju No. 8 retornam na Loja do Fortnite até 20 de novembro! 💀⚡\n\n💚 Use meu código \"LPFNBR\" para me apoiar na compra! #EpicPartner\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3n2hqplxi7s2s\n⚠️ No es oficial.",
-    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreifzg52phlawesns3jzsn4nv67xp2v4z7mdjeqdxe7cx6sj2rdqvwi",
-    "tag": "Filtración",
-    "ts": "2026-11-17T00:07:15+00:00"
-   },
-   "tries": 2,
-   "at": 1794874184.2453964
-  }
- ],
+ "pending": [],
  "epic_fp": {
   "lastModified": "2026-11-16T23:30:00.464Z",
   "sections": {
