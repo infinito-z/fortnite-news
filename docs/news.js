@@ -1,5 +1,14 @@
 window.NEWS = [
  {
+  "id": "shop:e8f3d47ece24f6c1",
+  "kind": "shop",
+  "title": "Tienda del día",
+  "text": "💸 Llegó la tienda con 80 cosas nuevas:\n• Lote de Kaiju N.º 8 — 3.800 paVos\n• Lote de Madison Beer — 3.400 paVos\n• Lote Estacas veraniegas — 2.300 paVos\n• Lote de La Odisea — 2.200 paVos\n• Lote de Serge — 1.600 paVos\n• Lote de Dientes de descanso — 1.600 paVos\n…y 74 más\nAhorra o llora 😭\n\n💜 Apoya al canal: usa el código INFINITO_Z en la tienda. #EpicPartner",
+  "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/61e231fb71351fbb/renderimage_0.png",
+  "tag": "Tienda",
+  "ts": "2026-11-17T00:01:25+00:00"
+ },
+ {
   "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3n2hpnaotus2a",
   "kind": "leak",
   "title": "Filtración de @lpleaksnews.bsky.social",
@@ -1789,15 +1798,6 @@ window.NEWS = [
   "image": "https://cdn-live.prm.ol.epicgames.com/prod/1d5eb5c7c5b94fc98e5692cfb0cd246a.jpeg?width=1024&height=1080&aspect=fill",
   "tag": "Noticia",
   "ts": "2026-11-07T00:00:43+00:00"
- },
- {
-  "id": "leak:at://did:plc:ukxvxblw7s6sf22r6ns6lwb2/app.bsky.feed.post/3mzoj53xn2s2e",
-  "kind": "leak",
-  "title": "Filtración de @lpleaksnews.bsky.social",
-  "text": "🔎 Ojo, filtración sin confirmar, vía @lpleaksnews.bsky.social:\n\n🛍️ Loja do Fortnite | Seções de 08 de novembro!\n\n· Star Wars [Samurais] (2x)\n· Honkai Star Rail (2x)\n· Caçadores de Tesouro (6x)\n· Festa da Vitória [Gestos] (2x)\n· Amplificador de Sinal (4x)\n· Estilo Top (5x)\n\n🔗 https://bsky.app/profile/lpleaksnews.bsky.social/post/3mzoj53xn2s2e\n⚠️ No es oficial.",
-  "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ukxvxblw7s6sf22r6ns6lwb2/bafkreicbtzygwtrfgwmawthg7jfycvzn5jryzmb2hvsnyvouzoloizo73e",
-  "tag": "Filtración",
-  "ts": "2026-11-06T23:14:58+00:00"
  }
 ];
-window.NEWS_UPDATED = "2026-11-16T23:48:00+00:00";
+window.NEWS_UPDATED = "2026-11-17T00:01:25+00:00";
